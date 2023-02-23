@@ -9,35 +9,41 @@ import requests
 import random
 import json
 from hashlib import md5
+class Translate():
+    def __init__(self):
+        
+        # Set your own appid/appkey.
+        self.appid = '20230223001572757'
+        self.appkey = '8RFjakpwSTpICGVMqLoO'
+        # For list of language codes, please refer to `https://api.fanyi.baidu.com/doc/21`
+        self.from_lang = 'en'
+        self.to_lang =  'zh'
+        endpoint = 'http://api.fanyi.baidu.com'
+        path = '/api/trans/vip/translate'
+        self.url = endpoint + path
 
-# Set your own appid/appkey.
-appid = '20230223001572757'
-appkey = '8RFjakpwSTpICGVMqLoO'
-
-# For list of language codes, please refer to `https://api.fanyi.baidu.com/doc/21`
-from_lang = 'en'
-to_lang =  'zh'
-
-endpoint = 'http://api.fanyi.baidu.com'
-path = '/api/trans/vip/translate'
-url = endpoint + path
-
-query = 'Hello World! This is 1st paragraph.\nThis is 2nd paragraph.' #这是我们需要放入章节
 
 # Generate salt and sign
-def make_md5(s, encoding='utf-8'):
-    return md5(s.encode(encoding)).hexdigest()
+    def make_md5(self,s, encoding='utf-8'):
+        return md5(s.encode(encoding)).hexdigest()
 
-salt = random.randint(32768, 65536)
-sign = make_md5(appid + query + str(salt) + appkey)
+    def translate(self,query="please set the query"):
+        salt = random.randint(32768, 65536)
+        sign = self.make_md5(self.appid + query + str(salt) + self.appkey)
 
-# Build request
-headers = {'Content-Type': 'application/x-www-form-urlencoded'}
-payload = {'appid': appid, 'q': query, 'from': from_lang, 'to': to_lang, 'salt': salt, 'sign': sign}
+        # Build request
+        headers = {'Content-Type': 'application/x-www-form-urlencoded'}
+        payload = {'appid': self.appid, 'q': query, 'from': self.from_lang, 'to': self.to_lang, 'salt': salt, 'sign': sign}
 
-# Send request
-r = requests.post(url, params=payload, headers=headers)
-result = r.json()
+        # Send request
+        r = requests.post(self.url, params=payload, headers=headers)
+        result = r.json()
 
-# Show response
-print(json.dumps(result, indent=4, ensure_ascii=False))
+        # Show response
+        print(json.dumps(result, indent=4, ensure_ascii=False))
+
+
+if __name__ == "__main__":
+    # query = "this is a test" #这是我们需要放入章节
+    trans = Translate()
+    trans.translate()
