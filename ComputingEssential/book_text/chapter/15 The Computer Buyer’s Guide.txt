@@ -1,0 +1,289 @@
+
+Description
+page 358
+The Computer Buyer’s Guide
+PART 1: WHICH TYPES OF COMPUTERS SHOULD
+YOU PURCHASE?
+Many individuals feel confused and overwhelmed when it comes
+to buying a new computer. In today’s market, there are
+various categories of computers ranging from desktops and
+laptops to ultraportable tablets and smartphones. And within
+reset page 825
+-------------------------------------------- 分页分隔 --------------------------------------------
+each category, there are countless choices and a wide range
+of prices. This buying guide will help you choose the best
+combination of computers for your needs, as well as point out
+some key specifications that they should have.
+LAPTOP COMPUTERS: TODAY’S STANDARD
+Typical Recommendation: Buy a $700 to $1,000 laptop
+with a 13-inch screen.
+The laptop computer has become the must-have device that can
+do everything you need, wherever you need it. They are
+powerful enough to be your primary home computer (replacing
+desktops) while portable enough to take to school, work, the
+local coffee shop, and even on your next trip. Many students
+are bringing them to classes to take notes and perform
+research. If you can own only one computer, make it a laptop.
+Affordable ones start at under $700.
+If you have decided that you want to buy a laptop
+computer, be sure to read Part 2 for additional tips and
+recommendations.
+SMARTPHONES: COMPUTERS IN YOUR POCKET
+Typical Recommendation: Obtain a free or low-cost
+smartphone by signing a two-year wireless contract
+with a data plan.
+For many individuals, the smartphone has become much like a
+wallet, purse, or keys—you don’t leave home without it.
+This single pocket-sized device fills many roles. It is a
+mobile phone, digital camera, video recorder, gaming device,
+and personal digital assistant. Most individuals purchase a
+smartphone because they need to access information quickly
+and easily, regardless of where they are.
+With many smartphones now available for free with two-year
+contracts, it is easier than ever to replace your older cell
+reset page 826
+-------------------------------------------- 分页分隔 --------------------------------------------
+phone. The biggest drawback to owning a smartphone is that
+its “use anywhere” benefit is limited if it is not paired
+with a wireless data plan, which can often cost around $30
+per month.
+Although Apple’s iPhone was once the clear leader in the
+smartphone market, various Android devices include
+competitive features and are enjoying favorable reviews. If
+you have decided that you want to buy a smartphone, be sure
+to read Part 2 for additional tips and recommendations.
+TABLETS: THE RISING STARS
+Typical Recommendation: Buy a 10-inch tablet with 64
+GB of storage.
+The release of the iPad has revived this category of
+computers. With an attractive, 10-inch touch-screen surface,
+it has quickly become a popular device for watching videos,
+playing games, reading e-books, and browsing the web. Tablets
+are light enough to hold comfortably for many hours, yet
+powerful enough to use a variety of apps. They generally have
+a much longer battery life than laptop computers.
+If you are a typical computer user, then you may not
+benefit much from purchasing a tablet computer. Most of your
+computing time will be spent on your laptop computer (at home
+and at school, for example) or on your smartphone. Although
+tablets are very popular right now, you must remember that
+they cost several hundred dollars. You should have a very
+clear need for this sort of device before you decide to spend
+the money on it.
+Many students consider buying tablets because the low
+weight makes a tablet easy to carry around. Although this is
+true, there are lightweight laptop computers that weigh only
+one or two pounds more and are much more versatile than
+tablets. Such versatility is crucial for various types of
+software that are not available as apps and require
+reset page 827
+-------------------------------------------- 分页分隔 --------------------------------------------
+installation on a Windows or Mac computer. Before you decide
+between a tablet and lightweight laptop, consider the type of
+software you will need for your schoolwork, business, or
+personal use. If everything you need is available page 359
+as a mobile app, then a tablet (paired with a
+wireless keyboard) will be more affordable than a lightweight
+laptop computer.
+In conclusion, purchase a tablet computer only if you see
+yourself using it often. The touch-screen interface, low
+weight, and long battery life do indeed make it easy to carry
+around and use almost anywhere you go. However, the price tag
+does not make the decision an obvious one if you already own
+a laptop computer and smartphone. If you have decided that
+you want to buy a tablet, be sure to read Part 2 for
+additional tips and recommendations.
+DESKTOPS
+Typical Recommendation: Buy a tower system with a
+20- to 24-inch monitor for approximately $900.
+Desktop (or tower) computers have been around for a long
+time. You will still find them in many offices and homes.
+However, they are steadily losing popularity because laptop
+computers have become very powerful and affordable. Why have
+a computer that remains stuck in your home or office when you
+can have a laptop that can be taken almost anywhere?
+Although laptop computers seem to be the better choice,
+there are several reasons why you might want to purchase a
+desktop computer. First, the use of a laptop computer as your
+primary computer can be uncomfortable. After prolonged use,
+it can place stress on your neck, back, and wrists. Desktops
+typically come with large monitors, and various types of
+ergonomic keyboards are available. However, desktop critics
+will point out that laptop computers can be connected to
+reset page 828
+-------------------------------------------- 分页分隔 --------------------------------------------
+external monitors and keyboards as well. The only downside is
+that a laptop requires the purchase of extra equipment.
+The other reason to get a desktop is if you have a
+specific need that cannot be addressed by a laptop computer.
+For example, some families have a media center computer that
+holds all the videos, photos, and music for the entire home
+network. Another example involves gamers, who often seek to
+build or customize extremely powerful computers. They often
+choose desktops for this endeavor.
+Most users will not need to purchase a desktop computer.
+In fact, they are currently the least popular of the four
+categories in this buying guide. However, if you have decided
+that you want to buy a desktop, be sure to read Part 2 for
+additional tips and recommendations.
+PART 2: PERSONALIZED BUYING GUIDE
+Now that you have decided which types of computers you need,
+it is time to explore computer specifications. The following
+areas explore the decision-making process from the
+perspective of various buyers.
+LAPTOPS
+There are two basic categories of laptops: the traditional
+laptop and the ultrabook. Although these two categories of
+laptop computers have the same general appearance, they vary
+greatly in power, storage capacity, weight, and battery life.
+The following section helps you find the device that best
+meets your needs.
+User #1: I am a power user. I need a portable computer that
+can handle the latest video games or process-intensive
+operations such as video editing, engineering, and design.
+reset page 829
+-------------------------------------------- 分页分隔 --------------------------------------------
+Response #1: Purchase a traditional laptop computer that
+includes the following minimum specs:
+The fastest categories of processors with large number of
+cores and high GHz count
+A graphics processor (GPU) outside of the main CPU
+16-GB RAM
+1-TB hard drive
+17-inch screen
+Expect to pay approximately $1,500, perhaps more. For games,
+many individuals choose Windows-based PCs. The video and
+design industries usually use Macs.
+User #2: I am a regular user. I need a desktop replacement
+and portable computer. I typically run office software, use
+the Internet, and listen to music.
+Response #2: Purchase an affordable traditional laptop
+computer that includes the following specs:
+Middle-tier processors—not the fastest but not the
+slowest either
+8-GB RAM
+500-GB hard drive
+15-inch screen
+Expect to pay approximately $800 to $1,000. For maximum
+savings, as well as compatibility with most software, many
+buyers choose Windows-based PCs. Be sure to purchase an
+external monitor, keyboard, and mouse if you plan on heavy
+use while at home.
+reset page 830
+-------------------------------------------- 分页分隔 --------------------------------------------
+User #3: I want a small, lightweight computer that I can
+carry anywhere. I would like long battery life for extended
+use.
+Response #3: Purchase an ultrabook with
+11- to 13-inch screen
+Solid-state hard drive
+8-GB RAM
+Weight under 4 pounds
+Expect to pay $700 to $1,000. Many ultrabooks will not
+include a DVD drive. Windows-based ultrabooks tend to be more
+affordable. The MacBook Air is slightly more page 360
+expensive, but it has always been considered a
+leader in the lightweight laptop field.
+SMARTPHONES
+Shopping for a smartphone involves three separate processes:
+(1) choosing an operating system, either iOS or Android; (2)
+choosing a device; and (3) choosing a wireless carrier.
+Although the following section does not review different
+wireless companies or data plans, it presents a list of
+smartphone features that you should always consider before
+making your choice. In addition, it presents each smartphone
+operating system from the perspective of typical users.
+Features to Consider
+Screen and device size: Consider a size (and weight) that
+is comfortable for you to use and carry around. Four-inch
+screens are now typical.
+Screen resolution: Some devices deliver HD quality for
+sharp photos and videos.
+reset page 831
+-------------------------------------------- 分页分隔 --------------------------------------------
+Integrated keyboard: Consider one if you type often on
+these devices.
+Storage: Having 64 GB is enough for most users. Choose
+128 GB or more if you plan to store large quantities of
+music, photos, and videos. Some devices allow you to
+increase storage by using memory cards.
+Battery life: About 7 to 8 hours is typical. Some devices
+have removable batteries.
+Cameras: Many include front- and rear-facing cameras.
+Compare megapixels and photo quality.
+App market: Consider the number of apps, and ensure that
+any apps you need are available for this operating
+system.
+Operating Systems
+iOS: The iPhone is considered by many to be the standard
+against which all smartphones are measured. Buyers
+typically choose the iPhone if they are Mac owners or
+prefer a tightly controlled “ecosystem” from Apple
+where stability and ease of use are favored over heavy
+customization.
+Android: There are many Android devices available from
+various manufacturers, some free with a wireless
+contract. Buyers who enjoy customizing their interface
+typically choose Android. In addition, this operating
+system is tightly integrated with many of Google’s
+products and services.
+Remember that smartphones can cost very little when you sign
+a two-year contract with a wireless company. Consider whether
+you want to make that sort of commitment.
+TABLET COMPUTERS
+reset page 832
+-------------------------------------------- 分页分隔 --------------------------------------------
+Because of their increased popularity, tablets are available
+in several sizes from many different companies. The following
+section helps you find the device that best meets your needs.
+User #1: I want to watch videos, play games, create notes,
+and browse websites.
+Response #1: Purchase a 10-inch tablet. Expect to pay $400
+to $500. Most weigh about 1.5 pounds. Apple’s iPad was very
+popular when first released, and it continues to be a popular
+choice among buyers today. Other things to consider:
+For greater customization, consider an Android-based
+tablet. Several models are comparable to the iPad, which
+is considered by many reviewers to be the standard
+bearer.
+The Microsoft Surface tablet includes a keyboard that is
+integrated into the cover. However, any tablet can be
+paired with a Bluetooth keyboard, which is crucial if you
+plan to type often.
+Make sure the apps you plan on using are available for
+the tablet’s operating system.
+Having 16 GB of storage is typical. Some tablets let you
+expand this by using flash memory cards.
+User #2: I want to read e-books, browse websites, and have a
+lightweight device that I can hold with one hand.
+Response #2: Purchase a 7-inch tablet. Expect to pay around
+$200. Most weigh less than 1 pound. Google’s Nexus 7 and
+Amazon’s Kindle Fire are popular Android-based tablets.
+DESKTOP COMPUTERS
+reset page 833
+-------------------------------------------- 分页分隔 --------------------------------------------
+Desktops remain popular for offices, both at home and in many
+companies. In addition, many power users require them for
+graphics-intensive tasks. The following section helps you
+find the device that best meets your needs.
+User #1: I need a powerful computer that can handle the
+latest video games or process-intensive operations such as
+video editing, engineering, and design.
+Response #1: Purchase a tower-based computer with the
+following minimum specs:
+The fastest categories of processors with large number of
+cores and high GHz count
+High-performance video card
+16-GB RAM
+2-TB hard drive
+24-inch monitor
+Specialty peripherals (such as game controllers) when
+needed
+page 361
+Expect to pay at least $1,500 for these powerful computers.
+For games, many individuals choose Windows-based PCs. The
+video and design industries usually use Macs.
+User #2: I would like a computer that can be used by the
+entire family for many years.
+reset page 834
+-------------------------------------------- 分页分隔 --------------------------------------------

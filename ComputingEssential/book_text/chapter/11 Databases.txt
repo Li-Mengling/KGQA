@@ -1,0 +1,1139 @@
+
+page 268
+Databases
+chapter
+11
+tadamichi/Getty Images
+reset page 649
+-------------------------------------------- 分页分隔 --------------------------------------------
+page 269
+Why should I read this chapter?
+Giant databases are recording your every digital action, from credit card
+purchases to Facebook check-ins. These databases can be used to tailor
+advertisements to your interests, predict your credit score, and even
+assess your safety at home. In the future, databases with DNA records of
+all U.S. citizens and every digital activity of a city may be able to
+predict crime and even identify likely criminals.
+sutadimages/Shutterstock
+This chapter covers the things you need to know to be prepared for
+this ever-changing digital world, including:
+Different data-organization methods—understand the significance of
+relational, multidimensional, and hierarchical databases.
+Types of databases—identify the right database for an individual,
+company, distributed, or commercial situation.
+Learning Objectives
+After you have read this chapter, you should be able to:
+1. Distinguish between the physical and logical views of
+data.
+reset page 650
+-------------------------------------------- 分页分隔 --------------------------------------------
+2. Describe how data is organized: characters, fields,
+records, tables, and databases.
+3. Define key fields and how they are used to integrate
+data in a database.
+4. Define and compare batch processing and real-time
+processing.
+5. Describe databases, including the need for databases and
+database management systems (DBMSs).
+6. Describe the five common database models: hierarchical,
+network, relational, multidimensional, and object-
+oriented.
+7. Distinguish among individual, company, distributed, and
+commercial databases.
+8. Describe strategic database uses and security concerns.
+page 270
+Introduction
+“Hi,
+I’m Anthony. I’m a database administrator, and I’d like
+to talk with you about databases. I’d also like to talk about how
+organizations are using data warehouses and data mining to perform
+complex analyses and discover new information.”
+reset page 651
+-------------------------------------------- 分页分隔 --------------------------------------------
+M_Agency/Shutterstock
+Like a library, secondary storage is designed to store information. How is
+this stored information organized? What are databases, and why do you need
+to know anything about them?
+Only a few decades ago, a computer was considered to be an island with
+only limited access to information beyond its own hard disk. Now, through
+communication networks and the Internet, individual computers have direct
+electronic access to almost unlimited sources of information.
+In today’s world, almost all information is stored in databases. They
+are an important part of nearly every organization, including schools,
+hospitals, and banks. To effectively compete in today’s world, you need
+to know how to find information and understand how it is stored.
+To efficiently and effectively use computers, you need to understand
+data fields, records, tables, and databases. You need to be aware of the
+different ways in which a database can be structured and the different
+types of databases. Also, you need to know the most important database
+uses and issues.
+Data
+As we have discussed throughout this book, information
+systems consist of people, procedures, software, hardware,
+data, and the Internet. This chapter focuses on data, which
+can be defined as facts or observations about people, places,
+things, and events. More specifically, this chapter focuses
+on how databases store, organize, and use data.
+Not long ago, data was limited to numbers, letters, and
+symbols recorded by keyboards. Now, data is much richer and
+includes
+reset page 652
+-------------------------------------------- 分页分隔 --------------------------------------------
+Audio captured, interpreted, and saved using microphones
+and voice recognition systems.
+Music downloaded from the Internet and saved on cell
+phones, tablets, and other devices.
+Photographs captured by digital cameras, edited by image
+editing software, and shared with others over the Internet.
+Video captured by digital video cameras, TV tuner cards,
+and webcams.
+There are two ways, or perspectives, to view data. These
+perspectives are the physical view and the logical view. The
+physical view focuses on the actual format and location of
+the data. As discussed in Chapter 5, data is recorded as
+digital bits that are typically grouped together into bytes
+that represent characters using a coding scheme such as
+Unicode. Typically, only very specialized computer
+professionals are concerned with the physical view. The other
+perspective, the logical view, focuses on the meaning,
+content, and context of the data. End users and most computer
+professionals are concerned with this view. They are involved
+with actually using the data with application programs. This
+chapter presents the logical view of data and how data is
+stored in databases.
+page 271
+concept check
+Describe some of the different types of data.
+What is the physical view of data?
+What is the logical view of data?
+reset page 653
+-------------------------------------------- 分页分隔 --------------------------------------------
+Data Organization
+The first step in understanding databases is to learn how
+data is organized. In the logical view, data is organized
+into groups or categories. Each group is more complex than
+the one before. (See Figure 11-1.)
+Character: A character is the most basic logical data
+element. It is a single letter, number, or special
+character, such as a punctuation mark, or a symbol, such as
+$.
+Field: The next higher level is a field, or group of
+related characters. In our example, Brown is in the data
+field for the Last Name of an employee. It consists of the
+individual letters (characters) that make up the last name.
+A data field represents an attribute (description or
+characteristic) of some entity (person, place, thing, or
+object). For example, an employee is an entity with many
+attributes, including his or her last name.
+Record: A record is a collection of related fields. A
+record represents a collection of attributes that describe
+an entity. In our example, the payroll record for an
+employee consists of the data fields describing the
+attributes for one employee. These attributes are First
+Name, Last Name, Employee ID, and Salary.
+Table: A table is a collection of related records. For
+example, the Payroll Table would include payroll
+information (records) for the employees (entities).
+Database: A database is an integrated collection page 272
+of logically related tables. For example, the
+Personnel Database would include all related employee
+tables, including the Payroll Table and the Benefits Table.
+reset page 654
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 11-1 Logical data organization
+Description
+Key Field
+Each record in a table has at least one distinctive field,
+called the key field. Also known as the primary key, this
+field uniquely identifies the record. Tables can be related
+or connected to other tables by common key fields.
+For most employee databases, a key field is an employee
+identification number. Key fields in different tables can be
+used to integrate the data in a database. For example, in the
+Personnel Database, both the Payroll and the Benefits tables
+include the field Employee ID. Data from the two tables could
+be related by combining all records with the same key field
+(Employee ID).
+Batch versus Real-Time Processing
+Traditionally, data is processed in one of two ways. These
+are batch processing, or what we might call “later,” and
+reset page 655
+-------------------------------------------- 分页分隔 --------------------------------------------
+real-time processing, or what we might call “now.” These
+two methods have been used to handle common record-keeping
+activities such as payroll and sales orders.
+Batch processing: In batch processing, data is collected
+over several hours, days, or even weeks. It is then
+processed all at once as a “batch.” If you have a credit
+card, your bill probably reflects batch processing. That
+is, during the month, you buy things and charge them to
+your credit card. Each time you charge something, an
+electronic copy of the transaction is sent to the credit
+card company. At some point in the month, the company’s
+data processing department puts all those transactions (and
+those of many other customers) together and processes them
+at one time. The company then sends you a single bill
+totaling the amount you owe. (See Figure 11-2.)
+Real-time processing: Real-time processing, also page 273
+known as online processing, occurs when data is
+processed at the same time the transaction occurs. For
+example, whenever you request funds at an ATM, real-time
+processing occurs. After you have provided account
+information and requested a specific withdrawal, the
+bank’s computer verifies that you have sufficient funds in
+your account. If you do, then the funds are dispensed to
+you, and the bank immediately updates the balance of your
+account. (See Figure 11-3.)
+reset page 656
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 11-2 Batch processing: Monthly credit card
+statements
+top: zestmarina/123RF; middle: Sergiy Serdyuk/Alamy Stock Photo; bottom:
+NithidPhoto/iStock/Getty Images
+Description
+reset page 657
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 11-3 Real-time processing: ATM withdrawal
+Photo credit: andresr/Getty Images
+Description
+concept check
+From the logical view, describe how data is organized or categorized.
+What are key fields, and how are they used?
+Compare batch processing and real-time processing.
+Databases
+Many organizations have multiple files on the same subject or
+person. For example, a customer’s name and address could
+appear in different files within the sales department,
+billing department, and credit department. This is called
+data redundancy. If the customer moves, then the address in
+each file must be updated. If one or more files are
+overlooked, problems will likely result. For example, a
+product ordered might be sent to the new address, but the
+bill might be sent to the old address. This situation results
+from a lack of data integrity.
+page 274
+Moreover, data spread around in different files is not as
+useful. The marketing department, for instance, might want to
+offer special promotions to customers who order large
+quantities of merchandise. To identify these customers, the
+marketing department would need to obtain permission and
+access to files in the billing department. It would be much
+reset page 658
+-------------------------------------------- 分页分隔 --------------------------------------------
+more efficient if all data were in a common database. A
+database can make the needed information available.
+Need for Databases
+For an organization, there are many advantages to having
+databases:
+Sharing: In organizations, information from one department
+can be readily shared with others. Billing could let
+marketing know which customers ordered large quantities of
+merchandise.
+Security: Users are given passwords or access only to the
+kind of information they need. Thus, the payroll department
+may have access to employees’ pay rates, but other
+departments would not.
+Less data redundancy: Without a common database,
+individual departments have to create and maintain their
+own data, and data redundancy results. For example, an
+employee’s home address would likely appear in several
+files. Redundant data causes inefficient use of storage
+space and data maintenance problems.
+Data integrity: When there are multiple sources of data,
+each source may have variations. A customer’s address may
+be listed as “Main Street” in one system and “Main St.”
+in another. With discrepancies like these, it is probable
+that the customer would be treated as two separate people.
+Database Management
+In order to create, modify, and gain access to a database,
+special software is required. This software is called a
+database management system, which is commonly abbreviated
+DBMS.
+Some DBMSs, such as Microsoft Access, are designed
+specifically for personal computers. Other DBMSs are designed
+for specialized database servers. DBMS software is made up of
+reset page 659
+-------------------------------------------- 分页分隔 --------------------------------------------
+five parts or subsystems: DBMS engine, data definition, data
+manipulation, application generation, and data
+administration.
+The DBMS engine provides a bridge between the logical view
+of the data and the physical view of the data. When users
+request data (logical perspective), the DBMS engine handles
+the details of actually locating the data (physical
+perspective).
+The data definition subsystem defines the logical
+structure of the database by using a data dictionary or
+schema. This dictionary contains a description of the
+structure of data in the database. For a particular item of
+data, it defines the names used for a particular field. It
+defines the type of data for each field (text, numeric,
+time, graphic, audio, and video). An example of an Access
+data dictionary form is presented in Figure 11-4.
+The data manipulation subsystem provides tools for
+maintaining and analyzing data. Maintaining data is known
+as data maintenance. It involves adding new data, deleting
+old data, and editing existing data. Analysis tools support
+viewing all or selected parts of the data, querying the
+database, and generating reports. Specific tools include
+query-by-example and a specialized programming language
+called structured query language (SQL). (Structured query
+language and other types of programming languages will be
+discussed in Chapter 13.)
+The application generation subsystem provides tools to
+create data entry forms and specialized programming
+languages that interface or work with common and page 275
+widely used programming languages such as C++ or
+Visual Basic. See Figure 11-5 for a data entry form created
+by the application generation subsystem in Access.
+The data administration subsystem helps to manage the
+overall database, including maintaining security, providing
+reset page 660
+-------------------------------------------- 分页分隔 --------------------------------------------
+disaster recovery support, and monitoring the overall
+performance of database operations. Larger organizations
+typically employ highly trained computer specialists,
+called database administrators (DBAs), to interact with
+the data administration subsystem. Additional duties of
+database administrators include determining processing
+rights or determining which people have access to what
+kinds of data in the database.
+Figure 11-4 Access data dictionary form
+Microsoft Corporation
+reset page 661
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 11-5 Access data entry form
+Microsoft Corporation; Photo credit: eurobanks/Shutterstock
+page 276
+concept check
+What is data redundancy? What is data integrity?
+What are some of the advantages to having databases?
+What is DBMS software?
+List the five basic subsystems and describe each.
+What is a data dictionary? Data maintenance? What are processing
+rights?
+DBMS Structure
+reset page 662
+-------------------------------------------- 分页分隔 --------------------------------------------
+DBMS programs are designed to work with data that is
+logically structured or arranged in a particular way. This
+arrangement is known as the database model. These models
+define rules and standards for all the data in a database.
+For example, Microsoft Access is designed to work with
+databases using the relational data model. Five common
+database models are hierarchical, network, relational,
+multidimensional, and object-oriented.
+Hierarchical Database
+At one time, nearly every DBMS designed for mainframes used
+the hierarchical data model. In a hierarchical database,
+fields or records are structured in nodes. Nodes are points
+connected like the branches of an upside-down tree. Each
+entry has one parent node, although a parent may have several
+child nodes. This is sometimes described as a one-to-many
+relationship. To find a particular field, you have to start
+at the top with a parent and trace down the tree to a child.
+The nodes farther down the system are subordinate to the
+ones above, like the hierarchy of managers in a corporation.
+An example of a hierarchical database is a system to organize
+music files. (See Figure 11-6.) The parent node is the music
+library for a particular user. This parent has page 277
+four children, labeled “artist.” Coldplay, one
+of the children, has three children of its own. They are
+labeled “album.” The Greatest Hits album has three
+children, labeled “song.”
+reset page 663
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 11-6 Hierarchical database
+Description
+The problem with a hierarchical database is that if one
+parent node is deleted, so are all the subordinate child
+nodes. Moreover, a child node cannot be added unless a parent
+node is added first. The most significant limitation is the
+rigid structure: one parent only per child, and no
+relationships or connections between the child nodes
+themselves.
+Network Database
+Responding to the limitations of the hierarchical data model,
+network models were developed. A network database also has a
+hierarchical arrangement of nodes. However, each child node
+may have more than one parent node. This is sometimes
+described as a many-to-many relationship. There are
+additional connections—called pointers—between parent nodes
+reset page 664
+-------------------------------------------- 分页分隔 --------------------------------------------
+and child nodes. Thus, a node may be reached through more
+than one path. It may be traced down through different
+branches.
+For example, a university could use this type of
+organization to record students taking classes. (See Figure
+11-7.) If you trace through the logic of this organization,
+you can see that each student can have more than one teacher.
+Each teacher also can teach more than one course. Students
+may take more than a single course. This demonstrates how the
+network arrangement is more flexible and, in many cases, more
+efficient than the hierarchical arrangement.
+Figure 11-7 Network database
+Description
+Relational Database
+The most common type of organization is the relational
+database. In this structure, there are no access paths down a
+hierarchy. Rather, the data elements are stored in different
+tables, each of which consists of rows and columns. A table
+and its data are called a relation.
+An example of a relational database is shown in Figure 11-
+8. The Vehicle Owner Table contains license numbers, names,
+reset page 665
+-------------------------------------------- 分页分隔 --------------------------------------------
+and addresses for all registered drivers. Within the table, a
+row is a record containing information about one driver. Each
+column is a field. The fields are License Number, Last Name,
+First Name, Street, City, State, and Zip. All related tables
+must have a common data item, or shared key field, in both
+tables, enabling information stored in one table to be linked
+with information stored in another. In this case, the three
+tables are related by the License Number field.
+page 278
+Figure 11-8 Relational database
+Description
+reset page 666
+-------------------------------------------- 分页分隔 --------------------------------------------
+Police officers who stop a speeding car look up the
+driver’s information in the Department of Motor Vehicles
+database (Figure 11-9) using the driver’s license number.
+They also can check for any unpaid traffic violations in the
+Outstanding Citations Table. Finally, if the officers suspect
+that the car is stolen, they can look up what vehicles the
+driver owns in the Vehicle Table.
+Figure 11-9 The Department of Motor Vehicles uses a
+relational database
+Thinkstock/Getty Images
+The most valuable feature of relational databases is their
+simplicity. Entries can be easily added, deleted, and
+modified. The hierarchical and network databases are more
+rigid. The relational organization is common for personal
+computer DBMSs such as Access. Relational databases are also
+widely used for mainframe and midrange systems.
+Multidimensional Database
+The multidimensional data model is a variation and an
+extension of the relational data model. Whereas relational
+databases use tables consisting of rows and columns,
+multidimensional databases extend this two-dimensional data
+reset page 667
+-------------------------------------------- 分页分隔 --------------------------------------------
+model to include additional or multiple dimensions, sometimes
+called a data cube. Data can be viewed as a cube having three
+or more sides and consisting of cells. Each side of the cube
+is considered a dimension of the data. In this way, complex
+relationships between data can be represented and efficiently
+analyzed.
+page 279
+Multidimensional databases provide several advantages over
+relational databases. Two of the most significant advantages
+are
+Conceptualization: Multidimensional databases and data
+cubes provide users with an intuitive model in which
+complex data and relationships can be analyzed without
+specialized database programming knowledge.
+Processing speed: Analyzing and querying a large
+multidimensional database can be much faster. For example,
+a query requiring just a few seconds on a multidimensional
+database could take minutes or hours to perform on a
+relational database.
+Object-Oriented Database
+The other data structures are primarily designed to access
+and summarize structured data such as names, addresses, pay
+rates, and so on. Object-oriented databases are more
+flexible and store data as well as instructions to manipulate
+the data. Additionally, this structure is ideally designed to
+provide input for object-oriented software development, which
+is described in Chapter 13.
+Object-oriented databases organize data using classes,
+objects, attributes, and methods.
+Classes are general definitions.
+reset page 668
+-------------------------------------------- 分页分隔 --------------------------------------------
+Objects are specific instances of a class that can contain
+both data and instructions to manipulate the data.
+Attributes are the data fields an object possesses.
+Methods are instructions for retrieving or manipulating
+attribute values.
+For example, a health club might use an object-oriented
+employment database. (See Figure 11-10.) The database uses a
+class, Employee, to define employee objects that are stored
+in the database. This definition includes the attributes
+First name, Last name, Address, and Wage and the method Pay.
+Bob, Sarah, and Omar are objects each with specific
+attributes designated by their object type. For example, Bob
+is an employee and an accountant. Bob has attributes common
+to all employees, such as a name and address. He also has
+attributes unique to accountants, such as his certification
+as a public accountant. Different objects use different
+methods to determine some information. For example,
+accountants earn an annual salary, while salespeople earn an
+hourly wage as well as a commission.
+reset page 669
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 11-10 Object-oriented database
+Description
+page 280
+Although hierarchical and network databases are still
+widely used, relational and multidimensional databases are
+the most popular today. Object-oriented databases are
+becoming more widely used and are part of a new category of
+databases known as NoSQL. For a summary of DBMS organization,
+see Figure 11-11.
+Organization Description
+Hierarchical Data structured in nodes organized like an
+upside-down tree; each parent node can
+have several children; each child node can
+have only one parent
+Network Like hierarchical except that each child
+can have several parents
+Relational Data stored in tables consisting of rows
+and columns
+Multidimensional Data stored in data cubes with three or
+more dimensions
+Object-oriented Organizes data using classes, objects,
+attributes, and methods
+Figure 11-11 Summary of DBMS organization
+concept check
+What is a database model?
+List the five database models and discuss each.
+What is the difference between a relational database and an object-
+oriented database?
+reset page 670
+-------------------------------------------- 分页分隔 --------------------------------------------
+Types of Databases
+Databases may be small or large, limited in accessibility or
+widely accessible. Databases may be classified into four
+types: individual, company, distributed, and commercial.
+Individual
+The individual database is also called a personal computer
+database. It is a collection of integrated files primarily
+used by just one person. Typically, the data and the DBMS are
+under the direct control of the user. They are stored either
+on the user’s hard-disk drive or on a LAN file server.
+There may be many times in your life when you will find
+this kind of database valuable. If you are in sales, for
+instance, a personal computer database can be used to keep
+track of your customers. If you are a sales manager, you can
+keep track of your salespeople and their performance. If you
+are an advertising account executive, you can keep track of
+your different projects and how many hours to charge each
+client.
+Company
+Companies, of course, create databases for their own use. The
+company database may be stored on a central database server
+and managed by a database administrator. Users throughout the
+company have access to the database through their personal
+computers linked to local or wide area networks.
+As we discussed in Chapter 10, company databases are the
+foundation for management information systems. For instance,
+a department store can record all sales transactions in the
+database. A sales manager can use this information to see
+which salespeople are selling the most products. The manager
+can then determine year-end sales bonuses. Or the store’s
+buyer can learn which products are selling well or not
+reset page 671
+-------------------------------------------- 分页分隔 --------------------------------------------
+selling and make adjustments when reordering. A top executive
+might combine overall store sales trends with information
+from outside databases about consumer and page 281
+population trends. This information could be used
+to change the whole merchandising strategy of the store.
+Distributed
+Many times the data in a company is stored not in just one
+location but in several locations. It is made accessible
+through a variety of communications networks. The database,
+then, is a distributed database. That is, not all the data
+in a database is physically located in one place. Typically,
+database servers on a client/server network provide the link
+between the data.
+For instance, some database information can be at regional
+offices. Some can be at company headquarters, some down the
+hall from you, and some even overseas. Sales figures for a
+chain of department stores, then, could be located at the
+various stores. But executives at district offices or at the
+chain’s headquarters could have access to all these figures.
+Commercial
+A commercial database is generally an enormous database that
+an organization develops to cover particular subjects. It
+offers access to this database to the public or selected
+outside individuals for a fee. Sometimes commercial databases
+also are called information utilities or data banks. An
+example is Factiva, which offers a variety of information-
+gathering and reporting services. (See Figure 11-12.)
+reset page 672
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 11-12 Commercial database (Dow Jones Factiva)
+Dow Jones & Company, Inc.
+Some of the most widely used commercial databases are
+ProQuest Dialog—offers business information, as well as
+technical and scientific information.
+Dow Jones Factiva—provides world news and information on
+business, investments, and stocks.
+LexisNexis—offers news and information on legal news,
+public records, and business issues.
+Most of the commercial databases are designed for
+organizational as well as individual use. Organizations
+typically pay a membership fee plus hourly use fees. Often,
+individuals are able to search the database to obtain a
+summary of available information without charge. They pay
+only for those items selected for further investigation.
+See Figure 11-13 for a summary of the four types of
+databases.
+page 282
+reset page 673
+-------------------------------------------- 分页分隔 --------------------------------------------
+Type Description
+Individual Integrated files used by just one
+person
+Company Common operational or commonly used
+files shared in an organization
+Distributed Database spread geographically and
+accessed using database server
+Commercial Information utilities or data banks
+available to users on a wide range of
+topics
+Figure 11-13 Summary of the four types of databases
+concept check
+List four types of databases and describe each.
+Give a brief example of each type of database.
+What is the difference between a company database and a distributed
+database?
+Database Uses and Issues
+Databases offer great opportunities for productivity. In
+fact, in corporate libraries, electronic databases are now
+considered more valuable than books and journals. However,
+maintaining databases means users must make constant efforts
+to keep them from being tampered with or misused.
+Strategic Uses
+Databases help users to keep up to date and to plan for the
+future. To support the needs of managers and other business
+professionals, many organizations collect data from a variety
+reset page 674
+-------------------------------------------- 分页分隔 --------------------------------------------
+of internal and external databases. This data is then stored
+in a special type of database called a data warehouse. A
+technique called data mining is often used to search these
+databases to look for related information and patterns.
+Hundreds of databases are available to help users with
+both general and specific business purposes, including
+Business directories providing addresses, financial and
+marketing information, products, and trade and brand names.
+Demographic data, such as county and city statistics,
+current estimates on population and income, employment
+statistics, census data, and so on.
+Business statistical information, such as financial
+information on publicly traded companies, market potential
+of certain retail stores, and other business data and
+information.
+Text databases providing articles from business
+publications, press releases, reviews on companies and
+products, and so on.
+Web databases covering a wide range of topics, including
+all of those previously mentioned. As mentioned earlier,
+web search sites like Google maintain extensive databases
+of available Internet content.
+Security
+Precisely because databases are so valuable, their security
+has become a critical issue. As we discussed in Chapter 9,
+there are several database security concerns. One concern is
+that personal and private information about people stored in
+databases may be used for the wrong purposes. For page 283
+instance, a person’s credit history or medical
+records might be used to make hiring or promotion decisions.
+Another concern is unauthorized users gaining access to a
+database. For example, there have been numerous instances in
+reset page 675
+-------------------------------------------- 分页分隔 --------------------------------------------
+which a computer virus has been launched into a database or
+network.
+Security may require putting guards in company computer
+rooms and checking the identification of everyone admitted.
+Some security systems electronically check fingerprints. (See
+Figure 11-14.) Security is particularly important to
+organizations using WANs. Violations can occur without
+actually entering secured areas. As mentioned in previous
+chapters, most major corporations today use special hardware
+and software called firewalls to control access to their
+internal networks.
+Figure 11-14 Security: Electronic fingerprint scanner
+Andrea Danti/Shutterstock
+concept check
+What is a data warehouse? What is data mining?
+What are some database security concerns?
+What is a firewall?
+reset page 676
+-------------------------------------------- 分页分隔 --------------------------------------------
+Careers in IT
+“Now
+that you have learned about databases, let me tell you
+about my career as a database administrator.”
+M_Agency/Shutterstock
+Database administrators use database management software
+to determine the most efficient ways to organize and access
+a company’s data. Additionally, database administrators
+are typically responsible for maintaining database security
+and backing up the system. Database administration is a
+fast-growing industry, and substantial job growth is
+expected.
+Database administrator positions normally require a
+bachelor’s degree in computer science or information
+systems and technical experience. Internships and prior
+experience with the latest technology are a considerable
+advantage for those seeking jobs in this industry. It is
+possible to transfer skills learned in one industry, such
+as finance, to a new career in database administration. In
+order to accomplish this objective, many people seek
+additional training in computer science.
+Database administrators can expect to earn an annual
+salary of $47,000 to $111,000. Opportunities for
+reset page 677
+-------------------------------------------- 分页分隔 --------------------------------------------
+advancement include positions as a chief technology officer
+or other managerial opportunities.
+page 284
+A LOOK TO THE FUTURE
+The Future of Crime Databases
+Have you ever imagined a world without violent crime? What would you be
+willing to do (or give up) if your government could guarantee that all
+potential criminals could be stopped before they commit their crime?
+Recently, we are close to making this possible through large and powerful
+databases, along with computer programs that can analyze data and make
+predictions. The tricky part is that the databases require a significant
+amount of personal information from everyone who lives in the country.
+Technology has been making better crime databases and will continue to
+evolve to improve our lives as we look to the future.
+Currently, national crime databases in several countries, such as the
+United States, focus on keeping data about individuals that have committed
+crimes. Not only do these databases contain basic information such as name
+and date of birth, they also contain fingerprints, photos, and even DNA
+samples. This makes it easier to figure out who committed a crime after it
+happens, assuming the criminal is already in the database. Although the
+offender will eventually be caught, it is too late for the innocent
+victim. For this reason, researchers are currently looking into the
+possibility of expanding the collection of data and then using powerful
+programs to figure out who is capable of committing violent crimes in the
+future.
+reset page 678
+-------------------------------------------- 分页分隔 --------------------------------------------
+sutadimages/Shutterstock
+Over the last few years, various research institutions have been
+looking into patterns that could predict criminal behavior. They analyze
+data ranging from childhood abuse to current employment status. Their goal
+is to find a combination of factors that usually leads to violent,
+criminal behavior. Other researchers are looking deep into human DNA,
+looking for any sequences that could be connected to antisocial or violent
+behavior. If such patterns could be found, then all we need to do is find
+the individuals who have these characteristics. The problem is that not
+all these individuals have an entry in the national crime database.
+Furthermore, these databases do not contain data about every aspect of a
+person’s life. That, however, could change.
+Over the years, criminal databases have been expanding. However, in the
+United States, each state has the ability to determine the data to be
+collected and from whom it will be collected. Whereas one state might take
+a DNA sample from only violent criminals and sex offenders, another state
+might collect that data from someone who committed a misdemeanor. If a
+future crime database is to make predictions, law enforcement will have to
+take DNA samples from every person living in the United States.
+Furthermore, the government will need access to all databases that contain
+information about that person—including databases from schools,
+businesses, insurance companies, and medical practices. Only then can
+these future programs be able to predict which individuals have the sort
+of patterns that may lead to future criminal behavior. Once those
+individuals are spotted, law enforcement could be authorized to monitor
+them closely or perhaps even intervene with psychological or medical
+assistance.
+Supposing a crime-predicting program could be developed, there will be
+legal challenges to the type of data collection required. Individuals will
+be asked to weigh their privacy against the possibility of reducing crime.
+Inevitably, our trust of the government will also come into play. What do
+you think about this sort of future database? Would you trust the
+reset page 679
+-------------------------------------------- 分页分隔 --------------------------------------------
+government with all this personal and biological information? Do you
+believe it is worth giving up privacy for the sake of having security?
+page 285
+VISUAL SUMMARY
+Databases
+DATA ORGANIZATION
+Data is organized by the following groups:
+Character—the most basic logical element, consisting
+of individual numbers, letters, and special characters.
+Field—next level, consisting of a set of related
+characters, for example, a person’s last name. A data
+field represents an attribute (description or
+reset page 680
+-------------------------------------------- 分页分隔 --------------------------------------------
+characteristic) of some entity (person, place, thing,
+or object).
+Record—a collection of related fields; for example, a
+payroll record consisting of fields of data relating to
+one employee.
+Table—a collection of related records; for example, a
+payroll table consisting of all the employee records.
+Database—an integrated collection of related tables;
+for example, a personnel database contains all related
+employee tables.
+Key Field
+A key field (primary key) is the field in a record that
+uniquely identifies each record.
+Tables can be related (connected) to other tables by
+key fields.
+Key fields in different files can be used to integrate
+the data in a database.
+Common key fields are employee ID numbers and driver’s
+license numbers.
+DATA ORGANIZATION
+Batch versus Real-Time Processing
+Traditionally, data is processed in one of two ways:
+batch or real-time processing.
+reset page 681
+-------------------------------------------- 分页分隔 --------------------------------------------
+Batch processing—data is collected over time and then
+processed later all at one time (batched). For example,
+monthly credit card bills are typically created by
+processing credit card purchases throughout the past
+month.
+Real-time processing (online processing)—data is
+processed at the same time the transaction occurs;
+direct access storage devices make real-time processing
+possible. For example, a request for cash using an ATM
+machine initiates a verification of funds, approval or
+disapproval, disbursement of cash, and an update of the
+account balance.
+page 286
+To efficiently and effectively use computers, you need
+to understand data fields, records, tables, and
+databases. You need to be aware of the different ways
+in which a database can be structured and the different
+types of databases. Also, you need to know the most
+important database uses and issues.
+DATABASES
+reset page 682
+-------------------------------------------- 分页分隔 --------------------------------------------
+Microsoft Corporation; Photo credit: eurobanks/Shutterstock
+A database is a collection of integrated data—logically
+related files and records.
+Need for Databases
+Advantages of databases are sharing data, improved
+security, reduced data redundancy, and higher data
+integrity.
+Database Management
+A database management system (DBMS) is the software for
+creating, modifying, and gaining access to the database.
+A DBMS consists of five subsystems:
+DBMS engine provides a bridge between logical and
+physical data views.
+Data definition subsystem defines the logical
+structure of a database using a data dictionary or
+schema.
+Data manipulation subsystem provides tools for data
+maintenance and data analysis; tools include query-by-
+example and structured query language (SQL).
+Application generation subsystem provides tools for
+creating data entry forms with specialized programming
+reset page 683
+-------------------------------------------- 分页分隔 --------------------------------------------
+languages.
+Data administration subsystem manages the database;
+database administrators (DBAs) are computer
+professionals who help define processing rights.
+DBMS STRUCTURE
+DBMS programs are designed to work with specific data
+structures or database models. These models define rules
+and standards for all the data in the database. Five
+principal database models are hierarchical, network,
+relational, multidimensional, and object-oriented.
+Hierarchical Database
+Hierarchical database uses nodes to link and structure
+fields and records; entries may have one parent node
+with several child nodes in a one-to-many relationship.
+Network Database
+Network database is like hierarchical except a child
+node may have more than one parent in a many-to-many
+relationship; additional connections are called
+pointers.
+Relational Database
+reset page 684
+-------------------------------------------- 分页分隔 --------------------------------------------
+Relational database data is stored in tables
+(relations); related tables must have a common data item
+(key field). A table and its data are called a relation.
+page 287
+DBMS STRUCTURE
+Thinkstock/Getty Images
+Multidimensional Database
+reset page 685
+-------------------------------------------- 分页分隔 --------------------------------------------
+Multidimensional databases extend two-dimensional
+relational tables to three or more dimensions, sometimes
+called a data cube.
+Multidimensional databases tend to be more flexible
+and intuitive than relational databases.
+Object-Oriented Database
+Object-oriented databases store data, instructions, and
+unstructured data. Data is organized using
+Classes are general definitions.
+Objects are specific instances of a class that can
+contain both data and instructions to manipulate the
+data.
+Attributes are the data fields an object possesses.
+Methods are instructions for retrieving or
+manipulating attribute values.
+Object-oriented databases are part of a new category of
+databases known as NoSQL.
+TYPES OF DATABASES
+reset page 686
+-------------------------------------------- 分页分隔 --------------------------------------------
+Dow Jones & Company, Inc.
+There are four types of databases:
+Individual (personal computer) database: Used by one
+person.
+Company database: Stored on central server; accessed
+by multiple people.
+Distributed database: Spread out geographically;
+accessed by communications links.
+Commercial databases (information utilities and data
+banks): Enormous; for particular subjects.
+DATABASE USES AND ISSUES
+Databases offer a great opportunity for increased
+productivity; however, security is always a concern.
+Strategic Uses
+Data warehouses support data mining. Data mining is a
+technique for searching and exploring databases for
+related information and patterns.
+Security
+Two important security concerns are illegal use of data
+and unauthorized access. Most organizations use
+reset page 687
+-------------------------------------------- 分页分隔 --------------------------------------------
+firewalls to protect their internal networks.
+CAREERS in IT
+Database administrators use database management software
+to determine the most efficient ways to organize and
+access a company’s data. They are also responsible for
+database security and system backup. A bachelor’s degree
+in computer science or information systems and technical
+experience are required. Expected salary range is $47,000
+to $111,000.
+page 288
+KEY TERMS
+application generation subsystem (274)
+attribute (271, 279)
+batch processing (272)
+character (271)
+child node (276)
+class (279)
+commercial database (281)
+common data item (277)
+company database (280)
+data (270)
+data administration subsystem (275)
+reset page 688
+-------------------------------------------- 分页分隔 --------------------------------------------
+data bank (281)
+data cube (278)
+data definition subsystem (274)
+data dictionary (274)
+data integrity (273)
+data maintenance (274)
+data manipulation subsystem (274)
+data mining (282)
+data redundancy (273)
+data warehouse (282)
+database (272)
+database administrator (DBA) (275, 283)
+database management system (DBMS) (274)
+database model (276)
+DBMS engine (274)
+distributed database (281)
+entity (271)
+field (271)
+firewall (283)
+hierarchical database (276)
+individual database (280)
+information utility (281)
+key field (272)
+logical view (270)
+many-to-many relationship (277)
+method (279)
+multidimensional database (278)
+network database (277)
+node (276)
+reset page 689
+-------------------------------------------- 分页分隔 --------------------------------------------
+NoSQL (280)
+object (279)
+object-oriented database (279)
+one-to-many relationship (276)
+online processing (273)
+parent node (276)
+personal computer database (280)
+physical view (270)
+pointers (277)
+primary key (272)
+processing rights (275)
+query-by-example (274)
+real-time processing (273)
+record (271)
+relation (277)
+relational database (277)
+schema (274)
+structured query language (SQL) (274)
+table (271)
+page 289
+MULTIPLE CHOICE
+Circle the correct answer.
+reset page 690
+-------------------------------------------- 分页分隔 --------------------------------------------
+1. View that focuses on the actual format and location of
+the data.
+a. logical
+b. physical
+c. field
+d. record
+2. A group of related characters is a .
+a. character
+b. record
+c. table
+d. field
+3. Type of processing in which data is collected over
+several hours, days, or even weeks and then processed
+all at once.
+a. real-time
+b. batch
+c. online
+d. hierarchical database
+4. What is the advantage of an organization using a
+database instead of allowing individual departments to
+create and maintain their own data?
+a. sharing
+b. less database redundancy
+c. security
+d. data integrity
+5. Another name for a data dictionary is .
+a. physical view
+b. logical view
+c. schema
+d. DBMS engine
+reset page 691
+-------------------------------------------- 分页分隔 --------------------------------------------
+6. Type of database structure where fields or records are
+structured in nodes that are connected like the branches
+of an upside-down tree.
+a. hierarchical
+b. network
+c. relational
+d. multidimensional
+7. Type of database structure where the data elements are
+stored in different tables.
+a. hierarchical
+b. network
+c. relational
+d. multidimensional
+8. One advantage of a multidimensional database is its
+ability to improve processing .
+a. accuracy
+b. power
+c. cost
+d. speed
+9. Object-oriented databases organize data by classes,
+objects, methods, and .
+a. attributes
+b. fields
+c. dimensions
+d. nodes
+10. Type of database that uses communication networks to
+link data stored in different locations.
+a. individual
+b. company
+c. distributed
+reset page 692
+-------------------------------------------- 分页分隔 --------------------------------------------
+d. commercial
+page 290
+MATCHING
+Match each numbered item with the most closely related
+lettered item. Write your answers in the spaces provided.
+a. many- to-many 1. Another name for a
+relationship multidimensional
+b. objects database.
+c. point er 2. Object-oriented
+databases organize
+d. data cube
+data by classes,
+e. database
+attributes, methods,
+administrators
+and .
+f. key field
+3. The distinctive
+g. security field(s) found in
+h. character each record in a
+database.
+i. DBMS engine
+4. This is defined as
+j. data
+the facts or
+observations about
+people, places,
+things, and events.
+5. The connection
+between parent and
+reset page 693
+-------------------------------------------- 分页分隔 --------------------------------------------
+child nodes.
+6. A network database
+where each child node
+may have more than
+one parent node.
+7. This advantage of
+using databases is
+achieved by
+restricting database
+access to only the
+information needed by
+the user.
+8. The bridge between
+the logical and
+physical views of the
+data.
+9. This is the most
+basic logical data
+element such as a
+single letter,
+number, or special
+character.
+10. Highly trained
+computer specialists
+who interact with the
+data administration
+subsystem.
+reset page 694
+-------------------------------------------- 分页分隔 --------------------------------------------
+OPEN-ENDED
+On a separate sheet of paper, respond to each question or
+statement.
+1. Describe the five logical data groups or categories.
+2. What is the difference between batch processing and
+real-time processing?
+3. Identify and define the five parts of DBMS programs.
+4. Describe each of the five common database models.
+5. What are some of the benefits and limitations of
+databases? Why is security a concern?
+page 291
+DISCUSSION
+Respond to each of the following questions.
+Applying Technology: INTERNET MOVIE
+1
+DATABASE
+One popular commercial database is the Internet Movie Database, or IMDb.
+Connect to its website, explore its content, search for a few movies,
+and then answer the following questions: (a) What types of information
+does the IMDb contain? (b) What searches did you try? What were the
+results? (c) Based on your knowledge of databases, would you expect the
+IMDb to be relational or hierarchical? Justify your answer.
+reset page 695
+-------------------------------------------- 分页分隔 --------------------------------------------

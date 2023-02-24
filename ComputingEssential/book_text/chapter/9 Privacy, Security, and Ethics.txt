@@ -1,0 +1,1870 @@
+
+page 214
+Privacy, Security,
+chapter
+9
+and Ethics
+reset page 536
+-------------------------------------------- 分页分隔 --------------------------------------------
+Stepan Kapl/Shutterstock
+page 215
+Why should I read this chapter?
+Our every click, every post, and every like online is recorded, analyzed,
+and turned to a profit. The details of your social media usage can be
+packaged and sold to bankers, employers, and ad agencies. While your
+social media account may be free, the data they collect on you is
+valuable. It will affect which advertisements you see, what interest
+rates you pay on credit, and what price you see when you shop for goods
+online.
+HQuality/Shutterstock
+What rights do you have to your information? What laws protect you?
+This chapter covers the things you need to know to be prepared for this
+ever-changing world, including the following:
+Cybercrime—protect yourself from viruses, Internet scams, and identity
+theft.
+Privacy rights—learn what companies can legally record about your
+Internet usage and how they use that information.
+Safe computing—avoid embarrassment and worse by knowing the way
+Facebook and social networking sites share your information.
+Protect yourself by being aware of what information you are sharing,
+how that information might be used, and what rights you have to be
+private and secure on the Internet.
+reset page 537
+-------------------------------------------- 分页分隔 --------------------------------------------
+Learning Objectives
+After you have read this chapter, you should be able to:
+1. Describe the impact of large databases, private
+networks, the Internet, and the web on privacy.
+2. Discuss online identity and the major laws on privacy.
+3. Discuss cybercrimes, including identity theft, Internet
+scams, data manipulation, ransomware, and denial of
+service.
+4. Describe social engineering and malicious software,
+including crackers, malware, viruses, worms, and Trojan
+horses.
+5. Discuss malicious hardware, including zombies, botnets,
+rogue Wi-Fi networks, and infected USB flash drives.
+6. Detail ways to protect computer security, including
+restricting access, encrypting data, anticipating
+disasters, and preventing data loss.
+7. Discuss computer ethics, including copyright law,
+software piracy, digital rights management, the Digital
+Millennium Copyright Act, as well as cyberbullying,
+plagiarism, and ways to identify plagiarism.
+page 216
+Introduction
+reset page 538
+-------------------------------------------- 分页分隔 --------------------------------------------
+“Hi,
+I’m Ann, and I’m an IT security analyst. I’d like to
+talk with you about privacy, security, and ethics, three critical
+topics for anyone who uses computers today. I would also like to
+talk about how you can protect your privacy, ensure your security,
+and act ethically.”
+Ariel Skelley/Getty Images
+There are more than 1 billion personal computers in use today. What are
+the consequences of the widespread presence of this technology? Does
+technology make it easy for others to invade our personal privacy? When we
+apply for a loan or for a driver’s license, or when we check out at the
+supermarket, is that information about us being distributed and used
+without our permission? When we use the web, is information about us being
+collected and shared with others? How can criminals use this information
+for ransom, blackmail, or vandalism?
+This technology prompts lots of questions—very important questions.
+Perhaps these are some of the most important questions for the 21st
+century. To efficiently and effectively use computers, you need to be
+aware of the potential impact of technology on people and how to protect
+yourself on the web. You need to be sensitive to and knowledgeable about
+personal privacy and organizational security.
+People
+As we have discussed, information systems consist of people,
+procedures, software, hardware, data, and the Internet. This
+reset page 539
+-------------------------------------------- 分页分隔 --------------------------------------------
+chapter focuses on people. Although most everyone agrees that
+technology has had a very positive impact on people, it is
+important to recognize the negative, or potentially negative,
+impacts as well.
+Effective implementation of computer technology involves
+maximizing its positive effects while minimizing its negative
+effects. The most significant concerns are
+Privacy: What are the threats to personal privacy, and how
+can we protect ourselves?
+Security: How can access to sensitive information be
+controlled, and how can we secure hardware and software?
+Ethics: How do the actions of individual users and
+companies affect society?
+Let us begin by examining privacy.
+Privacy
+To appreciate the impact that the digital revolution is
+having on our world, you need look no further than the cell
+phone in your pocket. A cell phone is a marvel that provides
+a camera, microphone, and minuscule sensors ready to share
+your life with the world. With these new tools come new
+challenges to old ways of thinking. What does it mean to
+preserve privacy in a social media world where every
+experience is recorded and preserved? Who owns the memories
+we create with these devices? Who has the right to share
+them? To delete them? To profit from them?
+page 217
+Privacy concerns the collection and use of data about
+individuals. There are three primary privacy issues:
+reset page 540
+-------------------------------------------- 分页分隔 --------------------------------------------
+Accuracy relates to the responsibility of those who collect
+data to ensure that the data is correct.
+Property relates to who owns data.
+Access relates to the responsibility of those who have data
+to control who is able to use that data.
+Big Data
+Today, almost all human events are recorded digitally. For
+example, making a phone call, posting a video to social
+media, or wearing a smartwatch creates a digital record. A
+digital record of a phone call can include who you called,
+when you called, where you were when you made the call, and
+even the contents of the conversation itself. This results in
+an unprecedented amount of digital information being stored.
+This stored information is often referred to as big data.
+Large organizations are constantly compiling information
+about us. The federal government alone has over 2,000
+databases. For example, credit card companies maintain user
+databases that track cardholder purchases, payments, and
+credit records. Supermarket scanners in grocery checkout
+counters record what we buy, when we buy it, how much we buy,
+and the price. Financial institutions, including banks and
+credit unions, record how much money we have, what we use it
+for, and how much we owe. Search engines record the search
+histories of their users, including search topics and sites
+visited. Social networking sites collect every entry.
+This collection of data can be searched to find all the
+action of one person—creating a digital footprint that
+reveals a highly detailed account of your life. A vast
+industry of data gatherers known as information resellers or
+information brokers now exists that collects, analyzes, and
+sells such personal data. (See Figure 9-1.)
+reset page 541
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 9-1 Information reseller’s website
+Acxiom
+Your digital footprint can reveal more than you might wish
+to make public and have an impact beyond what you might
+imagine. This raises many important issues, including
+Collecting public, but personally identifying,
+information: What if people anywhere in the world could
+view detailed images of you, your home, or your vehicle?
+Using detailed images captured with a specially equipped
+van, Google’s Street View project allows just that. Street
+View makes it possible to take a virtual tour of many
+cities and neighborhoods from any computer with a page 218
+connection to the Internet. (See Figure 9-2.)
+Although the images available on Street View are all taken
+in public locations, some have objected to the project as
+being an intrusion on their privacy.
+As digital cameras and webcams become cheaper and
+software becomes more sophisticated, it is likely that many
+more issues involving personal privacy in public spaces
+will need to be addressed. Such a combination of computing
+reset page 542
+-------------------------------------------- 分页分隔 --------------------------------------------
+technologies could, for example, make real-time tracking of
+individuals in public places possible.
+Spreading information without personal consent: How would
+you feel if an employer were using your Facebook, Twitter,
+or other social networking profiles to make decisions about
+hiring, placement, promotion, and firing? It is a common
+practice today for many organizations.
+As we have discussed in Chapter 2, social networking is
+designed for open sharing of information among individuals
+who share a common interest. Unfortunately, this openness
+can put individuals using social networking sites at risk.
+In fact, some have lost their jobs after posting
+unflattering remarks about their supervisor or after
+discussing their dislike of their current job. Deeper
+analysis of your social networking profile may reveal even
+more about yourself than you intend.
+The potential to inadvertently share personal
+information extends past what you might post to your social
+networking site. As an example, without your knowledge or
+permission, a social networking friend might tag or
+identify you in a photo on his or her site. Once tagged,
+that photo can become part of your digital footprint and
+available to others without your consent.
+Spreading inaccurate information: How would you like to be
+turned down for a home loan because of an error in your
+credit history? This is much more common than you might
+expect. What if you could not find a job or were fired from
+a job because of an error giving you a serious criminal
+history? This can and has happened due to simple clerical
+errors. In one case, an arresting officer while completing
+an arrest warrant incorrectly recorded the Social Security
+number of a criminal. From that time forward, this arrest
+and the subsequent conviction became part of another
+person’s digital footprint. This is an example of mistaken
+reset page 543
+-------------------------------------------- 分页分隔 --------------------------------------------
+identity in which the digital footprint of one person is
+switched with another.
+page 219
+It’s important to know that you have some recourse. The
+law allows you to gain access to those records about you
+that are held by credit bureaus. Under the Freedom of
+Information Act, you are also entitled to look at your
+records held by government agencies. (Portions may be
+deleted for national security reasons.)
+Figure 9-2 Google Street View
+Google, INC.
+community
+reset page 544
+-------------------------------------------- 分页分隔 --------------------------------------------
+Sharing personal information on social media is a necessary part of
+creating and participating in an online community. However, many
+individuals do not fully understand the complex sharing and privacy
+policies of these networks. This often causes unintentional sharing
+with people outside their intended social circle. The social networks
+themselves have come under fire from privacy groups, who say that these
+companies use complex settings and policies to get users to share more
+information than intended. This information is in turn shared with
+advertisers. Do you think social networking companies are doing enough
+to ensure the privacy and security of the communities they serve?
+Private Networks
+Suppose you use your company’s electronic mail system to
+send a co-worker an unflattering message about your
+supervisor or to send a highly personal message to a friend.
+Later you find the boss has been reading these e-mails. In
+fact, many businesses search employees’ electronic mail and
+computer files using employee-monitoring software. These
+programs record virtually everything you do on your computer.
+Many people incorrectly assume that their employers won’t or
+can’t monitor employee activity on work computers and
+networks. You should never do anything on a work computer or
+a work network connection that you wouldn’t want shared with
+your employer. If you are employed and would like to know
+your company’s current policy on monitoring electronic
+communication, contact your human relations department.
+concept check
+Describe how big data can affect our privacy.
+What is big data? Information resellers? Digital footprint?
+List three important issues related to digital footprints. What is
+mistaken identity? What is the Freedom of Information Act?
+What are private networks? What is employee-monitoring software? Is it
+legal?
+reset page 545
+-------------------------------------------- 分页分隔 --------------------------------------------
+The Internet and the Web
+When you send a message or browse the web, do you have any
+concerns about privacy? Most people do not. They think that
+as long as they are using their own computer and are
+selective about disclosing their names or other personal
+information, then little can be done to invade their personal
+privacy. Experts call this the illusion of anonymity that
+the Internet brings.
+As we discussed in Chapter 8, every computer on the
+Internet is identified by a unique number known as an IP
+address. IP addresses can be used to trace Internet
+activities to their origin, allowing computer security
+experts and law enforcement officers to investigate computer
+crimes such as unauthorized access to networks or sharing
+copyright files without permission.
+Some websites are designed to be hidden from standard
+search engines. These websites make up the deep web and allow
+communication in a secure and anonymous manner. One part of
+the deep web is hidden websites that make up the dark web.
+These websites use special software that hides a user’s IP
+address and makes it nearly impossible to identify who is
+using the site. The ability to communicate anonymously
+attracts criminals who want to sell drugs, share child
+pornography, or profit from the poaching of endangered
+animals. This same anonymity allows people in countries where
+political dissent is dangerous and free speech is censored to
+communicate, plan, and organize toward a more free and open
+society without fear of jail or execution.
+When you browse the web, your browser stores critical
+information, typically without you being aware of it. This
+information, which contains records about your Internet
+activities, includes history and temporary Internet files.
+History files include the locations, or addresses, of sites
+that you have recently visited. This history file can be
+displayed by your browser in various locations, including
+reset page 546
+-------------------------------------------- 分页分隔 --------------------------------------------
+the address bar (as you type) and the History page. To view
+your browsing history on your Android or iOS cell phone,
+see Figure 9-3.
+Temporary Internet files, also known as the page 220
+browser cache, contain web page content and
+instructions for displaying this content. Whenever you
+visit a website, these files are saved by your browser. If
+you leave a site and then return later, these files are
+used to quickly redisplay web content.
+Figure 9-3 Viewing history files using Android Chrome and
+iOS Safari
+(a) Google, INC. (b) Apple Inc.
+reset page 547
+-------------------------------------------- 分页分隔 --------------------------------------------
+Another way your web activity can be monitored is with
+cookies. Cookies are small data files that are deposited on
+your hard disk from websites you have visited. Based on your
+browser’s settings, these cookies can be accepted or
+blocked. Although you will generally not be aware when a
+website generates a cookie, the personalized experiences you
+enjoy on the web are often a result of those cookies.
+Although cookies are harmless in and of themselves, what
+makes them a potential privacy risk is that they can store
+information about you, your preferences, and your browsing
+habits. The information stored generally depends on whether
+the cookie is a first-party or a third-party cookie.
+A first-party cookie is one that is generated (and then
+read) only by the website you are currently visiting. Many
+websites use first-party cookies to store information about
+the current session, your general preferences, and your
+activity on the site. The intention of these cookies is to
+provide a personalized experience on a particular site. For
+example, when you are shopping online, you might fill your
+cart with items and then leave the site without making
+making a purchase. Cookies allow you to return to that site
+and have the site remember what was in your cart.
+A third-party cookie is usually generated by an advertising
+company that is affiliated with the website you are
+currently visiting. These cookies are used by the
+advertising company to keep track of your web activity as
+you move from one site to the next. For this reason, they
+are often referred to as tracking cookies. Critics of this
+practice claim that your privacy is being violated because
+your activity is being recorded across multiple page 221
+websites. Defenders of this practice argue that
+these cookies are beneficial because they help websites
+deliver ads that interest you. For example, suppose you
+visit four different websites that employ the same
+advertising agency. The first three sites are about cars,
+reset page 548
+-------------------------------------------- 分页分隔 --------------------------------------------
+but the fourth is a search engine. When you visit the
+fourth site, you will likely see a car advertisement
+because your cookie showed that you had been visiting car-
+related websites.
+Some users are not comfortable with the idea of web
+browsers storing so much information in the form of temporary
+Internet files, cookies, and history. For this reason,
+browsers now offer users an easy way to delete their browsing
+history. To see how to delete browsing histories on your
+Android or iOS cell phone, see Figure 9-4. In addition, most
+browsers also offer a privacy mode, which ensures that your
+browsing activity is not recorded on your hard disk. For
+example, Google Chrome provides Incognito Mode accessible
+from the Chrome menu, and Safari provides Private Browsing
+accessible from the Safari option on the main menu.
+reset page 549
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 9-4 Deleting history files using Android Chrome and
+iOS Safari
+(a) Google, INC. (b) Apple Inc.
+privacy
+Google’s Chrome web browser erases any record of your web activities
+from your computer while using Incognito Mode. Many believe this means
+that Google will not record your activities on the web. However, it
+does not erase your activities recorded on the computers that run the
+websites that you visit. For example, Google’s websites will record
+information about your activities even when you are in Incognito Mode.
+What do you think? Does Google Chrome’s promise of private browsing
+include the information that Google collects on its websites?
+Although these web browser files can concern many
+individuals, several other threats could potentially violate
+your privacy. Web bugs, which are invisible images or HTML
+code hidden within a web page or e-mail message, can be used
+to transmit information without your knowledge. When a user
+opens an e-mail containing a web bug, information is sent
+back to the source of the bug. The receiving server will now
+know that this e-mail address is active. One of the most
+common web bugs is used by companies that sell active mailing
+lists to spammers. Because of this deception, many e-mail
+programs now block images and HTML code from unknown senders.
+It is up to the user to decide whether or not to allow such
+content to be displayed for current and future messages.
+The most dangerous type of privacy threat comes in the
+form of spyware. The term spyware is used to describe a wide
+range of programs that are designed to secretly record and
+report an individual’s activities on the Internet. Some of
+these programs can even make changes to your browser in order
+to deceive you and manipulate what you see online. Computer
+monitoring software is perhaps the most invasive and
+dangerous type of spyware. One type of computer page 222
+reset page 550
+-------------------------------------------- 分页分隔 --------------------------------------------
+monitoring software, known as a keylogger, records every
+activity and keystroke made on your computer system,
+including credit card numbers, passwords, and e-mail
+messages. Computer monitoring software can be deposited onto
+your hard drive without your knowledge by a malicious website
+or by someone installing the program directly onto your
+computer. Although such software is deadly in the hands of
+criminals, it can be legally used by companies monitoring
+employees or law enforcement officials who are collecting
+evidence.
+Unfortunately, many spyware programs go undetected,
+largely because users have no idea they are infected. Spyware
+will run in the background, invisible to the average user.
+Other times, it disguises itself as useful software, such as
+a security program. Spyware is alarmingly common on laptops
+and desktops, but recent spyware is designed to work on other
+types of computers. For example, Pegasus is spyware designed
+to work on iOs and Android cell phones. The financial impact
+to individuals, companies, and financial institutions is
+estimated at billions of dollars.
+ethics
+Data encryption protects your bank accounts and private e-mails, but it
+also allows criminals to hide evidence from police. Some government
+agencies want to limit the power of data encryption to make it easier
+to find and jail criminals. Privacy advocates argue that limiting
+encryption gives criminals and dictators tools that will be used to
+steal data and suppress freedoms. Security advocates respond that to
+protect citizens from criminals, the police must be able to search
+encrypted devices when warranted. Should governments be given a
+skeleton key to bypass encryption? Should unbreakable encryption be
+illegal?
+One of the best defenses against spyware is to exercise
+caution when visiting new websites and downloading software
+reset page 551
+-------------------------------------------- 分页分隔 --------------------------------------------
+from an unknown source. Another defense involves using a
+category of software known as antispyware or spy removal
+programs, which are designed to detect and remove various
+types of privacy threats. (See Figure 9-5.) For a list of
+some of these programs, see Figure 9-6.
+Figure 9-5 Antispyware
+Piotr Swat/Shutterstock
+Program Website
+Ad-Aware www.adaware.com
+Norton Security www.norton.com
+Windows Defender www.microsoft.com
+AVG Antitrack avg.com
+Figure 9-6 Antispyware programs
+Online Identity
+reset page 552
+-------------------------------------------- 分页分隔 --------------------------------------------
+Another aspect of Internet privacy comes from online
+identity, the information that people voluntarily post about
+themselves online. With the popularity of social networking,
+blogging, and photo- and video-sharing sites, many people
+post intimate details of their lives without considering the
+consequences. Although it is easy to think of online identity
+as something shared between friends, the archiving and search
+features of the web make it available indefinitely to anyone
+who cares to look.
+There are any number of cases of people who have lost
+their jobs on the basis of posts on social networking sites.
+These job losses range from a teacher (using off-color
+language and photos showing drinking) to a chief financial
+officer of a major corporation (discussing corporate dealings
+and financial data). The cases include college graduates
+being refused a job because of Facebook posts. How would you
+feel if information you posted about yourself on the web kept
+you from getting a job?
+page 223
+Major Laws on Privacy
+Some federal laws governing privacy matters have been
+created. For example, the Gramm-Leach-Bliley Act protects
+personal financial information, the Health Insurance
+Portability and Accountability Act (HIPAA) protects medical
+records, and the Family Educational Rights and Privacy Act
+(FERPA) restricts disclosure of educational records.
+Most of the information collected by private organizations
+is not covered by existing laws. However, as more and more
+individuals become concerned about controlling who has the
+right to personal information and how that information is
+used, companies and lawmakers will respond.
+reset page 553
+-------------------------------------------- 分页分隔 --------------------------------------------
+concept check
+What is the illusion of anonymity? Define and compare history files
+and temporary Internet files. What is Privacy mode?
+What is a cookie? A first-party cookie? A third-party cookie?
+What is a web bug? Spyware? Keylogger? Antispyware? Online identity?
+Describe three federal laws to protect privacy.
+Security
+Personal security protects us from crime and danger in the
+physical world. For example, bank security protects our
+savings, home security protects our families, and airport
+security protect our safety. The digital revolution brings
+with it new types of crimes and dangers. To protect ourselves
+from these new threats, computer security needs to protect
+our information, hardware, and software from unauthorized
+use, as well as preventing or limiting the damage from
+intrusions, sabotage, and natural disasters.
+Cybercrime
+Cybercrime or computer crime is any criminal offense that
+involves a computer and a network. Cybercrimes are often in
+the news, especially cyberterrorism, which is a politically
+motivated cybercrime. It was recently estimated that
+cybercrime affects over 400 million people and costs over
+$400 billion each year. Cybercrimes can take various forms,
+including identity theft, Internet scams, data manipulation,
+ransomware, and denial of service attacks.
+Identity theft is the illegal assumption of someone’s
+identity for the purposes of economic gain. Stolen
+identities are used to steal credit cards and mail and to
+reset page 554
+-------------------------------------------- 分页分隔 --------------------------------------------
+commit other crimes. It is estimated that identity thieves
+stole $16 billion and victimized 15.4 million individuals.
+Internet scams are scams using the Internet. Internet scams
+have created financial and legal problems for many
+thousands of people. Almost all the scams are initiated by
+a mass mailing to unsuspecting individuals. Recently,
+Interpol busted a criminal network of 40 people across
+Nigeria, Malaysia, and South Africa accused of page 224
+using Internet scams to steal more than $60
+million. See Figure 9-7 for a list of common types of
+Internet scams.
+Type Description
+Phishing Communications in which a criminal pretends to
+be from an official organization and tricks you
+into giving them sensitive data, such as
+passwords, bank account numbers, etc. Often
+these communications include a link to a
+website that looks like an official log-in
+screen but in fact is a fake website designed
+to trick people into giving up their username
+and password.
+Advanced- A classic e-mail scam. The recipient receives
+fee scam an e-mail from a wealthy foreigner in distress
+who needs your bank account information to
+safely store his or her wealth, and for your
+troubles you will receive a large amount of
+money. Of course, once the scammer has your
+bank account information, your accounts will be
+drained and he or she will disappear.
+Greeting An e-mail or social media communication informs
+card scam you that a friend has sent you a greeting card
+and you need to download software to view it.
+In fact, the software is malware that can steal
+your data and infect your computer.
+Bank Criminals acting as bank or credit card
+loan/credit officials offer you unusually good deals on
+card scam bank loans or credit cards—but these are just
+attempts to get you to pay huge “processing
+fees” and to get your personal information.
+reset page 555
+-------------------------------------------- 分页分隔 --------------------------------------------
+Lottery An e-mail informs you that you have won the
+scam lottery and to claim your prize, you need to
+pay processing fees. Criminals will take the
+processing fees, but you will not receive any
+lottery winnings.
+Figure 9-7 Common Internet scams
+tips
+Identity theft is a growing problem, and can be financially
+devastating if you are a victim. Thieves are after anything
+that can help them steal your identity, from your Social
+Security number and date of birth to account information and
+passwords. Here are some steps to help protect your identity:
+1
+Be careful what you post on the Internet. Never post personal
+information on forums or social networking areas that are public
+or in response to an e-mail from someone you do not know or trust.
+2
+Only do business on the Internet with companies you know to be
+legitimate.
+3
+When selling a computer, be sure to completely remove all personal
+information from the hard drive. To ensure that your personal
+information is erased, consider using a free erasure software
+tool, such as Dban (dban.org).
+4
+Monitor your credit. Each year, you are entitled to a free personal
+credit report from each of the three major credit reporting
+agencies. Monitor your credit by requesting a report every four
+months from a different reporting agency. The official site for
+this service is www.annualcreditreport.com.
+Data manipulation is the unauthorized access of a computer
+network and copying files to or from the server. This can
+be as simple as making a post on Facebook when logged in as
+someone else or as complex as feeding a company false
+reports to change its business practices. Unlike other
+cybercrimes, data manipulation can occur for months, even
+reset page 556
+-------------------------------------------- 分页分隔 --------------------------------------------
+years, without the victims being aware of the security
+breach, making it hard to detect.
+Ransomware is malicious software that encrypts your
+computer’s data and ransoms the password to the user.
+Ransomware criminals have targeted food processing plants,
+hospitals, and police stations, endangering the health and
+safety of millions. Most recently, a ransomware attack on
+the Colonial Pipeline caused fuel shortages that grounded
+airplanes and closed gas stations across the southeastern
+United States in the summer of 2021.
+Denial of service (DoS) attacks attempt to slow down or
+stop a computer system or network by flooding a computer or
+network with requests for information and data. These
+requests can come from a single computer issuing repeated
+requests. Widely used today is a variation known as
+distributed denial of service (DDoS), which coordinates
+several computers making repeated requests for service. The
+targets of these attacks are usually Internet service
+providers (ISPs) and specific websites. Once under attack,
+the servers at the ISP or the website become overwhelmed
+with these requests for service and are unable to respond
+to legitimate users. As a result, the ISP or website is
+effectively shut down.
+With cybercrime on the rise and the high-profile victims
+of cybercrime in the news, it is important to understand
+the tools the cybercriminal uses to harm his victims.
+Knowledge of these tools will help you make smarter choices
+and protect yourself from becoming a victim. The tools of
+the cybercriminal include social engineering, malicious
+software, and malicious hardware. For a summary of
+cybercrimes, see Figure 9-8.
+Type Description
+Identity Illegal assumption of
+theft someone’s identity for
+reset page 557
+-------------------------------------------- 分页分隔 --------------------------------------------
+economic gain
+Internet Scams over the Internet
+scam usually initiated by
+mass e-mail
+Data Unauthorized access to
+manipulation a computer network and
+copying of files
+Ransomware Encrypts data on a
+user’s computer and
+then ransoms password
+to access encrypted
+data
+Denial of Slows down or stops a
+service computer system or
+(DoS) network by flooding it
+with repeated requests
+for information and/or
+data
+Figure 9-8 Common cybercrimes
+concept check
+What is cybercrime?
+What are identity theft and Internet scams?
+What are data manipulation, ransomware, and denial of service attacks?
+page 225
+Social Engineering
+Often the least secure parts of a network or computer are the
+humans who work with it. Social engineering is the practice
+of manipulating people to divulge private data. For example,
+a criminal may call you at work, pretending to be an IT
+worker who needs your password and user name, or they may
+reset page 558
+-------------------------------------------- 分页分隔 --------------------------------------------
+“friend” you on social media to get access to private
+information. Social engineering has played a key role in
+identity theft, Internet scams, and data manipulation. One of
+the most common social engineering techniques is phishing
+(pronounced “fishing”). Phishing attempts to trick Internet
+users into thinking a fake but official-looking website or e-
+mail is legitimate. Phishing has grown in sophistication,
+replicating entire websites, like PayPal, to try to lure
+users into divulging their financial information.
+privacy
+Did you know that the World Wide Web contains websites purposely hidden
+from you? Some websites are designed to be hidden from standard search
+engines and allow people to communicate in a secure and anonymous
+manner. These hidden websites make up the dark web and require special
+software that makes it nearly impossible to identify who is using it.
+The ability to communicate anonymously attracts criminals who want to
+sell drugs, share child pornography, or profit from the poaching of
+endangered animals. This same anonymity allows people in countries
+where political dissent is dangerous and free speech is censored to
+communicate, plan, and organize toward a more free and open society
+without fear of jail or execution. Prior to reading this Privacy
+section, were you aware of the dark web? Do you think it should be
+stopped? Do you think it should be regulated?
+Malicious Software
+A cracker is a computer criminal who creates and distributes
+malicious programs or malware, which is short for malicious
+software. Malware is specifically designed to damage or
+disrupt a computer system. The three most common types of
+malware are viruses, worms, and Trojan horses.
+Viruses are programs that migrate through networks and
+operating systems, and mostly attach themselves to other
+programs and databases. Although some viruses are
+relatively harmless, many can be quite destructive. Once
+reset page 559
+-------------------------------------------- 分页分隔 --------------------------------------------
+activated, these destructive viruses can alter and/or
+delete files.
+Worms are programs that simply replicate themselves over
+and over again. Once active in a network, the self-
+replicating activity clogs computers and networks until
+their operations are slowed or stopped. Unlike a virus, a
+worm typically does not attach itself to a program or alter
+and/or delete files. Worms, however, can carry a virus.
+Once a virus has been deposited by a worm onto an
+unsuspecting computer system, the virus will either
+activate immediately or lie dormant until some future time.
+Trojan horses are programs that appear to be harmless;
+however, they contain malicious programs. Trojan horses are
+not viruses. Like worms, however, they can be carriers of
+viruses. The most common types of Trojan horses appear as
+free computer games and free antivirus software that can be
+downloaded from the Internet. When a user installs one of
+these programs, the Trojan horse also secretly installs a
+virus on the computer system. The virus then begins its
+mischief. Some of the most common Trojan horses claim to
+provide free antivirus programs. When a user downloads one
+of these programs, the Trojan horse first installs a virus
+that locates and disables any existing virus protection
+programs before depositing other viruses.
+Malicious Hardware
+Criminals use computer hardware to steal information, infect
+computers with malicious software, and disrupt computer
+systems. The most common malicious hardware includes zombie
+botnets, rogue Wi-Fi hotspots, and infected USB flash drives.
+Zombies are computers infected by a virus, worm, or Trojan
+horse that allows them to be remotely controlled for
+malicious purposes. A collection of zombie computers is
+known as a botnet, or robot network. Botnets harness the
+reset page 560
+-------------------------------------------- 分页分隔 --------------------------------------------
+combined power of many zombies for malicious activities
+like password cracking, denial of service attacks, or
+sending junk e-mail. Because they are formed by many
+computers distributed across the Internet, botnets are hard
+to shut down even after they are detected. Unfortunately
+for individual computer owners, it also can be difficult to
+detect when a personal computer has been compromised.
+Rogue Wi-Fi hotspots imitate free Wi-Fi networks. These
+rogue networks operate close to the legitimate free
+hotspots and typically provide stronger signals that many
+users unsuspectingly connect to. Once connected, the rogue
+networks capture any and all information sent by page 226
+the users to legitimate sites, including user names
+and passwords.
+Infected USB flash drives contain viruses and other
+malicious software. Crackers typically leave these drives
+in public spaces in the hope that others will find them,
+plug them into their computer, and become infected.
+Infected drives have also been found distributed for free
+at conferences and slipped into people’s mailboxes.
+concept check
+What is social engineering? What is phishing?
+What is malicious software? A cracker? Viruses? Worms? Trojan horses?
+What is malicious hardware? Zombies? Botnets? Rogue Wi-Fi hotspots?
+Infected USB flash drives?
+Measures to Protect Computer Security
+There are numerous ways in which computer systems and data
+can be compromised and many ways to ensure computer security.
+The Computer Fraud and Abuse Act makes it a crime for
+unauthorized persons even to view—let alone copy or damage—
+data using any computer across state lines. It also prohibits
+reset page 561
+-------------------------------------------- 分页分隔 --------------------------------------------
+unauthorized use of any government computer or a computer
+used by any federally insured financial institution.
+Offenders can be sentenced up to 20 years in prison and fined
+up to $100,000. However, the best protection for computer
+security is to be prepared. Some of the principal measures to
+ensure computer security are restricting access, encrypting
+data, anticipating disasters, and preventing data loss.
+Restricting Access Security experts are constantly devising
+ways to protect computer systems from access by unauthorized
+persons. Sometimes security is a matter of putting guards on
+company computer rooms and checking the identification of
+everyone admitted. However, the most common way to restrict
+access is the use of a password. Passwords are secret words
+or phrases (including numbers, letters, and special
+characters) that must be keyed into a computer system to gain
+access. For many applications on the web, users assign their
+own passwords.
+tips
+Security professionals warn that most people use passwords that
+are too easily guessed. They categorize passwords as weak
+(easily guessed) or strong (difficult to guess). A weak
+password can be guessed in a matter of seconds; a strong one
+would take years to crack. Make sure you have a strong password
+by employing the following tips when creating a password.
+1
+Use a password with at least eight characters. The fewer the
+characters, the easier it is to guess.
+2
+Do not use your user name, real name, or company name in your
+password. The first thing a cracker will try is variations of your
+personal information.
+3
+Do not use a complete word. Using a computer, a cracker can easily
+try every word in the dictionary as a password guess.
+reset page 562
+-------------------------------------------- 分页分隔 --------------------------------------------
+4
+Do not reuse passwords. If a user’s password for one account is
+compromised, crackers will attempt to use that password on the
+user’s other accounts.
+5
+Create a password that contains at least one of each of the
+following characters: uppercase letter, lowercase letter, number,
+and symbol.
+The strength of a password depends on how easily it can be
+guessed. A dictionary attack uses software to try thousands
+of common words sequentially to gain unauthorized access to a
+user’s account. For this reason, words, names, and simple
+numeric patterns make weak or poor passwords. Strong
+passwords have at least eight characters and use a
+combination of letters, numbers, and symbols.
+Newer technology allows access to be restricted by
+passwords that do not require secret words or phrases.
+Windows 10 includes an application, Picture page 227
+Password, that accepts a series of gestures over
+a picture of the user’s choice to gain access. Other times,
+biometric scanning devices such as fingerprint and iris (eye)
+scanners are used to access restricted data. (See Figure 9-
+9.) Numerous applications use face recognition to allow
+access to a computer system. For example, Microsoft’s
+Windows 11 and Apple’s iOS 15 include facial recognition
+software, which uses specialized cameras to identify users
+and automatically log them in. There are also several face
+recognition apps for mobile devices, including True Key by
+McAfee and Intel Security Group.
+reset page 563
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 9-9 Biometric scanning devices
+(left): Prostock-studio/Shutterstock (right): Michael Dwyer/Alamy Stock Photo
+ethics
+When you lock your cell phone, it encrypts your data so that no one
+else can see your data without unlocking your phone. This also allows
+criminals to hide information on their cell phones from the police.
+Some software companies have discovered flaws in cell phone security
+and sell software that exploit these flaws and break open locked cell
+phones. U.S. law enforcement agencies have used this software to break
+open criminals’ cell phones.
+Unfortunately this software is also purchased and used by dictators
+and tyrants to spy on their populace and imprison political dissenters.
+Does a company that discovers a security flaw have an ethical
+responsibility to not exploit the flaw, but instead work with cell
+phone companies to eliminate the flaw? Should there be limitations on
+the tools U.S. agencies can purchase, if that purchase helps a company
+that helps dictators?
+As mentioned in previous chapters, individuals and
+organizations use a variety of ways to perform and automate
+important security tasks:
+Security suites provide a collection of utility programs
+designed to protect your privacy and security while you are
+reset page 564
+-------------------------------------------- 分页分隔 --------------------------------------------
+on the web. These programs alert users when certain kinds
+of viruses and worms enter their system. Two of the most
+widely used are Avast! Free Antivirus and Microsoft Windows
+Defender. Unfortunately, new viruses are being developed
+all the time, and not all viruses can be detected. The best
+way to stay current is through services that keep track of
+viruses on a daily basis. For example, Symantec, McAfee,
+and Microsoft all track the most serious virus threats.
+(See Figure 9-10.)
+Firewalls act as a security buffer between a corporation’s
+private network and all external networks, including the
+Internet. All electronic communications coming into and
+leaving the corporation must pass through the company’s
+firewall, where they are evaluated. Security is maintained
+by denying access to unauthorized communications.
+Password managers help you create strong passwords.
+Additionally, they will store all your passwords in one
+location and automatically provide the appropriate password
+when requested from one of your favorite sites. This avoids
+many of the mistakes people make in generating and
+remembering passwords. However, this master list of
+passwords is protected by one ”master” password. If you
+forget or reveal this master password, you open yourself up
+to considerable risk.
+Authentication is the process of ensuring the page 228
+identity of a user. When you enter a password to
+gain access to a site, that is a single authentication of
+your identity. For added security, some security systems
+require multiple authentications. Two-factor
+authentication uses two types (or factors) of data to
+verify your identity. These types of data include knowledge
+(such as a password or the answer to a security question),
+possession (such as your cell phone or credit card), and
+biometric data (such as a finger print or voice print).
+Two-step authentication uses one type of authentication
+reset page 565
+-------------------------------------------- 分页分隔 --------------------------------------------
+twice (such as asking for two knowledge-based
+authentications such as a password and the answer to a
+security question). While both types are more secure that a
+single authenication, two-factor authentication is
+considered more secure than two-step authentication—and
+both are more secure than a single authentication.
+Figure 9-10 Tracking viruses
+Microsoft Corporation
+tips
+Has your cell phone ever been lost or stolen? If so, then you
+not only are without the device, but you also have lost any
+data (photos, contact lists, etc.). To avoid this, you need to
+take some action before your cell phone goes missing. Consider
+the following suggestions.
+1
+Find your phone. Set up your phone so that you can see a map of
+where your phone is and remotely turn on an alarm, secure the
+device, and even erase the contents of your cell phone.
+For Android cell phones: Click on the Settings icon from the
+home screen and then choose Security & Lock Screen and Device
+reset page 566
+-------------------------------------------- 分页分隔 --------------------------------------------
+administrators. Finally, tap on Find My Device. If your phone
+goes missing, go to android.com/find to find or remotely secure
+your device.
+For iOS cell phones: Click on the Settings icon from the home
+screen and then select your Apple ID at the top of the screen.
+Select iCloud and turn on the button for Find My iPhone. If
+your phone goes missing, sign in to icloud.com/find to find or
+remotely secure your device.
+2
+Back up your phone. Automatically back up your cell phone data to
+the cloud, so even if you cannot recover your phone, your data
+will not be lost. To enable these features, you will need an
+iCloud or Google Drive account.
+For Android cell phones: Click on the Settings icon from the
+home screen and then choose Backup. Turn on the button for
+Backup to Google Drive.
+For iOS cell phones: Click on the Settings icon from the home
+screen and then select your Apple ID at the top of the screen.
+Select iCloud and turn on the button for iCloud Backup.
+Encrypting Data Whenever information is sent over a network
+or stored on a computer system, the possibility of
+unauthorized access exists. The solution is encryption, the
+process of coding information to make it unreadable except to
+those who have a special piece of information known as an
+encryption key, or, simply, a key. Some common uses for
+encryption include
+E-mail encryption: Protects e-mail messages as they move
+across the Internet. One of the most widely used personal
+e-mail encryption programs is Pretty Good Privacy. (See
+Figure 9-11.)
+File encryption: Protects sensitive files by encrypting
+them before they are stored on a hard drive. Files can be
+encrypted individually, or specialized software can be used
+to encrypt all files automatically each time they page 229
+are saved to a certain hard drive location. (See
+Figure 9-12.)
+reset page 567
+-------------------------------------------- 分页分隔 --------------------------------------------
+Website encryption: Secures web transactions, especially
+financial transactions. Web pages that accept passwords or
+confidential information like a credit card number are
+often encrypted.
+As we discussed in Chapters 2 and 8, https (hypertext
+transfer protocol secure) is the most widely used Internet
+protocol. This protocol requires that the browser and the
+connecting site encrypt all messages, providing a safer and
+more secure transmission.
+Virtual private networks: Virtual private networks (VPNs)
+encrypt connections between company networks and remote
+users such as workers connecting from home. This connection
+creates a secure virtual connection to a company LAN across
+the Internet.
+Wireless network encryption: Restricts access to page 230
+authorized users on wireless networks. WPA2 (Wi-Fi
+Protected Access) is the most widely used wireless network
+encryption for home wireless networks. WPA2 is typically
+established for a wireless network through the network’s
+wireless router. Although the specifics vary between
+routers, WPA2 is usually set through the router’s settings
+options.
+reset page 568
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 9-11 Encrypted e-mail
+Enigmail
+reset page 569
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 9-12 File encryption
+Apple, Inc.
+Anticipating Disasters Companies (and even individuals)
+should prepare themselves for disasters. Physical security is
+concerned with protecting hardware from possible human and
+natural disasters. Data security is concerned with protecting
+software and data from unauthorized tampering or damage. Most
+large organizations have disaster recovery plans describing
+ways to continue operating until normal computer operations
+can be restored.
+Preventing Data Loss Equipment can always be replaced. A
+company’s data, however, may be irreplaceable. Most
+companies have ways of trying to keep software and data from
+being tampered with in the first place. They include careful
+screening of job applicants, guarding of passwords, and
+auditing of data and programs from time to time. Some systems
+use redundant storage to prevent loss of data even when a
+hard drive fails. We discussed RAID in Chapter 7, which is a
+reset page 570
+-------------------------------------------- 分页分隔 --------------------------------------------
+commonly used type of redundant storage. Backup batteries
+protect against data loss due to file corruption during
+unexpected power outages.
+Making frequent backups of data is essential to prevent
+data loss. Backups are often stored at an off-site location
+to protect data in case of theft, fire, flood, or other
+disasters. Students and others often use flash drives and
+cloud storage, as discussed in Chapter 7, to back up homework
+and important papers. Incremental backups store multiple
+versions of data at different points in time to prevent data
+loss due to unwanted changes or accidental deletion.
+To see what you should do to protect yourself, see Making
+IT Work for You: Security and Technology on pages 232–233.
+See Figure 9-13 for a summary of the different measures to
+protect computer security.
+Measure Description
+Restricting access Limit access to authorized persons
+using such measures as passwords,
+picture passwords, and biometric
+scanning.
+Encrypting data Code all messages sent over a network.
+Anticipating Prepare for disasters by ensuring
+disasters physical security and data security
+through a disaster recovery plan.
+Preventing data loss Routinely copy data and store it at a
+remote location.
+Figure 9-13 Measures to protect computer security
+concept check
+Define each of the following: password, dictionary attack, Picture
+Password, biometric scanning, facial recognition, security suite,
+firewall, and password manager.
+What are encryption and an encryption key? What is https? What is a
+reset page 571
+-------------------------------------------- 分页分隔 --------------------------------------------
+VPN? WPA2?
+Define physical security, data security, and disaster recovery plans.
+Describe how to prevent data loss.
+page 231
+Ethics
+New technologies create new opportunities and interactions
+for everyone. For a criminal, these new opportunities may
+include new computer crimes to commit. For a police officer,
+this means new cybercrime laws and new ways to serve and
+protect. As we explore the impact of digital identities and
+digital lives, we must reexamine our standards of moral
+conduct, or ethics, in the context of these new opportunities
+and interactions. Computer ethics are guidelines for the
+morally acceptable use of computers in our society. Ethical
+treatment is critically important to us all, and we are all
+entitled to ethical treatment. This includes the right to
+keep personal information, such as credit ratings and medical
+histories, from getting into unauthorized hands. These
+issues, largely under the control of corporations and
+government agencies, were covered earlier in this chapter,
+and many more have been addressed in the Ethics boxes
+throughout this book. Now we’ll examine three important
+issues in computer ethics where average users have a role to
+play.
+Cyberbullying
+A fairly recent and all-too-common phenomenon, cyberbullying
+is the use of the Internet to send or post content intended
+to hurt or embarrass another person. Although not always a
+crime, it can lead to criminal prosecution. Cyberbullying
+reset page 572
+-------------------------------------------- 分页分隔 --------------------------------------------
+includes sending repeated unwanted e-mails to an individual
+who has stated that he or she wants no further contact with
+the sender, ganging up on victims in electronic forums,
+posting false statements designed to injure the reputation of
+another, maliciously disclosing personal data about a person
+that could lead to harm to that person, and sending any type
+of communication that is threatening or harassing. Never
+participate in cyberbullying, and discourage others from
+participating in this dangerous and hateful activity. If you
+or someone you know is the victim of cyberbullying, go to
+stopbullying.gov for help and advice.
+Copyright and Digital Rights Management
+A copyright is a legal concept that gives content creators
+the right to control use and distribution of their work.
+Materials that can be copyrighted include paintings, books,
+music, films, and even video games. Some users choose to make
+unauthorized copies of digital media, which violates
+copyright. For example, making an unauthorized copy of a
+digital music file for a friend might be a copyright
+violation.Software
+piracy is the unauthorized copying and/or
+distribution of software. According to a recent study,
+software piracy costs the software industry over $60 billion
+annually. To prevent copyright violations, corporations often
+use digital rights management (DRM). DRM encompasses various
+technologies that control access to electronic media and
+files. Typically, DRM is used to (1) control the number of
+devices that can access a given file and (2) limit the kinds
+of devices that can access a file. Although some companies
+see DRM as a necessity to protect their rights, some users
+feel they should have the right to use the media they buy—
+including movies, music, software, and video games—as they
+choose.
+reset page 573
+-------------------------------------------- 分页分隔 --------------------------------------------
+ethics
+Net neutrality is the policy that ISPs should deliver all data to
+customers at the same speed, regardless of the content. Opponents of
+net neutrality would allow ISPs to charge companies to deliver some
+websites faster, arguing that ISPs should be allowed to charge however
+they like. Proponents of net neutrality argue that the Internet has
+always had equal and unbiased access to information and that allowing
+ISPs to vary access to websites based on content is a new form of
+censorship. What do you think? Is net neutrality an important defense
+of Internet freedom of speech, or is it government overreach looking to
+hinder free markets?
+The Digital Millennium Copyright Act makes it illegal to
+deactivate or otherwise disable any antipiracy technologies,
+including DRM technologies. The act also establishes that
+copies of commercial programs may not be legally resold or
+given away. It further makes it a crime to sell or to use
+programs or devices that are used to illegally copy software.
+This may come as a surprise to those who copy software,
+movies, or music from a friend or from the Internet. The law
+is clear: It is illegal to copy or download copyright-
+protected music and videos from the Internet without
+appropriate authorization.
+Today, there are many legal sources for digital media.
+Television programs can be watched online, often for free, on
+television-network-sponsored sites. Sites like page 232
+Pandora allow listeners to enjoy music at no cost.
+There are several online stores for purchasing music and
+video content. A pioneer in this area is Apple’s iTunes
+Music Store. (See Figure 9-14.)
+reset page 574
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 9-14 iTunes Music Store
+Apple, Inc.
+Making IT work for you
+SECURITY AND TECHNOLOGY
+The news is filled with instances of cybercrime. From
+hacked e-mail to stolen identities, it’s a dangerous
+digital world. Thankfully, there are a lot of precautions
+you as an individual can and should take to make sure that
+you aren’t the victim of high-tech criminals.
+reset page 575
+-------------------------------------------- 分页分隔 --------------------------------------------
+Here are some guidelines for keeping yourself safe from computer
+crime.
+Update software
+Your operating system, web browser, and applications are constantly
+improving to reduce the risk of malware infection. Be sure that your
+devices are up to date. Look into the setting of your PC, tablet, and
+phone—most devices have the option to check for software updates and
+to opt in to automatically updating software.
+Apple Inc.
+Regularly back up your data
+Criminals may infect your computer with ransomeware—software that
+encrypts your data and demands a payment for the password to get the
+data back. Without regular backups, you may lose data that can’t be
+replaced—precious photos, important documents, and months of work on
+projects. However, with a backup, you can restore your data within
+minutes. Most operating systems offer automated cloud backups that are
+easy to set up and effortless once in place.
+Be careful when browsing
+Always think before you click. Don’t download software from sites you
+are not familiar with or don’t trust. Don’t assume that a pop-up
+alert or warning is legitimate—scams and malware are often disguised
+as legitimate plug-ins or updates. When updating software, use the
+operating system’s app store.
+reset page 576
+-------------------------------------------- 分页分隔 --------------------------------------------
+Backblaze
+Be alert to e-mail scams
+E-mail scammers are notorious for trying to get people to send them
+personal information that is then used to steal identities (phishing).
+If you get an e-mail requesting money, a credit card number, a Social
+Security number, a password, or any other personal information—be
+very cautious—most reputable institutions will not request such
+information by e-mail. Further, be careful opening e-mail or
+attachments from strangers—this is a common way to spread Internet
+viruses.
+Use antivirus software
+page 233
+There are many free or inexpensive antivirus software packages
+available. Be sure to update the antivirus software regularly (or
+automate the update process) to make sure the software is up to date.
+reset page 577
+-------------------------------------------- 分页分隔 --------------------------------------------
+Google, INC.
+Set up strong passwords
+Common passwords, such as “password” or “love,” are a criminal’s
+best friend. To make your passwords as secure as possible, do not use
+common words or phrases and use a combination of lowercase and
+uppercase letters, symbols, and numbers. You can also have secure
+passwords suggested to you by a password management system—macOS
+comes with Keychain and Internet browsers Google Chrome and Microsoft
+Edge include password managers.
+Protect against data breaches
+A data breach is when criminals break into a company’s database and
+sell or leak the account information found there. To reduce the risk
+of having your accounts infiltrated by hackers, frequently change your
+passwords, and do not reuse the same password on multiple accounts.
+Enable two-factor authentication
+Most security-minded applications or websites have the option for two-
+factor authentication, especially online banking, financial services,
+webmail, social media sites, and cloud services. However, you must
+often go the extra step of enabling this process. Two-factor
+authentication is one of the best ways to ensure that your privacy and
+identity remain secure.
+reset page 578
+-------------------------------------------- 分页分隔 --------------------------------------------
+page 234
+ethics
+Do you know of anyone who has copied parts of a web page from a variety
+of sites and combined the parts to form a term paper? Of course, such a
+practice is unethical and most likely illegal. Many schools and
+universities now use a program that can compare the content of a
+student’s paper to published material on the web and to previously
+submitted papers. Do you think it is ethical for instructors to employ
+a program that checks for plagiarism? Is there a risk that the program
+may confuse proper citations from the web with obvious cases of
+plagiarism?
+Plagiarism
+Another ethical issue is plagiarism, which means representing
+some other person’s work and ideas as your own without
+giving credit to the original source. Although plagiarism was
+a problem long before the invention of computers, computer
+technology has made plagiarism easier. For example, simply
+cutting and pasting content from a web page into a report or
+paper may seem tempting to an overworked student or employee.
+Correspondingly, computer technology has made it easier
+than ever to recognize and catch plagiarists. For example,
+services such as Turnitin are dedicated to preventing
+Internet plagiarism. This service will examine the content of
+a paper and compare it to a wide range of known public
+electronic documents, including web page content. In this
+way, Turnitin can identify an undocumented paper or even
+parts of an undocumented paper. (See Figure 9-15.)
+reset page 579
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 9-15 Turnitin website
+Turnitin
+concept check
+What is the distinction between ethics and computer ethics?
+Define copyright, software privacy, digital rights management, and the
+Digital Millennium Copyright Act.
+What is cyberbullying? What is plagiarism? What is Turnitin and what
+does it do?
+page 235
+Careers in IT
+“Now
+that you have learned about privacy, security, and
+ethics, let me tell you about my career as an IT security
+reset page 580
+-------------------------------------------- 分页分隔 --------------------------------------------
+analyst.”
+Ariel Skelley/Getty Images
+IT security analysts are responsible for maintaining the
+security of a company’s networks, systems, and data. Their
+goal is to ensure the confidentiality, integrity, and
+availability of information. These analysts must safeguard
+information systems against a variety of external threats,
+such as crackers and viruses, as well as be vigilant of
+threats that may come from within the company.
+Employers typically look for candidates with a
+bachelor’s or associate’s degree in information systems
+or computer science. Experience in this field or in network
+administration is usually required. IT security analysts
+should possess good communication and research skills and
+be able to handle high-stress situations.
+IT security analysts can expect to earn an annual salary
+of $49,000 to $99,000. Opportunities for advancement
+typically depend on experience. Demand for this position is
+expected to grow as malware, crackers, and other types of
+threats become more complex and prevalent.
+page 236
+reset page 581
+-------------------------------------------- 分页分隔 --------------------------------------------
+A LOOK TO THE FUTURE
+End of Anonymity
+Do you use the Internet anonymously? Do you post photos or tweet without
+revealing your name? Some people anonymously post horrible, dangerous, and
+even criminal things on the Internet. Should anonymity protect us and
+others from public scrutiny and possible criminal prosecution? Should we
+sacrifice some or all of our anonymity for a safer, more civil discourse
+on the web?
+Have you ever thought about how your digital actions might be linked to
+your real-world life? Imagine a future where your digital and real-world
+lives blend, and neither has space for anonymous interaction. The Internet
+has always had a challenging relationship with anonymity. Free speech
+advocates praise anonymous speech, allowing citizens in oppressive regimes
+to meet and share ideas without fear of government reprisal. In contrast,
+security advocates argue that the same tools that allow for free speech in
+dictatorships also allow terrorists to plan attacks against democracies.
+In the future, we are likely to see an ever-decreasing level of anonymity.
+Companies and Internet service providers already buy and sell your web
+browsing habits and online purchase history to better advertise and sell
+things to you. In the future, your browsing habits will likely follow you
+into the real world, and your real-world actions will filter into your
+digital persona.
+HQuality/Shutterstock
+reset page 582
+-------------------------------------------- 分页分隔 --------------------------------------------
+In the future, when you visit a mall, security cameras will recognize
+you and track your path using facial recognition and update your online
+identity. This personal digital footprint will be continuously updated
+based on social media postings, Internet browsing history, and credit card
+purchases. Sensors in your clothes will tell stores what brands you like
+and how much you spend.
+Imagine, as computers analyze your path through the mall, a link is
+made between your recent social media posts about your new exercise
+routine. A sporting goods store just three shops ahead of you takes
+notice. Instantly, your cell phone buzzes with a coupon for the store with
+25 percent off for first-time customers. It may seem like coincidence, but
+in a world without anonymity, there is no coincidence.
+As you return home with your new treadmill, the sporting goods store
+posts to your Facebook wall, congratulating you on your first steps to a
+healthier you. It offers each of your Facebook friends a 20 percent off
+coupon to join you in making healthy life choices. Your Internet-connected
+treadmill posts your fitness progress on Twitter, describing the duration
+and intensity of your workouts. Your web-connected scale shows the pounds
+coming off. Your health insurance company, monitoring your scale’s
+recordings, gives you a discount on your insurance rates based on your
+lower weight. Your boss sees your treadmill posts and praises you at the
+next meeting, encouraging other employees to learn from your example and
+improve their lives through discipline and effort. However, this raises
+the question: What will your boss think if you stop running on the
+treadmill? Can you afford to add pounds on the scale if your insurance
+rates will skyrocket? What do you think: Is this world without anonymity
+better?
+page 237
+Privacy, Security,
+VISUAL SUMMARY
+and Ethics
+PRIVACY
+reset page 583
+-------------------------------------------- 分页分隔 --------------------------------------------
+Acxiom
+The three primary privacy issues: accuracy, property,
+access.
+Big Data
+The ever-growing volume of data collected about us is
+often referred to as big data. Information resellers
+(information brokers) collect and sell personal data.
+Mistaken identity occurs when the digital footprint
+of one person is switched with another. The Freedom of
+Information Act entitles individuals access to
+governmental records relating to them.
+Private Networks
+Many organizations monitor employee e-mail and computer
+files using special software called employee-monitoring
+software.
+The Internet and the Web
+Many people believe that, while using the web, little can
+be done to invade their privacy. This is called the
+illusion of anonymity. The deep web is comprised of
+websites that are hidden from standard search engines and
+provide secure and anonymous communication. The dark web
+is a part of the deep web comprised of sites that use
+reset page 584
+-------------------------------------------- 分页分隔 --------------------------------------------
+special software to hide their IP addresses, making it
+nearly impossible to identify who is using it.
+PRIVACY
+Piotr Swat/Shutterstock
+Information stored by browsers includes history files
+(record of sites visited) and temporary Internet files
+or browser cache (contain website content and display
+instructions). Cookies store and track information.
+Privacy mode (Private browsing) ensures that your
+browsing activity is not recorded.
+Spyware secretly records and reports Internet
+activities. Keyloggers (one type of computer monitoring
+software) records every activity and keystroke.
+Antispyware (spy removal programs) detects and removes
+various privacy threats.
+Online Identity
+Many people post personal information and sometimes
+intimate details of their lives without considering the
+consequences. This creates an online identity. With the
+archiving and search features of the web, this identity
+reset page 585
+-------------------------------------------- 分页分隔 --------------------------------------------
+is indefinitely available to anyone who cares to look for
+it.
+Major Laws on Privacy
+The Gramm-Leach-Bliley Act protects personal financial
+information, the Health Insurance Portability and
+Accountability Act (HIPAA) protects medical records, and
+the Family Educational Rights and Privacy Act (FERPA)
+restricts disclosure of educational records.
+page 238
+To efficiently and effectively use computers, you need
+to be aware of the potential impact of technology on
+people. You need to be sensitive to and knowledgeable
+about personal privacy, organizational security, and
+ethics.
+SECURITY
+Michael Dwyer/Alamy Stock Photo
+Computer security focuses on protecting information,
+hardware, and software from unauthorized use as well as
+reset page 586
+-------------------------------------------- 分页分隔 --------------------------------------------
+preventing damage from intrusions, sabotage, and natural
+disasters.
+Cybercrime
+Cybercrime (computer crime) is a criminal offense
+involving a computer or network. (Cyberterrorism is a
+politically motivated cybercrime.) Some types of
+cybercrime are identity theft, Internet scams, data
+manipulation, ransomware, denial of service (DoS)
+attack, and distributed denial of service (DDoS)
+attack.
+Social Engineering
+Social engineering is the practice of manipulating
+people to divulge private data. Phishing attempts to
+trick people into believing a fake website is real.
+Malicious Software
+Crackers create and distribute malware (malicious
+software). The three most common types are
+Viruses migrate through networks and operating
+systems; can alter and/or delete files.
+Worms repeatedly replicate themselves, clogging
+computers and networks.
+Trojan horses appear harmless but contain malicious
+programs.
+SECURITY
+Malicious Hardware
+Cyber criminals can use computer hardware to steal
+information. Three types of malicious hardware:
+reset page 587
+-------------------------------------------- 分页分隔 --------------------------------------------
+Zombies—remotely controlled computers used for
+malicious purposes; a collection is known as a botnet
+(robot network).
+Rogue Wi-Fi hotspots—network that appears to be a
+legitimate free Wi-Fi hotspot. Once connected, any
+input by users is captured.
+Infected USB flash drives—USB drives that are often
+free that contain a virus.
+Measures to Protect Computer Security
+The Computer Fraud and Abuse Act makes it a crime for
+unauthorized persons to view data across state lines
+using computers and prohibits unauthorized use of
+computers owned by government or federally insured
+financial institution. Ways to protect computer security
+include limiting access, encrypting, and anticipating
+disasters.
+Access can be restricted through biometric scanning
+devices and passwords (dictionary attacks use
+thousands of words to attempt to gain access; Picture
+Password uses series of gestures; facial recognition
+limits access); security suites, firewalls, password
+managers, and authentication (two-factor
+authentication uses two types of data to verify your
+identity; two-step authentication uses one type of
+authentication twice).
+Encrypting is coding information to make it unreadable
+except to those who have the encryption key. Hypertext
+transfer protocol secure (https) requires browsers and
+websites to encrypt all messages. Virtual private
+networks (VPNs) encrypt connections between company
+networks and remote users. WPA2 (Wi-Fi Protected
+Access) is the most widely used wireless network
+encryption for home wireless networks.
+reset page 588
+-------------------------------------------- 分页分隔 --------------------------------------------
+Anticipating disasters involves physical security, data
+security, and disaster recovery plans.
+Preventing data loss involves protecting data by
+screening job applicants, guarding passwords, and
+auditing and backing up data.
+page 239
+ETHICS
+Apple, Inc.
+What do you suppose controls how computers can be used?
+You probably think first of laws. Of course, that is
+right, but technology is moving so fast that it is very
+difficult for our legal system to keep up. The essential
+element that controls how computers are used today is
+ethics.
+Computer ethics are guidelines for the morally
+acceptable use of computers in our society. We are all
+entitled to ethical treatment. This includes the right to
+reset page 589
+-------------------------------------------- 分页分隔 --------------------------------------------
+keep personal information, such as credit ratings and
+medical histories, from getting into unauthorized hands.
+Cyberbullying
+Cyberbullying is the use of the Internet to send or post
+content intended to hurt or embarrass another person. It
+includes sending repeated unwanted e-mails to an
+individual, ganging up on victims in electronic forums,
+posting false statements, maliciously disclosing personal
+data, and sending any type of threatening or harassing
+communication. It can lead to criminal prosecution.
+Copyright and Digital Rights Management
+A copyright is a legal concept that gives content
+creators the right to control use and distribution of
+their work. Materials that can be copyrighted include
+paintings, books, music, films, and even video games.
+Software piracy is the unauthorized copying and
+distribution of software. The software industry loses
+over $60 billion annually to software piracy. Two related
+topics are the Digital Millennium Copyright Act and
+digital rights management.
+The Digital Millennium Copyright Act makes it illegal
+to deactivate or disable antipiracy technologies; to
+copy, resell, or give away commercial programs; or to
+sell or use programs or devices that are illegally
+copying software.
+ETHICS
+reset page 590
+-------------------------------------------- 分页分隔 --------------------------------------------
+Turnitin
+Digital rights management (DRM) is a collection of
+technologies designed to prevent copyright violations.
+Typically, DRM is used to (1) control the number of
+devices that can access a given file and (2) limit the
+kinds of devices that can access a file.
+Today, many legal sources for digital media exist,
+including
+Television programs that can be watched online, often
+for free, on television-network-sponsored sites.
+Sites like Pandora that allow listeners to enjoy music
+at no cost.
+Online stores that legally sell music and video
+content. A pioneer in this area is Apple’s iTunes
+Music Store.
+Plagiarism
+Plagiarism is the illegal and unethical representation
+of some other person’s work and ideas as your own
+without giving credit to the original source. Examples
+include cutting and pasting web content into a report or
+paper.
+Recognizing and catching plagiarists is relatively
+easy. For example, services such as Turnitin are
+reset page 591
+-------------------------------------------- 分页分隔 --------------------------------------------
+dedicated to preventing Internet plagiarism. This service
+examines a paper’s content and compares it to a wide
+range of known public electronic documents including web
+page content. Exact duplication or paraphrasing is
+readily identified.
+CAREERS in IT
+IT security analysts are responsible for maintaining the
+security of a company’s network, systems, and data.
+Employers look for candidates with a bachelor’s or
+associate’s degree in information systems or computer
+science and network experience. Expected salary range is
+$49,000 to $99,000.
+page 240
+KEY TERMS
+access (217)
+accuracy (217)
+antispyware (222)
+authentication (228)
+big data (217)
+biometric scanning (227)
+botnet (225)
+browser cache (220)
+computer crime (223)
+reset page 592
+-------------------------------------------- 分页分隔 --------------------------------------------
+computer ethics (231)
+Computer Fraud and Abuse Act (226)
+computer monitoring software (221)
+cookie (220)
+copyright (231)
+cracker (225)
+cyberbullying (231)
+cybercrime (223)
+cyberterrorism (223)
+dark web (219)
+data manipulation (224)
+data security (230)
+deep web (219)
+denial of service (DoS) attack (224)
+dictionary attack (226)
+digital footprint (217)
+Digital Millennium Copyright Act (231)
+digital rights management (DRM) (231)
+disaster recovery plan (230)
+distributed denial of service (DDoS) (224)
+employee-monitoring software (219)
+encryption (228)
+encryption key (228)
+ethics (231)
+facial recognition (227)
+Family Educational Rights and Privacy Act (FERPA) (223)
+firewall (227)
+first-party cookie (220)
+Freedom of Information Act (219)
+reset page 593
+-------------------------------------------- 分页分隔 --------------------------------------------
+Gramm-Leach-Bliley Act (223)
+Health Insurance Portability and Accountability Act
+(HIPAA) (223)
+history file (219)
+https (hypertext transfer protocol secure) (229)
+identity theft (223)
+illusion of anonymity (219)
+Incognito Mode (221)
+infected USB flash drive (226)
+information broker (217)
+information reseller (217)
+Internet scam (223)
+IT security analyst (235)
+key (228)
+keylogger (222)
+malware (malicious software) (225)
+mistaken identity (218)
+online identity (222)
+password (226)
+password manager (227)
+phishing (225)
+physical security (230)
+Picture Password (227)
+plagiarism (234)
+plagiarist (234)
+privacy (217)
+privacy mode (221)
+Private Browsing (221)
+property (217)
+reset page 594
+-------------------------------------------- 分页分隔 --------------------------------------------
+ransomware (224)
+robot network (225)
+rogue Wi-Fi hotspot (225)
+security (223)
+security suite (227)
+social engineering (225)
+software piracy (231)
+spy removal program (222)
+spyware (221)
+temporary Internet file (220)
+third-party cookie (220)
+tracking cookie (220)
+Trojan horse (225)
+two-factor authentication (228)
+two-step authentication (228)
+virtual private network (VPN) (229)
+virus (225)
+web bug (221)
+wireless network encryption (230)
+worm (225)
+WPA2 (Wi-Fi Protected Access 2) (230)
+zombie (225)
+page 241
+MULTIPLE CHOICE
+reset page 595
+-------------------------------------------- 分页分隔 --------------------------------------------
+Circle the correct answer.
+1. Privacy concern that relates to the responsibility to
+ensure correct data collection.
+a. accuracy
+b. access
+c. history
+d. identity
+2. Individuals who collect and sell personal data.
+a. information brokers
+b. Trojan horses
+c. phishers
+d. DRM
+3. Small data files deposited on your hard disk from
+websites you have visited.
+a. digital footprints
+b. online identities
+c. cookies
+d. crackers
+4. Wide range of programs that secretly record and report
+an individual’s activities on the Internet.
+a. spyware
+b. viruses
+c. zombies
+d. web bugs
+5. Malicious programs that damage or disrupt a computer
+system.
+a. zombies
+b. malware
+c. cookies
+reset page 596
+-------------------------------------------- 分页分隔 --------------------------------------------
+d. firewalls
+6. Infected computers that can be remotely controlled.
+a. Trojan horses
+b. zombies
+c. crackers
+d. WPA2
+7. Used by scammers to trick Internet users with official-
+looking websites.
+a. online identity
+b. history file
+c. phishing
+d. Trojan horse
+8. A type of scanning device such as fingerprint and iris
+(eye) scanner.
+a. phishing
+b. biometric
+c. firewall
+d. web bug
+9. Process of coding information to make it unreadable
+except to those who have a key.
+a. phishing
+b. spyware
+c. dark web
+d. encryption
+10. An ethical issue relating to using another person’s
+work and ideas as your own without giving credit to the
+original source.
+a. phishing
+b. identity theft
+c. key logging
+reset page 597
+-------------------------------------------- 分页分隔 --------------------------------------------
+d. plagiarism
+page 242
+MATCHING
+Match each numbered item with the most closely related
+lettered item. Write your answers in the spaces provided.
+a. acce ss 1. Special hardware and
+b. digital software used to
+control access to a
+footprints
+corporation’s private
+c. history file
+network is known as
+d. privacy
+a(n) .
+e. online
+2. The information that
+identity
+people voluntarily
+f. crackers post in social
+g. Trojan horses networking sites,
+blogs, and photo- and
+h. cyberbullying
+video-sharing sites is
+i. firewall
+used to create their
+j. DRM .
+3. Browsers store the
+locations of sites
+vis ited in a .
+4. The browser mode
+that ensures your
+reset page 598
+-------------------------------------------- 分页分隔 --------------------------------------------
+browsing activity is
+not recorded.
+5. Highly detailed and
+personalized
+descriptions of
+individuals are
+e lectronic .
+6. To prevent copyright
+violations,
+corporations often use
+.
+7. The use of the
+Internet to send or
+post content intended
+to hurt or embarrass
+another person is
+known as .
+8. Computer criminals
+who create and
+distribute malicious
+programs.
+9. Programs that come
+into a computer system
+disguised as something
+else are called
+.
+10. The three primary
+privacy issues are
+accuracy, property,
+and .
+reset page 599
+-------------------------------------------- 分页分隔 --------------------------------------------
+page 243
+OPEN-ENDED
+On a separate sheet of paper, respond to each question or
+statement.
+1. Define privacy, and discuss the impact of large
+databases, private networks, the Internet, and the web.
+2. Define and discuss online identity and the major privacy
+laws.
+3. Define security. Define cybercrime, social engineering,
+malicious software, and malicious hardware including
+identity theft, Internet scams, data manipulation,
+ransomware, DoS attacks, viruses, worms, Trojan horses,
+zombies, rogue Wi-Fi hotspots, and infected USB flash
+drives.
+4. Discuss ways to protect computer security including
+restricting access, encrypting data, anticipating
+disasters, and preventing data loss.
+5. Define computer ethics, copyright law, cyberbullying,
+and plagiarism.
+DISCUSSION
+Respond to each of the following questions.
+reset page 600
+-------------------------------------------- 分页分隔 --------------------------------------------
+Making IT Work for You: SECURITY AND
+1
+TECHNOLOGY
+Review the Making IT Work for You: Security and Technology on pages
+232–233, and then respond to the following: (a) Check your phone,
+tablet, laptop, or desktop to find out what version OS it is using. (b)
+Go online and search to find out if that is the most recent OS. Is your
+OS up to date? (c) Does your device have the option to automatically
+download updates to the OS? (d) Does your device come with a password
+manager? Have you used it? Why or why not?
+Community: SOCIAL NETWORKING
+3
+Review the Community box on page 218, and then answer the following: (a)
+Do you use any social networking sites? If so, which ones and do you
+know their policy of sharing your posts and photos to others without
+your express consent? (b) Do you believe that social networks violate
+your privacy when they share information with advertisers? Why or why
+not? (c) Suppose that a high school teacher posts photos on Instagram
+showing her drinking at a party. When the school board becomes aware of
+these photos, the teacher is suspended. Is this a violation of her
+rights? Why or why not? (d) In late 2009, Facebook allowed users’
+names, pictures, and basic information to appear in Google search
+results. Do you think this is ethical? Why or why not?
+page 244
+Privacy: PRIVATE BROWSING
+2
+Review the Privacy box on page 221 and then respond to the following:
+(a) Have you ever used the privacy mode on your web browser? What is the
+name of the company that makes your browser? What is the name your
+browser uses for its privacy mode? (b) Each browser defines private
+browsing a little differently. Search online to see how your browser
+explains how privacy mode works. How does your browser protect your
+privacy in privacy mode? (c) Privacy mode changes what is recorded on
+your device; however, computers other than your own are involved when
+you browse the web and may still record your activities. What companies
+or people would still know your activities if you search on Google?
+Check your work webmail? Purchase an item on Amazon?
+reset page 601
+-------------------------------------------- 分页分隔 --------------------------------------------
+Ethics: ENCRYPTION
+4
+Review the Ethics box on page 222, and then respond to the following:
+(a) What is your opinion on unbreakable encryption? Should it be
+illegal? Defend your position. (b) If a phone was believed to hold
+information about a planned terrorist attack, would you support building
+a backdoor to encryption that would allow the government to search the
+phone? What if you knew that the backdoor technique would eventually be
+leaked and available to everyone? What if the government involved
+considered terrorism to include the possession of documents criticizing
+the government?
+Ethics: NET NEUTRALITY
+5
+Review the Ethics box on page 231, and then respond to the following:
+(a) Do you think that government agencies should be allowed to regulate
+ISP pricing policies? Why or why not? (b) Do you think the speed or ease
+of access of web pages can be a form of censorship? Why or why not? (c)
+If a government made anti-government websites run slower, would that be
+censorship? Why or why not? (d) If a company made its competitions’
+websites run slower, would that be censorship? Why or why not? (e)
+Should an ISP be allowed to watch you browse the Internet to decide
+which web pages should download quickly and which should download
+slowly? Defend your position.
+Ethics: PLAGIARISM
+6
+Review the Ethics box on page 234, and then respond to the following:
+(a) Do you think it is ethical for instructors to employ a program that
+checks for plagiarism? Why or why not? (b) Do you think it is ethical
+for students or any individuals to copy all or part of a web page’s
+content and then present the information without crediting the source?
+Why or why not? (c) How would you distinguish between using the web for
+research and plagiarizing web content? Be specific. (d) Does your school
+have a policy specifically regarding plagiarism of web content? If yes,
+what is the policy? If not, what would you suggest would be an
+appropriate policy?
+page 245
+Tips: IDENTITY THEFT
+7
+reset page 602
+-------------------------------------------- 分页分隔 --------------------------------------------

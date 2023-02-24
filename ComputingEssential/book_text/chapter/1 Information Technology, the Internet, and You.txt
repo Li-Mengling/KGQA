@@ -1,0 +1,1171 @@
+
+page 2
+Information
+chapter
+1
+Technology, the
+Internet, and You
+reset page 53
+-------------------------------------------- 分页分隔 --------------------------------------------
+Sergey Nivens/Shutterstock
+page 3
+Why should I read this chapter?
+reset page 54
+-------------------------------------------- 分页分隔 --------------------------------------------
+The future of computers and digital technology promises exciting
+challenges and opportunities. Powerful software and hardware systems are
+changing the way people and organizations interact in their daily life
+and on the Internet.
+HQuality/Shutterstock
+This chapter introduces you to the skills and concepts you need to be
+prepared for this ever-changing digital world, including:
+Information systems—how the critical parts of technology interact.
+Efficiency and effectiveness—how to maximize the use of technology.
+Privacy, ethics, and environment—how to integrate technology with
+people.
+Software, hardware, and data—understand the technology used in
+information systems.
+Connectivity and cloud computing—how the Internet, the web, and the
+wireless revolution are changing how we communicate and interact.
+Learning Objectives
+After you have read this chapter, you should be able to:
+1. Explain the parts of an information system: people,
+procedures, software, hardware, data, and the Internet.
+2. Distinguish between system software and application
+software.
+reset page 55
+-------------------------------------------- 分页分隔 --------------------------------------------
+3. Differentiate between the three kinds of system software
+programs.
+4. Define and compare general-purpose, specialized, and
+mobile applications.
+5. Identify the four types of computers and the five types
+of personal computers.
+6. Describe the different types of computer hardware,
+including the system unit, input, output, storage, and
+communication devices.
+7. Define data and describe document, worksheet, database,
+and presentation files.
+8. Explain computer connectivity, the wireless revolution,
+the Internet, cloud computing, and loT.
+page 4
+Introduction
+“Welcome
+to Computing Essentials. I’m Katie, and this is
+Alan, we work in information technology. On the following pages,
+we’ll be discussing some of the most exciting new developments in
+computer technology, including smartphones, tablets, and cloud
+computing. Let me begin this chapter by giving you an overview of
+the book and showing you some of its special features.”
+reset page 56
+-------------------------------------------- 分页分隔 --------------------------------------------
+Moyo Studio/Getty Images
+The purpose of this book is to help you become a highly efficient and
+effective computer user. This includes how to use (1) apps and application
+software; (2) all types of computer hardware, including mobile devices
+like smartphones, tablets, and laptops; and (3) the Internet. Becoming a
+highly efficient and effective computer user also requires a full
+understanding of the potential impact of technology on privacy and the
+environment as well as the role of personal and organizational ethics.
+To effectively and efficiently use computers, you need to know the
+parts of an information system: people, procedures, software, hardware,
+data, and the Internet. You also need to understand the wireless
+revolution, the mobile Internet, and the web and to recognize the role of
+information technology in your personal and professional life.
+Information Systems
+When you think of a personal computer, perhaps you think of
+just the equipment itself. That is, you think of the screen
+or the keyboard. Yet there is more to it than that. The way
+to think about a personal computer is as part of an
+information system. An information system has several parts:
+people, procedures, software, hardware, data, and the
+Internet. (See Figure 1-1.)
+People: It is easy to overlook people as one of the parts
+of an information system. Yet this is what personal
+computers are all about—making people, end users like you,
+more productive.
+reset page 57
+-------------------------------------------- 分页分隔 --------------------------------------------
+Procedures: The rules or guidelines for people to follow
+when using software, hardware, and data are procedures.
+These procedures are typically documented in manuals
+written by computer specialists. Software and hardware
+manufacturers provide manuals with their products. These
+manuals are provided in either printed or electronic form.
+Software: A program consists of the step-by-step
+instructions that tell the computer how to do its work.
+Software is another name for a program or programs. The
+purpose of software is to convert data (unprocessed facts)
+into information (processed facts). For example, a payroll
+program would instruct the computer to take the number of
+hours you worked in a week (data) and multiply it by your
+pay rate (data) to determine how much you are paid for the
+week (information).
+Hardware: The equipment that processes the data to create
+information is called hardware. It includes smartphones,
+tablets, keyboards, mice, displays, system units, and other
+devices. Hardware is controlled by software.
+Data: The raw, unprocessed facts, including text, numbers,
+images, and sounds, are called data. Processed data yields
+information. Using the previous example of a payroll
+program, the data (number of hours worked and pay rate) is
+processed (multiplied) to yield information (weekly pay).
+Internet: Almost all information systems provide a way to
+connect to other people and computers, typically using the
+Internet. This connectivity greatly expands the capability
+and usefulness of information systems.
+page 5
+reset page 58
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 1-1 Parts of an information system
+People: Prostock-Studio/Getty Images; Procedures: Microsoft Corporation;
+Software: Microsoft Corporation; NoDerog/Getty Images; Hardware:
+(Smartphone): Urbanscape/Shutterstock; (Tablet): Prime Stock Photo/Alamy
+reset page 59
+-------------------------------------------- 分页分隔 --------------------------------------------
+StockPhoto; (Laptop): mama_mia/Shutterstock; (Desktop) Rawf8/Alamy Stock
+Photo; Data: Microsoft Corporation; (Rescue puppy or dog): Zoom Pet
+Photography/ImageSource/Getty Images; (Employee portrait): Sam Edwards/age
+fotostock; (Coffee): Stockbyte/Getty Images; (Parrot): Maciej
+Czekajewski/Shutterstock; Internet: franckreporter/Getty Images
+Description
+page 6
+concept check
+What are the parts of an information system?
+What is a program?
+What is the difference between data and information?
+People
+People are surely the most important part of any information
+system. Our lives are touched every day by computers and
+information systems. Many times the contact is direct and
+obvious, such as when we create documents using a word
+processing program or when we connect to the Internet. (See
+Figure 1-2.) Other times, the contact is not as obvious.
+reset page 60
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 1-2 People and computers
+fizkes/Shutterstock
+Community
+Every major technology has affected communities—but none in the unique
+ways that computers have. We have changed how we interact with our
+communities, both in the tools we use to communicate, such as social
+media posts, and in the ways we communicate, in emojis and podcasts.
+But technology has had a deeper impact on our communities than just the
+way we interact. It has forever changed how we find and identify our
+communities. Every day, people meet, discuss, and bond with others they
+have never met in person. The entire world feels a little smaller, with
+our communities extending around the globe.
+Throughout this book you will find a variety of features
+designed to help you become an efficient and effective end
+user. These features include Making IT Work for You, Tips,
+Privacy, Community, Ethics, and Careers in IT.
+Making IT Work for You. Throughout this book you will find
+Making IT Work for You features that present numerous
+interesting and practical IT applications. For just a few
+of the Making IT Work for You topics, see Figure 1-3.
+reset page 61
+-------------------------------------------- 分页分隔 --------------------------------------------
+Tips. We all can benefit from a few tips or suggestions.
+Throughout this book you will find numerous tips to make
+your computing safer, more efficient, and more effective.
+These tips range from the basics of keeping your computer
+system running smoothly to how to protect your page 7
+privacy while surfing the web. For a partial list of
+the tips presented in the following chapters, see Figure 1-
+4.
+Privacy. One of the most critical issues today is how to
+protect the privacy of our personal information. Throughout
+this book you will find Privacy boxes in the margin that
+present information about protecting our privacy.
+Community. Computers are changing the way we define and
+interact with our communities. In this chapter and the
+following ones, you will find Community boxes in the
+margins that present ways in which technology affects how
+we create and engage with our communities.
+Ethics. Most people agree that we should behave ethically.
+That is, we should follow a system of moral principles that
+direct our everyday lives. However, for any given
+circumstance, people often do not agree on the ethics of
+the situation. Throughout this book you will find numerous
+Ethics boxes posing a variety of different
+ethical/unethical situations for your consideration.
+Careers in IT. One of the most important decisions of your
+life is to decide upon your life’s work or career. Perhaps
+you are planning to be a writer, an artist, or an engineer.
+Or you might become a professional in information
+technology (IT). Each of the following chapters highlights
+a specific career in information technology. This feature
+provides job descriptions, projected employment demands,
+educational requirements, current salary ranges, and
+advancement opportunities.
+Application Description
+reset page 62
+-------------------------------------------- 分页分隔 --------------------------------------------
+Free Antivirus Program Protect your computer by installing
+and using a free antivirus program.
+See page 9.
+Cloud Office Suites Create and collaborate with others
+online to make better documents and
+presentations. See page 74.
+Gaming Delve into the world of video games
+and find the best video game
+hardware for you. See page 113.
+Cloud Storage Move your files online to synch
+files between devices or free up
+space on your digital devices. See
+page 174.
+The Mobile Office Get work done on the road; whether a
+business trip or your daily commute,
+these tools will help you make the
+most of your time. See page 194.
+Figure 1-3 Making IT Work for You applications
+tips
+Are you getting the most out of your cell phone? Here are just
+a few of the tips to make your computing safer, more efficient,
+and more effective.
+1
+Low battery. Do you find that your cell phone’s battery keeps its
+charge for less time than it used to? Here are some ways to make
+your battery last longer. See page 122.
+2
+Cell phone cameras. Capturing life’s moments in a photo is
+easier and faster with a cell phone. But a few simple tips can
+make the process easier and your photos better. See page 71.
+3
+Disaster planning. Having a cell phone lost or stolen can be
+devastating. Follow these suggestions to make it easier to get
+your phone back, or recover its data quickly. See page 228.
+4
+Data usage. Is your cell phone data plan costing you money? Are
+your cell phone apps using up your data plan without you knowing
+it? Take control of your data usage with the tips on page 172.
+reset page 63
+-------------------------------------------- 分页分隔 --------------------------------------------
+5
+Protecting your identity. Identity theft is a growing problem
+and can be financially devastating if you are a victim. Some steps
+to protect your identity are on page 223.
+Figure 1-4 Selected tips
+concept check
+Which part of an information system is the most important?
+Describe the Making IT Work for You, Tips, and Privacy features.
+Describe the Environment, Ethics, and Careers in IT features.
+Software
+Software, as we mentioned, is another name for programs.
+Programs are the instructions that tell the computer how to
+process data into the form you want. In most cases, the words
+software and programs are interchangeable. There are two
+major kinds of software: system software and application
+software. You can think of application software as the kind
+you use. Think of system software as the kind the computer
+uses.
+System Software
+The user interacts primarily with application software.
+System software enables the application software to interact
+with the computer hardware. System software is “background”
+software that helps the computer manage its own internal
+resources.
+page 8
+reset page 64
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 1-5 Windows 10
+omihay/Shutterstock
+Figure 1-6 macOS
+Alexey Boldin/Shutterstock
+System software is not a single program. Rather, it is a
+collection of programs, including the following:
+Operating systems are programs that coordinate computer
+resources, provide an interface between users and the
+computer, and run applications. Smartphones, tablets, and
+many other mobile devices use embedded operating systems,
+also known as real-time operating systems (RTOS). Desktop
+computers use stand-alone operating systems like Windows
+reset page 65
+-------------------------------------------- 分页分隔 --------------------------------------------
+10 or macOS. (See Figures 1-5 and 1-6.) Networks use
+network operating systems (NOS).
+Utilities perform specific tasks related to managing
+computer resources. One of the most essential utility
+programs that every computer system should have is an
+antivirus program. These programs protect your computer
+system from viruses or malicious programs that are all too
+often deposited onto your computer from the Internet. These
+programs can damage software and hardware, as well as
+compromise the security and privacy of your personal data.
+If your computer does not have an antivirus program
+installed on it, you need to get one. To see how you can
+install a free antivirus program on your computer, see
+Making IT Work for You: Free Antivirus Program on page 9.
+Application Software
+Application software might be described as end-user
+software. Three types of application software are general-
+purpose, specialized, and apps.
+General-purpose applications are widely used in nearly
+all career areas. They are the kinds of programs you have to
+know to be considered an efficient and effective end user.
+Some of the best known are presented in Figure 1-7.
+Specialized applications include thousands of other
+programs that are more narrowly focused on specific
+disciplines and occupations. Two of the best known are
+graphics and web authoring programs.
+Mobile apps, also known as mobile applications or simply
+apps, are small programs primarily designed for mobile
+devices such as smartphones and for tablets. There are over 5
+million apps. The most popular mobile apps are for social
+networking, playing games, and downloading music and videos.
+Type Description
+Word processors Prepare written documents
+reset page 66
+-------------------------------------------- 分页分隔 --------------------------------------------
+Spreadsheets Analyze and summarize numerical
+data
+Database Organize and manage data and
+management systems information
+Presentation Communicate a message or
+software persuade other people
+Figure 1-7 General-purpose applications
+page 9
+Making IT work for you
+FREE ANTIVIRUS PROGRAM
+Have you or someone you know had a slower computing
+experience due to a spyware infection? Even worse, perhaps
+a malicious piece of software stole crucial, personal
+information or caused a total system failure. Most of
+these problems can be averted by having an up-to-date
+antivirus program running in your computer’s memory at
+all times. This exercise shows you how to download and
+install a free antivirus program if your computer does not
+yet have one. (Please note that the web is continually
+changing, and some of the specifics presented here may
+have changed.)
+Getting Started First, make sure your computer does not have an
+antivirus or security suite running. If it does, be sure to completely
+uninstall that program, even if the subscription is expired. Now, follow
+these steps to install AVG, a popular, free antivirus program:
+reset page 67
+-------------------------------------------- 分页分隔 --------------------------------------------
+Visit http://free.avg.com and click the Download button.
+You will be asked to click “save” to save the
+installation file to your computer.
+Run the installation file and follow the prompts.
+Select Install Basic to install the antivirus software.
+Once the program is installed, it will open automatically.
+Using AVG Generally speaking, your antivirus program watches your
+system for malware and updates itself automatically. However, you can
+always download updates manually, set a schedule for full-system scans,
+and change basic settings for various components of the software.
+Click Scan now to run a full scan on your computer.
+Just to the right of that, click the button with the white
+cog to see the scan options, where you can set a schedule
+for automated scans.
+Click the back arrow to reach the main screen, where you
+can click various elements of the program to configure
+them. For example, clicking Web will allow you to turn on a
+feature that detects cookies that may be used to track your
+online activity.
+AVG Technologies
+reset page 68
+-------------------------------------------- 分页分隔 --------------------------------------------
+page 10
+concept check
+Describe the two major kinds of software.
+Describe two types of system software programs.
+Define and compare general-purpose applications, specialized
+applications, and mobile apps.
+Hardware
+Computers are electronic devices that can follow instructions
+to accept input, process that input, and produce information.
+This book focuses principally on personal computers. However,
+it is almost certain that you will come in contact, at least
+indirectly, with other types of computers.
+Types of Computers
+There are four types of computers: supercomputers, mainframe
+computers, midrange computers, and personal computers.
+Supercomputers are the most powerful type of computer.
+These machines are special, high-capacity computers used by
+very large organizations. Supercomputers are typically used
+to process massive amounts of data. For example, they are
+used to analyze and predict worldwide weather patterns.
+IBM’s Blue Gene supercomputer is one of the fastest
+computers in the world. (See Figure 1-8.)
+Mainframe computers occupy specially wired, air-
+conditioned rooms. Although not nearly as powerful as
+supercomputers, mainframe computers are capable of great
+reset page 69
+-------------------------------------------- 分页分隔 --------------------------------------------
+processing speeds and data storage. For example, insurance
+companies use mainframes to process information about
+millions of policyholders.
+Midrange computers, also referred to as servers, are
+computers with processing capabilities less powerful than a
+mainframe computer yet more powerful than a personal
+computer. Originally used by medium-size companies or
+departments of large companies to support their processing
+needs, today midrange computers are most widely used to
+support or serve end users for such specific needs as
+retrieving data from a database or supplying access to
+application software.
+Personal computers, also known as PCs, are the page 11
+least powerful, yet the most widely used and
+fastest-growing type of computer. There are five types of
+personal computers: desktops, laptops, tablets,
+smartphones, and wearables. Desktop computers are small
+enough to fit on top of or alongside a desk yet are too big
+to carry around. (See Figure 1-9.) Laptop computers, also
+known as notebook computers, are portable and lightweight
+and fit into most briefcases. (See Figure 1-10.) Tablets,
+also known as tablet computers, are smaller, lighter, and
+generally less powerful than laptops. Like a laptop,
+tablets have a flat screen but typically do not have a
+standard keyboard. (See Figure 1-11.) Instead, tablets
+typically use a virtual keyboard that appears on the screen
+and is touch-sensitive.
+Smartphones are the most widely used personal computer.
+Smartphones are cell phones with wireless connections to
+the Internet and processing capabilities. (See Figure 1-
+12.) Other mobile computers include wearable devices like
+Apple’s Watch. (See Figure 1-13.)
+reset page 70
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 1-8 Supercomputer
+Gorodenkoff/Shutterstock
+Figure 1-9 Desktop
+Scanrail1/Shutterstock
+reset page 71
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 1-10 Laptop
+mama_mia/Shutterstock
+Figure 1-11 Tablet
+Prime Stock Photo/Alamy StockPhoto
+Figure 1-12 Smartphone
+Urbanscape/Shutterstock
+reset page 72
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 1-13 Wearable
+TraceyAPhotos/Getty Images
+Cell Phones
+Many people are not aware that their cell phone is a
+computer, and this computer has many of the same components
+as desktops, laptops, and tablets. At one time, cell phones
+had very limited power and were used almost exclusively for
+making telephone calls. Now, almost all cell phones are
+powerful smartphones capable of connecting to the Internet
+and running any number of apps. In fact, nearly every cell
+phone purchased today is more powerful than the computers
+used to land the first person on the moon.
+Today, over 99 percent of Americans under the age of 30
+own a cell phone, and over 96 percent of those cell phones
+are smartphones. As a result, the two terms are becoming
+interchangeable. Reflecting this trend, we will use the terms
+cell phone and smartphone interchangeably.
+Personal Computer Hardware
+Hardware for a personal computer system consists of a variety
+of different devices. This physical equipment falls into four
+basic categories: system unit, input/output, secondary
+storage, and communication. Because we discuss hardware in
+detail later in this book, here we will present just a quick
+overview of the four basic categories.
+System unit: The system unit is a container that houses
+most of the electronic components that make up a computer
+system. Two important components of the system unit are
+reset page 73
+-------------------------------------------- 分页分隔 --------------------------------------------
+microprocessors and memory. (See Figure 1-14.) The
+microprocessor controls and manipulates data to produce
+information. Memory is a holding area for data, page 12
+instructions, and information. One type, random-
+access memory (RAM), holds the program and data that are
+currently being processed. This type of memory is sometimes
+referred to as temporary storage because its contents will
+typically be lost if the electric power to the computer is
+disrupted.
+Input/output: Input devices translate data and programs
+that humans can understand into a form that the computer
+can process. The most common input devices are the keyboard
+and the mouse. Output devices translate the processed
+information from the computer into a form that humans can
+understand. The most common output device is the display,
+also known as a monitor.
+Secondary storage: Unlike memory, secondary storage holds
+data and programs even after electric power to the computer
+system has been turned off. The most important kinds of
+secondary media are hard disks, solid-state storage, and
+optical discs.
+Hard disks are typically used to store programs and very
+large data files. Using rigid metallic platters and
+read/write heads that move across the platters, data and
+information are stored using magnetic charges on the
+disk’s surface. In contrast, solid-state storage does not
+have any moving parts, is more reliable, and requires less
+power. It saves data and information electronically similar
+to RAM except that it is not volatile. (See Figure 1-15.)
+Optical discs use laser technology to store data and
+programs. Three types of optical discs are compact discs
+(CDs), digital versatile (or video) discs (DVDs), and Blu-
+ray discs (BD).
+Communication: At one time, it was uncommon for a personal
+computer system to communicate with other computer systems.
+reset page 74
+-------------------------------------------- 分页分隔 --------------------------------------------
+Now, using communication devices, a personal computer
+routinely communicates with other computer systems located
+as near as the next office or as far away as halfway around
+the world, using the Internet. A modem is a widely used
+communication device that modifies audio, video, and other
+types of data into a form that can be transmitted across
+the Internet.
+Figure 1-14 System unit
+(CPU): Niels Poulsen DK/Alamy Stock Photo; (RAM): Olexandr
+Panchenko/Shutterstock; (Microprocessor): leungchopan/Shutterstock
+Figure 1-15 Solid-state storage
+reset page 75
+-------------------------------------------- 分页分隔 --------------------------------------------
+Stas Knop/Shutterstock
+page 13
+concept check
+What are the four types of computers?
+Describe the five types of personal computers.
+Describe the four basic categories of personal computer hardware.
+Data
+Data is raw, unprocessed facts, including text, numbers,
+images, and sounds. As we mentioned earlier, processed data
+becomes information. When stored electronically in files,
+data can be used directly as input for the system unit.
+Four common types of files (see Figure 1-16) are
+Document files, created by word processors to save
+documents such as memos, term papers, and letters.
+Worksheet files, created by electronic spreadsheets page 14
+to analyze things like budgets and to predict
+sales.
+Database files, typically created by database management
+programs to contain highly structured and organized data.
+For example, an employee database file might contain all
+the workers’ names, Social Security numbers, job titles,
+and other related pieces of information.
+Presentation files, created by presentation software to
+save presentation materials. For example, a file might
+contain audience handouts, speaker notes, and electronic
+slides.
+reset page 76
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 1-16 Four types of files: document, worksheet,
+database, and presentation
+Presentation: Microsoft Corporation; Zoom Pet Photography/Image
+Source/Getty Images; Database: Microsoft Corporation; Worksheet: Microsoft
+Corporation; Sam Edwards/age fotostock; Document: Stockbyte/Getty Images;
+Maciej Czekajewski/Shutterstock
+Description
+Connectivity and the Mobile
+Internet
+Connectivity is the capability of your personal computer to
+share information with other computers. Central to the
+concept of connectivity is the network. A network is a
+reset page 77
+-------------------------------------------- 分页分隔 --------------------------------------------
+communications system connecting two or more computers. The
+largest network in the world is the Internet. It is like a
+giant highway that connects you to millions of other people
+and organizations located throughout the world. The web
+provides a multimedia interface to the numerous resources
+available on the Internet.
+The Internet has driven the evolution of computers and
+their impact on our daily lives. The rate of technological
+change is accelerating at an ever faster pace. Along with the
+Internet, three things that are driving the impact of
+technology on our lives are cloud computing, wireless
+communication, and the Internet of Things.
+Cloud computing uses the Internet and the web to shift many
+computer activities from a user’s computer to computers on
+the Internet. Rather than relying solely on their computer,
+users can now use the Internet to connect to the cloud and
+access more powerful computers, software, and storage.
+Wireless communication has changed the way we communicate
+with one another. The rapid development and widespread use
+of wireless communication devices like tablets, cell
+phones, and wearable devices have led many experts to
+predict that wireless applications are just the beginning
+of the wireless revolution, a revolution that will page 15
+dramatically affect the way we communicate and use
+computer technology.
+The Internet of Things (IoT) is the continuing development
+of the Internet that allows everyday objects embedded with
+electronic devices to send and receive data over the
+Internet. It promises to connect all types of devices, from
+computers to cell phones, to watches, to any number of
+everyday devices.
+Wireless communication, cloud computing, and IoT are
+driving the mobile Internet. They promise to continue to
+dramatically affect the entire computer industry and how you
+reset page 78
+-------------------------------------------- 分页分隔 --------------------------------------------
+and I will interact with computers and other devices. Each
+will be discussed in detail in the following chapters. For
+just a few of these mobile devices, see Figure 1-17.
+Figure 1-17 Wireless communication devices
+(Top-left): Urbanscape/Shutterstock; (Top-right): Pavel Heyets/Shutterstock;
+(Bottom-left): charnsitr/Shutterstock; (Bottom-middle): Prime Stock
+Photo/Alamy StockPhoto; (Bottom-right): Neil Godwin/MacFormat Magazine/Future
+via Getty Images
+concept check
+Define data. List four common types of files.
+Define connectivity and networks.
+What is cloud computing? Wireless revolution? IoT?
+reset page 79
+-------------------------------------------- 分页分隔 --------------------------------------------
+Careers in IT
+“Now
+that you know the basic outline and important features of
+this book, we would like to talk about some of the most exciting
+and well-paid careers in information technology.”
+Moyo Studio/Getty Images
+As mentioned previously, each of the following chapters
+highlights a specific career in information technology.
+Each provides specific job descriptions, salary ranges,
+advancement opportunities, and more. For a partial list of
+these careers, see Figure 1-18.
+Career Description
+Web developer Develops and maintains
+websites and web resources.
+See page 45.
+Software Analyzes users’ needs and
+engineer creates application
+software. See page 73.
+Computer Provides technical support
+support to customers and other
+specialist users. See page 99.
+Computer Repairs and installs
+technician computer components and
+systems. See page 125.
+reset page 80
+-------------------------------------------- 分页分隔 --------------------------------------------
+Technical Prepares instruction
+writer manuals, technical reports,
+and other scientific or
+technical documents. See
+page 154.
+Network Creates and maintains
+administrator computer networks. See page
+205.
+Figure 1-18 Careers in information technology
+page 16
+A LOOK TO THE FUTURE
+Using and Understanding Information Technology
+The purpose of this book is to help you use and understand information
+technology. We want to help you become proficient and to provide you with
+a foundation of knowledge so that you can understand how technology is
+being used today and anticipate how technology will be used in the future.
+This will enable you to benefit from six important information technology
+developments.
+The Internet and the Web
+The Internet and the web are considered to be the two most important
+technologies for the 21st century. Understanding how to efficiently and
+effectively use the Internet to browse, communicate, and locate
+information is an essential skill. These issues are presented in Chapter
+2, The Internet, the Web, and Electronic Commerce.
+reset page 81
+-------------------------------------------- 分页分隔 --------------------------------------------
+wavebreakmedia/Shutterstock
+Powerful Software
+The software that is now available can do an extraordinary number of tasks
+and help you in an endless number of ways. You can create professional-
+looking documents, analyze massive amounts of data, create dynamic
+multimedia web pages, and much more. Today’s employers are expecting the
+people they hire to be able to effectively and efficiently use a variety
+of different types of software. General-purpose, specialized, and mobile
+applications are presented in Chapter 3. System software is presented in
+Chapter 4.
+Powerful Hardware
+Personal computers are now much more powerful than they used to be. Cell
+phones, tablets, and communication technologies such as wireless networks
+are dramatically changing the ways to connect to other computers,
+networks, and the Internet. However, despite the rapid change of specific
+equipment, their essential features remain unchanged. To become an
+efficient and effective end user, you should focus on these features.
+Chapters 5 through 8 explain what you need to know about hardware. For
+those considering the purchase of a computer, an appendix—The Computer
+Buyer’s Guide—is provided at the end of this book. This guide provides a
+very concise comparison of desktops, laptops, tablets, and cell phones.
+Privacy, Security, and Ethics
+What about people? Experts agree that we as a society must be careful
+about the potential of technology to negatively affect our lives.
+Specifically, we need to be aware of how technology can affect our
+personal privacy and our environment. Also, we need to understand the role
+and the importance of organizational and personal ethics. These critical
+reset page 82
+-------------------------------------------- 分页分隔 --------------------------------------------
+issues are integrated in every chapter of this book as well as extensively
+covered in Chapter 9.
+Organizations
+Almost all organizations rely on the quality and flexibility of their
+information systems to stay competitive. As a member or employee of an
+organization, you will undoubtedly be involved in these information
+systems. In order to use, develop, modify, and maintain these systems, you
+need to understand the basic concepts of information systems and know how
+to safely, efficiently, and effectively use computers. These concepts are
+covered throughout this book.
+Changing Times
+Are the times changing any faster now than they ever have? Almost everyone
+thinks so. Whatever the answer, it is clear we live in a fast-paced age.
+The Evolution of the Computer Age section presented at the end of this
+book tracks the major developments since computers were first introduced.
+After reading this book, you will be in a very favorable position
+compared with many other people in industry today. You will learn not only
+the basics of hardware, software, connectivity, the Internet, and the web,
+but also the most current technology. You will be able to use these tools
+to your advantage.
+page 17
+Information
+VISUAL SUMMARY
+Technology, the
+Internet, and You
+INFORMATION SYSTEMS
+reset page 83
+-------------------------------------------- 分页分隔 --------------------------------------------
+Prostock-Studio/Getty Images
+The way to think about a personal computer is to realize
+that it is one part of an information system. There are
+several parts of an information system:
+People are an essential part of the system. The
+purpose of information systems is to make people, or
+end users like you, more productive.
+Procedures are rules or guidelines to follow when
+using software, hardware, and data. They are typically
+documented in manuals written by computer
+professionals.
+Software (programs) provides step-by-step instructions
+to control the computer to convert data into
+information.
+Hardware consists of the physical equipment. It is
+controlled by software and processes data to create
+information.
+Data consists of unprocessed facts, including text,
+numbers, images, and sound. Information is data that
+has been processed by the computer.
+The Internet allows computers to connect and share
+information.
+reset page 84
+-------------------------------------------- 分页分隔 --------------------------------------------
+To efficiently and effectively use the computer, you need
+to understand information technology (IT), including
+software, hardware, data, and connectivity.
+PEOPLE
+HQuality/Shutterstock
+People are the most important part of an information
+system. This book contains several features to
+demonstrate how people just like you use computers. These
+features include the following:
+Making IT Work for You presents several interesting
+and practical applications. Topics include using online
+office suites and cloud storage.
+Tips offer a variety of suggestions on such practical
+matters as how to improve slow computer performance and
+how to protect your privacy while on the web.
+Privacy marginal boxes discuss threats to your
+personal privacy and suggest ways to protect yourself.
+Community boxes discuss the ways technology affects
+our communities. Computers are changing the way we
+find, create, and engage with our communities.
+reset page 85
+-------------------------------------------- 分页分隔 --------------------------------------------
+Ethics boxes pose a variety of different
+ethical/unethical situations for your consideration.
+Careers in IT presents job descriptions, employment
+demands, educational requirements, salary ranges, and
+advancement opportunities.
+page 18
+To efficiently and effectively use computers, you need
+to understand the basic parts of an information system:
+people, procedures, software, hardware, data, and
+connectivity. You also need to understand the Internet
+and the web and to recognize the role of technology in
+your professional and personal life.
+SOFTWARE
+Microsoft Corporation
+Software, or programs, consists of system and
+application software.
+reset page 86
+-------------------------------------------- 分页分隔 --------------------------------------------
+System Software
+System software enables application software to interact
+with computer hardware.
+Operating systems coordinate resources, provide an
+interface, and run applications. Three types are
+embedded (real-time, RTOS), stand-alone, and network
+(NOS).
+Utilities perform specific tasks to manage computer
+resources.
+Application Software
+Application software includes general-purpose,
+specialized, and mobile applications.
+General purpose—widely used in nearly all career
+areas; programs include browsers, word processors,
+spreadsheets, database management systems, and
+presentation software.
+Specialized—focus more on specific disciplines and
+occupations; programs include graphics and web
+authoring.
+Apps (mobile apps, mobile applications)—designed for
+mobile devices; most popular are for text messaging,
+Internet browsing, and connecting to social networks.
+HARDWARE
+reset page 87
+-------------------------------------------- 分页分隔 --------------------------------------------
+Scanrail1/Shutterstock
+Hardware consists of electronic devices that can follow
+instructions to accept input, process the input, and
+produce information.
+Types of Computers
+Supercomputer, mainframe, midrange (server), and
+personal computers (PCs) are four types of computers. A
+personal computer can be a desktop, laptop (notebook
+computer), tablet, smartphone, or a wearable.
+Cell Phones
+Today, almost all cell phones are smartphones; cell phone
+and smartphone are becoming interchangeable terms.
+Personal Computer Hardware
+There are four basic categories of hardware devices:
+System unit contains electronic circuitry, including
+microprocessors and memory. Random-access memory
+(RAM) holds the program and data currently being
+processed.
+Input/output devices are translators between humans
+and computers. Input devices include the keyboard and
+reset page 88
+-------------------------------------------- 分页分隔 --------------------------------------------
+mouse. The most common output device is the computer
+display (monitor).
+Secondary storage holds data and programs. Typical
+media include hard disks, solid-state storage, and
+optical discs (CD, DVD, and Blu-ray).
+Communication devices allow personal computers to
+communicate with other computer systems. Modems modify
+audio, video, and other types of data for transmission
+across the Internet.
+page 19
+DATA
+Data is the raw unprocessed facts about something. Common
+file types include
+Document files created by word processors.
+Microsoft Corporation; Maciej Czekajewski/Shutterstock
+Worksheet files created by spreadsheet programs.
+reset page 89
+-------------------------------------------- 分页分隔 --------------------------------------------
+Microsoft Corporation; Stockbyte/Getty Images
+Database files created by database management
+programs.
+Microsoft Corporation; Sam Edwards/age fotostock
+Presentation files created by presentation software
+programs.
+Microsoft Corporation; Zoom Pet Photography/Image Source/Getty Images
+CONNECTIVITY AND THE MOBILE INTERNET
+reset page 90
+-------------------------------------------- 分页分隔 --------------------------------------------
+Connectivity describes the ability of end users to use
+resources well beyond their desktops. Central to the
+concept of connectivity is the network or communication
+system connecting two or more computers. The Internet is
+the world’s largest computer network. The web provides
+a multimedia interface to resources available on the
+Internet.
+Along with the Internet, three other things are
+driving the impact of technology:
+Cloud computing uses the Internet and the web to shift
+many computer activities from a user’s computer to
+computers on the Internet.
+Wireless revolution has changed the way we communicate
+and use computer technology. Wireless devices include
+tablets, cell phones, and watches.
+The Internet of Things (IoT) is the continuing
+development of the Internet that allows everyday
+objects embedded with electronic devices to send and
+receive data over the Internet.
+CAREERS in IT
+Career Description
+Web developer Develops and maintains
+websites and web
+resources. See page 45.
+Software Analyzes users’ needs and
+engineer creates application
+software. See page 73.
+Computer Provides technical support
+support to customers and other
+specialist users. See page 99.
+Computer Repairs and installs
+technician computer components and
+systems. See page 125.
+reset page 91
+-------------------------------------------- 分页分隔 --------------------------------------------
+Technical Prepares instruction
+writer manuals, technical
+reports, and other
+scientific or technical
+documents. See page 154.
+Network Creates and maintains
+administrator computer networks. See
+page 205.
+page 20
+KEY TERMS
+application software (8)
+apps (8)
+Blu-ray disc (BD) (12)
+cloud computing (14)
+communication device (12)
+compact disc (CD) (12)
+connectivity (14)
+data (4)
+database file (14)
+desktop computer (11)
+digital versatile disc (DVD) (12)
+digital video disc (DVD) (12)
+display (12)
+document file (13)
+reset page 92
+-------------------------------------------- 分页分隔 --------------------------------------------
+embedded operating system (8)
+end user (4)
+general-purpose application (8)
+hard disk (12)
+hardware (4)
+information (4)
+information system (4)
+information technology (IT) (7)
+input device (12)
+Internet (14)
+IoT (Internet of Things) (15)
+keyboard (12)
+laptop computer (11)
+mainframe computer (10)
+memory (11)
+microprocessor (11)
+midrange computer (10)
+mobile app (application) (8)
+modem (12)
+monitor (12)
+mouse (12)
+network (14)
+network operating systems (NOS) (8)
+notebook computer (11)
+operating system (8)
+optical disc (12)
+output device (12)
+PC (11)
+people (4)
+reset page 93
+-------------------------------------------- 分页分隔 --------------------------------------------
+personal computer (11)
+presentation file (14)
+procedures (4)
+program (4)
+random-access memory (RAM) (12)
+real-time operating system (RTOS) (8)
+secondary storage (12)
+server (10)
+smartphone (11)
+software (4)
+solid-state storage (12)
+specialized application (8)
+stand-alone operating system (8)
+supercomputer (10)
+system software (7)
+system unit (11)
+tablet (11)
+tablet computer (11)
+utility (8)
+virus (8)
+wearable device (11)
+web (14)
+wireless communication (14)
+wireless revolution (15)
+worksheet file (14)
+page 21
+reset page 94
+-------------------------------------------- 分页分隔 --------------------------------------------
+MULTIPLE CHOICE
+Circle the correct answer.
+1. This consists of the step-by-step instructions that tell
+the computer how to do its work.
+a. program
+b. browser
+c. RAM
+d. operating system
+2. Another name for a program.
+a. document
+b. hardware
+c. software
+d. monitor
+3. Enables the application software to interact with the
+computer hardware.
+a. system software
+b. utility software
+c. RAM
+d. output device
+4. Type of computer that is small enough to fit on top of
+or alongside a desk yet is too big to carry around.
+a. desktop
+b. tablet
+c. mainframe
+d. supercomputer
+5. A container that houses most of the electronic
+components that make up a computer system.
+reset page 95
+-------------------------------------------- 分页分隔 --------------------------------------------
+a. mainframe
+b. system unit
+c. hardware
+d. utility
+6. Devices that translate the processed information from
+the computer into a form that humans can understand.
+a. program
+b. input
+c. document
+d. output
+7. Unlike hard disks, this type of storage does not have
+any moving parts, is more reliable, and requires less
+power.
+a. network
+b. cloud
+c. general purpose
+d. solid state
+8. A device that modifies audio, video, and other types of
+data into a form that can be transmitted across the
+Internet.
+a. monitor
+b. modem
+c. input
+d. output
+9. A type of a file that might contain, for example,
+audience handouts, speaker notes, and electronic slides.
+a. presentation
+b. document
+c. spreadsheet
+d. database
+reset page 96
+-------------------------------------------- 分页分隔 --------------------------------------------
+10. A communications system connecting two or more
+computers.
+a. modem
+b. cloud computing
+c. network
+d. smartphone
+page 22
+MATCHING
+Match each numbered item with the most closely related
+lettered item. Write your answers in the spaces provided.
+a. cl oud 1. RAM is a type of
+computing ________.
+b. do cument 2. Examples include the
+a. general- keyboard, mouse,
+display, and system
+purpose
+unit.
+application
+a. ha rdware 3. Although not as
+powerful as a
+b. Internet
+supercomputer, this type
+a. mainframe
+of computer is capable
+b. memory of great processing
+b. operating speeds and data storage.
+sy stems 4. The Apple Watch is an
+d. secondary example of this type of
+reset page 97
+-------------------------------------------- 分页分隔 --------------------------------------------
+d. wearable computer.
+5. These programs
+coordinate computer
+resources, provide an
+interface, and run
+applications.
+6. The type of file
+created by word
+processors—for example,
+memos, term papers, and
+letters.
+7. Uses the Internet and
+the web to shift many
+computer activities from
+a user’s computer to
+computers on the
+Internet.
+8. The largest network in
+the world.
+9. This category of
+applications includes
+the word processor.
+10. Unlike memory, this
+type of storage holds
+data and programs even
+after electric power to
+the computer system has
+been turned off.
+reset page 98
+-------------------------------------------- 分页分隔 --------------------------------------------
+OPEN-ENDED
+On a separate sheet of paper, respond to each question or
+statement.
+1. Explain the parts of an information system. What part do
+people play in this system?
+2. What is system software? What kinds of programs are
+included in system software?
+3. Define and compare general-purpose applications,
+specialized applications, and apps. Describe some
+different types of general-purpose applications.
+Describe some types of specialized applications.
+4. Describe the different types of computers. What is the
+most common type? What are the types of personal
+computers?
+5. What is connectivity? What is a computer network? What
+are the Internet and the web? What are cloud computing,
+the wireless revolution, and IoT?
+page 23
+DISCUSSION
+Respond to each of the following questions.
+Making IT Work for You
+1
+reset page 99
+-------------------------------------------- 分页分隔 --------------------------------------------
+Making it a habit of keeping current with technology applications can be
+a key to your success. Numerous full-page spreads identified as Making
+IT Work for You are presented in the following chapters. These sections
+address some of today’s most interesting and useful applications. They
+include online entertainment in Chapter 2, online office suites in
+Chapter 3, and cloud storage in Chapter 7. Select one that you find the
+most interesting and then respond to the following: (a) Why did you
+select this application? (b) Have you used this application? If so, when
+and how? If not, do you plan to in the near future? (c) Go to the
+chapter containing your selected application, and locate the
+application’s Making IT Work for You coverage. Review and briefly
+describe its contents. (d) Did you find the coverage useful? Why or why
+not?
+Privacy
+2
+Privacy is one of the most critical issues facing society today.
+Numerous Privacy boxes appear in the margins of the upcoming chapters
+presenting a variety of privacy issues. These issues include apps that
+constantly track your movements without your knowledge or consent in
+Chapter 3; public Wi-Fi connections that record all of your personal
+communications in Chapter 8; and protection of personal privacy while
+using social media in Chapter 9. Select one that you find the most
+interesting, and then respond to the following: (a) Why did you select
+this issue? (b) Do you have knowledge of or experience with the issue?
+If so, describe your knowledge or experience. If not, do you consider
+the issue to be important for protecting your privacy? (c) Go to the
+chapter containing your selected issue, locate the Privacy box, read it,
+and describe its contents. (d) Did you find the coverage thought-
+provoking? Why or why not?
+Ethics
+3
+Computer ethics are guidelines for the morally acceptable use of
+computers in our society. Numerous Ethics boxes appear in the margins of
+the upcoming chapters, presenting a variety of ethical issues. These
+issues include image editing in Chapter 3, unauthorized use of webcams
+in Chapter 6, and unauthorized monitoring or eavesdropping of Internet
+activity in Chapter 8. Select one issue that you find the most
+interesting and then respond to the following: (a) Why did you select
+this issue? (b) Do you have knowledge of or experience with the issue?
+If so, describe your knowledge or experience. If not, do you consider
+the issue critical for individuals or organizations? (c) Go to the
+chapter containing your selected issue, locate the Ethics box, read it,
+reset page 100
+-------------------------------------------- 分页分隔 --------------------------------------------

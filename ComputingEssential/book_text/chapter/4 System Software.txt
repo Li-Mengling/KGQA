@@ -1,0 +1,1175 @@
+
+page 84
+System Software
+chapter
+4
+LeoWolfert/Shutterstock
+reset page 233
+-------------------------------------------- 分页分隔 --------------------------------------------
+page 85
+Why should I read this chapter?
+Your cell phone can receive automatic software updates over the Internet,
+but there are many software improvements that require you, the user, to
+take action. In the future, software may diagnose and repair problems
+much like your body’s immune system protects your health. But for now,
+your computers are at risk from dangerous viruses and software failures.
+Africa Studio/Shutterstock
+This chapter covers the things you need to know to protect your
+computer and data today and to prepare you for tomorrow, including:
+Mobile operating systems—learn the key features of the operating
+systems that control tablets and cell phones.
+Desktop operating systems—discover how operating systems control and
+protect desktop and laptop computers.
+Utilities—protect your computer from viruses and perform important
+maintenance tasks.
+Learning Objectives
+After you have read this chapter, you should be able to:
+reset page 234
+-------------------------------------------- 分页分隔 --------------------------------------------
+1. Describe the differences between system software and
+application software.
+2. Identify the four types of system software programs.
+3. Explain the basic functions, features, and categories of
+operating systems.
+4. Compare mobile operating systems, including iOS and
+Android.
+5. Compare desktop operating systems, including Windows,
+macOS, UNIX, Linux, and virtualization.
+6. Explain the purpose of utilities and utility suites.
+7. Identify the six most essential utilities.
+page 86
+Introduction
+“Hi,
+I’m Ray, and I’m a computer support specialist. I’d
+like to talk with you about system software, programs that do a
+lot of the work behind the scenes so that your electronic devices
+keep running smoothly. I’d also like to talk about the mobile
+operating systems that control cell phones and other small
+portable computers.”
+reset page 235
+-------------------------------------------- 分页分隔 --------------------------------------------
+Vadym Pastukh/Shutterstock
+When most people use a computer, they use a cell phone to send messages,
+play games, or view social media. We typically think of using a computer
+as using the applications that have become an important part of our
+everyday lives. Most of us agree that they are great … as long as they
+are working.
+We usually do not think about the more mundane and behind-the-scenes
+computer activities: loading and running programs, coordinating networks
+that share resources, organizing files, protecting us from viruses,
+performing periodic maintenance to avoid problems, and controlling
+hardware devices so that they can communicate with one another. Typically,
+these activities go on behind the scenes without our help.
+That is the way it should be, and the way it is, as long as everything
+is working perfectly. But what if new application programs are not
+compatible and will not run on our current computer system? What if we get
+a computer virus? What if our hard disk fails? What if we buy a new
+digital video camera and can’t store and edit the images on our computer
+system? What if our computer starts to run slower and slower?
+These issues may seem mundane, but they are critical. This chapter
+covers the vital activities that go on behind the scenes. A little
+knowledge about these activities can go a long way to making your
+computing life easier. To efficiently and effectively use computers, you
+need to understand the functionality of system software, including
+operating systems, utility programs, and device drivers.
+System Software
+End users use application software to accomplish specific
+tasks. For example, we use messaging applications to send
+text and photos with our cell phones. However, end users also
+reset page 236
+-------------------------------------------- 分页分隔 --------------------------------------------
+use system software. System software works with end users,
+application software, and computer hardware to handle the
+majority of technical details. For example, system software
+controls where a word processing program is stored in memory,
+how commands are converted so that the system unit can
+process them, and where a completed document or file is
+saved. (See Figure 4-1.)
+Figure 4-1 System software handles technical details
+People: filadendron/E+/Getty Images; System Software: Aaron Roeth/McGraw
+Hill; Application Software: Nor Gal/Shutterstock; Hardware: (Cell phone):
+junior_cinematic/Shutterstock; (Tablet): Colin Hui/Shutterstock; (Laptop):
+4X-image/iStock/Getty Images
+Description
+System software is not a single program. Rather, it is a
+collection or a system of programs that handle hundreds of
+reset page 237
+-------------------------------------------- 分页分隔 --------------------------------------------
+technical details with little or no user intervention. System
+software consists of four types of programs:
+Operating systems coordinate computer resources, provide an
+interface between users and the computer, and run
+applications.
+Utilities perform specific tasks related to managing
+computer resources.
+Device drivers are specialized programs that allow
+particular input or output devices to communicate with the
+rest of the computer system.
+Language translators convert the programming instructions
+written by programmers into a language that computers
+understand and process.
+page 87
+Operating Systems
+An operating system is a collection of programs that handle
+many of the technical details related to using a computer. In
+many ways, an operating system is the most important type of
+computer program. Without a functioning operating system,
+your computer would be useless.
+ethics
+As our devices have gotten smarter, their operating systems have begun
+accepting voice commands. This allows a user to speak commands to the
+device. A device may be controlled by speaking a key phrase—such as
+“OK Google,” “Hey Siri,” or “Alexa”—followed by a command or
+question, such as “what time is it?” In order for the device to
+recognize when a user says the device’s key phrase, it must always be
+reset page 238
+-------------------------------------------- 分页分隔 --------------------------------------------
+recording and analyzing users’ conversations. These recordings are
+often shared over the Internet with companies that use this information
+to improve the voice recognition software and search tools. Could such
+data be used unethically? Who should oversee this data, and what limits
+should be placed on its use?
+Functions
+Every computer has an operating system, and every operating
+system performs a variety of functions. These functions can
+be classified into three groups:
+Managing resources: Operating systems coordinate all the
+computer’s resources, including memory, processing,
+storage, and devices such as printers and monitors. They
+also monitor system performance, schedule tasks, provide
+security, and start up the computer.
+Providing user interface: Operating systems allow users to
+interact with application programs and computer hardware
+through a user interface. Originally, operating systems
+used a character-based interface in which users
+communicated with the operating system through written
+commands such as “Copy A: report.txt C:”. Today, most
+operating systems use a graphical user interface (GUI). As
+we discussed in Chapter 3, a graphical user interface uses
+graphical elements such as icons and windows. More
+recently, many operating systems now include voice assist
+tools. Much like a graphical user interface offers users a
+visual way to interact with application programs page 88
+and computer hardware, voice assist tools allows a
+user to directly issue voice commands.
+Running applications: Operating systems load and run
+applications such as word processors and spreadsheets. Most
+operating systems support multitasking, or the ability to
+switch between different applications stored in memory.
+With multitasking, you could have a web browser and a
+messaging app running at the same time and switch easily
+reset page 239
+-------------------------------------------- 分页分隔 --------------------------------------------
+between the two applications. The program that you are
+currently working on is described as running in the
+foreground. The other program or programs are running in
+the background.
+community
+Did you know that your operating system plays a key role in making sure
+that everybody has access to technology? All major operating systems
+include accessibility features that make our devices easier to use for
+people with disabilities. For people with low vision, there are tools
+to magnify portions of the screen or read written text out loud. For
+people with dyslexia, there are fonts that can make identifying letters
+and words easier. For the deaf or hard of hearing, audible alerts can
+be set to also offer visual cues, like flashing the screen when a beep
+or noise is played. These features are included free in your device’s
+operating system, and you can configure them in your device’s settings
+menus.
+Features
+Starting or restarting a computer is called booting the
+system. There are two ways to boot a computer: a warm boot
+and a cold boot. A warm boot occurs when the computer is
+already on and you restart it without turning off the power.
+A warm boot can be accomplished in several ways. For many
+computer systems, they can be restarted by simply pressing a
+sequence of keys. Starting a computer that has been turned
+off is called a cold boot.
+You typically interact with the operating system through
+the graphical user interface. Most provide a place, called
+the desktop, that provides access to computer resources. (See
+Figure 4-2.) Some important features common to most operating
+systems and application programs include:
+Icons—graphic representations for a program, type of file,
+or function.
+reset page 240
+-------------------------------------------- 分页分隔 --------------------------------------------
+Pointer—controlled by a mouse, trackpad, or touch screen,
+the pointer changes shape depending on its current
+function. For example, when shaped like an arrow, the
+pointer can be used to select items such as an icon.
+Windows—rectangular areas for displaying page 89
+information and running programs.
+Menus—provide a list of options or commands that can be
+selected.
+Tabs—divide menus into major activity areas such as format
+and page layout.
+Dialog boxes—typically provide information or request
+input.
+Help—provides online assistance for operating system
+functions and procedures.
+Gesture control—ability to control operations with finger
+movements, such as swiping, sliding, and pinching.
+reset page 241
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 4-2 Desktop
+Microsoft Corporation
+Description
+Most offices have filing cabinets that store important
+documents in folders. Similarly, most operating systems store
+data and programs in a system of files and folders. Files are
+used to store data and programs. Related files are stored
+within a folder, and, for organizational purposes, a folder
+can contain other folders, or subfolders. For example, you
+might organize your electronic files in the Documents folder
+on your hard disk. This folder could contain other folders,
+each named to indicate its contents. One might be “Computer
+Class” and could contain all the files you have created (or
+will create) for this course.
+Categories
+While there are hundreds of different operating systems,
+there are only three basic categories: embedded, stand-alone,
+and network.
+Embedded operating systems are used in cell phones and
+tablets, as well as video game systems and thousands of
+other small electronic devices. Also known as real-time
+operating systems (RTOS), these operating systems are
+uniquely designed to work exclusively with (i.e., embedded
+into) a particular device’s hardware. Typically designed
+for a specific application, embedded operating systems are
+essential in the evolution of IoT where many everyday
+devices are able to communicate with one another, as
+discussed in Chapter 1. For example, Watch OS was developed
+by Apple exclusively for the Apple Watch. (See Figure 4-3.)
+Stand-alone operating systems are used in a single desktop
+or laptop computer. (See Figure 4-4.) Also called desktop
+operating systems, these operating systems are located on
+reset page 242
+-------------------------------------------- 分页分隔 --------------------------------------------
+the computer’s hard disk. Often desktop computers and
+laptops are part of a network. In these cases, the desktop
+operating system works with the network to share and
+coordinate resources. Two of the most popular stand-alone
+operating systems are Apple’s macOS and Microsoft’s
+Windows.
+Network operating systems (NOS) are used to control and
+coordinate computers that are networked or linked together.
+These networks can range in size, from a few computers in
+an office to large networks that spans an entire company or
+university. An NOS can be composed of several smaller
+networks and many types of computers.
+Network operating systems are typically located on one
+of the connected computers’ hard disks. Called the network
+server, this computer coordinates all communication between
+the other computers. Popular network operating systems
+include Linux, Windows Server, and UNIX.
+Figure 4-3 Embedded operating systems control smartwatches
+TraceyAPhotos/Getty Images
+reset page 243
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 4-4 Laptops use stand-alone operating systems
+Rawf8/Alamy Stock Photo
+The operating system is often referred to as the software
+environment or software platform. A computer’s platform
+dictates what applications will run on that page 90
+device. Almost all application programs are
+designed to run with a specific platform. For example,
+Apple’s iMovie software is designed to run with the macOS
+environment and will not run on an Android cell phone or
+Windows laptop. Many applications, however, have different
+versions, each designed to operate with a particular
+platform. For example, there are two versions of Microsoft
+Office, one designed to work with Windows and another
+designed to work with macOS.
+tips
+Do you often type on your cell phone’s virtual keyboard? You
+can customize your keyboard to a different language or download
+a specialized keyboard at the app store.
+reset page 244
+-------------------------------------------- 分页分隔 --------------------------------------------
+1
+For Android cell phones: Tap on the Settings icon from the home
+screen, then choose Languages and Inputs, then Current Keyboard,
+and finally Keyboard. From here you can select a different
+keyboard.
+2
+For iOS cell phones: Tap on the Settings icon from the home screen,
+then select General and Keyboard. From here, you can customize
+your keyboards or add new keyboards to your phone.
+concept check
+What is system software? What are the four kinds of system software
+programs?
+What is an operating system? Discuss operating system functions and
+features.
+Describe each of the three categories of operating systems.
+Mobile Operating Systems
+Mobile operating systems, also known as mobile OS, are a
+type of embedded operating system. Just like other computer
+systems, mobile computers—including cell phones, tablets,
+and wearable computers—require an operating system. These
+mobile operating systems are less complicated and more
+specialized for wireless communication.
+While there are numerous mobile operating systems, two of
+the best known are Android and iOS.
+Android was developed by Google and is used as the platform
+for many popular cell phones, such as the Samsung Galaxy S1
+Ultra and the Google Pixel 4a.
+iOS was developed by Apple and is used as the platform for
+Apple’s mobile devices, the iPad and iPhone. (See Figure
+4-5.)
+reset page 245
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 4-5 Apple’s iPad and iPhone use iOS mobile
+operating system
+manaemedia/Shutterstock; Cincila/Shutterstock
+In the last chapter, we discussed that not all mobile
+applications will run on all cell phones. That is because an
+app is designed to run on a particular software platform or
+operating system. Before downloading an app, be sure that it
+is designed to run with the mobile operating system on your
+mobile device.
+concept check
+What is a mobile operating system?
+List the most widely used mobile operating systems.
+Which mobile operating system works with the iPhone? Which mobile
+operating system is owned by Google?
+page 91
+reset page 246
+-------------------------------------------- 分页分隔 --------------------------------------------
+Desktop Operating Systems
+Every personal computer has an operating system controlling
+its operations. The most widely used desktop operating
+systems are Windows, macOS, UNIX, and Linux.
+Windows
+Microsoft’s Windows is the most widely used personal
+computer operating system. Because its market share is so
+large, more application programs have been developed to run
+under Windows than any other operating system. Windows comes
+in a variety of different versions and is designed to run
+with a variety of different microprocessors.
+The most recent version of Windows, Windows 11, was
+announced in 2021. (See Figure 4-6.) Windows 11 is
+Microsoft’s desktop, laptop, and tablet operating system.
+This version of Windows includes several innovations, such as
+a simplified user interface and improved support for mobile
+devices, such as tablets and 2-in-1 laptops. One of the
+biggest changes with Windows 11 is its ability to run Android
+apps on a Windows device.
+reset page 247
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 4-6 Windows 11
+Microsoft Corporation
+privacy
+Most cell phone operating systems include a virtual assistant, like
+Apple’s Siri or Google Assistant, that scans your personal information
+such as calendar events, e-mails, text messages, and GPS location to
+anticipate your needs and help organize your life. However, most users
+of these complex programs are unaware that they copy and transfer data
+from texts, e-mails, and GPS back to company servers. Should your
+operating system be gathering and sharing this data? Who should be in
+charge of what data is gathered and how it is stored?
+macOS
+Apple has been the leader in the development of powerful and
+easy-to-use personal computer operating systems since its
+introduction of the Macintosh personal computer in 1984.
+Designed to run only with Apple computers, macOS is not as
+widely used as the Windows operating system. As a result,
+fewer application programs have been written for it. However,
+with increasing sales of Apple computers, the use of macOS
+has been rapidly increasing and is widely recognized as one
+of the most innovative operating systems. The popular iOS and
+iPadOS mobile operating systems are based off the macOS.
+macOS is the most widely used Mac desktop operating
+system. macOS 12 Monterey, announced in 2021, includes the
+ability to control multiple devices from one keyboard and
+mouse, improved videoconferencing tools, and ways to
+customize notifications to reduce distractions when working.
+(See Figure 4-7.)
+reset page 248
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 4-7 macOS Monterey
+Apple, Inc.
+page 92
+UNIX and Linux
+The UNIX operating system was originally designed in the late
+1960s to run on minicomputers in network environments. Over
+the years, UNIX has evolved with numerous different versions.
+Now, it is widely used by servers on the web, mainframe
+computers, and very powerful personal computers. There are a
+large number of different versions of UNIX.
+Linux is an operating system that extended one of the UNIX
+versions. It was originally developed by a graduate student
+at the University of Helsinki, Linus Torvalds, in 1991. He
+allowed free distribution of the operating system code and
+encouraged others to modify and further develop the code.
+Programs released in this way are called open source. Linux
+is a popular and powerful alternative to the Windows
+operating system. (See Figure 4-8.) Linux has been the basis
+of several other operating systems. For example, Google’s
+Chrome OS and the Android mobile operating system are based
+on Linux.
+reset page 249
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 4-8 Linux
+Linux
+Chrome OS integrates with web servers to run applications
+and to perform other traditional operating system functions.
+This capability has made Chrome OS a popular choice for
+inexpensive notebook computers that use cloud computing and
+cloud storage to do things that would normally require much
+more expensive hardware. One limitation of these computers is
+that their efficiency is dependent upon the speed of their
+Internet connection.
+Virtualization
+As we have discussed, application programs are designed to
+run with particular operating systems. What if you wanted to
+run two or more applications, each requiring a different
+operating system? One solution would be to install each of
+the operating systems on a different computer. There is,
+however, a way in which a single physical computer can
+support multiple operating systems that operate
+independently. This approach is called virtualization.
+reset page 250
+-------------------------------------------- 分页分隔 --------------------------------------------
+When a single physical computer runs a special program
+known as virtualization software, it operates as though it
+were two or more separate and independent computers, known as
+virtual machines. Each virtual machine appears to the user as
+a separate, independent computer with its own operating
+system. The operating system of the physical machine is known
+as the host operating system. The operating system for each
+virtual machine is known as the guest operating system.
+Users can readily switch between virtual computers and
+programs running on them. There are several programs that
+create and run virtual machines. Two such programs, Parallels
+and VMware, allow a user on a Mac to run Windows programs in
+macOS. (See Figure 4-9.)
+page 93
+Figure 4-9 macOS running Windows 11 in a virtual machine.
+Microsoft Corporation
+concept check
+What is Windows? What is the most recent version?
+What is macOS? What are macOS 12 Monterrey?
+reset page 251
+-------------------------------------------- 分页分隔 --------------------------------------------
+What is UNIX? What is Linux? What is Chrome OS?
+What is virtualization? Virtual machines? Host and guest operating
+systems?
+Utilities
+Ideally, personal computers would continuously run without
+problems. However, that simply is not the case. All kinds of
+things can happen such as files or apps can go missing,
+storage space can fill up, and data can be lost. These events
+can make computing very frustrating. That’s where utilities
+come in. Utilities are specialized programs designed to make
+computing easier. There are hundreds of different utility
+programs. The most essential are
+Search programs provide a quick and easy way to search or
+examine an entire computer system to help you find specific
+applications, data, or other files.
+Storage management programs help solve the problem of
+running out of storage space by providing lists of
+application programs, stored videos, and other program
+files so that you can eliminate unused applications or
+archive large files elsewhere.
+Backup programs make copies of files to be used in case the
+originals are lost or damaged. Windows 11 comes with a free
+backup program, the File History tool, and macOS has a
+backup feature named Time Machine.
+Antivirus programs guard your computer system against
+viruses or other damaging programs that can invade your
+computer system. Popular antivirus programs include Norton
+AntiVirus and Bitdefender’s Antivirus Plus.
+reset page 252
+-------------------------------------------- 分页分隔 --------------------------------------------
+Troubleshooting or diagnostic programs recognize and
+correct problems, ideally before they become serious.
+Virtual assistants are utilities that accept commands
+through text or speech to allow intuitive interaction with
+your computer, cell phone, or tablet and coordinate
+personal data across multiple applications. Microsoft
+Windows 11 has the virtual assistant Cortana, and Apple’s
+macOS has Siri. To learn more about virtual assistants, see
+the Making IT Work for You: Virtual Assistant on pages 94
+and 95.
+Most operating systems provide some utility programs. Even
+more powerful utility programs can be purchased separately or
+in utility suites.
+page 94
+Making IT work for you
+VIRTUAL ASSISTANT
+Your cell phone already organizes much of your life. It
+contains a list of your contacts, alarms and timers you
+can set, and a calendar of upcoming events. However,
+coordinating all these details can be challenging. Virtual
+assistants can help you manage your day, review e-mails
+and texts, and even suggest local restaurants.
+What Is a Virtual Assistant? As defined earlier, a virtual assistant
+is a utility that coordinates personal data across several applications
+and provides a more intuitive way to interact with your computer, phone,
+or tablet. Most operating systems offer a virtual assistant; Apple offers
+reset page 253
+-------------------------------------------- 分页分隔 --------------------------------------------
+Siri, Microsoft has Cortana, Amazon has Alexa, and Google has Google
+Assistant. The most common way to interact with these utilities is
+through voice commands.
+Google Assistant lets a user dictate a text message. Most intelligent
+assistants will coordinate with your phone’s features to send texts and
+e-mails, or make calls.
+Google Inc.
+Voice Assist One of the most important features of your virtual
+assistant is its ability to listen to spoken commands and respond
+verbally. This allows you to text, review e-mails, and even schedule
+events while keeping your hands free.
+Apple’s Siri accepts a voice command to make a phone call. Intelligent
+assistants interpret voice commands and can perform simple actions, such
+reset page 254
+-------------------------------------------- 分页分隔 --------------------------------------------
+as setting alarms, sending e-mails or text messages, and alerting you to
+upcoming calendar events.
+Apple Inc.
+Initially, you must get your assistant’s attention with a key phrase,
+such as Hey Siri, OK Google, or Hey Cortana, depending on your device.
+After you alert your virtual assistant that you want help, you can ask it
+to manage your personal information or look up information on the
+Internet. Some common requests are:
+“What is the weather like today?”
+“Do I have any new e-mails?”
+“Add milk to the grocery list.”
+“Text Mom that I am going to be late.”
+page 95
+Making Plans Many virtual assistants review your e-mail and text
+messages for key words that indicate a calendar event. Virtual assistants
+scan texts and e-mails for indications of calendar events, such as a text
+that reads “Dinner tomorrow at 8 pm?” or an e-mail receipt for airline
+tickets.
+Your virtual assistant then uses that information to add events to your
+calendar, such as “Dinner” at 8:00 pm tomorrow or “flight” with
+duration and departure and landing times—even correcting for time zone
+changes and including a link in the calendar event to quickly retrieve
+the original e-mail.
+reset page 255
+-------------------------------------------- 分页分隔 --------------------------------------------
+Microsoft Cortana monitors Windows apps for text that looks like calendar
+events. Most intelligent assistants can monitor texts and e-mails for
+potential calendar events.
+Microsoft Corporation
+Connecting Different Data Points Virtual assistants can use
+multiple pieces of information to make suggestions to your schedule. For
+example, your virtual assistant uses your phone’s GPS, traffic
+information on the Internet, and the details on your calendar to remind
+you when you need to leave for your next appointment if you want to
+arrive there on time.
+Security, Settings, and Limitations Although many of these features
+are set up by default, you may have to change the security and setting of
+your device to allow your virtual assistant access to your e-mails, text
+messages, photos, microphone, and GPS location.
+Amazon’s Alexa integrates with home automation tools. You can change the
+control your personal assistant has—from the ability to read your e-
+mails and dim the house lights to simply alerting you to calendar events.
+Google, INC.
+You may also find that the applications you use do not work well with
+your Assistant. For example, Siri only schedules events on the iOS
+calendar app, and Google Assistant will only search your e-mails for
+calendar events if you are using Google’s email service, Gmail. As a
+general rule, assistants only work well with the apps from the same
+developer—Siri works with Apple tools, Cortana works with Microsoft
+software, and Google Assistant works with Google applications.
+page 96
+reset page 256
+-------------------------------------------- 分页分隔 --------------------------------------------
+tips
+Have you ever experienced problems after installing a new
+program or changing system settings? If so, the System Restore
+utility can help by reversing the changes and bringing your
+computer to a previous point in time. For Windows 11:
+1
+Go to the Windows 11 start screen and then type “recovery” in the
+search box.
+2
+Click on Open System Restore from the Advanced recovery tools list.
+3
+Follow the prompts, and choose a restore point.
+4
+Click the Finish button to start the process.
+Operating System Utilities
+Most operating systems are accompanied by several common
+utility programs, including a search program, a storage
+management program, and a backup program.
+Search Most cell phones have hundreds of apps and thousands
+of pictures and files. How can you find a particular app or
+file you need among all the others? Search programs can
+search your device for you to separate what you need from all
+the other apps and files. You will find a search program on
+mobile operating systems, such as Android and iOS, as well as
+laptops and desktops running Windows and macOS. (See Figure
+4-10.)
+reset page 257
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 4-10 Search programs: Android, iOS, Windows, and
+macOS
+Google Inc.; Apple Inc.; Microsoft Corporation; Apple Inc.
+page 97
+Storage Management As you use your computer, your hard disk
+will fill with photos, videos, documents, and applications.
+You may find that as you run out of hard drive space, your
+computer slows down. Most operating systems include utilities
+to organize and view your hard drive usage to identify old or
+unused files. Using these tools, you can move or eliminate
+files and give your operating system the space it needs to
+run at peak efficiency.
+reset page 258
+-------------------------------------------- 分页分隔 --------------------------------------------
+Storage management programs can identify and remove
+unused files and applications. You will find a storage
+management program on mobile operating systems, such as
+Android and iOS, as well as laptops and desktops running
+Windows and macOS. (See Figure 4-11.)
+Figure 4-11 Storage management programs: Android, iOS,
+Windows, and macOS
+Google Inc.; Apple Inc.; Microsoft Corporation; Apple Inc.
+page 98
+reset page 259
+-------------------------------------------- 分页分隔 --------------------------------------------
+Backup It can be devastating to drop a cell phone or have a
+laptop stolen. Not only is the device itself expensive to
+replace, but the files and photos on the device may be lost
+forever. Backup programs should be run frequently to avoid
+the unexpected loss of files from your devices. All major
+operating systems offer backup utilities to save a copy of
+your device’s data. (See Figure 4-12.)
+Figure 4-12 Backup programs: Android, iOS, Windows, and
+macOS
+Google Inc.; Apple Inc.; Microsoft Corporation; Apple Inc.
+reset page 260
+-------------------------------------------- 分页分隔 --------------------------------------------
+page 99
+Utility Suites
+Like application software suites, utility suites combine
+several programs into one package. Buying the package is less
+expensive than buying the programs separately. Some of the
+best-known utility suites are by Bitdefender and Norton. (See
+Figure 4-13.) These suites provide a variety of utilities.
+Some programs will improve your computer’s performance,
+while other programs will protect your system from dangerous
+computer viruses. You can “catch” a computer virus many
+ways, including by opening attachments to e-mail messages and
+downloading software from the Internet. (We will discuss
+computer viruses in detail in Chapter 9.)
+Figure 4-13 Norton’s utility suite
+Norton
+reset page 261
+-------------------------------------------- 分页分隔 --------------------------------------------
+concept check
+What are utility programs? Discuss six essential utilities.
+What are virtual assistants? What is Cortana? What is Siri?
+What is the difference between a utility and a utility suite?
+Careers in IT
+“Now
+that you know about system software, I’d like to tell
+you about my career as a computer support specialist.”
+Vadym Pastukh/Shutterstock
+Computer support specialists provide technical support to
+customers and other users. They also may be called
+technical support specialists or help-desk technicians.
+Computer support specialists manage the everyday technical
+problems faced by computer users. They resolve common
+networking problems and may use troubleshooting programs to
+diagnose problems. Most computer support specialists are
+hired to work within a company and provide technical
+support for other employees and divisions. However, it is
+reset page 262
+-------------------------------------------- 分页分隔 --------------------------------------------
+increasingly common for companies to contract with
+businesses that specialize in offering technical support.
+Employers generally look for individuals with either an
+advanced associate’s degree or a bachelor’s degree to
+fill computer support specialist positions. Degrees in
+information technology or information systems may be
+preferred. However, because demand for qualified applicants
+is so high, those with practical experience and
+certification from a training program increasingly fill
+these positions. Employers seek individuals with customer
+service experience who demonstrate good analytical,
+communication, and people skills.
+Computer support specialists can expect to earn an
+annual salary of $43,040 to $68,060. Opportunities for
+advancement are very good and may involve design and
+implementation of new systems.
+page 100
+A LOOK TO THE FUTURE
+Making Better Computers by Making Them More Human
+Imagine that the next time your computer breaks, instead of getting it
+fixed, it heals itself. Many of our greatest technological breakthroughs
+are replicating the amazing complexity of nature. Scientists are
+continuing to look to nature to bring about the next wave of computing
+innovations. These include holding information in the way a brain holds
+information, with synapses and nerves to think, remember, and process. In
+searching for the next great improvement in computing, scientists are
+turning to human biological systems.
+reset page 263
+-------------------------------------------- 分页分隔 --------------------------------------------
+Today, most computers automatically perform standard maintenance
+operations such as defragging hard disks. Most search for viruses and
+eliminate them before they can become a problem. In the future, computers
+may not only fix viruses and other software issues, but also identify and
+resolve hardware problems using autonomic computing.
+grinvalds/Getty Images
+Autonomic computing is a computing model that allows machines to run
+with little human intervention. It has the potential to revolutionize the
+way we interact with computers. The Cloud and Autonomic Computer Center is
+the leading research group devoted to developing self-healing computers.
+This center includes the National Science Foundation, leading universities
+(such as the University of Arizona and Texas Tech University), and
+industry leaders (such as Mitsubishi and Dell). Their objective is to free
+businesses and individuals from time-consuming computer maintenance by
+developing systems that are self-maintaining and virtually invisible to
+the user.
+Autonomic processes in machines are modeled after human autonomic
+processes. For example, each of us has an autonomic system that
+automatically controls our breathing, our heart rate, and many other
+bodily functions. Scientists hope autonomic computing will behave in a
+similar manner and maintain computer systems without human intervention.
+Such computers would not have self-awareness but would be self-correcting.
+These autonomic computing systems, however, are not artificial
+intelligence systems. Although autonomic systems automatically perform
+standard operations, they do not have human cognitive abilities or
+intelligence. These systems are limited to reacting to their own systems
+and have limited capability to learn from experience to correct errors. In
+order to adapt to conditions beyond this, scientists have turned to
+artificial intelligence.
+reset page 264
+-------------------------------------------- 分页分隔 --------------------------------------------
+Artificial intelligence can be found in computers around the world,
+from tiny cell phones to towering mainframes. These programs mimic the
+human brain. Researchers at MIT are working on neuromorphic computer
+chips. A neuromorphic chip is a computer chip that computes using an
+architecture like a brain, with neurons and synapses. They intend to use
+resistive computing, a process that uses analog voltages to store and
+compute data, instead of the digital method used today that is limited to
+binary values. This allows the chip to handle artificial intelligence
+tasks much more efficiently than today’s hardware.
+Given the potential for a self-maintaining server and a human-like
+computer chip, the possibility of a similar system designed for a personal
+computer seems less like a dream and more like a reality. What do you
+think? Will personal computers ever think and care for themselves?
+page 101
+VISUAL SUMMARY
+System Software
+SYSTEM SOFTWARE
+NoDerog/Getty Images
+reset page 265
+-------------------------------------------- 分页分隔 --------------------------------------------
+System software works with end users, application
+programs, and computer hardware to handle many details
+relating to computer operations.
+Not a single program but a collection or system of
+programs, these programs handle hundreds of technical
+details with little or no user intervention.
+Four kinds of systems programs are operating systems,
+utilities, device drivers, and language translators.
+Operating systems coordinate resources, provide an
+interface between users and the computer, and run
+programs.
+Utilities perform specific tasks related to managing
+computer resources.
+Device drivers allow particular input or output
+devices to communicate with the rest of the computer
+system.
+Language translators convert programming instructions
+written by programmers into a language that computers
+can understand and process.
+Microsoft Corporation
+OPERATING SYSTEMS
+reset page 266
+-------------------------------------------- 分页分隔 --------------------------------------------
+Microsoft Corporation
+Operating systems (software environments, software
+platforms) handle technical details.
+Functions
+Functions include managing resources, providing a user
+interface (graphical user interface, or GUI, provides
+visual interface; voice assist tools accept spoken
+commands), and running applications. Multitasking allows
+switching between different applications stored in
+memory; current programs run in the foreground; other
+programs run in the background.
+Features
+Booting starts (cold) or restarts (warm) a computer
+system. The desktop provides access to computer
+resources. Common features include icons, pointers,
+windows, menus, tabs, dialog boxes, help, and gesture
+control. Data and programs are stored in a system of
+files and folders.
+Categories
+Three categories of operating systems are
+reset page 267
+-------------------------------------------- 分页分隔 --------------------------------------------
+Embedded—also known as real-time operating systems
+(RTOS); used with handheld computers; operating system
+stored within the device.
+Stand-alone (desktop)—controls a single computer;
+located on the hard disk.
+Network (NOS)—controls and coordinates networked
+computers; located on the network server.
+Operating systems are often called software
+environments or software platforms.
+page 102
+To efficiently and effectively use computers, you need
+to understand the functionality of system software,
+including operating systems and utility programs.
+MOBILE OPERATING SYSTEMS
+manaemedia/Shutterstock; Cincila/Shutterstock
+reset page 268
+-------------------------------------------- 分页分隔 --------------------------------------------
+Mobile operating systems (mobile OS) are embedded in
+every cell phone and tablet. These systems are less
+complicated and more specialized for wireless
+communication than desktop operating systems.
+Some of the best known are Google’s Android and
+Apple’s iOS.
+Android was developed by Google and is based on the
+Linux operating system. It is used as the operating
+system for some of the most popular cell phone lines,
+including the Samsung Galaxy S1 Ultra and Google Pixel
+4a.
+iOS was developed by Apple and is based on macOS. It is
+used as the platform for Apple’s mobile devices, the
+iPad and iPhone.
+Not all mobile applications will run on all cell
+phones. That is because an app is designed to run on a
+particular software platform or operating system. Before
+downloading an app, be sure that it is designed to run
+with the mobile operating system on your mobile device.
+DESKTOP OPERATING SYSTEMS
+Microsoft Corporation
+Windows
+reset page 269
+-------------------------------------------- 分页分隔 --------------------------------------------
+Windows is designed to run with many different
+microprocessors. The most recent version is Windows 11.
+Windows 11 was introduced in 2021. It includes the
+ability to run mobile Android apps; improved innovations
+for mobile computing; and integration of instant
+messaging, videoconferencing, and collaborative work
+tools.
+macOS
+macOS, an innovative, powerful, easy-to-use operating
+system, runs on Macintosh computers. macOS 12 Monterey
+was introduced in 2021 and includes improved
+videoconferencing, notification customization, and the
+ability to use one mouse and keyboard across multiple
+devices.
+Apple, Inc.
+page 103
+DESKTOP OPERATING SYSTEMS
+reset page 270
+-------------------------------------------- 分页分隔 --------------------------------------------
+Linux
+UNIX and Linux
+UNIX was originally designed to run on minicomputers in
+network environments. Now, it is widely used by servers
+on the web, mainframe computers, and very powerful
+personal computers. There are many different versions of
+UNIX. One version, Linux, a popular and powerful
+alternative to the Windows operating system, is open-
+source software. Google’s Chrome OS is based on Linux.
+It integrates with web servers to run applications and to
+perform other traditional operating system functions.
+Chrome OS is a popular choice for inexpensive notebook
+computers using cloud computing and cloud storage. One
+limitation of these computers is that their efficiency is
+dependent upon the speed of their Internet connection.
+Virtualization
+Virtualization allows a single physical computer to
+support multiple operating systems. Virtualization
+software (Parallels and VMware) allows the single
+physical computer to operate as two or more separate and
+independent computers known as virtual machines. Host
+operating systems run on the physical machine. Guest
+operating systems operate on virtual machines. Parallels
+creates and runs virtual machines on Apple’s macOS X.
+reset page 271
+-------------------------------------------- 分页分隔 --------------------------------------------
+Microsoft Corporation
+UTILITIES
+Norton
+Operating System Utilities
+Utilities are specialized programs designed to make
+computing easier. The most essential follow:
+Search programs provide a quick and easy way to search
+or examine an entire computer system to locate
+reset page 272
+-------------------------------------------- 分页分隔 --------------------------------------------
+applications, data, or other files.
+Storage management programs help solve the problem of
+running out of storage space by providing lists of
+programs file.
+Backup programs make copies of files to be used in
+case the originals are lost or damaged.
+Antivirus programs guard against viruses or other
+damaging programs.
+Troubleshooting (diagnostic) programs recognize and
+correct problems.
+Virtual assistants accept commands through text or
+speech and coordinate personal data across multiple
+applications.
+Utility Suites
+Utility suites combine several programs into one
+package. Computer viruses are dangerous programs.
+CAREERS in IT
+Computer support specialists provide technical support
+to customers and other users. Degrees in computer science
+or information systems are preferred plus good analytical
+and communication skills. Expected salary range is
+$43,040 to $68,060.
+page 104
+KEY TERMS
+reset page 273
+-------------------------------------------- 分页分隔 --------------------------------------------
+Android (90)
+antivirus program (93)
+background (88)
+Backup (98)
+backup program (93, 98)
+booting (88)
+Chrome OS (92)
+cold boot (88)
+computer support specialist (99)
+Cortana (93)
+desktop (88)
+desktop operating system (89)
+device driver (86)
+diagnostic program (93)
+dialog box (87)
+embedded operating system (89)
+file (89)
+folder (89)
+foreground (88)
+gesture control (89)
+graphical user interface (GUI) (87)
+guest operating system (92)
+help (89)
+host operating system (92)
+icon (88)
+iOS (90)
+language translator (86)
+Linux (92)
+reset page 274
+-------------------------------------------- 分页分隔 --------------------------------------------
+macOS (91)
+macOS 12 Monterey (91)
+menu (89)
+mobile operating system (90)
+mobile OS (90)
+multitasking (88)
+network operating system (NOS) (89)
+network server (89)
+open source (92)
+operating system (86, 87)
+pointer (88)
+real-time operating system (RTOS) (89)
+search program (93, 96)
+Siri (93)
+software environment (89)
+software platform (89)
+stand-alone operating system (89)
+storage management program (93, 97)
+system software (86)
+tab (89)
+troubleshooting program (93)
+UNIX (92)
+user interface (87)
+utilities (86, 93)
+utility suite (99)
+virtual assistant (93)
+virtualization (92)
+virtualization software (93)
+virtual machine (93)
+reset page 275
+-------------------------------------------- 分页分隔 --------------------------------------------
+virus (99)
+voice assist tool (87)
+warm boot (88)
+window (89)
+Windows (91)
+Windows 11 (91)
+page 105
+MULTIPLE CHOICE
+Circle the correct answer.
+1. Programs that perform specific tasks related to managing
+computer resources.
+a. troubleshooting
+b. translators
+c. virtual
+d. utilities
+2. Restarting a running computer without turning off the
+power.
+a. cold boot
+b. warm boot
+c. multitasking
+d. virtualization
+3. Type of operating system that controls and coordinates
+networked computers.
+a. iOS
+reset page 276
+-------------------------------------------- 分页分隔 --------------------------------------------
+b. NOS
+c. mobile OS
+d. Chrome OS
+4. An operating system is often referred to as the software
+environment or software .
+a. interface
+b. driver
+c. platform
+d. suite
+5. Switching among different applications.
+a. multitasking
+b. multicore
+c. platforming
+d. virtualization
+6. A type of software that allows a single physical
+computer to operate as though it were two or more
+separate and independent computers.
+a. virtualization
+b. multitasking
+c. embedded operating system
+d. platform
+7. Mobile operating system that is owned by Google and is
+widely used in many cell phones.
+a. Android
+b. macOS
+c. Windows
+d. iOS
+8. Type of program that guards computer systems from
+viruses and other damaging programs.
+a. embedded operating system
+reset page 277
+-------------------------------------------- 分页分隔 --------------------------------------------
+b. antivirus
+c. background
+d. storage management
+9. The operating system operating on each virtual machine
+.
+a. embedded
+b. UNIX
+c. mobile
+d. guest
+10. Monterey is the name of which type of operating system?
+a. iOS
+b. Windows
+c. macOS
+d. Chrome OS
+page 106
+MATCHING
+Match each numbered item with the most closely related
+lettered item. Write your answers in the spaces provided.
+a. Chr ome 1. This is an essential
+b. iOS utility program that
+provides a quick and
+c. system
+easy way to find a
+d. translators
+specific application or
+e. icon other file.
+reset page 278
+-------------------------------------------- 分页分隔 --------------------------------------------
+f. poi nter 2. Examples of this
+g. multitasking include Bitdefender and
+Norton.
+h. antivirus
+3. This is the ability to
+program
+switch between
+i. search
+different applications
+programs
+stored in memory.
+j. utility
+4. Graphic representation
+suites
+for a program, type of
+file, or function.
+5. Essential utility that
+protects against
+damaging programs that
+can invade your
+computer system.
+6. This operating system
+feature is controlled
+by a mouse and changes
+shape depending on its
+current function.
+7. This type of software
+works with users,
+application software,
+and computer hardware
+to handle the majority
+of technical details.
+8. The programs that
+convert programming
+instructions written by
+programmers into a
+reset page 279
+-------------------------------------------- 分页分隔 --------------------------------------------
+language that computers
+understand and process
+are language .
+9. The operating system
+based on Linux,
+designed for notebook
+computers that use
+cloud computing and
+cloud storage.
+10. The mobile operating
+system developed by
+Apple.
+OPEN-ENDED
+On a separate sheet of paper, respond to each question or
+statement.
+1. Describe system software. Discuss each of the four types
+of system programs.
+2. Define operating systems. Describe the basic features
+and the three categories of operating systems.
+3. What are mobile operating systems? Describe the leading
+mobile operating systems.
+4. What are desktop operating systems? Compare Windows,
+macOS, Linux, and Chrome OS. Discuss virtualization.
+5. Discuss utilities. What are the most essential
+utilities? What is a utility suite?
+reset page 280
+-------------------------------------------- 分页分隔 --------------------------------------------
+page 107
+DISCUSSION
+Respond to each of the following questions.
+Making IT Work for You: VIRTUAL
+1
+ASSISTANTS
+Review the Making IT Work for You: Virtual Assistants on pages 94 and
+95. Then respond to the following: (a) Do you currently have a cell
+phone, tablet, or PC with an operating system that includes a virtual
+assistant? If you do, what are the operating system and the name of the
+virtual assistant? (If you do not, use one of the virtual assistants
+mentioned on pages 94 and 95 to respond to this question and the
+following questions.) Research your virtual assistant online and answer
+the following questions: (b) What are some of the basic commands that
+the assistant understands? (c) What information does the assistant have
+access to? Can it read your e-mail? Your calendar? (d) How does your OS
+assistant differ from other OS assistants? What can it do that others
+can’t? What do you wish it could do?
+Privacy: VIRTUAL ASSISTANTS
+2
+Review the Privacy box on page 91, and respond to the following: (a)
+Have you ever sent a personal text or e-mail that you wouldn’t want
+anyone else to see? Would you be uncomfortable with a company, like
+Apple or Google, seeing that text or e-mail? Would you be willing to let
+a company see that text or e-mail if it promised not to share the
+information? (b) What if the company profited from the information you
+shared with it? Would you deserve a share of that profit? (c) Search
+online for the privacy settings and privacy agreements of a popular
+virtual assistant, such as Siri or Google Assistant, and answer the
+following questions: What control do you have over the information the
+assistant sees? Who does it share that information with? What can the
+assistant do with that information?
+reset page 281
+-------------------------------------------- 分页分隔 --------------------------------------------
