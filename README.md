@@ -1,4 +1,4 @@
-# 面向选课新生的课程问答：知识图谱+问答系统
+# 基于学习场景的QA
 
 ### 1. 问题
 
@@ -60,11 +60,15 @@ WebQA.v1.0/me_validation.ir.json （一个问题配多段材料，材料可能�
 
 ​	4.数据处理
 
-​	 将对应文件整理为question : {} answer : {} evidence : {}的形式分别存放在文件中。
+​	 将对应文件整理为question_id:{question : {} answer : {} evidence : {}}的形式分别存放在文件中。
 
-####  2.2 知识图谱
+#### 2.2 数据标注
 
-##### 2.2.1.已有学科知识图谱：
+​		方式暂定。
+
+####  2.3 知识图谱
+
+##### 2.3.1.已有学科知识图谱：
 
 1.数据
 
@@ -92,7 +96,7 @@ WebQA.v1.0/me_validation.ir.json （一个问题配多段材料，材料可能�
 CALL n10s.rdf.import.fetch("file:///C:\\Users\\Leemonlin\\Desktop\\清华大学edukg\\main.ttl", "Turtle");
 ```
 
-**2.2.1.自建学科知识图谱：**
+##### **2.3.2 自建学科知识图谱：**
 
 #### 2.3 问答系统
 
@@ -120,13 +124,20 @@ CALL n10s.rdf.import.fetch("file:///C:\\Users\\Leemonlin\\Desktop\\清华大学e
 
 ​		\*[北京邮电大学硕士论文-基于知识图谱与深度学习的问答系统算法研究与实现](https://kns.cnki.net/KCMS/detail/detail.aspx?filename=1021130320.nh&dbname=CMFD202201&dbcode=cdmd&uid=&v=MDA2MjVSWWFtejExUEhia3FXQTBGckNVUjdtZlplZHJGeXJoVjcvTFZGMjVIN0s3SHRMT3I1RWJQSVIrZm5zNHk=)
 
+​		\*[基于知识图谱的智能问答项目，含有部分前后端代码分析](https://blog.csdn.net/qq_45647925/article/details/113102301?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-113102301-blog-118359964.pc_relevant_multi_platform_whitelistv4&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-113102301-blog-118359964.pc_relevant_multi_platform_whitelistv4&utm_relevant_index=1)
+
 ****
 
 ### 4. 反馈栏
+
+​	github地址：https://github.com/leemonLin/KGQA
 
 ​	大家有什么问题，可以汇总在这里。
 
 ​	\-   2023/2/9 李孟灵 上传更新：更新了百度问答数据集以及对其整理的代码
 
-​	-  2023/2/14 李孟灵 更新了README文档   
-​	-  2023/2/14 李孟灵   
+​	-  2023/2/14 李孟灵 更新了README文档
+
+​	- 2023/2/24 李孟灵 更新了参考书目分章节数据
+
+​	
