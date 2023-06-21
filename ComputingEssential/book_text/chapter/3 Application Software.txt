@@ -1,0 +1,1294 @@
+
+page 56
+Application
+chapter
+3
+Software
+reset page 176
+-------------------------------------------- 分页分隔 --------------------------------------------
+ra2 studio/Shutterstock
+page 57
+Why should I read this chapter?
+The power and capability of application software is exploding. We can
+expect applications beyond our imagination, and to control these
+applications entirely with our voice, gestures, and thoughts.
+metamorworks/Shutterstock
+This chapter covers the things you need to know to be prepared for
+this ever-changing digital world, including:
+General-purpose applications—how to create documents, analyze data,
+make presentations, and organize information.
+Special-purpose applications—how to use programs for image editing,
+web page creation, and video game development, and how to locate and
+use mobile apps.
+Software suites—how to use suites and cloud-based applications.
+Learning Objectives
+After you have read this chapter, you should be able to:
+1. Identify general-purpose applications.
+reset page 177
+-------------------------------------------- 分页分隔 --------------------------------------------
+2. Describe word processors, spreadsheets, presentation
+programs, and database management systems.
+3. Describe specialized applications, such as graphics, web
+authoring, and video game development programs.
+4. Describe mobile apps and app stores.
+5. Identify software suites.
+6. Describe office suites, cloud suites, specialized
+suites, and utility suites.
+page 58
+Introduction
+“Hi,
+I’m Mia, and I’m a software engineer. I’d like to talk
+with you about application software and how to access these
+traditional programs using cloud computing.”
+reset page 178
+-------------------------------------------- 分页分隔 --------------------------------------------
+Shutterstock
+Not long ago, trained specialists were required to manually perform many
+of the operations you can now do with a computer. Market analysts used
+calculators to project sales. Graphic artists created designs by hand.
+Data processing clerks created electronic files to be stored on large
+computers. Now you can do all these tasks—and many others—with a
+personal computer and the appropriate application software.
+Think of the personal computer as an electronic tool. You may not
+consider yourself very good at typing, calculating, organizing,
+presenting, or managing information. However, a personal computer can help
+you do all these things and much more. All it takes is the right kinds of
+software.
+To efficiently and effectively use computers, you need to understand
+the capabilities of general-purpose application software, which includes
+word processors, spreadsheets, presentation programs, and database
+management systems. You also need to know about integrated packages and
+software suites.
+Application Software
+As we discussed in Chapter 1, there are two kinds of
+software. System software works with end users, application
+software, and computer hardware to handle the majority of
+technical details. Application software can be described as
+end-user software and is used to accomplish a variety of
+tasks.
+Application software can be divided into three categories.
+One of the most popular categories, mobile apps, consist of
+applications designed for cell phones and tablets. Another
+category, general-purpose applications, includes word
+processing programs, presentation software, spreadsheets, and
+database management systems. Finally, specialized
+applications include thousands of programs that are more
+narrowly focused on specific disciplines and occupations.
+App Stores
+reset page 179
+-------------------------------------------- 分页分隔 --------------------------------------------
+An app store is where you can download applications to work
+with your mobile, laptop, and desktop devices. Some
+applications are free, but many cost a nominal fee. Three of
+the best-known app stores are Apple’s App Store, Google
+Play, and the Microsoft Store (See Figure 3-1).
+Figure 3-1 Apple’s App Store
+A9 STUDIO/Shutterstock
+Applications are written for a particular type of device.
+For example, an app designed for Apple’s iPhone will not
+work on a Windows laptop. Therefore, most app stores focus on
+apps for a particular type of device. For example, the
+Microsoft Store focuses on apps for Windows laptops and
+desktops, while the Apple App Store has apps designed to work
+on Apple devices. For a list of some of the more widely used
+app stores, see Figure 3-2.
+Store Focus Site
+reset page 180
+-------------------------------------------- 分页分隔 --------------------------------------------
+Apple App Store Apple devices apps.apple.com
+Microsoft Store Windows devices apps.microsoft.com
+Google Play Android devices play.google.com
+Amazon Android devices amazon.com/appstore
+Figure 3-2 App stores
+User Interface
+A user interface is the portion of the application that
+allows you to control and to interact with the program.
+Depending on the application, you can use a mouse, a
+keyboard, a stylus, a finger, and/or your voice to
+communicate with the application. Most general-purpose
+applications use a mouse and a graphical user interface
+(GUI) that displays graphical elements called icons to
+represent familiar objects. The mouse controls a page 59
+pointer on the screen that is used to select items
+such as icons. Another feature is the use of windows to
+display information. A window is simply a rectangular area
+that can contain a document, program, or message. (Do not
+confuse the term window with the various versions of
+Microsoft’s Windows operating systems, which are programs.)
+More than one window can be opened and displayed on the
+computer screen at one time.
+The standard GUI uses a system of menus, toolbars, and
+dialog boxes. (See Figure 3-3.)
+Menus present commands that are typically displayed in a
+menu bar at the top of the screen.
+Toolbars typically appear below the menu bar and include
+small graphic elements called buttons that provide
+shortcuts for quick access to commonly used commands.
+Dialog boxes provide additional information and request
+user input.
+reset page 181
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 3-3 Traditional graphical user interface
+Microsoft Corporation
+Description
+Many applications, and Microsoft applications in
+particular, use an interface known as the Ribbon GUI, which
+changes based on the needs of the user. This GUI uses a
+system of interrelated ribbons, tabs, and galleries. (See
+Figure 3-4.)
+Ribbons replace toolbars and menus by organizing commonly
+used commands into sets of related activities. These
+activities are displayed as tabs and appear in the first
+ribbon.
+Tabs divide the ribbon into major activity areas. page 60
+Each tab is then organized into groups that contain
+related items. Some tabs, called contextual tabs, appear
+only when they are needed and anticipate the next operation
+to be performed by the user.
+reset page 182
+-------------------------------------------- 分页分隔 --------------------------------------------
+Galleries, like dialog boxes, provide additional options
+and simplify choosing an option by showing the effect.
+Figure 3-4 Ribbon GUI
+Microsoft Corporation; Comstock/Getty Images
+Description
+page 61
+Common Features
+Most applications provide a variety of features to make
+entering/presenting, editing, and formatting documents easy.
+Some of the most common features include
+Spelling and grammar checker—looks for misspelled words or
+grammatical errors.
+Alignment—centers, right-aligns, or left-aligns numbers
+and characters.
+reset page 183
+-------------------------------------------- 分页分隔 --------------------------------------------
+Fonts and font sizes—specify the size and style of entered
+numbers and text.
+Character effects—provide a variety of different
+typefaces, such as bold or italics.
+Edit options—provide easy ways to edit text, such as cut,
+copy, and paste.
+Find and replace—searches a document for a specific word
+or phrase, with the option to replace the word or phrase
+with something else.
+concept check
+What are app stores? What are they used for?
+List three categories of application software.
+What is a graphical user interface? What are windows, menus, toolbars,
+and dialog boxes?
+What is the Ribbon GUI? What are ribbons, tabs, and galleries?
+Discuss some of the most common features in application programs.
+community
+Fake Reviews
+Shopping apps help customers make smart purchases by posting
+consumers’ reviews of products. For example, Amazon allows its
+community of users to rate products from one to five stars. You can
+even search for products based on the product’s average star rating.
+Unfortunately, these ratings can also be faked; there are entire
+companies that offer services to post fake reviews and falsely improve
+a product’s ratings. Some feel that Amazon should be held responsible
+for making sure its star rankings are truthful, while others suggest it
+is the company’s responsibility. Do you trust online reviews? Should
+companies be held accountable for the reviews posted on its site, or is
+it a case of “buyer beware”?
+reset page 184
+-------------------------------------------- 分页分隔 --------------------------------------------
+Mobile Apps
+Mobile apps or mobile applications are add-on programs for a
+variety of mobile devices, including cell phones and tablets.
+Sometimes referred to simply as apps, mobile apps have been
+widely used for years. The traditional applications include
+address books, to-do lists, alarms, and message lists. With
+the introduction of cell phones, tablets, and wireless
+connections to the Internet, mobile capabilities are almost
+limitless. See Figure 3-5 for a list of some of the most
+widely used mobile apps.
+Category Popular Apps
+Music Spotify and
+YouTube Music
+Video Netflix and
+YouTube
+Social TikTok and
+Networking Instagram
+Shopping Amazon
+Games Crossy-road and
+Stardew Valley
+Figure 3-5 Mobile apps
+Apps
+The breadth and scope of available mobile applications for
+cell phones and other mobile devices are ever expanding.
+There are over 3.5 million mobile apps on the Google Play
+store alone. Some of the most widely used are for listening
+to music, viewing video, social networking, shopping, and
+game playing.
+reset page 185
+-------------------------------------------- 分页分隔 --------------------------------------------
+Music apps stream music, organize playlists, and recommend
+new artists. The Spotify app offers free music with ads.
+For a monthly fee, apps such as Spotify and YouTube Music
+offer ad-free listening, offline listening, and other extra
+features.
+Video apps are a favorite way to watch movie trailers and
+video blogs. The YouTube app offers access to free online
+videos such as movie trailers and video blogs. The Netflix
+app provides access to more professional videos for a fee.
+Social networking apps let you use your mobile device to
+share vacation photos, check in at your favorite coffee
+shop, or invite friends to a party. The most widely used
+social media app is Facebook, but other apps, such as
+Instagram and TikTok, are gaining in popularity.
+Shopping apps make shopping online quick and easy. These
+apps will help you find products, read customer reviews,
+and make purchases.
+Gaming apps are an enjoyable way to pass the time page 62
+on a cell phone. Some game apps cost money, but
+others work on a free-to-play model, where the initial game
+is free, but the more advanced features require an in-app
+purchase. Games vary from Crossy-road, a simple arcade-
+style game, to Stardew Valley, a complex role-playing game
+(RPG) where gamers create a farm, grow crops, and raise
+livestock. (See Figure 3-6.)
+reset page 186
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 3-6 Stardew Valley game
+charnsitr/Shutterstock
+privacy
+Although mobile apps on your cell phone are an amazing way to share
+your life with friends and family on social media, it is easy to forget
+that these apps are constantly recording your location, photos you
+take, and local businesses that you visit. Privacy advocates are
+concerned that this data might be used for unintended purposes. For
+example, employers could access and use this information when deciding
+who to hire. In fact, such cases are documented. Employers argue that
+they should consider every aspect of a future or current employee,
+including how an employee’s media presence could reflect on the
+company. What do you think?
+Many apps are written for a particular type of mobile
+device and will not run on other types. For example, an app
+designed for Apple’s iPhone may not work with Google’s
+Android.
+concept check
+reset page 187
+-------------------------------------------- 分页分隔 --------------------------------------------
+What are mobile apps? What are they used for?
+Describe two types of game apps. What is a RPG?
+General-Purpose Applications
+As mentioned previously, general-purpose applications include
+word processors, spreadsheets, presentation software, and
+database management systems.
+Word Processors
+Word processors create text-based documents and are one of
+the most flexible and widely used software tools. All types
+of people and organizations use word processors to create
+memos, letters, and reports. Organizations create
+newsletters, manuals, and brochures to provide information to
+their customers. Students and researchers use word processors
+to create reports.
+Microsoft Word is the most widely used word processor.
+Other popular word processors include Apple Pages and Google
+Docs.
+Assume that you have accepted a job as an advertising
+coordinator for Adventure Travel Tours, a travel agency
+specializing in active adventure vacations. Your primary
+responsibilities are to create and coordinate the company’s
+promotional materials, including flyers and travel reports.
+To see how you could use Microsoft Word as the advertising
+coordinator for the Adventure Travel Tours, see Figures 3-7
+and 3-8.
+page 63
+reset page 188
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 3-7 Flyer
+Panksvatouny/Shutterstock
+Description
+reset page 189
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 3-8 Report
+reset page 190
+-------------------------------------------- 分页分隔 --------------------------------------------
+Paul Springett/Alamy Stock Photo; WLDavies/Getty Images;
+Donvanstaden/iStock/Getty Images; WLDavies/Getty Images
+Creating a Flyer
+You have been asked to create a promotional advertising flyer. After
+discussing the flyer’s content and basic structure with your supervisor,
+you start to enter the flyer’s text. As you enter the text, the spell
+checker and grammar checker catch some spelling and grammatical errors.
+Once the text has been entered, you proofread the text and then focus
+your attention on enhancing the visual aspects of the flyer. You add a
+photograph and experiment with different character and paragraph formats,
+including fonts, font sizes, colors, and alignments.
+page 64
+Creating a Report
+Your next assignment is to create a report on Tanzania and Peru. After
+conducting your research, you start writing your paper. As you enter the
+text for the report, you notice that the AutoCorrect feature
+automatically corrects some grammar and punctuation errors. Your report
+includes several figures and tables. You use the captions feature to keep
+track of figure and table numbers, to enter the caption text, and to
+position the captions. You use the footnote feature to assist in adding
+notes to further explain or comment on information in the report.
+Finally, you prepare the report for printing by adding header and
+footer information.
+page 65
+reset page 191
+-------------------------------------------- 分页分隔 --------------------------------------------
+Presentation Software
+Presentation software are programs that combine a variety of
+visual objects to create attractive, visually interesting
+presentations. They are excellent tools to communicate a
+message and to persuade people.
+People in a variety of settings and situations use
+presentation software programs to make their presentations.
+For example, marketing managers use presentation software to
+present proposed marketing strategies to their superiors.
+Salespeople use these programs to demonstrate products and
+encourage customers to make purchases. Students use
+presentation software to create high-quality class
+presentations.
+Three of the most widely used presentation software
+programs are Microsoft PowerPoint, Apple Keynote, and Google
+Slides.
+Assume that you have volunteered for the Animal Rescue
+Foundation, a local animal rescue agency. You have been asked
+to create a powerful and persuasive presentation to encourage
+other members from your community to volunteer. To see how
+you could use Microsoft PowerPoint, see Figure 3-9.
+reset page 192
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 3-9 Presentation
+Microsoft Corporation; Zoom Pet Photography/Image Source/Getty Images
+Creating a Presentation
+You have been asked to create a powerful and persuasive presentation for
+the director of the foundation designed to encourage other members from
+your community to volunteer. The first step is to meet with the director
+of the foundation to determine the content of the presentation. Then,
+using PowerPoint, you begin creating the presentation by selecting a
+presentation template and document theme. After entering the content, you
+add interest to the presentation by adding animation to selected objects
+and using slide transition effects.
+page 66
+Spreadsheets
+Spreadsheets organize, analyze, and graph numeric data such
+as budgets and financial reports. Once used exclusively by
+accountants, spreadsheets are widely used by nearly every
+profession. Marketing professionals analyze sales trends.
+Financial analysts evaluate and graph stock market trends.
+Students and teachers record grades and calculate grade point
+averages.
+The most widely used spreadsheet program is Microsoft
+Excel. Other spreadsheet applications include Apple Numbers
+and Google Sheets.
+Assume that you have just accepted a job as manager of the
+Downtown Internet Café. This café provides a variety of
+flavored coffees as well as Internet access. One of your
+responsibilities is to create a financial plan for the next
+year. To see how you could use Microsoft Excel as the manager
+for the Downtown Internet Café, see Figures 3-10 and 3-11.
+reset page 193
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 3-10 First-quarter forecast
+Microsoft Corporation; Stockbyte/Getty Images
+Description
+reset page 194
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 3-11 Annual forecast and analysis
+Microsoft Corporation; Stockbyte/Getty Images
+Description
+Creating a Sales Forecast
+reset page 195
+-------------------------------------------- 分页分隔 --------------------------------------------
+Your first project is to develop a first-quarter sales forecast for the
+café. You begin by studying sales data and talking with several managers.
+After obtaining sales and expense estimates, you are ready to create the
+first-quarter forecast. You start structuring the worksheet by inserting
+descriptive text entries for the row and column headings. Next, you
+insert numeric entries, including formulas and functions to perform
+calculations. To test the accuracy of the worksheet, you change the
+values in some cells and compare the recalculated spreadsheet results
+with hand calculations.
+page 67
+Analyzing Your Data
+After presenting the First-Quarter Forecast to the owner, you revise the
+format and expand the workbook to include worksheets for each quarter and
+an annual forecast summary. You give each worksheet a descriptive sheet
+name. At the request of the owner, you perform a what-if analysis to test
+the effect of different estimates for payroll, and you use a chart to
+visualize the effect.
+page 68
+Database Management Systems
+A database is a collection of related data. It is the
+electronic equivalent of a file cabinet. A database
+management system (DBMS) or database manager is a program
+that sets up, or structures, a database. It also provides
+tools to enter, edit, and retrieve data from the database.
+All kinds of individuals use databases, from hospital
+administrators recording patient information to police
+reset page 196
+-------------------------------------------- 分页分隔 --------------------------------------------
+officers checking criminal histories. Colleges and
+universities use databases to keep records on their students,
+instructors, and courses. Organizations of all types maintain
+employee databases.
+Three widely used database management systems designed for
+personal computers are Microsoft Access, Apple FileMaker, and
+Oracle Database Express Edition.
+Assume that you have accepted a job as an employment
+administrator for the Lifestyle Fitness Club. To see how you
+could use Microsoft Access, see Figure 3-12.
+Figure 3-12 Database
+Microsoft Corporation; Sam Edwards/age fotostock
+Description
+reset page 197
+-------------------------------------------- 分页分隔 --------------------------------------------
+Creating a Database
+You have been asked to create an employee database to replace the club’s
+manual system for recording employee data. Using Microsoft Access, you
+design the basic structure or organization of the new database system to
+include a table that will make entering data and using the database more
+efficient. You create the table structure by specifying the fields and
+primary key field. To make the process faster and more accurate, you
+create a form and enter the data for each employee as a record in the
+table.
+page 69
+concept check
+What are word processors? What are they used for?
+What are presentation software programs? What are they used for?
+What are spreadsheets? What are they used for?
+What are database management systems? What are they used for?
+Specialized Applications
+While general-purpose applications are widely used in nearly
+every profession, specialized applications are widely used
+within specific professions. These programs include graphics
+programs and web authoring programs.
+Graphics Programs
+Graphics programs are widely used by professionals in the
+graphic arts profession. They use video editors, image
+reset page 198
+-------------------------------------------- 分页分隔 --------------------------------------------
+editing programs, illustration programs, and desktop
+publishing programs.
+Video editors are used to edit videos to enhance quality
+and appearance of the videos you capture using your cell
+phone or other devices. You can readily add special
+effects, music tracks, titles, and on-screen graphics.
+Just a few years ago, video editors were used only by
+professionals with expensive specialized hardware and
+software. Now, there are several free or inexpensive
+editors designed to assist the amateur videographer. Three
+well-known video editors are Movavi Video Editor Plus for
+Android phones and tablets, Apple iMovie for apple devices,
+and Adobe Premier Elements 2021 for a professional tool on
+laptops and desktops. (See Figure 3-13.)
+Image editors, also known as photo editors, are page 70
+specialized graphics programs for editing or
+modifying digital photographs. They are often used to touch
+up photographs to remove scratches and other imperfections.
+The photographs consist of thousands of dots, or pixels,
+that form images, often referred to as bitmap or raster
+images. One limitation of bitmap images, however, is that
+when they are expanded, the images can become pixelated, or
+jagged on the edges. For example, when the letter A in
+Figure 3-14 is expanded, the borders of the letter appear
+jagged, as indicated by the expanded view.
+For cell phones and tablets, Snapseed is a popular image
+editor. Most laptops and desktops come with a free photo
+editor; the two most common are Microsoft Photo and
+Apple’s Photos. Finally, for professional photographers,
+Adobe Photoshop is the gold standard in image editors.
+Illustration programs, also known as drawing programs, are
+used to create and edit vector images. While bitmap images
+use pixels to represent images, vector images, also known
+as vector illustrations, use geometric shapes or objects.
+reset page 199
+-------------------------------------------- 分页分隔 --------------------------------------------
+These objects are created by connecting lines and curves,
+avoiding the pixeleted or ragged edges created by bitmap
+images. (See Figure 3-15.) Because these objects can be
+defined by mathematical equations, they can be rapidly and
+easily resized, colored, textured, and manipulated. An
+image is a combination of several objects.
+Illustration programs are often used for graphic design,
+page layout, and creating sharp artistic images. Popular
+illustration programs include Procreate, Adobe Illustrator
+Draw, and Autodesk Sketchbook.
+Desktop publishing programs, or page layout programs,
+allow you to mix text and graphics to create publications
+of professional quality. While word processors focus on
+creating text and have the ability to combine text and
+graphics, desktop publishers focus on page design and
+layout and provide greater flexibility. Professional
+graphic artists use desktop publishing programs to create
+documents such as brochures, newsletters, newspapers, and
+textbooks.
+Popular desktop publishing programs include Adobe
+InDesign, Microsoft Publisher, and QuarkXPress. These
+programs provide the capability to create text and
+graphics; however, typically graphic artists import these
+elements from other sources, including word processors,
+digital cameras, scanners, image editors, illustration
+programs, and image galleries.
+reset page 200
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 3-13 Video editor
+ifeelstock/Alamy Stock Photo
+Figure 3-14 Bitmap image
+reset page 201
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 3-15 Vector image
+ethics
+Image editing software has made it easy to alter any photo or video to
+correct for a variety of different imperfections. However, some
+professionals can use these programs to significantly manipulate the
+content or meaning of a photo or video. Such changes are often intended
+to influence the opinions or emotions of the viewer. Supporters argue
+that this type of editing is acceptable and is just another way to
+express an opinion or feeling from an editor. Critics note that this
+type of image and video manipulation is unethical because it
+intentionally misleads the viewer and often creates unobtainable or
+unhealthy definitions of beauty. What do you think?
+concept check
+What are video editors?
+What are image editors? Bitmap images?
+What are illustration programs? Vector images?
+What are desktop publishing programs?
+Video Game Design Software
+Have you ever thought about designing a video game? Although
+it may initially be unrealistic to create an immersive 3D
+reset page 202
+-------------------------------------------- 分页分隔 --------------------------------------------
+world like Call of Duty or Grand Theft Auto, you can
+experiment and create some impressive games on your own with
+the right software. The first step is to visualize the game
+by thinking about the game’s length and plot. The second
+step is to choose the right video game design software.
+page 71
+Video game design software will help you organize your
+thoughts and guide you through the game design process,
+including character development and environmental design.
+There are many choices from free software to very expensive
+software designed for professional game designers. The video
+game design software behind some of the biggest games include
+the Unreal Game Engine, the Unity development kit, and
+GameMaker Studio 2. (See Figure 3-16.)
+Figure 3-16 Video game design software
+Cryengine
+reset page 203
+-------------------------------------------- 分页分隔 --------------------------------------------
+tips
+Do you take photos with your cell phone? Almost everyone does.
+Here are some suggestions to keep in mind.
+1
+Quickly launch the camera app. Sometimes a photo opportunity
+comes along and you don’t have time to log into your cell phone.
+Did you know that you can quickly access your cell phone’s camera
+without logging in?
+For Android cell phones: Double-click the power button.
+For iOS cell phones: Tap the screen to wake up your phone, then
+swipe left.
+2
+Compose your shot. Your cell phone camera can help you line up or
+balance your photos by displaying gridlines on the screen.
+For Android cell phones: Open the camera app, open settings,
+and turn on the Assistive Grid option.
+For iOS cell phones: Click on the settings icon from the home
+screen, then select Camera. Finally, turn on the Grid option.
+Web Authoring Programs
+There are over a billion websites on the Internet, and more
+are being added every day. Corporations use the web to reach
+new customers and to promote their products. Individuals
+create online diaries or commentaries, called blogs. Creating
+a site is called web authoring.
+Almost all websites consist of interrelated web pages. As
+we mentioned in Chapter 2, web pages are typically HTML
+(Hypertext Markup Language) and CSS (cascading style sheets)
+documents. With knowledge of HTML and a simple text editor,
+you can create web pages. Even without knowledge of HTML, you
+can create simple web pages using a word processing package
+like Microsoft Word.
+More specialized and powerful programs, called web
+authoring programs, are typically used to create
+sophisticated commercial sites. Also known as web page
+reset page 204
+-------------------------------------------- 分页分隔 --------------------------------------------
+editors and HTML editors, these programs provide support for
+website design and HTML coding. Some web authoring programs
+are WYSIWYG (what you see is what you get) editors, which
+means you can build a page without interacting directly with
+HTML code. WYSIWYG editors preview the page described by HTML
+code. Widely used web authoring programs include Adobe
+Dreamweaver and Froala 4.0.
+page 72
+Other Specialized Applications
+There are numerous other specialized applications, including
+accounting, personal finance, and project management
+applications. Accounting applications such as Intuit
+QuickBooks help companies record and report their financial
+operations. Personal financial applications such as Quicken
+Starter Edition help individuals track their personal
+finances and investments. Project management software like
+Microsoft Project is widely used in business to help
+coordinate and plan complicated projects.
+concept check
+What is video game design software?
+What are blogs? Web authoring? Web authoring programs? WYSIWYG?
+Software Suites
+A software suite is a collection of separate application
+programs bundled together and made available as a group. Four
+types of suites are office suites, cloud suites, specialized
+suites, and utility suites.
+reset page 205
+-------------------------------------------- 分页分隔 --------------------------------------------
+Office Suites
+Office suites, also known as office software suites and
+productivity suites, contain general-purpose application
+programs that are typically used in a business situation.
+Productivity suites commonly include a word processor,
+spreadsheet, database manager, and a presentation
+application. The best known is Microsoft Office. Another
+well-known productivity suite is Apple iWork.
+Cloud Computing
+Cloud suites or online office suites are stored at a server
+on the Internet and are available anywhere you can access the
+Internet. Documents created using cloud applications can also
+be stored online, making it easy to share and collaborate on
+documents with others. One downside to cloud applications is
+that you are dependent on the server providing the
+application to be available whenever you need it. For this
+reason, when using cloud applications, it is important to
+have backup copies of your documents on your computer and to
+have a desktop office application available to use. Popular
+cloud office suites include Google Workspace Microsoft 365
+and Apple iWorks. (See Figure 3-17.) To learn more about
+cloud office suites, see Making IT Work for You: Cloud Office
+Suites on pages 74 and 75.
+reset page 206
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 3-17 Cloud suite
+dennizn/Shutterstock
+tips
+Your cell phone’s Internet browser has many of the same
+features as a desktop or laptop browser. To get the most out of
+your mobile browser, consider the following.
+1
+Add Bookmarks. The ability to quickly save and load your favorite
+websites is a huge timesaver. To save a web page to your
+bookmarks:
+For Android Chrome: Go to the web page you want to add to the
+bookmarks, and tap the star in the address bar.
+For iOS Safari: Press and hold the icon of an open book. Then
+select Add Bookmark.
+2
+Open a Bookmark. To open a web page you have saved as a bookmark:
+For Android Chrome: Tap the more button (an icon of three
+vertical dots) and select Bookmarks to see your saved
+bookmarks. Simply tap on the bookmark you wish to open.
+reset page 207
+-------------------------------------------- 分页分隔 --------------------------------------------
+For iOS Safari: Tap the icon of an open book. This will list
+your saved bookmarks. Simply tap the bookmark you wish to open.
+Specialized and Utility Suites
+Two other types of suites that are more narrowly focused are
+specialized suites and utility suites:
+Specialized suites focus on specific applications. These
+include graphics suites like Adobe Creative Cloud,
+recording, audio editing, and mastering suites like
+Magix’s Sound Forge Pro 15., financial planning suites
+like Moneytree Software’s TOTAL Planning Suite, and many
+others.
+Utility suites include a variety of programs designed to
+make computing easier and safer. Two of the best known are
+iolo’s System Mechanic Ultimate Defence and AVG TuneUp.
+(Utility suites will be discussed in detail in Chapter 4.)
+page 73
+concept check
+What is a software suite? What are the advantages of purchasing a
+suite?
+What is the difference between a traditional office suite and a cloud
+or online suite?
+What is a specialized suite? What is a utility suite?
+Careers in IT
+reset page 208
+-------------------------------------------- 分页分隔 --------------------------------------------
+“Now
+that you have learned about application software, I’d
+like to tell you about my career as a software engineer.”
+AJR_photo/Shutterstock
+Software engineers analyze users’ needs and create
+application software. Software engineers typically have
+experience in programming but focus on the design and
+development of programs using the principles of mathematics
+and engineering.
+A bachelor’s or an advanced specialized associate’s
+degree in computer science or information systems and an
+extensive knowledge of computers and technology are
+required by most employers. Internships may provide
+students with the kinds of experience employers look for in
+a software engineer. Those with specific experience with
+web applications may have an advantage over other
+applicants. Employers typically look for software engineers
+with good communication and analytical skills.
+Software engineers can expect to earn an annual salary
+in the range of $63,000 to $148,000. Starting salary is
+dependent on both experience and the type of software being
+developed. Experienced software engineers are candidates
+for many other advanced careers in IT.
+reset page 209
+-------------------------------------------- 分页分隔 --------------------------------------------
+page 74
+Making IT work for you
+CLOUD OFFICE SUITES
+Do you work with a team on documents, presentations, or
+spreadsheets? Do your teammates use different computers
+and work in different locations? Do you sometimes need to
+work remotely—from home, a hotel, or in a coffee shop?
+Remote team work is growing in popularity, and cloud
+office suites can give you the tools to succeed.
+Choosing a Cloud Office Suite The three biggest cloud office suites
+are Microsoft 365, Google Workspace, and Apple’s iWork. Each is unique,
+with different prices, strengths, and weaknesses. Here are a few things
+to consider when choosing a cloud office suite for your team:
+What does your team use now? To use a cloud office suite, everyone
+in your team will need to sign up online and set up their devices.
+This can be time-consuming, but if you are already using one of these
+tools, the work may already be done. For example, if your team
+currently uses Google Docs, setting up a collaborative workspace could
+be as simple as sending an e-mail.
+How experienced are your teammates? A team knowledgable in
+Microsoft Office can produce impressive, customized results quickly
+and professionally. However, the time and training necessary to become
+an expert in Microsoft Office may be too much for teammates with
+little or no computer experience. Other collaborative office suites,
+such as Apple iWorks and Google Workspace, are recognized as being
+easier for new users.
+When choosing a cloud office suite, consider the experience and
+knowledge of your teammates to make the best choice for your team.
+Each cloud suite offers different online storage options and price
+points. To learn more about pricing and options, check out these
+websites:
+reset page 210
+-------------------------------------------- 分页分隔 --------------------------------------------
+iWorks apple.com/iwork
+Microsoft 365 office.com
+Google Workspace workspace.google.com
+If your company or school already uses a cloud office suite, such as
+Google Workspace, the best online tool may be the one you already have.
+Google, INC.
+Collaborative office suites, like Microsoft 365, often emphasize their
+ease of setup and tools for working with co-workers.
+Microsoft Corporation
+page 75
+Collaborating with Your Group Online collaborative office suite tools
+share many important features:
+reset page 211
+-------------------------------------------- 分页分隔 --------------------------------------------
+Document versions—When changes are made to a document by members of
+the team, the collaborative tools create a new version of the
+document. This feature allows team members to explore changes in the
+document without fear of losing important work.
+Member changes—when a team member changes a document, the
+collaborative tool tells the group about the change by highlighting
+the change and identifying who made it. Use this tool to track
+members’ impact on the document and to quickly see what changes have
+been made.
+Adding members to the team—As the document progresses, you may
+want to get more opinions. Collaborative tools let you add new people
+to your team, but also limit what they can do. Some team members may
+be able to view and edit the document, whereas others may only be able
+to view it. This is a good tool to show someone your work without
+concern that they might accidentally edit something.
+Most collaborative cloud office suites, like Google Workspace, offer the
+ability to see who made changes to a document and when and to undo those
+changes if necessary.
+Google, INC.
+Mobile Tools For many, working at a laptop or desktop computer is the
+easiest way to compose a document or presentation. However, when
+traveling on a crowded plane or walking down the hallway with a
+classmate, you can use cloud office suites on your tablet or phone. This
+is a great way to review a document, make a small comment, or quickly
+show a document to a teacher or friend. Apple, Google, and Microsoft all
+have apps to download to cell phones and tablets that allow you to view
+your online documents and make simple changes with interfaces designed
+for the smaller screens and touch interfaces of tablets and cell phones.
+reset page 212
+-------------------------------------------- 分页分隔 --------------------------------------------
+Many office suites, like Apple’s iWorks, are designed to work with
+mobile devices and offline utility suites, such as Apple’s word
+processor, Pages, which has apps for computers, laptops, and cell phones.
+Apple Inc.
+page 76
+A LOOK TO THE FUTURE
+The New Workplace Realities
+Working from home has become increasingly popular. Many no longer commute
+to work but, instead, have a home office or work from the kitchen table.
+However, working from home is lacking in important features that office
+buildings provided. Virtual reality (VR) and augmented reality (AR)
+technologies offer a future where you still work from home but experience
+all the benefits of working at the office. The future office building may
+be located in virtual reality, and the next meeting you have may be a
+blend of physical and virtual elements that make up augmented reality.
+reset page 213
+-------------------------------------------- 分页分隔 --------------------------------------------
+Augmented reality glasses and complex camera arrays are looking to
+vastly change the way in which we videoconference. Imagine a meeting
+between yourself in L.A. and a co-worker in London. You both enter
+specialized rooms with multiple cameras that capture your position and
+appearance. You both wear augmented reality eyeglasses. In London, your
+co-worker sits down at a table. AR software records her position and
+appearance in London and sends that information to you in L.A. Your AR
+software projects the appearance and position of your co-worker onto the
+transparent AR glasses. Although you can see the room around you, the
+image of your co-worker is overlaid on your vision of the room to give the
+appearance that she is in the room as well.
+Milles Studio/Shutterstock
+As the meeting progresses, you present your ideas to your co-worker
+through charts and graphs. These charts float around the room in virtual
+screens. You decide to bring in a third member to the meeting. Your co-
+workers in the office outside the augmented reality meeting room are using
+virtual reality headsets, doing their work in virtual offices. You ask
+your manager to join you, and the manager joins the meeting by changing
+his virtual location to the meeting room. Because the VR headset covers
+your manager’s face, he appears in the room as an avatar, a virtual
+representation of your manager.
+Virtual reality office spaces have the potential to completely remove
+the need for office space. Workers could use VR software at home and
+complete their work with co-workers in a virtual office. Augmented reality
+programs could allow you to try on clothes without going to the store,
+reset page 214
+-------------------------------------------- 分页分隔 --------------------------------------------
+overlaying a projection of an outfit to model the style and fit of a
+garment. Although not common yet, these tools are currently being
+developed by researchers and scientists.
+Soon the glasses themselves may be unnecessary. Developments in
+flexible and translucent screens may one day be so compact that your AR
+glasses could be AR contact lenses. Scientists at UC Berkley are working
+on a power supply that is the size of a grain of rice and transmits power
+through ultrasonic pulses—allowing energy to pass through the body and be
+absorbed by the power supply. In this future, a computer screen will
+always be at your disposal, with hand gestures and head position monitored
+to create virtual keyboards that only you can see. Would you enjoy working
+at a virtual desk and attending virtual meetings, or do you think that
+virtual work would be less productive?
+page 77
+Application
+VISUAL SUMMARY
+Software
+APPLICATION SOFTWARE
+Microsoft Corporation
+reset page 215
+-------------------------------------------- 分页分隔 --------------------------------------------
+The three categories of application software are general
+purpose, specialized, and mobile.
+App Stores
+An app store is typically a website that provides access
+to specific mobile apps that can be downloaded either for
+a nominal fee or free of charge. Two of the best-known
+stores are Apple’s App Store and Google Play. Most of
+the best-known app stores specialize in applications for
+a particular line of mobile devices; other less well-
+known stores provide apps for a wide variety of mobile
+devices.
+Store Focus Site
+Apple App Apple apps.apple.com
+Store devices
+Microsoft Windows apps.microsoft.com
+Store devices
+Google Android play.google.com
+Play devices
+Amazon Android amazon.com/appstore
+devices
+User Interface
+You control and interact with a program using a user
+interface. A graphical user interface (GUI) uses icons
+selected by a mouse-controlled pointer. A window
+contains a document, program, or message. Software
+programs with a traditional GUI have
+Menus—present commands listed on the menu bar.
+Toolbars—contain buttons for quick access to commonly
+used commands.
+reset page 216
+-------------------------------------------- 分页分隔 --------------------------------------------
+Dialog box—provides additional information or
+requests user input.
+Software programs with a Ribbon GUI have
+Ribbons—replace menus and toolbars.
+Tabs—divide ribbons into groups. Contextual tabs
+automatically appear when needed.
+Galleries—graphically display alternatives before
+they are selected.
+Common Features
+Common features include spell checkers, alignment, fonts
+and font sizes, character effects, and editing options.
+MOBILE APPS
+A9 STUDIO/Shutterstock
+Mobile apps (mobile applications, apps) are add-on
+programs for mobile devices. Traditional applications
+include address books, to-do lists, alarms, and message
+lists.
+Apps
+reset page 217
+-------------------------------------------- 分页分隔 --------------------------------------------
+Popular apps include those for music, videos, social
+networking, shopping, and game playing.
+Pandora and Spotify provide popular music apps.
+YouTube and Netflix provide streaming video apps.
+Facebook and Instagram provide social networking apps.
+Amazon provides a shopping app.
+Minecraft and Final Fantasy are popular game-playing
+apps. Mindcraft involves exploring and reconstructing a
+world. Players may buy additional environments to
+explore. Final Fantasy is a role-playing game (RPG)
+where gamers can join a team of adventurers and battle
+across fantastic worlds.
+page 78
+To efficiently and effectively use computers, you need
+to understand the capabilities of general-purpose and
+specialized application software. Additionally, you
+need to know about mobile applications and software
+suites.
+GENERAL-PURPOSE APPLICATIONS
+reset page 218
+-------------------------------------------- 分页分隔 --------------------------------------------
+Panksvatouny/Shutterstock
+General-purpose applications include word processors,
+presentation software, spreadsheets, and database
+management systems.
+Word Processors
+Word processors create text-based documents. Individuals
+and organizations use word processors to create memos,
+letters, and reports. Organizations also create
+newsletters, manuals, and brochures to provide
+information to their customers. Microsoft Word is the
+most widely used word processor. Others include Apple
+Pages and Google Workspace.
+Presentation Software
+Presentation software are programs that combine a
+variety of visual objects to create attractive, visually
+reset page 219
+-------------------------------------------- 分页分隔 --------------------------------------------
+interesting presentations. They are excellent tools to
+communicate a message and to persuade people. People in a
+variety of settings and situations use presentation
+software programs to make their presentations more
+interesting and professional. Three of the most widely
+used presentation software programs are Microsoft
+PowerPoint, Apple Keynote, and Google Slides.
+Spreadsheets
+Spreadsheets organize, analyze, and graph numeric data
+such as budgets and financial reports. They are widely
+used by nearly every profession. Microsoft Excel is the
+most widely used spreadsheet program. Others include
+Apple Numbers and Google Sheets.
+GENERAL-PURPOSE APPLICATIONS
+Zoom Pet Photography/ImageSource/Getty Images
+Database Management Systems
+A database is a collection of related data. A database
+management system (DBMS) or database manager is a
+program that structures a database. It provides tools to
+reset page 220
+-------------------------------------------- 分页分隔 --------------------------------------------
+enter, edit, and retrieve data from the database.
+Organizations use databases for many purposes, including
+maintaining employee records. Two widely used database
+management systems designed for personal computers are
+Microsoft Access and Apple FileMaker.
+Sam Edwards/age fotostock
+page 79
+SPECIALIZED APPLICATIONS
+Cryengine
+Specialized applications are widely used within specific
+professions. They include graphics programs, video game
+reset page 221
+-------------------------------------------- 分页分隔 --------------------------------------------
+design software, and web authoring programs.
+Graphics Programs
+Graphics programs are used by graphic arts
+professionals.
+Video editors edit video to enhance quality and
+appearance.
+Image editors (photo editors) edit digital photographs
+consisting of thousands of dots, or pixels, that form
+bitmap or raster images.
+Illustration programs (drawing programs) create and
+edit vector images. Vector images (vector
+illustrations) use geometric shapes.
+Desktop publishing programs (page layout programs)
+mix text and graphics to create professional-quality
+publications.
+Video Game Design Software
+Video game design software helps to organize thoughts
+and guide users through the game design process,
+including character development and environmental design.
+Web Authoring Programs
+Web authoring is the process of creating a website.
+Individuals create online diaries called blogs. Web
+authoring programs (web page editors, HTML editors)
+create sophisticated commercial websites. Some are
+WYSIWYG (what you see is what you get) editors.
+SOFTWARE SUITES
+reset page 222
+-------------------------------------------- 分页分隔 --------------------------------------------
+dennizn/Shutterstock
+A software suite is a collection of individual
+application packages sold together.
+Office suites (office software suites or productivity
+suites) contain professional-grade application
+programs.
+Cloud suites (online office suites) are stored on
+servers and available through the Internet.
+Specialized suites focus on specific applications such
+as graphics.
+Utility suites include a variety of programs designed
+to make computing easier and safer.
+CAREERS in IT
+Software engineers analyze users’ needs and create
+application software. A bachelor’s or advanced
+specialized associate’s degree in computer science or
+information systems and extensive knowledge of computers
+and technology are required. Expected salary range is
+$63,000 to $148,000.
+reset page 223
+-------------------------------------------- 分页分隔 --------------------------------------------
+page 80
+KEY TERMS
+app (61)
+application software (58)
+app store (58)
+bitmap (70)
+blog (71)
+button (59)
+cloud suite (72)
+contextual tab (60)
+database (68)
+database management system (DBMS) (68)
+database manager (68)
+desktop publishing program (70)
+dialog box (59)
+document (62)
+drawing program (70)
+free-to-play (62)
+gallery (60)
+general-purpose application (58)
+graphical user interface (GUI) (58)
+graphics program (69)
+group (60)
+HTML editor (71)
+icon (58)
+reset page 224
+-------------------------------------------- 分页分隔 --------------------------------------------
+illustration program (70)
+image editor (70)
+menu (59)
+menu bar (59)
+mobile app (58)
+mobile application (61)
+office software suite (72)
+office suite (72)
+online office suite (72)
+page layout program (70)
+photo editor (70)
+pixel (70)
+pointer (59)
+presentation software (65)
+productivity suite (72)
+raster (70)
+ribbon (59)
+Ribbon GUI (59)
+role-playing game (RPG) (62)
+software engineer (73)
+software suite (72)
+specialized application (58)
+specialized suite (72)
+spreadsheet (66)
+system software (58)
+tab (60)
+toolbar (59)
+user interface (58)
+utility suite (72)
+reset page 225
+-------------------------------------------- 分页分隔 --------------------------------------------
+vector illustration (70)
+vector image (70)
+video editor (69)
+video game design software (71)
+web authoring (71)
+web authoring program (71)
+web page editor (71)
+window (59)
+word processor (62)
+WYSIWYG (what you see is what you get) editor (71)
+page 81
+MULTIPLE CHOICE
+Circle the correct answer.
+1. Toolbars typically appear below the menu bar and include
+small graphic elements called .
+a. buttons
+b. ribbons
+c. pointers
+d. vector graphics
+2. Simplifies the process of making a selection from a list
+of alternatives by graphically displaying the effect of
+alternatives before being selected.
+a. buttons
+b. windows
+reset page 226
+-------------------------------------------- 分页分隔 --------------------------------------------
+c. pixels
+d. galleries
+3. A general-purpose program that creates text-based
+documents.
+a. database
+b. word processor
+c. spreadsheet
+d. presentation software
+4. Program that organizes, analyzes, and graphs numerical
+data.
+a. word processor
+b. presentation software
+c. spreadsheet
+d. blog
+5. A collection of related data.
+a. ribbons
+b. blog
+c. database
+d. cloud
+6. Also known as a photo editor, this specialized graphics
+program edits or modifies digital photographs.
+a. image editor
+b. word processor
+c. presentation software
+d. pixels
+7. Image editors create images made up of thousands of dots
+known as .
+a. vectors
+b. pixels
+c. blogs
+reset page 227
+-------------------------------------------- 分页分隔 --------------------------------------------
+d. HTML
+8. A website that provides access to specific mobile apps
+is known as an app .
+a. cloud
+b. blog
+c. suites
+d. store
+9. A type of suite that is stored at a server on the
+Internet and is available anywhere you can access the
+Internet.
+a. database
+b. cloud
+c. menu
+d. general-purpose
+10. A type of specialized suite that includes a variety of
+programs designed to make computing easier and safer.
+a. utility
+b. window
+c. WYSIWYG
+d. database manager
+page 82
+MATCHING
+Match each numbered item with the most closely related
+lettered item. Write your answers in the spaces provided.
+reset page 228
+-------------------------------------------- 分页分隔 --------------------------------------------
+a. sys tem 1. Programs that
+b. window organize, analyze, and
+graph numerical data
+c. vector
+such as budgets and
+d. spreadsheets
+financial reports.
+e. word
+2. Also known as an
+processors
+online office suite.
+f. presentation
+3. Programs that allow
+software
+you to mix text and
+g. desktop graphics to create
+publishing publications of
+h. web professional quality.
+aut horing 4. A rectangular area
+programs that can contain a
+i. cloud suite document, program, or
+message.
+j. blog
+5. Programs that create
+text-based documents.
+6. Programs that combine
+a variety of visual
+objects to create
+attractive, visually
+interesting
+presentations.
+7. Programs typically
+used to create
+sophisticated
+commercial websites.
+8. The type of image that
+consists of geometric
+reset page 229
+-------------------------------------------- 分页分隔 --------------------------------------------
+shapes.
+9. An online diary or
+commentary.
+10. This type of software
+works with end users,
+application software,
+and computer hardware
+to handle the majority
+of technical details.
+OPEN-ENDED
+On a separate sheet of paper, respond to each question or
+statement.
+1. Explain the difference between general-purpose and
+specialized applications. Also discuss the common
+features of application programs, including those with
+traditional and ribbon graphical user interfaces.
+2. Discuss general-purpose applications, including word
+processors, spreadsheets, database management systems,
+and presentation software.
+3. Discuss specialized applications, including graphics
+programs, video game design software, web authoring
+programs, and other professional specialized
+applications.
+4. Describe mobile apps, including popular apps and app
+stores.
+5. Describe software suites, including office suites, cloud
+suites, specialized suites, and utility suites.
+reset page 230
+-------------------------------------------- 分页分隔 --------------------------------------------
+page 83
+DISCUSSION
+Respond to each of the following questions.
+Making IT Work for You: CLOUD OFFICE
+1
+SUITES
+Review the Making IT Work for You: Cloud Office Suites on pages 74–75
+and then respond to the following: (a) Do you currently use a cloud
+office suite? If so, what types of documents do you typically create? If
+not, then list some possible benefits a cloud office suite could
+provide. (b) Do you collaborate with others on creating documents? What
+are some types of documents you create with others that can take
+advantage of cloud collaborative tools? (c) Using a search engine or
+other type of research tool, identify and list a few differences between
+the online general-purpose applications: Google Workspace and
+Microsoft’s 365. Which one would work best for your needs? Why?
+Privacy: CELL PHONE TRACKING
+2
+Review the Privacy box on page 62, and respond to the following: (a) Do
+you think that cell phone tracking is a violation of your privacy? If
+yes, what can be done? If no, explain your position. (b) Does a company
+that tracks your movements have the right to sell this information to
+other companies? Would your opinion change if the company sells your
+location information but does not reveal your identity? State and defend
+your position. (c) Does the government have the right to subpoena GPS
+information from an app maker? Why or why not? (d) Are there any
+circumstances in which it would be acceptable/justifiable for a company
+to reveal location data to the government or another company? If so,
+give some examples.
+Ethics: IMAGE EDITING
+3
+reset page 231
+-------------------------------------------- 分页分隔 --------------------------------------------

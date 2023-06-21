@@ -1,0 +1,1879 @@
+
+page 24
+The Internet, the
+chapter
+2
+Web, and Electronic
+Commerce
+reset page 102
+-------------------------------------------- 分页分隔 --------------------------------------------
+Elnur/Shutterstock
+page 25
+Why should I read this chapter?
+reset page 103
+-------------------------------------------- 分页分隔 --------------------------------------------
+The Internet has changed the world, and our world has changed how we use
+the Internet. Originally, the Internet was only available to academics
+and scientists in universities and federal buildings. Today, the Internet
+connects everything, from cell phones to refrigerators.
+NicoElNino/Shutterstock
+This chapter covers the things you need to know to be prepared for
+this ever-changing digital world, including
+Impact—how Internet technology is changing your world.
+Hardware—how to connect your life to the Internet, including Wi-Fi,
+cell phones, and tablets.
+Applications—how to get ahead using social networking, streaming
+technology, and cloud computing.
+Learning Objectives
+After you have read this chapter, you should be able to:
+1. Explain the origins of the Internet and the web.
+2. Explain how to access the web using providers and
+browsers.
+3. Compare different web utilities, including filters, file
+transfer utilities, and Internet security suites.
+4. Compare different Internet communications, including
+social networking, blogs, microblogs, podcasts, wikis,
+text messaging, instant messaging, and e-mail.
+5. Describe search tools, including search engines.
+reset page 104
+-------------------------------------------- 分页分隔 --------------------------------------------
+6. Describe how to evaluate the accuracy of information
+presented on the web.
+7. Identify electronic commerce, including B2C, C2C, B2B,
+and security issues.
+8. Describe cloud computing, including the three-way
+interaction of clients, Internet, and service providers.
+9. Discuss the Internet of Things (IoT) and the continuing
+development of the Internet to allow everyday objects to
+send and receive data.
+page 26
+Introduction
+“Hi,
+I’m Henry, and I’m a web developer. I’d like to talk
+with you about the Internet, the web, and electronic commerce,
+things that touch our lives every day. I’d also like to talk with
+you about the role the Internet plays with Facebook, Linkedln,
+Twitter, and cloud computing.”
+Dragon Images/Shutterstock
+reset page 105
+-------------------------------------------- 分页分隔 --------------------------------------------
+When you use a cell phone to text a friend, watch a video, or make a
+purchase, you are using the Internet. But what does it mean to “use the
+Internet”? Internet devices, like cell phones, are so common it is easy
+to overlook the incredible achievements that make the Internet possible. A
+closer look at how the Internet works will give you a new appreciation for
+this technical marvel and prepare you to use cell phones and other
+Internet devices to their full potential.
+The Internet is an interconnected mesh of computers and data lines that
+connects millions of people and organizations. It is the foundation of the
+digital revolution and allows people around the world to share words,
+images, and any digital file almost instantaneously. The web provides an
+easy-to-use interface to Internet resources. It has become an everyday
+tool for all of us to use.
+To efficiently and effectively use computers, you need to be aware of
+the resources available on the Internet and the web. Additionally, you
+need to know how to access these resources, to effectively communicate
+electronically, to efficiently locate information, to understand
+electronic commerce, and to use web utilities.
+The Internet and the Web
+The Internet was launched in 1969 when the United States
+funded a project that developed a national computer network
+called Advanced Research Project Agency Network (ARPANET)
+and has grown to become the largest network in the world. The
+Internet is an immense network that connects together smaller
+networks all over the globe. The web, also known as the World
+Wide Web or WWW, was introduced in 1991. Prior to the web,
+the Internet was all text—no graphics, animations, sound, or
+video. The web made it possible to include these elements. It
+provided a multimedia interface to resources available on the
+Internet.
+Today, the web is a collection of machines and people
+sharing amazing content, but not long ago it was a far
+simpler experience. The web has matured through four
+generations, commonly called Web 1.0, 2.0, 3.0, and 4.0. Each
+generation is defined by a new technology that changes the
+relationship between content creator and audience.
+reset page 106
+-------------------------------------------- 分页分隔 --------------------------------------------
+Web 1.0 is defined by the use of search engines that
+connect everyone to web pages of interest. A search engine
+makes it possible for users to search the web for web pages
+of interest. These web pages had few creators because they
+were difficult to create and required a background in
+computers and programming. The web pages had very large
+audiences because they were designed to be read by anyone
+who searched for them.
+Web 2.0 is defined by the use of social media that connect
+friends and family to social media posts about each
+others’ lives. Social media sites make it possible for
+people to share videos, posts, and pictures with each
+other. This content is created by many people because
+creating social media posts does not require special
+technical knowledge. Social media posts have smaller
+audiences because they are created to only be of interest
+to the friends and family of the user who posts the
+content.
+Web 3.0 is defined by the innovation of the semantic web.
+The semantic web allows programs to identify relationships
+between data. For example, a program like Amazon’s Alexa
+and Google Assistant can inform a user that a flight they
+are planning to take has been delayed (see Figure 2-1).
+This is accomplished by identifying the relationship
+between a flight scheduled on your calendar and flight
+delay information available on the Internet. The content
+creator is now a computer program, and the content audience
+is a single person—the user.
+Web 4.0, called the mobile web, is defined by the page 27
+use of mobile tools that provide new sources of
+information for programs to provide users with information.
+This is an extension of Web 3.0, where programs draw
+relationships among data to assist individuals, but now the
+information available to these programs includes the
+information gathered by mobile devices. For example, your
+reset page 107
+-------------------------------------------- 分页分隔 --------------------------------------------
+cell phone can provide your current location, or your
+smartwatch can report your heart rate. A program like
+Apple’s Siri can use your current location, the location
+of your next calendar event, and local traffic reports on
+the Internet to alert you to leave early for an appointment
+because of a traffic jam between your current location and
+your next event.
+Figure 2-1 Web 3.0 application
+Google INC.
+Just because a new generation of technology comes along
+doesn’t mean that older generations are done evolving. We
+continue to see innovations in Web 1.0 and Web 2.0
+technologies even as Web 3.0 and Web 4.0 technologies are
+still being incorporated into our lives. Web 5.0 is on the
+horizon—called the emotional web, this generation may
+include programs that anticipate our needs based on our mood
+and behaviors. However, this future is not yet realized, and
+the specifics of Web 5.0 are still to be determined.
+It is easy to get the Internet and the web confused, but
+they are not the same thing. The Internet is the physical
+network. It is made up of wires, cables, satellites, and
+rules for exchanging information between computers connected
+to the network. Being connected to this network is often
+reset page 108
+-------------------------------------------- 分页分隔 --------------------------------------------
+described as being online. The Internet connects millions of
+computers and resources throughout the world. The web is a
+multimedia interface to the resources available on the
+Internet. Every day over a billion users from nearly every
+country in the world use the Internet and the web. What are
+they doing? The most common uses are the following:
+Communicating is by far the most popular Internet activity.
+Every time someone receives a text, sends an e-mail, or
+shares photos or videos online, they are communicating on
+the Internet.
+Shopping is one of the fastest-growing Internet
+applications. From everyday items, like buying groceries,
+to special purchases, like buying a prom dress, the
+Internet provides a way to get the latest trends and the
+cheapest deals.
+Searching for information has never been more convenient.
+You can access some of the world’s largest libraries
+directly from your home computer.
+Education or e-learning is another rapidly evolving web
+application. You can take driving school classes on your
+cell phone or earn college credit from your laptop. There
+are courses for every price range and interest.
+Online entertainment options are nearly endless. You can
+find the latest movies and news, listen your favorite
+songs, and play video games with friends around the world.
+To learn more about online entertainment, see Making IT
+Work for You: Online Entertainment on pages 28–30.
+ethics
+Twitter and other social media organizations ban users who post hateful
+or violent content. Some people feel that Twitter has an ethical
+responsibility to monitor and remove offensive or inaccurate content.
+Others say that censorship is a violation of an individual’s right to
+reset page 109
+-------------------------------------------- 分页分隔 --------------------------------------------
+free speech and that Twitter should never censor content. What do you
+think? Who should decide what information is shared on Twitter: the
+company or the users?
+The first step to using the Internet and the web is to get
+connected, or to gain access to the Internet.
+concept check
+What is the difference between the Internet and the web?
+Describe how the Internet and the web started. What are the four web
+generations?
+List and describe five of the most common uses of the Internet and the
+web.
+page 28
+Making IT work for you
+ONLINE ENTERTAINMENT
+Would you like to be able to watch your favorite TV shows
+and movies from anywhere in your home? How about listening
+to the largest catalog of music the world has ever known?
+Or to carry a library in your backpack? Want to keep up to
+date on the news your friends and family are reading? Or
+to hear about the latest trends in tech news? Online
+entertainment has got you covered, with entertainment
+options for TV, movies, music, books, social media, and
+news feeds.
+reset page 110
+-------------------------------------------- 分页分隔 --------------------------------------------
+Online Video—The Internet offers dozens of ways to view movies and
+TV on your Internet-connected devices. Here are four things to
+consider:
+Is the service free or does it require a monthly subscription? Many
+big-name services charge a monthly fee, but there are also plenty of
+services that are free with ads.
+Does the service include ads? Some services include ads even if you
+pay a monthly subscription fee.
+What movies and shows are available? Each service has its own
+collection of available videos. Before subscribing, make sure you
+like what they have to offer.
+Will the service work on your devices? Not every service works on
+every device. Make sure your devices are supported.
+Paid subscription services, like Netflix, offer popular film and TV
+shows, as well as original content.
+HBO
+Some services are best known for their libraries of movies, full seasons
+of older TV shows, and original movies and shows exclusively available on
+their service. Services such as these include
+Amazon Prime (amazon.com/prime).
+Netflix (netflix.com).
+HBO Max (hbomax.com).
+Some services offer a more TV-like experience, offering live TV channel
+content, including local news, national news, and sports coverage. Some
+of the most popular services that include live TV channels are
+Hulu (hulu.com).
+YouTube TV (tv.youtube.com).
+reset page 111
+-------------------------------------------- 分页分隔 --------------------------------------------
+Online Music—You can access large music libraries online, with
+everything from contemporary hits to classical music. The things to
+consider when selecting an online music source are similar to choosing
+an online movie and TV service:
+Is the service free, or does it require a monthly fee?
+Does the service include ads?
+What musicians and albums are available on the service?
+Does the service work with your devices?
+page 29
+Popular online music services include
+Spotify (spotify.com).
+YouTube music (music.youtube.com).
+Tidal (tidal.com).
+Online Books—Digital books allow you to download and read books on
+your cell phone, tablet, or laptop. Two of the most popular digital
+book sellers are Amazon’s Kindle Store (amazon.com/Kindle-eBooks) and
+Barnes and Noble’s Nook Store (barnesandnoble.com).
+Digital books allow you to read several books at a time on different
+digital devices without having to carry around tons of books.
+Aspiro AB
+Before purchasing a book, consider checking out your local library’s
+digital book collection. Most libraries offer digital books, magazines,
+and audio books you can borrow without ever having to set foot in the
+library. There are also services that give you access to reading material
+reset page 112
+-------------------------------------------- 分页分隔 --------------------------------------------
+for a monthly fee. Scribd (scribd.com) offers access to its collection of
+books, magazines, and audiobooks for a monthly fee, and audible
+(audible.com) specializes in audiobooks.
+Popular social media site Instagram updates your Instagram account with
+new postings from users around the world.
+Instagram Inc.
+Social Media—Social media websites offer a way to connect and
+interact with others about news, movies, and everyday life. Thoughts
+and ideas are posted instantly with sites like Twitter, a popular
+platform for sharing short messages, videos, and photos. You can
+follow other Twitter users to get automatic updates on the posts
+they make, and others can follow you to keep up to date on your
+posts.Things
+to consider when choosing a social media app:
+Does the social media app work on your devices? Not all social
+media apps are available on all devices. For example, many social
+media apps only work on cell phones.
+Do your friends and family already belong to a social media site?
+While social media is a great way to meet new people, it is also a
+great way to keep up with friends and family. If you already know
+people who use a social media app, they could be a good way to try
+out social media.
+reset page 113
+-------------------------------------------- 分页分隔 --------------------------------------------
+What types of interactions does the social media app page 30
+support? Different social media sites support different
+types of interactions. For example, TikTok specializes in short
+videos, and Instagram encourages sharing photos. Choose an app
+that caters to what you are interested in sharing.
+News feed services, like feedly.com, allow you to search for news sources
+by publisher or topic, creating a more “newspaper”-like reading
+experience.
+Apple Inc.
+Popular social media sites include
+Twitter (twitter.com).
+Facebook (facebook.com).
+Instagram (instagram.com).
+TikTok (tiktok.com).
+News Feeds—Social media services such as Facebook or Twitter are a
+good way to share and explore news, but they don’t offer an
+experience similar to a newspaper. For a more traditional view of the
+day’s events, consider a news feed service. A news feed application
+takes articles from news organizations, collects them according to
+your interest, and presents them like a newspaper—grouped by topic
+and in chronological order
+Popular news feed services include
+Feedly (feedly.com).
+Google News (news.google.com).
+reset page 114
+-------------------------------------------- 分页分隔 --------------------------------------------
+Apple News (news.apple.com).
+Podcasts—Podcasts are serialized audio programs available to listen
+to on demand. These programs can be nonfiction, such as news stories,
+lectures, topical discussions, and interviews, or they can be fiction,
+such as science fiction, drama, or suspense stories. You can use a
+podcast app to subscribe to a podcast and share podcasts with friends,
+receive alerts when a new podcast is available, and rate and comment
+on podcasts.
+Popular podcast apps include
+Google Podcasts (podcasts.google.com).
+Apple Podcasts (apple.com/apple-podcasts).
+Spotify (spotify.com).
+page 31
+Internet Access
+Your computer is a very powerful tool. However, it needs to
+be connected to the Internet to truly unleash its power. Once
+on the Internet, your computer becomes an extension of what
+seems like a giant computer—a computer that branches all
+over the world. When provided with a connection to the
+Internet, you can use a browser program to search the web.
+Providers
+The most common way to access the Internet is through an
+Internet service provider (ISP). The providers are already
+connected to the Internet and provide a path or connection
+for individuals to access the Internet.
+The most widely used commercial Internet service providers
+use telephone lines, cable, and/or wireless connections. Some
+of the best-known providers in the United States are AT&T,
+Comcast, Sprint, T-Mobile, and Verizon.
+reset page 115
+-------------------------------------------- 分页分隔 --------------------------------------------
+As we will discuss in Chapter 8, users connect to ISPs
+using one of a variety of connection technologies including
+digital subscriber line (DSL), cable, and wireless modems.
+tips
+Are you getting the most out of your web browser? Here are a
+few suggestions to make you faster and more efficient.
+1
+Bookmarks/Favorites Bar: Most browsers have a bookmarks or
+favorites bar just below the address bar. Add your top 5 or 10
+most-often-visited websites here. The next time you want to visit
+one of these sites, select it from the bookmarks/favorites list
+rather than entering the site’s URL.
+2
+Shortcuts: Keyboard shortcuts are often faster than using a mouse.
+Use the following: F5 (refresh); Alt + left arrow (back); Ctrl + T
+(new tab); Ctrl + W (close tab); Ctrl + Enter (adds “www” and
+“.com” to any domain name you type in the address bar).
+3
+Extensions/Add-Ons: Many browsers, such as Chrome and Firefox,
+allow users to install small, third-party programs that extend, or
+add to, the capabilities of the browser. These programs can
+perform a variety of tasks, from providing easy access to your
+cloud services to making it easier to capture information on a web
+page.
+4
+Configure Settings: All browsers have a settings or options page
+that provides ways to secure and customize your Internet browsing.
+For example, you can deny websites from automatically opening up
+another browser window, called pop-ups (these annoying windows
+often contain advertisements). You can also set up your browser to
+always open the same websites on starting up your browser.
+Browsers
+Today it is common to access the Internet from a variety of
+devices like cell phones, tablets, and laptops. These devices
+use programs called browsers to provide access to web
+resources. These programs connect you to remote computers;
+open and transfer files; display text, images, and
+reset page 116
+-------------------------------------------- 分页分隔 --------------------------------------------
+multimedia; and provide in one tool an uncomplicated
+interface to the Internet and web documents. Four well-known
+browsers are Apple Safari, Google Chrome, Microsoft Edge, and
+Mozilla Firefox. (See Figure 2-2.)
+Figure 2-2 Browser
+Piotr Swat/Alamy Stock Photo
+Browsers differ not only by designer, but also by what
+device they work on. For example, Chrome is a web browser
+designed by Google that has a mobile version for page 32
+cell phones and tablets and a desktop version for
+laptops and desktops. Mobile browsers are designed for the
+smaller touchscreens of mobile devices. They typically have
+larger buttons to select options and provide multitouch
+support for actions such as “pinch” or “stretch” to zoom
+in on web content. (See Figure 2-3.) Desktop browsers are
+designed for laptop and desktop computers, with smaller
+buttons and more on-screen options designed to take advantage
+of larger monitors and the precision of mouse input.
+reset page 117
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 2-3 Zoom web content
+outline205/Getty Images
+For browsers to connect to resources, the location or
+address of the resources must be specified. These addresses
+are called uniform resource locators (URLs). All URLs have
+at least two basic parts.
+The first part presents the protocol used to connect to the
+resource. As we will discuss in Chapter 8, protocols are
+rules for exchanging data between computers. The protocol
+https is used for web traffic and is one of the most widely
+used Internet protocols.
+The second part presents the domain name. It indicates the
+specific address where the resource is located. In Figure
+2-4 the domain is identified as www.mtv.com. The last part
+of the domain name following the dot (.) is the top-level
+domain (TLD). Also known as the web suffix, it typically
+identifies the type of organization. For example, .com
+indicates a commercial site. (See Figure 2-5.)
+Figure 2-4 Basic parts of a URL
+Domain Type
+reset page 118
+-------------------------------------------- 分页分隔 --------------------------------------------
+.com Commercial
+.edu Educational
+.gov Government
+.mil U.S. military
+.net Network
+.org Organization
+Figure 2-5 Traditional top-level domains
+Once the browser has connected to the website, a document
+file is sent back to your computer. This document typically
+contains Hypertext Markup Language (HTML), a markup language
+for displaying web pages. The browser interprets the HTML
+formatting instructions and displays the document as a web
+page. For example, when your browser first connects to the
+Internet, it opens up to a web page specified in the browser
+settings. Web pages present information about the site along
+with references and hyperlinks or links that connect to other
+documents containing related information—text files, graphic
+images, audio, and video clips.
+Various technologies are used to provide highly
+interactive and animated websites. These technologies include
+the following:
+JavaScript is a language often used within HTML documents
+to trigger interactive features, such as opening new
+browser windows and checking information entered in online
+forms. The Microsoft search engine Bing.com uses JavaScript
+to make its website more interactive and to assist its
+users by auto-filling search requests as they type content
+into the search box.
+PHP, like JavaScript, is a language often used within HTML
+documents to improve a website’s interactivity. Unlike
+reset page 119
+-------------------------------------------- 分页分隔 --------------------------------------------
+JavaScript, which typically executes on the user’s
+computer, PHP executes on the website’s computer.
+Cascading style sheets (CSS) are separate files referenced
+by, or lines inserted into, an HTML document that control
+the appearance of a web page. CSS help ensure that related
+web pages have a consistent presentation or look. Netflix
+uses CSS to visually connect all its web pages.
+concept check
+What is the function of an ISP, a browser, a mobile browser, and a
+desktop browser?
+What are a URL, a protocol, a domain name, and a web suffix?
+What are HTML, a web page, a hyperlink, JavaScript, PHP, and CSS?
+page 33
+Web Utilities
+Utilities are programs that make computing easier. Web
+utilities are specialized utility programs that make the
+Internet and the web easier and safer to use. Some of these
+utilities are browser-related programs that either become
+part of your browser or are executed from your browser, while
+others work as separate stand-alone applications. Common uses
+for web utilities include filtering content and transferring
+files.
+Filters
+Filters block access to selected sites. The Internet is an
+interesting and multifaceted arena. But not all aspects of
+the Internet are appropriate for all audiences. Parents, in
+reset page 120
+-------------------------------------------- 分页分隔 --------------------------------------------
+particular, are concerned about children roaming unrestricted
+across the Internet. Filter programs allow parents as well as
+organizations to block out selected sites and set time
+limits. (See Figure 2-6.) Additionally, these programs can
+monitor use and generate reports detailing the total time
+spent on the Internet and the time spent at individual
+websites. For a list of some of the best-known filters, see
+Figure 2-7.
+Figure 2-6 Circle is a web filter
+Circle Media Labs, Inc.
+Filter Site
+Net Nanny netnanny.com
+Qustodio qustodio.com
+ParentalControl
+Circle with meetcircle.com
+Disney
+Symantec us.norton.com/norton-
+Norton Family family-premier
+Premier
+reset page 121
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 2-7 Filters
+File Transfer Utilities
+Using file transfer utility software, you can copy files to
+your computer from specially configured servers. This is
+called downloading. You also can use file transfer utility
+software to copy files from your computer to another computer
+on the Internet. This is called uploading. Three popular
+types of file transfer are web-based, BitTorrent, and FTP.
+Web-based file transfer services make use of a web browser
+to upload and download files. This eliminates the need for
+any custom software to be installed. Popular services
+include Microsoft’s onedrive (onedrive.com) and Google’s
+Google drive (drive.google.com).
+BitTorrent distributes file transfers across many different
+computers for more efficient downloads, unlike other
+transfer technologies whereby a file is copied from one
+computer on the Internet to another. A single file might be
+located on dozens of individual computers. When you
+download the file, each computer sends you a tiny piece of
+the larger file, making BitTorrent well suited for page 34
+transferring very large files. Unfortunately,
+BitTorrent technology often has been used for distributing
+unauthorized copies of copyrighted music and video.
+File transfer protocol (FTP) and secure file transfer
+protocol (SFTP) allow you to efficiently copy files to and
+from your computer across the Internet and are frequently
+used for uploading changes to a website hosted by an
+Internet service provider. FTP has been used for decades
+and still remains one of the most popular methods of file
+transfer.
+Internet Security Suites
+reset page 122
+-------------------------------------------- 分页分隔 --------------------------------------------
+An Internet security suite is a collection of utility
+programs designed to maintain your security and privacy while
+you are on the web. These programs control spam, protect
+against computer viruses, provide filters, and much more. You
+could buy each program separately; however, the cost of the
+suite is typically much less. Two of the best-known Internet
+security suites are Symantec Norton Internet Security and
+Bitdefender Internet Security. These companies also offer
+apps for mobile devices: Bitdefender Mobile Security and
+Norton Mobile Security. (See Figure 2-8.)
+Figure 2-8 Security suite
+NortonLifeLock Inc.
+For a summary of web utilities, see Figure 2-9.
+Web Utility Description
+Filter Blocks access to selected
+sites and sets time limits
+File Upload and download files from
+reset page 123
+-------------------------------------------- 分页分隔 --------------------------------------------
+transfer servers
+Internet Collection of utility programs
+security for security and privacy
+suite
+Figure 2-9 Web utilities
+concept check
+What are web utilities? What are filters used for?
+What are file transfer utilities? Downloading? Uploading? Web-based
+file transfer services? FTP? SFTP?
+Define Internet security suites.
+page 35
+Communication
+As previously mentioned, communication is the most popular
+Internet activity, and its impact cannot be overestimated. At
+a personal level, friends and family can stay in contact with
+one another even when separated by thousands of miles. At a
+business level, electronic communication has become a
+standard way to stay in touch with suppliers, employees, and
+customers. Some popular types of Internet communication are
+social networking, blogs, microblogs, podcasts, wikis, e-
+mail, and messaging.
+community
+Every community has etiquette rules. On the Internet, these rules are
+called “netiquette,” a combination of Internet and etiquette. When
+reset page 124
+-------------------------------------------- 分页分隔 --------------------------------------------
+you enter a new community—online or in real life—it can be difficult
+to learn the etiquette rules. Fortunately, many social media sites have
+guidelines for new users to help them navigate the netiquette of social
+media. For example, did you know it was bad manners to type in all
+capital letters? It can make readers feel that you are screaming at
+them! Before communicating online, make sure you understand the
+netiquette of that community.
+Social Networking
+Social networking is one of the fastest-growing and most
+significant Web 2.0 applications. Social networking sites
+focus on connecting people and organizations that share a
+common interest or activity. These sites typically provide a
+wide array of tools that facilitate meeting, communicating,
+and sharing. There are hundreds of social networking sites,
+but they share some common features:
+Profiles or pages allow you to share information about
+yourself or your business. Individuals create profiles
+while businesses create pages. Profiles and pages often
+include a photo that will be displayed along with the
+member name when they submit a post or send a message.
+Individuals typically use a photo of their face, while
+businesses often use a business logo. Other details that
+your profile or page might include are contact information
+and a short biography describing yourself or your business.
+Groups and friends are the other members on social media
+that you will communicate with. Friends are individuals you
+communicate with, while groups are communities of other
+members that share information and discuss specific topics.
+Groups often organize around a topic, event, or idea.
+News feed is the first page you see after logging into a
+social networking site. It typically consists of a
+collection of recent posts from friends, trending topics on
+the site, people’s responses to your posts, and
+advertisements.
+reset page 125
+-------------------------------------------- 分页分隔 --------------------------------------------
+Share settings on your social media account determine who
+can see your posts. The most common options include sharing
+with everyone, just your friends, or just a subset of your
+friends.
+Figure 2-10 Facebook profile
+Jirapong Manustrong/Shutterstock
+privacy
+Have you ever seen one of those funny or not-so-funny embarrassing
+personal videos on the Internet? Unless you are careful, you could be
+starring in one of those videos. Without privacy settings, images and
+videos posted to these sites can be viewed and potentially reposted for
+all to see. If a social networking friend were to post an embarrassing
+video, would all your friends be able to see it? What about parents,
+teachers, or potential employers?
+page 36
+reset page 126
+-------------------------------------------- 分页分隔 --------------------------------------------
+A social network often has an overall focus. For example,
+LinkedIn is a popular business-oriented social networking
+site. The profiles on LinkedIn share professional
+information, like resumes and job successes, and the
+corporate pages concentrate on sharing their corporate
+culture and promoting job openings. By contrast, the largest
+social networking site, Facebook, originally had a focus of
+connecting friends and family, but it has expanded to include
+news sites, entertainment sites, and a powerful way for
+businesses and organizations to connect with their audience.
+While Facebook is the largest social network, there are
+many social networking sites, each with its own unique
+features and interactions. For example, TikTok is a social
+networking site that concentrates on sharing short videos,
+and Instagram puts an emphasis on sharing photos. For a list
+of some of the most popular sites, see Figure 2-11.
+Organization Site
+Facebook facebook.com
+LinkedIn linkedin.com
+Instagram instagram.com
+Pinterest pinterest.com
+Tumblr www.tumblr.com
+TikTok tiktok.com
+Snapchat snapchat.com
+Figure 2-11 Social networking sites
+Blogs, Microblogs, Podcasts, and Wikis
+In addition to social networking sites, other Web 2.0
+applications help ordinary people communicate across the web,
+including blogs, microblogs, podcasts, and wikis. These
+communication alternatives offer greater flexibility and
+reset page 127
+-------------------------------------------- 分页分隔 --------------------------------------------
+security; however, they are often more complex to set up and
+maintain.
+Many individuals create personal websites, called blogs,
+to keep in touch with friends and family. Blog postings are
+time-stamped and arranged with the newest item first. Often,
+readers of these sites are allowed to comment. Some blogs are
+like online diaries with personal information; others focus
+on information about a hobby or theme, such as knitting,
+electronic devices, or good books. Although most are written
+by individual bloggers, there are also group blogs with
+multiple contributors. Some businesses and newspapers also
+have started blogging as a quick publishing method. Several
+sites provide tools to create blogs. Two of the most widely
+used are Blogger and WordPress.
+Much like a blog, a microblog allows an individual or
+company to share posts with an audience. However, microblogs
+are designed to be used with mobile devices and limit the
+size of posts. For example, Twitter, one of the most popular
+microblogging sites, limits posts, also known as tweets, to
+280 characters. (See Figure 2-12.) Instagram, another popular
+microblogging site, is designed to share images and videos
+posts, with little to no written content.
+reset page 128
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 2-12 Twitter
+Worawee Meepian/Shutterstock
+Microblogging has become a significant media tool, used by
+politicians and celebrities to share moment-to-moment
+thoughts with their audience. For example, Taylor Swift has
+over 83 million followers on Twitter.
+Podcasts are audio programs delivered over the Internet.
+Typically, a podcast is one audio program in a series of
+related podcasts. For example, The Science of Happiness
+podcast offers a series of episodes presenting tips for a
+happier life. (See Figure 2-13.) Podcasts vary page 37
+widely, from daily news to arts and comedy shows.
+For a list of popular podcasts, see Figure 2-14.
+reset page 129
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 2-13 A podcast
+Cyberstock/Alamy Stock Photo
+Category Podcasts
+Arts 99% invisible
+Comedy The Joe Rogan Experience
+News The Daily
+Science & Medicine RadioLab
+Society & Culture This American Life
+Figure 2-14 Podcasts
+A wiki is a website specially designed to allow visitors
+to use their browser to add, edit, or delete the site’s
+content. “Wiki” comes from the Hawaiian word for fast,
+which describes the simplicity of editing and publishing
+through wiki software. Wikis support collaborative writing in
+which there isn’t a single expert author, but rather a
+community of interested people that builds knowledge over
+time. Perhaps the most famous example is Wikipedia, an online
+encyclopedia, written and edited by anyone who wants to
+contribute, that has millions of entries in over 20
+languages.
+Creating blogs and wikis are examples of web authoring. We
+will discuss web authoring software in detail in Chapter 3.
+reset page 130
+-------------------------------------------- 分页分隔 --------------------------------------------
+concept check
+What is social networking? Profiles? Pages? Groups? Friends? News
+feeds? Share settings?
+What are blogs? Microblogs? Twitter? Tweets?
+What is a wiki? What is Wikipedia?
+community
+Our real life and our digital lives compete for our attention—
+sometimes with deadly results. In 2020, over 1.6 million car collisions
+were attributed to texting while driving. Engineers, programmers, and
+government officials are working hard to find innovative solutions to
+reduce these preventable tragedies. Does your cell phone have a
+“driving mode” or apps to help keep drivers focused on the road? What
+are the laws in your area regarding texting and driving?
+Messaging
+Electronic messaging is a popular way to communicate quickly
+and efficiently with friends, family, and co-workers. This
+form of communication is particularly common on cell phones,
+where messages are short and informal, and instantaneous
+responses are the standard. The two most widely used forms of
+electronic messaging are text and instant messaging.
+Text messaging, also known as texting or SMS (short
+message service), is the process of sending a short
+electronic message, typically fewer than 160 characters,
+using a wireless network to another person, who views the
+message on a mobile device such as a cell phone. Today,
+billions of people send text messages every day. It has
+become one of the most widely used ways to send very short
+messages from one individual to another. Text messaging was
+originally limited to characters, but you can now send
+images, video, and sound using a variation of SMS known as
+reset page 131
+-------------------------------------------- 分页分隔 --------------------------------------------
+MMS (multimedia messaging service). Although popular and
+convenient, there are downsides to using this technology in
+the wrong context. A great deal of attention has been
+directed toward texting while driving. A study by Car and
+Driver concluded that texting while driving had a greater
+negative impact on driver safety than being drunk. Several
+states have passed laws prohibiting texting while driving.
+Instant messaging (IM) allows two or more people to
+contact each other via direct, live communication. (See
+Figure 2-15.) To use instant messaging, you page 38
+register with an instant messaging service and then
+specify a list of friends. Whenever you connect to the
+Internet, your IM service is notified. It then notifies
+your friends who are available to chat and notifies your
+friends who are online that you are available. You can then
+send messages directly back and forth. Most instant
+messaging programs also include videoconferencing features,
+file sharing, and remote assistance. Many businesses
+routinely use these instant messaging features. Three of
+the most popular instant messaging services are Facebook
+Messenger, WhatsApp, and Google Meet.
+Figure 2-15 Instant messaging
+Kaspars Grinvalds/Shutterstock
+E-mail
+reset page 132
+-------------------------------------------- 分页分隔 --------------------------------------------
+Unlike electronic messaging, e-mail or electronic mail is
+used to communicate longer and more formal text. E-mail
+exchanges tend to take longer to write and are more carefully
+crafted than text message exchanges, which make them ideal
+for business communications and newsletters. A typical e-mail
+message has four basic elements: header, message, signature,
+and attachment. (See Figure 2-16.) The header appears first
+and typically includes the following information:
+Addresses: E-mail messages typically display the addresses
+of the intended recipient of the e-mail, anyone else who is
+to receive a copy of the e-mail, and the sender of the e-
+mail. The e-mail message in Figure 2-16 is to
+dcoats@usc.edu, copied to aboyd@sdu.edu, and sent from
+cwillis@nyu.edu. E-mail addresses have two basic parts.
+(See Figure 2-17.) The first part is the user’s name and
+the second part is the domain name, which includes the top-
+level domain. In our example e-mail, dcoats is the
+recipient’s user name. The server providing e-mail service
+for the recipient is usc.edu. The top-level domain
+indicates that the provider is an educational institution.
+Subject: A one-line description, used to present the topic
+of the message. Subject lines typically are displayed when
+a person checks his or her mailbox.
+reset page 133
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 2-16 Basic elements of an e-mail message
+Microsoft Corporation
+Figure 2-17 Two parts of an e-mail address
+page 39
+The letter or message comes next. Following the message,
+the signature identifies the sender. For many business
+communications, the signature is automatically inserted into
+the bottom of an e-mail and can be customized to include the
+sender’s company name, address, and telephone number. Many
+reset page 134
+-------------------------------------------- 分页分隔 --------------------------------------------
+e-mail programs allow you to include files such as documents
+and images as attachments. If a message has an attachment,
+the file name typically appears at the end of the e-mail.
+(See Figure 2-16.)
+There are two basic types of e-mail systems: client-based
+and web-based.
+Client-based e-mail systems require a special program
+known as an e-mail client to be installed on your computer.
+Before you can begin e-mailing, you need to run the e-mail
+client from your computer, which communicates with the e-
+mail service provider. Two of the most widely used e-mail
+clients are Apple’s Mail and Microsoft’s Outlook.
+Web-based e-mail systems do not require an e-mail program
+to be installed on your computer. Once your computer’s
+browser connects to an e-mail service provider, a special
+program called a webmail client is run on the e-mail
+provider’s computer and then you can begin e-mailing. This
+is known as webmail. Most Internet service providers offer
+webmail services. Three free webmail service providers are
+Google’s Gmail, Microsoft’s Outlook, and Yahoo!’s Yahoo!
+Mail.
+For individual use, webmail is more widely used because it
+frees the user from installing and maintaining an e-mail
+client on every computer used to access e-mail. With webmail,
+you can access your e-mail from any computer anywhere that
+has Internet access.
+E-mail can be a valuable asset in your personal and
+professional life. However, like many other valuable
+technologies, there are drawbacks too. Americans receive
+billions of unwanted and unsolicited e-mails every year. This
+unwelcome mail is called spam. Although spam is indeed a
+distraction and nuisance, it also can be dangerous. For
+example, computer viruses or destructive programs are often
+reset page 135
+-------------------------------------------- 分页分隔 --------------------------------------------
+attached to unsolicited e-mail. Computer viruses will be
+discussed in Chapter 4.
+tips
+Are you tired of sorting through an inbox full of spam? Here
+are a few spam-reducing suggestions:
+1
+Keep a low profile. Many spammers collect e-mail addresses from
+personal web pages, social networking sites, and message boards.
+Be cautious when posting your address.
+2
+Use caution when giving out your address. Many companies
+collect and sell e-mail addresses to spammers. Be sure to read the
+privacy policy of a site before providing your address.
+3
+Don’t ever respond to spam. Many are a trick to validate active
+e-mail addresses. These addresses are worth more to spammers, who
+then sell the addresses to other spammers.
+4
+Use antispam and filter options. Most e-mail programs and web-
+based e-mail services have antispam and filter options that can be
+configured. Use them.
+In an attempt to control spam, antispam laws have been
+added to our legal system. For example, CAN-SPAM requires
+that every marketing-related e-mail provide an opt-out
+option. When the option is selected, the recipient’s e-mail
+address is to be removed from future mailing lists. Failure
+to do so results in heavy fines. This approach, however, has
+had minimal impact since over 80 percent of all spam
+originates from servers outside the United States. A more
+effective approach to controlling spam has been the
+development and use of spam blockers, also known as spam
+filters. Most e-mail programs provide spam-blocking
+capabilities.
+concept check
+reset page 136
+-------------------------------------------- 分页分隔 --------------------------------------------
+What is text messaging? Texting? SMS? MMS? IM? Friends?
+Define e-mail header, address, subject, message, signature, and
+attachment.
+What are the two types of e-mail systems? What are viruses, spam, spam
+blockers, and spam filters?
+page 40
+Search Tools
+The web can be an incredible resource, providing information
+on nearly any topic imaginable. Are you interested in music?
+Writing a paper on the environment? Looking for a movie
+review? Trying to locate a long-lost friend? Information
+sources related to these questions, and much, much more, are
+available on the web.
+With over 20 billion pages and more being added daily, the
+web is a massive collection of interrelated pages. With so
+much available information, locating the precise information
+you need can be difficult. Fortunately, a number of
+organizations called search services operate websites that
+can help you locate the information you need.
+Search services maintain huge databases relating to
+information provided on the web and the Internet. The
+information stored in these databases includes addresses,
+content descriptions or classifications, and keywords
+appearing on web pages and other Internet informational
+resources. Special automated programs called spiders
+continually look for new information and update the search
+services’ databases. Additionally, search services provide
+special programs called search engines that you can use to
+locate specific information on the web.
+reset page 137
+-------------------------------------------- 分页分隔 --------------------------------------------
+Search Engines
+Search engines are specialized programs that assist you in
+locating information on the web and the Internet. To find
+information, you go to a search service’s website and use
+its search engine. See Figure 2-18 for a list of commonly
+used search engines.
+Search Site
+Service
+Bing www.bing.com
+Duckduckgo www.duckduckgo.com
+Google www.google.com
+Yahoo! www.yahoo.com
+Figure 2-18 Search engines
+To use a search website, you enter a keyword or phrase
+reflecting the information you want. The search engine
+compares your entry against its database and returns the
+search result, or a list of sites on that topic. Each search
+result includes a link to the referenced web page (or other
+resource), along with a brief discussion of the information
+contained at that location. Many searches result in a large
+number of search results. For example, if you were to enter
+the keyword music, you would get billions of sites on that
+topic. Search engines order the search results according to
+those sites that most likely contain the information
+requested and present the list to you in that order, usually
+in groups of 10.
+Because each search service maintains its own database,
+the search results returned by one search engine will not
+necessarily be the same results returned by another search
+engine. Therefore, when researching a topic, it is best to
+use more than one search engine.
+reset page 138
+-------------------------------------------- 分页分隔 --------------------------------------------
+Content Evaluation
+Search engines are excellent tools to locate information on
+the web. Be careful, however, how you use the information you
+find. Unlike most published material found in newspapers,
+journals, and textbooks, not all the information you find on
+the web has been subjected to strict guidelines to ensure
+accuracy. In fact, anyone can publish content on the web.
+Many sites allow anyone to post new material, sometimes
+anonymously and without evaluation. Some sites promote fake
+news or information that is inaccurate or biased. This can
+include manipulated videos known as deep fakes, where an
+individual’s appearance or message is changed. Many of these
+sites are designed to look like legitimate news sites.
+Before you believe a website’s claims or share that site
+with friends and family, consider the following:
+Authority. Is the author an expert in the subject area? Is
+the site an official site for the information presented, or
+is the site an individual’s personal website?
+Accuracy. Read beyond the headlines and consult other
+reputable sources on any surprising claims to separate the
+real news from the fake. Headlines can be page 41
+misleading and fake news articles often make their
+statements seem accurate by referencing other fake news
+articles.
+Objectivity. Is the information factually reported, or does
+the author have a bias? Does the author appear to have a
+personal agenda aimed at convincing or changing the
+reader’s opinion?
+Currency. Is the information up to date? Does the site
+specify the date when the site was updated? Are the site’s
+links operational? If not, the site is most likely not
+being actively maintained.
+reset page 139
+-------------------------------------------- 分页分隔 --------------------------------------------
+concept check
+What are search services, spiders, and search engines?
+What is fake news? Deep fakes?
+What are the four considerations for evaluating website content?
+community
+Social media communities share news through likes, comments, and
+reposting articles. Unfortunately, many of these articles may be
+misleading or outright lies. When a user shares a news article, are
+they responsible for verifying that the article is true, or does that
+responsibility fall to the reader? Even if the articles are lies,
+social networking sites benefit from the clicks and views of these
+articles. Do social media companies have a responsibility to identify
+or eliminate fake news?
+Electronic Commerce
+Electronic commerce, also known as e-commerce, is the buying
+and selling of goods over the Internet. Electronic commerce
+is fast-growing and widely used in part because it provides
+incentives for both buyers and sellers. From the buyer’s
+perspective, goods and services can be purchased at any time
+of day or night from any location that has an Internet
+connection. From the seller’s perspective, the costs
+associated with owning and operating a retail outlet can be
+eliminated. Another advantage is reduced inventory.
+Traditional stores maintain an inventory of goods in their
+stores and periodically replenish this inventory from
+warehouses. With e-commerce, there is no in-store inventory
+and products are shipped directly from warehouses.
+While there are numerous advantages to e-commerce, there
+are disadvantages as well. Some of these disadvantages
+reset page 140
+-------------------------------------------- 分页分隔 --------------------------------------------
+include the inability to provide immediate delivery of goods,
+the inability to “try on” prospective purchases, and
+questions relating to the security of online payments.
+Although these issues are being addressed, very few observers
+suggest that e-commerce will replace brick-and-mortar
+businesses entirely. It is clear that both will coexist and
+that e-commerce will continue to grow.
+Just like any other type of commerce, electronic commerce
+involves two parties: businesses and consumers. There are
+three basic types of electronic commerce:
+Business-to-consumer (B2C) commerce involves the sale of a
+product or service to the general public or end users. It
+is the fastest-growing type of e-commerce. Whether large or
+small, nearly every existing corporation in the United
+States provides some type of B2C support as another means
+to connect to customers. Because extensive investments are
+not required to create traditional retail outlets and to
+maintain large marketing and sales staffs, e-commerce
+allows start-up companies to compete with larger
+established firms. The three most widely used B2C
+applications are for online banking, financial trading, and
+shopping. Amazon.com is one of the most widely used B2C
+sites.
+Consumer-to-consumer (C2C) commerce involves individuals
+selling to individuals. C2C often takes the form of an
+electronic version of the classified ads or an auction. Web
+auctions are similar to traditional auctions except that
+buyers and sellers seldom, if ever, meet face to face.
+Sellers post descriptions of products at a website, and
+buyers submit bids electronically. Like traditional
+auctions, sometimes the bidding becomes highly competitive
+and enthusiastic. One of the most widely used auction sites
+is eBay.com. For a list of some of the most popular C2C
+sites, see Figure 2-19.
+reset page 141
+-------------------------------------------- 分页分隔 --------------------------------------------
+Business-to-business (B2B) commerce involves the page 42
+sale of a product or service from one business to
+another. This is typically a manufacturer–supplier
+relationship. For example, a furniture manufacturer
+requires raw materials such as wood, paint, and varnish.
+Organization Site
+eBay ebay.com
+eBid ebid.net
+Etsy etsy.com
+Figure 2-19 C2C sites
+concept check
+What is electronic commerce?
+What are some of the advantages and disadvantages of electonic
+commerce?
+What are some of the differences among B2C, C2C, and B2B?
+Security
+The two greatest challenges for e-commerce are (1) developing
+fast, secure, and reliable payment methods for purchased
+goods and (2) providing convenient ways to submit required
+information such as mailing addresses and credit card
+information.
+The two basic payment options are by credit card and by
+digital cash:
+Credit card purchases are faster and more convenient than
+check purchases. Credit card fraud, however, is a major
+concern for both buyers and sellers. We will discuss this
+and other privacy and security issues related to the
+Internet in Chapter 9.
+reset page 142
+-------------------------------------------- 分页分隔 --------------------------------------------
+Digital currency is the Internet’s equivalent to
+traditional cash. Buyers purchase digital currency from a
+third party (a bank that specializes in electronic
+currency) and use it to purchase goods. (See Figure 2-20.)
+Most digital currency is a digital version of traditional
+currency, such that a digital U.S. dollar has the same
+purchasing power as a traditional U.S. dollar. For example,
+Facebook’s digital cash, Diem, is tied to the U.S. dollar.
+For a list of digital currency providers, see Figure 2-21.
+Some digital currencies, like bitcoin, have no traditional
+cash equivalent, and their transactions do not involve
+third-party banks. Such a currency is called a
+cryptocurrency. Cryptocurrencies use public ledgers, known
+as blockchains, to record all transactions of the
+cryptocurrency. Anyone can read the blockchain, and anyone
+can hold a copy of the blockchain, but it is nearly
+impossible to counterfeit the blockchain.
+Figure 2-20 Google Pay offers digital currency
+Denys Prykhodov/Shutterstock
+page 43
+reset page 143
+-------------------------------------------- 分页分隔 --------------------------------------------
+Organization Site
+Amazon pay.amazon.com
+Google pay.google.com
+Venmo venmo.com
+PayPal www.paypal.com
+Figure 2-21 Digital currency providers
+concept check
+What is electronic commerce? B2C? C2C? B2B?
+What are the two greatest challenges for e-commerce?
+What are the two basic payment options?
+What is digital currency? What is bitcoin? How is it used?
+Cloud Computing
+Typically, application programs are owned by individuals or
+organizations and stored on their computer system’s hard
+disks. As discussed in Chapter 1, cloud computing uses the
+Internet and the web to shift many of these computer
+activities from the user’s computer to other computers on
+the Internet.
+While some suggest that cloud computing is merely a
+marketing term designed to promote new products, many others
+see cloud computing as a new model for computing that frees
+users from owning, maintaining, and storing software and
+data. It provides access to these services from anywhere
+through an Internet connection. Several prominent firms are
+reset page 144
+-------------------------------------------- 分页分隔 --------------------------------------------
+aggressively pursuing this new concept. These firms include
+Amazon, IBM, Intel, and Microsoft, to name just a few.
+The basic components of cloud computing are clients, the
+Internet, and service providers. (See Figure 2-22.)
+Clients are corporations and end users who want access to
+data, programs, and storage. This access is to be available
+anywhere and anytime that a connection to the page 44
+Internet is available. End users do not need to
+buy, install, and maintain application programs and data.
+The Internet provides the connection between the clients
+and the providers. Two of the most critical factors
+determining the efficiency of cloud computing are (1) the
+speed and reliability of the user’s access to the Internet
+and (2) the Internet’s capability to provide safe and
+reliable transmission of data and programs.
+Service providers are organizations with computers
+connected to the Internet that are willing to provide
+access to software, data, and storage. These providers may
+charge a fee or the services may be free. For example,
+Google Drive Apps provide free access to programs with
+capabilities similar to Microsoft’s Word, Excel, and
+PowerPoint. (See Figure 2-23.)
+reset page 145
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 2-22 Cloud computing
+Service Provider: Gravvi/Shutterstock
+Description
+reset page 146
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 2-23 Web-based service (Google Drive Apps)
+Lori Butcher/Shutterstock
+In the following chapters, you will learn more about the
+services provided through cloud computing. You will also
+learn about security and privacy challenges associated with
+cloud computing.
+concept check
+What is cloud computing?
+What are the three basic components of cloud computing?
+reset page 147
+-------------------------------------------- 分页分隔 --------------------------------------------
+What are the two most critical factors that determine the efficiency
+of cloud computing?
+page 45
+The Internet of Things
+The Internet is becoming more and more a part of our lives.
+As discussed in Chapter 1, the Internet of Things (IoT) is
+the continuing development of the Internet that allows
+everyday objects embedded with electronic devices to send and
+receive data over the Internet. These everyday objects
+include cell phones, wearable devices, and even coffeemakers.
+For example, the Fitbit is a bracelet that monitors health
+data and sends that data to your cell phone or personal web
+page. (See Figure 2-24.) Google Nest is a collection of IoT
+devices for the home that allow you to answer your front door
+when you are not home, improve home security, and automate
+your home thermostat.
+Figure 2-24 Fitbit
+Rohane Hamilton/Shutterstock
+A Web 3.0 application can access the Fitbit data, combine
+that data with other data on the web, process the data, and
+send information back to another device. For example,
+reset page 148
+-------------------------------------------- 分页分隔 --------------------------------------------
+Apple’s Health App, a Web 3.0 application, can access your
+Fitbit data, combine it with other related health data,
+analyze the data, and report back to you through your cell
+phone. These reports provide information about your health,
+including your heart rate, steps taken each day, and an
+estimate of daily calories burned. (See Figure 2-25.)
+Figure 2-25 Apple’s Health App
+Chinnapong/Shutterstock
+concept check
+What is the Internet of Things?
+What are Fitbit and Apple’s Health App? How do they work together?
+Discuss how Fitbit and Apple’s Health App are examples of using IoT.
+Careers in IT
+“Now
+that you’ve learned about the Internet, the web, and
+electronic commerce, I’d like to tell you about my career as a
+Web developer.”
+reset page 149
+-------------------------------------------- 分页分隔 --------------------------------------------
+Dragon Images/Shutterstock
+Web developers develop and maintain websites and
+resources. The job may include backup of the company
+website, updating of resources, or development of new
+resources. Web developers are often involved in the design
+and development of the website. Some Web developers monitor
+traffic on the site and take steps to encourage users to
+visit the site. Web developers also may work with marketing
+personnel to increase site traffic and may be involved in
+the development of web promotions.
+Employers look for candidates with a bachelor’s or
+associate’s degree in computer science or information
+systems and knowledge of common programming languages and
+web development software. Knowledge of HTML and PHP is
+considered essential. Those with experience using web
+authoring software and programs like Adobe Illustrator and
+Adobe Dreamweaver are often preferred. Good communication
+and organizational skills are vital in this position.
+Web developers can expect to earn an annual salary of
+$52,000 to $82,000. In larger organizations, this position
+may be held by several employees, each specializing in a
+specific aspect of the company’s web presence. With
+technological advances and increasing corporate emphasis on
+a web presence, experience in this field could lead to
+managerial opportunities.
+reset page 150
+-------------------------------------------- 分页分隔 --------------------------------------------
+page 46
+A LOOK TO THE FUTURE
+Home Smart Home
+The technology in our homes has made dull tasks a little easier. Our
+parents’ and grandparents’ lives were changed by the introduction of the
+vacuum and the washing machine. Today, our lives are further impacted by
+new technologies in the home, and the biggest change is the use of the
+Internet. The introduction of Internet of Things (IoT) devices into our
+homes and the use of Web 5.0 technologies is doing more than making boring
+tasks easier. The future of technology in our homes is smart devices that
+monitor and react to us. These technologies will make our homes easier,
+healthier, and more sustainable.
+Today, smart home systems like Google’s Nest can adjust your
+thermostat to keep your home comfortable and energy bills low. Researchers
+at Cambridge Consultants are working on even smarter homes that will
+reduce waste, increase savings, and make for a more sustainable world. The
+smart home of the future will have smart trash cans that monitor and
+separate waste, recyclables, and compostable trash. Recyclables and
+compost can be repurposed within the home to create energy and reduce
+carbon emissions.
+reset page 151
+-------------------------------------------- 分页分隔 --------------------------------------------
+NicoElNino/Shutterstock
+The smart home of the future will do more than clean up and recycle. It
+will monitor and adjust energy use based on your needs and the energy
+sources available. Interconnected IOT devices will work together to
+maximize their efficiency to make for a lower energy home. Devices monitor
+inside and outside temperature, news and weather reports, and fluctuating
+power availability from home solar panels and community wind turbines.
+These homes will also use sensors in the home to predict energy needs,
+such as increased hot water in the mornings when people shower and reduced
+air conditioning when you go away for a weekend.
+Your smart home in the future will not just use less energy. It will
+use less space as well. Researchers at Samsung envision a home of smart
+walls that use adjustable surfaces and actuators to change the size of a
+room effectively, making empty rooms smaller and occupied rooms larger.
+When you are entertaining guests, the walls will reposition to create
+extra seating directly out of the wall. When the guests leave, the extra
+seating disappears back into the wall.
+While these advances sound great, perhaps the greatest advantages of a
+smart home will be the ability to improve health and longevity. Currently,
+researchers are investigating the ways that IoT devices can help people
+make healthier choices. The Fitbit and other monitoring IoT wearables have
+been shown to increase people’s activity level and improve health. The
+smart home of the future will monitor your health and adjust your home to
+make healthier choices, from furniture that reads your posture and guides
+you to improve how you sit, to refrigerators that monitor your food intake
+and promote healthier dining choices. IoT and Web 5.0 will allow smart
+homes to work seamlessly in the background to help you achieve your best
+you.
+Of course, these advances include an increase in potential risks. A
+home that records every movement and activity could be used to spy on you.
+Companies that store and analyze your smart home data could use that data
+reset page 152
+-------------------------------------------- 分页分隔 --------------------------------------------
+in ways you haven’t agreed to, such as to sell products or to design and
+test new ideas. Finally, by putting your security and privacy in the hands
+of a smart home, you risk that smart home being hacked and opening your
+home to criminals.
+What do you think? Are the conveniences of the smart home of the future
+worth the risks to your privacy and security? What smart home features
+exist right now that you would like to have? What smart home features that
+researchers are working on would be most valuable to you?
+page 47
+The Internet, the
+Web, and
+VISUAL SUMMARY
+Electronic
+Commerce
+INTERNET and WEB
+Google INC.
+Internet
+reset page 153
+-------------------------------------------- 分页分隔 --------------------------------------------
+Launched in 1969 with ARPANET, the Internet consists of
+the actual physical network.
+Web
+Introduced in 1991, the web (World Wide Web, WWW)
+provides a multimedia interface to Internet resources.
+Four generations: Web 1.0 (links existing information,
+search engines), Web 2.0 (creates dynamic content and
+social interaction, social media sites) Web 3.0
+(identifies relationships between data), Web 4.0
+(creates content from data from mobile devices), and Web
+5.0 (identifies and responds to human emotion).
+Common Uses
+The most common uses of the Internet and the web include
+Communication—the most popular Internet activity.
+Shopping—one of the fastest-growing Internet
+activities.
+Searching—access libraries and local, national, and
+international news.
+Education—e-learning or taking online courses.
+Online entertainment—movies, news, music, and video
+games.
+INTERNET ACCESS
+reset page 154
+-------------------------------------------- 分页分隔 --------------------------------------------
+Piotr Swat/Alamy Stock Photo
+Once connected to the Internet, your computer seemingly
+becomes an extension of a giant computer that branches
+all over the world.
+Providers
+Internet service providers connected to the Internet
+provide a path to access the Internet. Connection
+technologies include DSL, cable, and wireless modems.
+Browsers
+Browsers (mobile and desktop) provide access to web
+resources. Some related terms are
+URLs—locations or addresses to web resources; two
+parts are protocol and domain name; top-level domain
+(TLD) or web suffix identifies type of organization.
+HTML—commands to display web pages; hyperlinks
+(links) are connections.
+Technologies providing interactive, animated websites
+include JavaScript (executes on the user’s computer to
+trigger interactive features); PHP (operates within HTML
+reset page 155
+-------------------------------------------- 分页分隔 --------------------------------------------
+to trigger interactive features and check online forms);
+and CSS (controls the appearance of web pages).
+page 48
+To efficiently and effectively use computers, you need
+to be aware of resources available on the Internet and
+web, to be able to access these resources, to
+effectively communicate electronically, to efficiently
+locate information, to understand electronic commerce,
+and to use web utilities.
+WEB UTILITIES
+Circle Media Labs, Inc.
+Web utilities are specialized utility programs that make
+using the Internet and the web easier and safer.
+Filters
+Filters are used by parents and organizations to block
+certain sites and to monitor use of the Internet and the
+web.
+File Transfer Utilities
+reset page 156
+-------------------------------------------- 分页分隔 --------------------------------------------
+File transfer utilities copy files to (downloading) and
+from (uploading) your computer. There are three types:
+File transfer protocol (FTP) and secure file transfer
+protocol (SFTP) allow you to efficiently copy files
+across the Internet.
+BitTorrent distributes file transfers across many
+different computers.
+Web-based file transfer services make use of a web
+browser to upload and download files.
+Internet Security Suite
+An Internet security suite is a collection of utility
+programs designed to protect your privacy and security on
+the Internet.
+Web Description
+Utility
+Filter Blocks access to selected
+sites and sets time limits
+File Upload and download files
+transfer from servers
+Internet Collection of utility
+security programs for security and
+suite privacy
+COMMUNICATION
+reset page 157
+-------------------------------------------- 分页分隔 --------------------------------------------
+Jirapong Manustrong/Shutterstock
+Social Networking
+Social networking sites connect people and organizations
+that share a common interest or activity. Common features
+include profiles, pages, groups, friends, news feeds,
+and share settings. Two well-known sites are LinkedIn
+and Facebook.
+Blogs, Microblogs, Podcasts, and Wikis
+Other sites that help individuals communicate across the
+web are blogs, microblogs, podcasts, and wikis.
+Blogs are typically personal websites to keep in touch
+with friends and family. Some are like online diaries.
+Businesses, newspapers, and others also use blogs as a
+quick publishing method.
+Microblogs use short sentences. Twitter allows 280
+characters per tweet. Instagram is primarily used to
+share images and videos.
+Podcasts are audio programs delivered over the
+Internet. Typically, a podcast is one audio program in
+a series of related podcasts.
+A wiki is a website designed to allow visitors to use
+their browsers to add, edit, or delete the site’s
+content. Wikipedia is one of the most popular wikis.
+reset page 158
+-------------------------------------------- 分页分隔 --------------------------------------------
+Category Podcasts
+Arts 99% Invisible
+Comedy The Joe Rogan
+Experience
+News The Daily
+Science & RadioLab
+Medicine
+Society & Culture This American Life
+page 49
+COMMUNICATION
+Microsoft Corporation
+Description
+Messaging
+Although e-mail is the most widely used, there are two
+other messaging systems:
+reset page 159
+-------------------------------------------- 分页分隔 --------------------------------------------
+Text messaging, also known as texting and SMS (short
+message service), is a process of sending short
+electronic messages, typically fewer than 160
+characters. Texting while driving is very dangerous and
+illegal in several states.
+Instant messaging (IM)—supports live communication
+between friends. Most instant messaging programs also
+include videoconferencing features, file sharing, and
+remote assistance.
+E-mail
+E-mail (electronic mail) is the transmission of
+electronic messages. There are two basic types of e-mail
+systems:
+Client-based e-mail systems use e-mail clients
+installed on your computer.
+Web-based e-mail systems use webmail clients located
+on the e-mail provider’s computer. This is known as
+webmail.
+A typical e-mail has three basic elements: header
+(including address, subject, and perhaps attachment),
+message, and signature.
+Description
+Spam is unwanted and unsolicited e-mail that may
+include a computer virus or destructive programs often
+attached to unsolicited e-mail. Spam blockers, also
+known as spam filters, are programs that identify and
+eliminate spam.
+reset page 160
+-------------------------------------------- 分页分隔 --------------------------------------------
+SEARCH TOOLS
+Search Site
+Service
+Bing www.bing.com
+Duckduckgo www.duckduckgo.com
+Google www.google.com
+Yahoo! www.yahoo.com
+Search services maintain huge databases relating to
+website content. The information stored in these
+databases includes addresses, content descriptions or
+classifications, and keywords appearing on web pages and
+other Internet informational resources. Spiders are
+programs that update these databases.
+Search Engines
+Search engines are specialized programs to help locate
+information. To use, enter a keyword or phrase, and a
+list of search results is displayed.
+Content Evaluation
+Not all information you find on the web has been
+subjected to strict guidelines to ensure accuracy. Many
+sites allow anyone to post new material, sometimes
+anonymously and without critical evaluation. Some sites
+promote fake news (inaccurate or biased information)
+and/or deep fake videos. Many fake news sites are
+designed to look like legitimate news sites.
+To evaluate the accuracy of information found on the
+web, consider the following:
+Authority. Is the author an expert? Is the site
+official or does it present one individual’s or
+reset page 161
+-------------------------------------------- 分页分隔 --------------------------------------------
+organization’s opinion?
+Accuracy. Consult other reputable sources to verify
+surprising claims. Fake news articles often reference
+other fake news articles.
+Objectivity. Is the information factual or does the
+author have a bias? Does the author appear to have a
+personal agenda to convince or form a reader’s
+opinion?
+Currency. Is the information up to date? Does the site
+specify when information is updated? Are the site’s
+links operational?
+page 50
+ELECTRONIC COMMERCE
+Denys Prykhodov/Shutterstock
+Electronic commerce, or e-commerce, is the buying and
+selling of goods over the Internet. Three basic types are
+Business-to-consumer (B2C) commerce, which involves
+sales from business to the general public.
+reset page 162
+-------------------------------------------- 分页分隔 --------------------------------------------
+Consumer-to-consumer (C2C) commerce, which involves
+sales between individuals. Web auctions are similar to
+traditional auctions except buyers and sellers rarely,
+if ever, meet face to face.
+Business-to-business (B2B) commerce, which involves
+sales from one business to another, typically a
+manufacturer–supplier relationship.
+Security
+The two greatest challenges for e-commerce are the
+development of
+Safe, secure payment methods. Two types are credit
+cards and digital currency. Bitcoins exist only on the
+Internet.
+Convenient ways to provide required information.
+CLOUD COMPUTING
+Cloud computing shifts many computer activities from the
+user’s computer to other computers on the Internet. The
+three basic components to cloud computing are
+Clients—corporations and end users.
+Internet—provides connection between clients and
+providers.
+Service providers—organizations with computers
+connected to the Internet that are willing to provide
+access to software, data, and storage.
+INTERNET of THINGS
+reset page 163
+-------------------------------------------- 分页分隔 --------------------------------------------
+Rohane Hamilton/Shutterstock
+The Internet of Things (IoT) is a continuing development
+of the Internet allowing everyday objects embedded with
+electronic devices to send and receive data over the
+Internet. Objects include cell phones, wearable devices,
+and even coffeemakers. For example:
+The Fitbit is an IoT device (bracelet) that monitors
+health data and sends that data to a cell phone or
+personal web page.
+Apple’s Health App is a Web 3.0 application that can
+access Fitbit data, combine it with other related
+health data, analyze the data, and report back to you
+through a cell phone.
+The Apple Health App reports provide information about
+users’ health, including heart rate, steps taken each
+day, and an estimate of daily calories burned.
+reset page 164
+-------------------------------------------- 分页分隔 --------------------------------------------
+Dragon Images/Shutterstock
+CAREERS in IT
+Web developers develop and maintain websites and web
+resources. A bachelor’s or associate’s degree in
+computer science or information systems and knowledge of
+common programming languages and web development software
+are required. Expected salary range is $52,000 to
+$82,000.
+page 51
+KEY TERMS
+address (32)
+Advanced Research Project Agency Network (ARPANET) (26)
+attachment (39)
+bitcoin (42)
+reset page 165
+-------------------------------------------- 分页分隔 --------------------------------------------
+BitTorrent (33)
+blog (36)
+browser (31)
+business-to-business (B2B) (41)
+business-to-consumer (B2C) (41)
+cable (31)
+cascading style sheets (CSS) (32)
+client-based e-mail system (39)
+cloud computing (43)
+consumer-to-consumer (C2C) (41)
+cryptocurrency (42)
+deep fake (40)
+desktop browser (32)
+digital currency (42)
+domain name (32)
+downloading (32)
+digital subscriber line (DSL) (31)
+e-commerce (41)
+e-learning (27)
+electronic commerce (41)
+electronic mail (38)
+e-mail (38)
+e-mail client (39)
+Facebook (36)
+fake news (40)
+file transfer protocol (FTP) (34)
+filter (33)
+friend (35)
+group (35)
+reset page 166
+-------------------------------------------- 分页分隔 --------------------------------------------
+header (38)
+hyperlink (32)
+Hypertext Markup Language (HTML) (32)
+Instagram (36)
+instant messaging (IM) (37)
+Internet (26)
+Internet of Things (IoT) (45)
+Internet security suite (34)
+Internet service provider (ISP) (31)
+JavaScript (32)
+link (32)
+LinkedIn (36)
+location (32)
+message (39)
+microblog (36)
+MMS (multimedia messaging service) (37)
+mobile browser (32)
+news feed (35)
+online (27)
+page (35)
+podcast (36)
+PHP (32)
+profile (35)
+protocol (32)
+search engine (40)
+search service (40)
+secure file transfer protocol (SFTP) (34)
+share settings (35)
+signature (39)
+reset page 167
+-------------------------------------------- 分页分隔 --------------------------------------------
+SMS (short message service) (37)
+social networking (35)
+spam (39)
+spam blocker (39)
+spam filter (39)
+spider (40)
+subject (38)
+texting (37)
+text messaging (37)
+top-level domain (TLD) (32)
+tweet (36)
+Twitter (36)
+uniform resource locator (URL) (32)
+uploading (33)
+virus (39)
+web (26)
+Web 1.0 (26)
+Web 2.0 (26)
+Web 3.0 (26)
+Web 4.0 (27)
+Web 5.0 (27)
+web auction (41)
+web-based e-mail system (39)
+web-based file transfer service (33)
+webmail (39)
+webmail client (39)
+web developer (45)
+web page (32)
+web suffix (32)
+reset page 168
+-------------------------------------------- 分页分隔 --------------------------------------------
+web utility (33)
+wiki (37)
+Wikipedia (37)
+wireless modem (31)
+World Wide Web (26)
+WWW (26)
+page 52
+MULTIPLE CHOICE
+Circle the correct answer.
+1. When the Internet launched, it was a network called:
+a. DSL
+b. LAN
+c. ARPANET
+d. CSS
+2. This Internet activity is associated with sending and
+receiving e-mails.
+a. shopping
+b. communicating
+c. e-learning
+d. online entertainment
+3. The physical network that is the world’s largest
+network is called:
+a. the World Wide Web
+reset page 169
+-------------------------------------------- 分页分隔 --------------------------------------------
+b. the Internet
+c. ARPANET
+d. SFTP
+4. This generation of the web that brought about social
+media.
+a. Web 1.0
+b. Web 2.0
+c. Web 3.0
+d. Web 4.0
+5. An example of a micro-blogging site is:
+a. Facebook
+b. TikTok
+c. Twitter
+d. Microsoft
+6. The most common way to access the Internet is through
+a(n) .
+a. cell phone
+b. ISP
+c. SFTP
+d. TikTok
+7. Transmission of electronic messages over the Internet.
+a. Web 3.0
+b. B2B
+c. hyperlink
+d. e-mail
+8. Two popular instant messaging services are WhatsApp and
+Facebook .
+a. Social
+b. Meet
+reset page 170
+-------------------------------------------- 分页分隔 --------------------------------------------
+c. Messenger
+d. ISP
+9. A business-oriented social networking site.
+a. TikTok
+b. Instagram
+c. LinkedIn
+d. Facebook
+10. Electronic commerce involving individuals selling to
+individuals.
+a. B2C
+b. C2C
+c. B2B
+d. I2I
+page 53
+MATCHING
+Match each numbered item with the most closely related
+lettered item. Write your answers in the spaces provided.
+a. HT ML 1. The name for using a
+b. service file transfer utility
+software to copy files
+providers
+to your computer from
+c. Internet
+specially configured
+d. protocols
+servers on the Internet.
+e. Twitter
+reset page 171
+-------------------------------------------- 分页分隔 --------------------------------------------
+f. di gital 2. Using a keyword, a
+currency search engine returns a
+g. downloading list of related sites
+known as .
+h. groups
+3. This is the Internet’s
+i. web-based
+equivalent to
+j. hits
+traditional cash.
+4. The continuing Internet
+development that allows
+objects to send and
+receive data over the
+Internet.
+5. On social media,
+communities of
+individuals who share a
+common interest
+typical ly create
+.
+6. The type of e-mail
+account that does not
+require an e-mail
+program to be installed
+on a user’s computer.
+7. A very popular
+microblogging site.
+8. The network that
+connects computers all
+over the world.
+9. The rules for
+exchanging data between
+reset page 172
+-------------------------------------------- 分页分隔 --------------------------------------------
+computers.
+10. Three basic components
+to cloud computing are
+clients, Internet, and
+.
+page 54
+OPEN-ENDED
+On a separate sheet of paper, respond to each question or
+statement.
+1. Discuss the Internet and web, including their origins,
+the four generations of the web, and the most common
+uses.
+2. Describe how to access the Internet. What are providers?
+Define desktop and mobile browsers, and discuss URLs,
+HTML, CSS, JavaScript, PHP, and mobile browsers.
+3. What are web utilities? Discuss filters, file transfer
+utilities, and Internet security suites.
+4. Discuss Internet communications, including social
+networking, blogs, microblogs, podcasts, wikis, client-
+based and web-based e-mail, and text and instant
+messaging.
+5. Define search tools, including search services. Discuss
+search engines and fake news. Describe how to evaluate
+the content of a website.
+6. Describe electronic commerce, including business-to-
+consumer, consumer-to-consumer, business-to-business e-
+reset page 173
+-------------------------------------------- 分页分隔 --------------------------------------------
+commerce, and security.
+7. Discuss the Internet of Things (IoT). Describe how
+Fitbit and Apple’s Health App are examples of how an
+IoT device can interact with a Web 3.0 application.
+8. What is cloud computing? Describe three basic components
+of cloud computing.
+DISCUSSION
+Respond to each of the following questions.
+Making IT Work for You: ONLINE
+1
+ENTERTAINMENT
+Review the Making IT Work for You: Online Entertainment on pages 28–30
+and then respond to the following: (a) Do you currently use online
+entertainment? If so, which ones? If not, do you plan on using one in
+the future? Why or why not? (b) What are the advantages and
+disadvantages of online entertainment options compared to traditional
+sources? Be specific. (c) Compare news feeds to traditional newspapers.
+Which would be better for exposing you to new ideas? Which one would be
+better at challenging your point of view? Be specific and defend your
+position.
+Privacy: SOCIAL NETWORKING
+2
+When a Facebook friend posts a picture, video, or text that includes
+you, who can view that post? Review the Privacy box on page 35, and
+respond to the following: (a) Who should be responsible for ensuring
+privacy on social networking sites? Defend your position. (b) Do you
+think that most people are aware of their privacy settings on Facebook?
+Have you ever checked your settings? Why or why not? (c) Investigate and
+then summarize the default security settings for a social networking
+website such as Facebook.
+reset page 174
+-------------------------------------------- 分页分隔 --------------------------------------------

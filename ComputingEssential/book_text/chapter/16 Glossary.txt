@@ -1,0 +1,2125 @@
+
+page 362
+Glossary
+1G (first-generation mobile telecommunications): Started in the 1980s
+using analog signals to provide voice transmission service.
+2G (second-generation mobile telecommunications): Started in the
+1990s using digital radio signals.
+3D printer: A printer that creates objects by adding layers of material
+onto one another. Also known as additive manufacturing.
+3D scanner: Scanner that uses lasers, cameras, or robotic arms to record
+the shape of an object.
+3G (third-generation mobile telecommunications): Started in the 2000s
+and provided services capable of effective connectivity to the Internet,
+marking the beginning of smartphones.
+3GLs (third-generation languages): High-level procedural language. See
+also Procedural language.
+4G (fourth-generation mobile telecommunications):
+Replacing 3G networks in some areas with providers using WiMax and LTE
+connections to provide faster transmission speeds.
+4GLs (fourth-generation languages): Very high-level or problem-oriented
+languages. See also Task-oriented language.
+5G (fifth-generation mobile telecommunications): A cellular network
+technology being developed to replace 4G networks with speeds that rival
+home Internet connections.
+5GLs (fifth-generation languages): See Fifth-generation language.
+802.11: See Wi-Fi (wireless fidelity).
+a
+reset page 836
+-------------------------------------------- 分页分隔 --------------------------------------------
+AC adapter: Notebook computers use AC adapters that are typically outside
+the system unit. They plug into a standard wall outlet, convert AC to DC,
+provide power to drive the system components, and can recharge batteries.
+Access: Refers to the responsibility of those who have data to control who
+is able to use that data.
+Access speed: Measures the amount of time required by the storage device
+to retrieve data and programs.
+Accounting: The organizational department that records all financial
+activity from billing customers to paying employees.
+Accounts payable: The activity that shows the money a company owes to its
+suppliers for the materials and services it has received.
+Accounts receivable: The activity that shows what money has been received
+or is owed by customers.
+Accuracy: Relates to the responsibility of those who collect data to
+ensure that the data is correct.
+Active display area: The diagonal length of a monitor’s viewing area.
+Activity tracker: A wearable computer that typically monitors daily
+exercise and sleep patterns.
+Additive manufacturing: See 3D printer.
+Address: Located in the header of an e-mail message; the e-mail address of
+the persons sending, receiving, and, optionally, anyone else who is to
+receive copies.
+Advanced Research Project Agency Network (ARPANET): A national
+computer network from which the Internet developed.
+Agile development: A development methodology that starts by getting core
+functionality of a program working, then expands on it until the customer is
+satisfied with the results.
+All-in-one desktop: A desktop computer that has the monitor and system
+unit housed together in the same case (e.g., Apple’s iMac).
+Analog: Continuous signals that vary to represent different tones,
+pitches, and volume.
+Analog signal: Signal that represents a range of frequencies, such as the
+human voice. It is a continuous electronic wave signal as opposed to a
+digital signal that is either on or off.
+Android: Mobile operating system originally developed by Android Inc., and
+later purchased by Google.
+Antispyware: See Spy removal programs.
+Antivirus program: A utility program that guards a computer system from
+viruses or other damaging programs.
+App: See Application software.
+reset page 837
+-------------------------------------------- 分页分隔 --------------------------------------------
+App store: A website that provides access to specific mobile apps that can
+be downloaded either for a nominal fee or free of charge.
+Application generation subsystem: Provides tools to create data entry
+forms and specialized programming languages that interface or work with
+common languages, such as C or Visual Basic.
+Application generator: Also called program coder; provides modules of
+prewritten code to accomplish various tasks, such as calculation of overtime
+pay.
+Application software: Also referred to as apps. Software that can perform
+useful work, such as word processing, cost estimating, or accounting tasks.
+The user primarily interacts with application software.
+Arithmetic-logic unit (ALU): The part of the CPU that performs
+arithmetic and logical operations.
+Arithmetic operation: Fundamental math operations: addition, subtraction,
+multiplication, and division.
+Artificial intelligence (AI): A field of computer science that attempts
+to develop computer systems that can mimic or simulate human thought
+processes and actions.
+Artificial reality: See Virtual reality.
+ASCII (American Standard Code for Information Interchange): Binary
+coding scheme widely used on all computers, including personal computers.
+Eight bits form each byte, and each byte represents one character.
+page 363
+Aspect ratio: The width of a monitor divided by its height. Common aspect
+ratios for monitors are 4:3 (standard) and 16:9 (wide screen).
+Assembly language: A step up from machine language, using names instead
+of numbers. These languages use abbreviations or mnemonics, such as ADD,
+that are automatically converted to the appropriate sequence of 1s and 0s.
+Asymmetric digital subscriber line (ADSL): One of the most widely used
+types of telephone high-speed connections (DSL).
+Attachment: A file, such as a document or worksheet, that is attached to
+an e-mail message.
+Attribute: A data field represents an attribute (description or
+characteristic) of some entity (person, place, thing, or object). For
+example, an employee is an entity with many attributes, including his or her
+last name, address, phone, etc.
+Authentication: The process of ensuring the identity of a user.
+reset page 838
+-------------------------------------------- 分页分隔 --------------------------------------------
+Automated design tool: Software package that evaluates hardware and
+software alternatives according to requirements given by the systems
+analyst. Also called computer-aided software engineering (CASE) tools.
+b
+Backbone: See Bus.
+Background: Other programs running simultaneously with the program being
+used in an operating system. See also Foreground.
+Backup: A Windows utility program. See Backup program.
+Backup program: A utility program that helps protect you from the effects
+of a disk failure by making a copy of selected or all files that have been
+saved onto a disk.
+Balance sheet: Lists the overall financial condition of an organization.
+Bandwidth: Bandwidth determines how much information can be transmitted at
+one time. It is a measurement of the communication channel’s capacity.
+There are three bandwidths: voice band, medium band, and broadband.
+Bar code: Code consisting of vertical zebra-striped marks printed on
+product containers, read with a bar code reader.
+Bar code reader: Photoelectric scanner that reads bar codes for
+processing.
+Bar code scanner: See Bar code reader.
+Base station: See Wireless access point.
+Baseband: Bandwidth used to connect individual computers that are located
+close to one another. Though it supports high-speed transmission, it can
+only carry a single signal at a time.
+Batch processing: Processing performed all at once on data that has been
+collected over time.
+BD: See Blu-ray disc.
+Beta testing: Testing by a select group of potential users in the final
+stage of testing a program.
+Big data: Term given to describe the ever-growing volume of data currently
+being collected.
+Binary system: Numbering system in which all numbers consist of only two
+digits: 0 and 1.
+Biometric scanning: Devices that check fingerprints or retinal scans.
+BIOS (basic input/output system): Information including the specifics
+concerning the amount of RAM and the type of keyboard, mouse, and secondary
+reset page 839
+-------------------------------------------- 分页分隔 --------------------------------------------
+storage devices connected to the system unit.
+Bit (binary digit): Each 1 or 0 is a bit; short for binary digit.
+Bitcoin: A form of digital cash. Bitcoin currency exists only on the
+Internet.
+Bitmap image: Graphic file in which an image is made up of thousands of
+dots (pixels).
+BitTorrent: A peer-to-peer file-sharing protocol used for distributing
+large amounts of data over the Internet.
+Blog: A type of personal website where articles are regularly posted.
+Bluetooth: A wireless technology that allows nearby devices to communicate
+without the connection of cables or telephone systems.
+Blue-ray disc (BD): A type of high-definition disc with a capacity of 25
+to 50 gigabytes.
+Booting: Starting or restarting your computer.
+Botnet: A collection of zombie computers.
+Broadband: Bandwidth that includes microwave, satellite, coaxial cable,
+and fiber-optic channels. It is used for very-high-speed computers.
+Browser: Special Internet software connecting you to remote computers;
+opens and transfers files, displays text and images, and provides an
+uncomplicated interface to the Internet and web documents. Examples of
+browsers are Internet Explorer, Mozilla Firefox, and Google Chrome.
+Browser cache: A collection of temporary Internet files that contain web
+page content and instructions for displaying this content.
+Bus: All communication travels along a common connecting cable called a bus
+or a backbone. As information passes along the bus, it is examined by each
+device on the system board to see if the information is intended for that
+device. See also Bus line and Ethernet.
+Bus line: Electronic data roadway along which bits travel; connects the
+parts of the CPU to each other and links the CPU with other important
+hardware. The common connecting cable in a bus network.
+Bus network: Each device is connected to a common cable called a bus or
+backbone, and all communications travel along this bus.
+Bus width: The number of bits traveling simultaneously down a bus is the
+bus width.
+Business suite: See Productivity suites.
+Business-to-business (B2B): A type of electronic commerce that involves
+the sale of a product or service from one business to another. This is
+typically a manufacturer-supplier relationship.
+Business-to-consumer (B2C): A type of electronic commerce that involves
+the sale of a product or service to the general public or end users.
+reset page 840
+-------------------------------------------- 分页分隔 --------------------------------------------
+Button: A special area you can click to make links that “navigate”
+through a presentation.
+Byte: Unit consisting of eight bits. There are 256 possible bit
+combinations in a byte, and each byte represents one character.
+page 364
+c
+Cable: Cords used to connect input and output devices to the system unit.
+Cable modem: Type of modem that uses coaxial cable to create high-speed
+computer connections.
+Cable service: Service provided by cable television companies using
+existing television cables.
+Cache memory: Area of random-access memory (RAM) set aside to store the
+most frequently accessed information. Cache memory improves processing by
+acting as a temporary high-speed holding area between memory and the CPU,
+allowing the computer to detect which information in RAM is most frequently
+used.
+Capacity: Capacity is how much data a particular storage medium can hold
+and is another characteristic of secondary storage.
+Card reader: A device that interprets the encoded information contained on
+credit, debit, access, and identification cards.
+Carpal tunnel syndrome: A repetitive strain injury consisting of damage
+to the nerves and tendons in the hands.
+Cascading style sheets (CSS): Files inserted into an HTML document that
+control the appearance of web pages, including layout, colors, and fonts.
+CD: See Compact disc.
+Cell: The space created by the intersection of a vertical column and a
+horizontal row within a worksheet in a program like Microsoft Excel. A cell
+can contain text or numeric entries.
+Cell phone: Mobile device that uses cellular system to connect without a
+physical connection.
+Cell tower: Antennae that support cellular communication.
+Cellular: Type of wireless connection that uses multiple antennae (cell
+towers) to send and receive data within relatively small geographic regions
+(cells).
+reset page 841
+-------------------------------------------- 分页分隔 --------------------------------------------
+Cellular service provider: Supports voice and data transmission to
+wireless devices.
+Central processing unit (CPU): The part of the computer that holds data
+and program instructions for processing the data. The CPU consists of the
+control unit and the arithmetic-logic unit. In a personal computer, the CPU
+is on a single electronic component called a microprocessor chip.
+Character: A single letter, number, or special character, such as a
+punctuation mark or $.
+Character encoding standards: Assign unique sequence of bits to each
+character.
+Child node: A node one level below the node being considered in a
+hierarchical database or network. See also Parent node.
+Chip: A tiny circuit board etched on a small square of sandlike material
+called silicon. A chip is also called a silicon chip, semiconductor, or
+integrated circuit.
+Chip card: Type of credit card that contains an embedded microchip to
+provide added security.
+Chip carrier: The device onto which chips are mounted and plugged into the
+system board.
+Chrome OS: An operating system designed by Google for netbook computers
+and Internet connectivity through cloud computing.
+Clarity: Indicated by the resolution, or number of pixels, on a monitor.
+The greater the resolution, the better the clarity.
+Class: In an object-oriented database, classes are similar objects grouped
+together.
+Client: A node that requests and uses resources available from other
+nodes. Typically, a client is a user’s personal computer.
+Client-based e-mail system: A system that requires a special program
+known as an e-mail client to be installed on your computer.
+Client/server network: Network in which one powerful computer coordinates
+and supplies services to all other nodes on the network. Server nodes
+coordinate and supply specialized services, and client nodes request the
+services.
+Clock speed: Also called clock rate. It is measured in gigahertz, or
+billions of beats per second. The faster the clock speed, the faster the
+computer can process information and execute instructions.
+Cloud computing: Data stored at a server on the Internet and available
+anywhere the Internet can be accessed.
+Cloud printer: A printer connected to the Internet that provides printing
+services to others on the Internet.
+reset page 842
+-------------------------------------------- 分页分隔 --------------------------------------------
+Cloud storage: Also known as online storage. An Internet-based space for
+storing data and files.
+Cloud suite: Suite stored at a server on the Internet and available
+anywhere from the Internet.
+Coaxial cable: High-frequency transmission cable that replaces the
+multiple wires of telephone lines with a single solid-copper core. It is
+used to deliver television signals as well as to connect computers in a
+network.
+Code: Writing a program using the appropriate computer language.
+Code review: See Desk checking.
+Coding: Actual writing of a computer program, using a programming
+language.
+Cold boot: Starting the computer after it has been turned off.
+Combination key: Keys such as the Ctrl key that perform an action when
+held down in combination with another key.
+Commercial database: Enormous database an organization develops to cover
+certain particular subjects. Access to this type of database is usually
+offered for a fee or subscription. Also known as data bank and informational
+utility.
+Common data item: In a relational database, all related tables must have
+a common data item or key field.
+Communication channel: The actual connecting medium that carries the
+message between sending and receiving devices. This medium can be a physical
+wire, cable, or wireless connection.
+Communication device: Computer systems that communicate with other
+computer systems using modems. For example, it modifies computer output into
+a form that can be transmitted across standard telephone lines.
+Communication system: Electronic system that transmits data over
+communication lines from one location to another.
+Compact disc (CD): Widely used optical disc format. It holds 650 MB
+(megabytes) to 1 GB (gigabyte) of data on one side of the CD.
+Company database: Also called shared database. Stored on a mainframe,
+users throughout the company have access to the database through
+page 365
+their personal computers linked by a network.
+Compiler: Software that converts the programmer’s procedural language
+program (source code) into machine language (object code). This object code
+can then be saved and run later.
+Computer-aided design/computer-aided manufacturing (CAD/CAM)
+system: Knowledge work systems that run programs to integrate the design
+and manufacturing activities. CAD/CAM is widely used in manufacturing
+automobiles.
+reset page 843
+-------------------------------------------- 分页分隔 --------------------------------------------
+Computer-aided software engineering (CASE) tool: A type of software
+development tool that helps provide some automation and assistance in
+program design, coding, and testing. See also Automated design tool.
+Computer crime: See Cybercrime.
+Computer ethics: Guidelines for the morally acceptable use of computers
+in our society.
+Computer Fraud and Abuse Act: Law allowing prosecution of unauthorized
+access to computers and databases.
+Computer monitoring software: The most invasive and dangerous type of
+spyware. These programs record every activity made on your computer,
+including credit card numbers, bank account numbers, and e-mail messages.
+Computer network: Communications system connecting two or more computers
+and their peripheral devices to exchange information and share resources.
+Computer support specialist: Specialists include technical writers,
+computer trainers, computer technicians, and help-desk specialists who
+provide technical support to customers and other users.
+Computer technician: Specialist who installs hardware and software and
+troubleshoots problems for users.
+Connectivity: Capability of the personal computer to use information from
+the world beyond one’s desk. Data and information can be sent over
+telephone or cable lines and through the air so that computers can talk to
+each other and share information.
+Consumer-to-consumer (C2C): A type of electronic commerce that involves
+individuals selling to individuals.
+Contextual tab: A type of tab found in Microsoft Word that appears only
+when needed and anticipates the next operations to be performed by the user.
+Contrast ratio: Indicates a monitor’s ability to display colors. It
+compares the light intensity of the brightest white to the darkest black.
+Control unit: Section of the CPU that tells the rest of the computer how
+to carry out program instructions.
+Conversion: Also known as systems implementation; four approaches to
+conversion: direct, parallel, pilot, and phased. See also Systems
+implementation.
+Cookies: Small data files that are deposited on your hard disk from
+websites you have visited.
+Coprocessor: Specialized processing chip designed to improve specific
+computer operations, such as the graphics coprocessor.
+Copyright: A legal concept that gives content creators the right to
+control use and distribution of their work.
+reset page 844
+-------------------------------------------- 分页分隔 --------------------------------------------
+Cordless mouse: A battery-powered mouse that typically uses radio waves
+or infrared light waves to communicate with the system unit. Also known as
+wireless mouse.
+Cortana: A virtual assistant that accepts commands through text or speech.
+Introduced in 2015 as a part of Windows 10.
+Cracker: One who gains unauthorized access to a computer system for
+malicious purposes.
+Cryptocurrency: A digital currency with no traditional cash equivalent.
+Cryptocurrencies use an encrypted public ledger, known as a blockchain, to
+ensure accuracy and security.
+Cyberbullying: The use of the Internet, a cell phone, or other device to
+deliver content intended to hurt or embarrass another person.
+Cybercrime: Any criminal offense that involves a computer and a network.
+Criminals may be employees, outside users, hackers and crackers, or
+organized crime members.
+Cyberterrorism: A politically motivated cybercrime.
+Cylinder: Hard disks store and organize files using tracks, sectors, and
+cylinders. A cylinder runs through each track of a stack of platters.
+Cylinders differentiate files stored on the same track and sector of
+different platters.
+d
+Dark web: A part of the deep web consisting of sites that use special
+software to hide a user’s IP address and makes it nearly impossible to
+identify who is using the site.
+Data: Raw, unprocessed facts that are input to a computer system that will
+give compiled information when the computer processes those facts. Data is
+also defined as facts or observations about people, places, things, and
+events.
+Data administration subsystem: Helps manage the overall database,
+including maintaining security, providing disaster recovery support, and
+monitoring the overall performance of database operations.
+Data bank: See Commercial database.
+Data cube: A multidimensional data model. See also Multidimensional
+database.
+Data definition subsystem: This system defines the logical structure of
+the database by using a data dictionary.
+Data dictionary: Dictionary containing a description of the structure of
+data in a database.
+reset page 845
+-------------------------------------------- 分页分隔 --------------------------------------------
+Data flow diagram: Diagram showing data or information flow within an
+information system.
+Data integrity: Database characteristics relating to the consistency and
+accuracy of data.
+Data maintenance: Maintaining data includes adding new data, deleting old
+data, and editing existing data.
+Data manipulation: The unauthorized access of a computer network and
+copying files to or from the server.
+Data manipulation subsystem: Provides tools to maintain and analyze
+data.
+Data mining: Technique of searching data warehouses for related
+information and patterns.
+Data processing system (DPS): Transaction processing system that keeps
+track of routine operations and records these events in a database. Also
+called transaction processing system (TPS).
+Data redundancy: A common database problem in which data is duplicated
+and stored in different files.
+page 366
+Data security: Protection of software and data from unauthorized tampering
+or damage.
+Data warehouse: Data collected from a variety of internal and external
+databases and stored in a database called a data warehouse. Data mining is
+then used to search these databases.
+Data worker: Person involved with the distribution and communication of
+information, such as administrative assistants and clerks.
+Database: A collection of related information, like employee names,
+addresses, and phone numbers. It is organized so that a computer program can
+quickly select the desired pieces of information and display them for you.
+Database administrator (DBA): Uses database management software to
+determine the most efficient way to organize and access data.
+Database file: File containing highly structured and organized data
+created by database management programs.
+Database management system (DBMS): To organize, manage, and retrieve
+data. DBMS programs have five subsystems: DBMS engine, data definition, data
+manipulation, applications generation, and data administration. An example
+of a database management system is Microsoft Access. See also Database
+manager.
+reset page 846
+-------------------------------------------- 分页分隔 --------------------------------------------
+Database manager: Software package used to set up, or structure, a
+database such as an inventory list of supplies. It also provides tools to
+edit, enter, and retrieve data from the database.
+Database model: Defines rules and standards for all data in a database.
+There are five database models: hierarchical, network, relational,
+multidimensional, and object-oriented. For example, Access uses the
+relational data model.
+DBMS engine: Provides a bridge between the logical view of data and the
+physical view of data.
+Debugging: Programmer’s word for testing and then eliminating errors in a
+program. Programming errors are of two types: syntax and logic errors.
+Decision model: The decision model gives the decision support system its
+analytical capabilities. There are three types of models included in the
+decision model: tactical, operational, and strategic.
+Decision support system (DSS): Flexible analysis tool that helps
+managers make decisions about unstructured problems, such as effects of
+events and trends outside the organization.
+Deep fake: Altering an individual’s appearance or message in a way
+designed to mislead others.
+Deep web: Comprised of websites designed to be hidden from standard
+search engines to allow communication in a secure and anonymous manner.
+Demand report: A demand report is produced on request. An example is a
+report on the numbers and types of jobs held by women and minorities done at
+the request of the government.
+Demodulation: Process performed by a modem in converting analog signals to
+digital signals.
+Denial of service (DoS) attack: A variant virus in which websites are
+overwhelmed with data and users are unable to access the website. Unlike a
+worm that self-replicates, a DoS attack floods a computer or network with
+requests for information and data.
+Density: Refers to how tightly the bits (electromagnetic charges) can be
+packed next to one another on a disk.
+Desk checking: Process of checking out a computer program by studying a
+printout of the program line by line, looking for syntax and logic errors.
+Desktop: (1) The screen that is displayed on the monitor when the computer
+starts up. All items and icons on the screen are considered to be on your
+desktop and are used to interact with the computer. (2) A system unit that
+typically contains the system’s electronic components and selected
+secondary storage devices. Input and output devices, such as the mouse,
+keyboard, and monitor, are located outside the system unit.
+Desktop browser: Browser designed for laptop and desktop computer.
+reset page 847
+-------------------------------------------- 分页分隔 --------------------------------------------
+Desktop computer: Computer small enough to fit on top of or along the
+side of a desk and yet too big to carry around.
+Desktop operating system: See Stand-alone operating system.
+Desktop publishing program: Program that allows you to mix text and
+graphics to create publications of professional quality.
+Device driver: Every device that is connected to the computer has a
+special program associated with it called a device driver that allows
+communication between the operating system and the device.
+Diagnostic program: See Troubleshooting program.
+Dial-up service: Antiquated method of connecting to the Internet using
+telephones and telephone modems, which has been replaced with higher-speed
+connection services.
+Dialog box: Provides additional information and requests user input.
+Dictionary attack: Uses software to try thousands of common words
+sequentially in an attempt to gain unauthorized access to a user’s account.
+Digital: Computers are digital machines because they can only understand
+1s and 0s. For example, a digital watch states the exact time on the face,
+whereas an analog watch has the second hand moving in constant motion as it
+tells the time.
+Digital camera: Similar to a traditional camera except that images are
+recorded digitally in the camera’s memory rather than on film.
+Digital currency: Currency for Internet purchases. Buyers purchase
+digital cash from a third party (a bank that specializes in electronic
+currency) by transferring funds from their banks.
+Digital footprint: A collection of data that can be searched to reveal a
+highly detailed account of an individual’s life.
+Digital Millennium Copyright Act: Law that makes it legal for a program
+owner to make only his or her own backup copies of a software program.
+However, it is illegal for those copies to be resold or given away.
+Digital projector: A type of monitor that projects images from a
+traditional monitor onto a screen or wall.
+Digital rights management (DRM): Encompasses various technologies that
+control access to electronic media and files.
+Digital signal: Computers can only understand digital signals. Before
+processing can occur within the system unit, a conversion must occur from
+what we understand (analog) to what the system unit can electronically
+process (digital). See also Analog signals.
+page 367
+reset page 848
+-------------------------------------------- 分页分隔 --------------------------------------------
+Digital subscriber line (DSL): Provides high-speed connection using
+existing telephone lines.
+Digital subscriber line (DSL) service: Service provided by telephone
+companies using existing telephone lines to provide high-speed connections.
+Digital versatile disc (DVD): A type of optical disc similar to CD-ROMs
+except that more data can be packed into the same amount of space. See also
+DVD (digital versatile disc).
+Digital video disc: See DVD (digital versatile disc).
+Digital whiteboard: A specialized device with a large display connected
+to a computer or projector.
+DIMM (dual in-line memory module): An expansion module used to add
+memory to the system board.
+Direct approach: Approach for systems implementation whereby the old
+system is simply abandoned for the new system.
+Directory server: A specialized server that manages resources such as
+user accounts for an entire network.
+Disaster recovery plan: Plan used by large organizations describing ways
+to continue operations following a disaster until normal computer operations
+can be restored.
+Disaster recovery specialist: Worker responsible for recovering systems
+and data after a disaster strikes an organization.
+Disk caching: Method of improving hard-disk performance by anticipating
+data needs. Frequently used data is read from the hard disk into memory
+(cache). When needed, data is then accessed directly from memory, which has
+a much faster transfer rate than from the hard disk. Increases performance
+by as much as 30 percent.
+Display: Output device like a television screen that displays data
+processed by the computer.
+DisplayPort (DP): A port that an audiovisual device typically uses to
+connect to large monitors.
+Display screen: See Display.
+Distributed database: Database that can be made accessible through a
+variety of communications networks, which allow portions of the database to
+be located in different places.
+Distributed denial of service (DDoS) attack: A denial of service (DoS)
+attack that coordinates several computers making repeated requests for
+service to overwhelm and shut down an ISP or website.
+Document: Any kind of text material.
+Document file: File created by a word processor to save documents such as
+letters, research papers, and memos.
+reset page 849
+-------------------------------------------- 分页分隔 --------------------------------------------
+Document scanner: Similar to a flatbed scanner except that it can quickly
+scan multipage documents. It automatically feeds one page of a document at a
+time through a scanning surface.
+Documentation: Written descriptions and procedures about a program and how
+to use it. See also Program documentation.
+Domain name: The second part of the URL; it is the name of the server
+where the resource is located. For example, www.mtv.com.
+Domain name server (DNS): Internet addressing method that assigns names
+and numbers to people and computers. Because the numeric IP addresses are
+difficult to remember, the DNS server was developed to automatically convert
+text-based addresses to numeric IP addresses.
+Dot pitch: Distance between each pixel. The lower the dot pitch, the
+shorter the distance between pixels and the higher the clarity of images
+produced.
+Dots per inch (dpi): Printer resolution is measured in dpi. The higher
+the dpi, the better the quality of images produced.
+Downlink: To receive data from a satellite.
+Downloading: Process of transferring information from a remote computer to
+the computer one is using.
+Drawing program: Program used to help create artwork for publications.
+See also Illustration program.
+Driver: See Device driver.
+Drives: Storage devices that read data and programs from some type of
+storage media.
+Drone: Unmanned aerial vehicle (UAV) that acts as an output device, sending
+back video and sound to the user.
+DS3: Provides support for very high speed, all-digital transmission for
+large corporations.
+DSL: See Digital subscriber line.
+Duplex printing: Allows automatic printing on both sides of a sheet of
+paper.
+DVD (digital versatile disc or digital video disc): Similar to CD-
+ROMs except that more data can be packed into the same amount of space. DVD
+drives can store a typical capacity of 4.7 GB on one side.
+DVI (Digital Video Interface) port: A type of port that provides a
+connection to a digital monitor.
+e
+reset page 850
+-------------------------------------------- 分页分隔 --------------------------------------------
+E-book: See E-book reader.
+E-book reader: Handheld, book-sized device that displays text and
+graphics. Using content downloaded from the web or special cartridges, these
+devices are used to read newspapers, magazines, and books.
+E-commerce: Buying and selling goods over the Internet.
+E-ink: A black-and-white output from some e-book readers producing images
+that reflect light like ordinary paper.
+E-learning: A web application that allows one to take educational courses
+online.
+E-mail: Allows you to communicate with anyone in the world who has an
+Internet address or e-mail account with a system connected to the Internet.
+You can include a text message, graphics, photos, and file attachments.
+E-mail client: A special program that communicates with the e-mail service
+provider and must be installed on the computer first.
+E-reader: Dedicated mobile devices for storing and displaying e-books and
+other electronic media including electronic newspapers and magazines.
+EBCDIC (Extended Binary Coded Decimal Interchange Code):
+Binary coding scheme that is a standard for minicomputers and mainframe
+computers.
+Economic feasibility: Comparing the costs of a new system to the benefits
+it promises.
+Electronic book: Traditional printed book in electronic format.
+page 368
+Electronic commerce (e-commerce): Buying and selling goods over the
+Internet.
+Electronic mail: Transmission of electronic messages over the Internet.
+Also known as e-mail.
+Electronic profile: Using publicly and privately available databases,
+information resellers create electronic profiles, which are highly detailed
+and personalized descriptions of individuals.
+Embedded operating system: An operating system that is completely stored
+within the ROM (read-only memory) of the device that it is in; used for
+handheld computers and smaller devices like PDAs. Also known as a real-time
+operating system (RTOS).
+Employee-monitoring software: Programs that record virtually every
+activity on a computer system.
+reset page 851
+-------------------------------------------- 分页分隔 --------------------------------------------
+Encryption: Coding information so that only the user can read or otherwise
+use it.
+Encryption key: A number used to gain access to encrypted information.
+End user: Person who uses personal computers or has access to larger
+computers.
+Enterprise storage system: Using mass storage devices, a strategy
+designed for organizations to promote efficient and safe use of data across
+the networks within their organizations.
+Entity: In an object-oriented database, a person, place, thing, or event
+that is to be described.
+Ergonomics: The study of human factors related to things people use.
+Ethernet: Otherwise known as Ethernet bus or Ethernet LAN. The Ethernet
+bus is the pathway or arterial to which all nodes (PCs, file servers, print
+servers, web servers, etc.) are connected. All of this is connected to a
+local area network (LAN) or a wide area network (WAN). See also Bus network.
+Ethernet cable: Twisted-pair cable commonly used in networks and to
+connect a variety of components to the system unit.
+Ethernet port: A high-speed networking port that allows multiple computers
+to be connected for sharing files or for high-speed Internet access.
+Ethics: Standards of moral conduct.
+Exception report: Report that calls attention to unusual events.
+Executive information system (EIS): Sophisticated software that can
+draw together data from an organization’s databases in meaningful patterns
+and highly summarized forms.
+Executive support system (ESS): See Executive information system.
+Expansion bus: Connects the CPU to slots on the system board. There are
+different types of expansion buses such as industry standard architecture
+(ISA), peripheral component interconnect (PCI), accelerated graphics port
+(AGP), universal serial bus (USB), and FireWire buses. See also System bus.
+Expansion card: Optional device that plugs into a slot inside the system
+unit to expand the computer’s abilities. Ports on the system board allow
+cables to be connected from the expansion board to devices outside the
+system unit.
+Expansion slot: Opening on a system board. Users can insert optional
+devices, known as expansion cards, into these slots, allowing users to
+expand their systems. See also Expansion card.
+Expert system: Computer program that provides advice to decision makers
+who would otherwise rely on human experts. It’s a type of artificial
+intelligence that uses a database to provide assistance to users.
+reset page 852
+-------------------------------------------- 分页分隔 --------------------------------------------
+External data: Data gathered from outside an organization. Examples are
+data provided by market research firms.
+External hard drive: Uses the same technology as an internal hard disk
+but is used primarily to complement an internal hard disk by providing
+additional storage. It is typically connected to a USB or FireWire port on
+the system unit and is easily removed.
+Extranet: Private network that connects more than one organization.
+f
+Facebook: One of the best-known social networking sites.
+Facial recognition: Software that uses specialized cameras to identify
+users and automatically log them in.
+Fake news: Information that is inaccurate or biased.
+Family Educational Rights and Privacy Act (FERPA): A federal law that
+restricts disclosure of educational records.
+Fiber-optic cable: Special transmission cable made of glass tubes that
+are immune to electronic interference. Data is transmitted through fiber-
+optic cables in the form of pulses of light.
+Fiber-optic service (FiOS): An Internet connection service that is not
+yet widely available. Current providers of FiOS include Google and Verizon
+with speeds faster than cable or DSL connections.
+Field: Each column of information within a record is called a field. A
+field contains related information on a specific item like employee names
+within a company department.
+Fifth-generation language (5GL): Computer language that incorporates
+the concept of artificial intelligence to allow direct human communication.
+File: A collection of related records that can store data and programs. For
+example, the payroll file would include payroll information (records) for
+all of the employees (entities).
+File compression: Process of reducing the storage requirements for a
+file.
+File decompression: Process of expanding a compressed file.
+File server: Dedicated computer with large storage capacity providing
+users access to shared folders or fast storage and retrieval of information
+used in that business.
+File transfer protocol (FTP): Internet service for uploading and
+downloading files.
+reset page 853
+-------------------------------------------- 分页分隔 --------------------------------------------
+Filter: (1) A filter blocks access to selected websites. (2) A filter will
+locate or display records from a table that fit a set of conditions or
+criteria when using programs like Excel.
+Firewall: Security hardware and software. All communications into and out
+of an organization pass through a special security computer, called a proxy
+server, to protect all systems against external threats.
+FireWire bus: Operates much like USB buses on the system board but at
+higher speeds.
+page 369
+FireWire port: Used to connect high-speed printers, and even video
+cameras, to system unit.
+First-party cookie: A cookie that is generated and then read only by the
+website you are currently visiting.
+Flash drive: See USB drive.
+Flash memory: RAM chips that retain data even when power is disrupted.
+Flash memory is an example of solid-state storage and is typically used to
+store digitized images and record MP3 files.
+Flash memory card: A solid-state storage device widely used in notebook
+computers. Flash memory also is used in a variety of specialized input
+devices to capture and transfer data to desktop computers.
+Flat-panel monitor: Or liquid crystal display (LCD) monitor. These
+monitors are much thinner than CRTs and can be used for desktop systems as
+well.
+Flatbed scanner: An input device similar to a copying machine.
+Flexible screen: Monitor that allows digital devices to display images on
+nonflat surfaces.
+Folder: A named area on a disk that is used to store related subfolders
+and files.
+Foreground: The current program when multitasking or running multiple
+programs at once.
+Fourth-generation language (4GL): Task-oriented language designed to
+solve a specific problem and requiring little special training on the part
+of the end user.
+Free-to-play: A business model for app sales where the initial app is free
+but advanced features require purchases.
+Freedom of Information Act of 1970: Law giving citizens the right to
+examine data about them in federal government files, except for information
+reset page 854
+-------------------------------------------- 分页分隔 --------------------------------------------
+restricted for national security reasons.
+Friend: An individual on a list of contacts for an instant messaging
+server.
+g
+Galleries: Feature of Microsoft Office that simplifies the process of
+making selections from a list of alternatives by replacing dialog boxes with
+visual presentations of results.
+Game controller: A device that provides input to computer games.
+Gamepad: An input device designed to be held by two hands and provide a
+wide array of inputs, including motion, turning, stopping, and firing.
+Gaming laptop: A laptop with high-end graphics hardware and a very fast
+processor specifically designed to play computer games.
+Gaming mice: A game controller that provides greater precision, faster
+response, programming buttons, and better ergonomics than a traditional
+mouse.
+General ledger: Activity that produces income statements and balance
+sheets based on all transactions of a company.
+General-purpose application: Application used for doing common tasks,
+such as browsers and word processors, spreadsheets, databases, management
+systems, and presentation software. Also known as productivity applications.
+Generations (of programming languages): The five generations are
+machine languages, assembly languages, procedural languages, problem-
+oriented languages, and natural languages. See also Levels.
+Gesture control: The ability to control operations with finger movements,
+such as swiping, sliding, and pinching.
+Global positioning system (GPS): Devices that use location information
+to determine the geographic location of your car, for example.
+Google Cloud Print: A Google service that supports cloud printing.
+GPU (graphics processing unit): See Graphics coprocessor.
+Gramm-Leach-Bliley Act: A law that protects personal financial
+information.
+Graphical user interface (GUI): Special screen that allows software
+commands to be issued through the use of graphic symbols (icons) or pull-
+down menus.
+Graphics card: Device that provides high-quality 3D graphics and animation
+for games and simulations.
+reset page 855
+-------------------------------------------- 分页分隔 --------------------------------------------
+Graphics coprocessor: Designed to handle requirements related to
+displaying and manipulating 2D and 3D graphic images.
+Graphics program: Program for making and altering digital images and
+video. This category of specialized applications include video and image
+editors, illustration programs, and desktop publishing programs.
+Grayscale: The most common black ink selection in which images are
+displayed using many shades of gray.
+Grid chart: Chart that shows the relationship between input and output
+documents.
+Group decision support system (GDSS): System used to support the
+collective work of a team addressing large problems.
+Groups: In Microsoft Word, each tab is organized into groups that contain
+related items. In social media, communities of individuals who share a
+common interest.
+Guest operating system: Operating system that operates on virtual
+machines.
+h
+Hacker: Person who gains unauthorized access to a computer system for the
+fun and challenge of it.
+Handwriting recognition software: Translates handwritten notes into a
+form that the system unit can process.
+Hard disk: Enclosed disk drive containing one or more metallic disks. Hard
+disks use magnetic charges to record data and have large storage capacities
+and fast retrieval times.
+Hard-disk drive: See hard disk.
+Hardware: Equipment that includes a keyboard, monitor, printer, the
+computer itself, and other devices that are controlled by software
+programming.
+Header: A typical e-mail has three elements: header, message, and
+signature. The header appears first and includes addresses, subject, and
+attachments.
+Headphones: Typically worn around the head providing audio output.
+Headsets: Audio-output devices connected to a sound card in the system
+unit. The sound card is used to capture as well as play back recorded sound.
+page 370
+reset page 856
+-------------------------------------------- 分页分隔 --------------------------------------------
+Health Insurance Portability and Accountability Act (HIPAA): A
+federal law that protects medical records.
+Help: A feature in most application software providing options that
+typically include an index, a glossary, and a search feature to locate
+reference information about specific commands.
+Hexadecimal system (hex): Uses 16 digits to represent binary numbers.
+Hi def (high definition): The next generation of optical disc, with
+increased storage capacity. See also Blu-ray disc.
+Hierarchical database: Database in which fields or records are structured
+in nodes. Organized in the shape of a pyramid, and each node is linked
+directly to the nodes beneath it. Also called one-to-many relationship.
+Hierarchical network: See Tree network.
+High Definition Multimedia Interface (HDMI) port: Port that provides
+high-definition video and audio, making it possible to use a computer as a
+video jukebox or an HD video recorder.
+Higher level: Programming languages that are closer to the language humans
+use.
+History file: Created by the browser to store information on websites
+visited by your computer system.
+Home network: LAN network for homes allowing different computers to share
+resources, including a common Internet connection.
+Host: Also called a server or provider, is a large centralized computer.
+Host operating system: Operating system that runs on the physical
+machine.
+Hotspot: Wireless access points that provide Internet access and are often
+available in public places such as coffee shops, libraries, bookstores,
+colleges, and universities.
+HTML: See Hypertext Markup Language.
+HTML editor: See Web authoring program.
+https: See Hypertext transfer protocol secure.
+Hub: The center or central node for other nodes. This device can be a
+server or a connection point for cables from other nodes.
+Human resources: The organizational department that focuses on the
+hiring, training, and promoting of people, as well as any number of human-
+centered activities within the organization.
+Hybrid drive: Storage drives that contain both solid-state storage and
+hard disk storage to provide the speed and power benefits of solid-state
+storage devices while still having the low cost and large capacity of hard
+drives.
+reset page 857
+-------------------------------------------- 分页分隔 --------------------------------------------
+Hyperlink: Connection or link to other documents or web pages that contain
+related information.
+Hypertext Markup Language (HTML): Programming language that creates
+document files used to display web pages.
+Hypertext transfer protocol secure (https): A widely used protocol for
+web traffic and to protect the transfer of sensitive information.
+i
+Icon: Graphic object on the desktop used to represent programs and other
+files.
+Identity theft: The illegal assumption of someone’s identity for the
+purpose of economic gain.
+IF-THEN-ELSE structure: Logical selection structure whereby one of two
+paths is followed according to IF, THEN, and ELSE statements in a program.
+See also Selection structure.
+IFPS (interactive financial planning system): A 4GL language used for
+developing financial models.
+Illusion of anonymity: The misconception that being selective about
+disclosing personal information on the Internet can prevent an invasion of
+personal privacy.
+Illustration program: Also known as drawing programs; used to create
+digital illustrations and modify vector images and thus create line art, 3D
+models, and virtual reality.
+Image editor: An application for modifying bitmap images.
+Immersive experience: Allows the user to walk into a virtual reality room
+or view simulations on a virtual reality wall.
+Incognito Mode: A privacy mode available from the Google Chrome browser.
+Income statement: A statement that shows a company’s financial
+performance, income, expenses, and the difference between them for a
+specific time period.
+Individual database: Collection of integrated records used mainly by just
+one person. Also called personal computer database.
+Infected USB flash drive: Flash drive that, when connected to a
+computer, infects that computer with viruses.
+Information: Data that has been processed by a computer system.
+Information broker: See Information reseller.
+reset page 858
+-------------------------------------------- 分页分隔 --------------------------------------------
+Information reseller: Also known as information broker. It gathers
+personal data on people and sells it to direct marketers, fund-raisers, and
+others, usually for a fee.
+Information system: Collection of hardware, software, people, data, and
+procedures that work together to provide information essential to running an
+organization.
+Information systems manager: Oversees the work of programmers, computer
+specialists, systems analysts, and other computer professionals.
+Information technology (IT): Computer and communication technologies,
+such as communication links to the Internet, that provide help and
+understanding to the end user.
+Information utility: See Commercial database.
+Information worker: Employee who creates, distributes, and communicates
+information.
+Infrared: Uses infrared light waves to communicate over short distances.
+Sometimes referred to as line-of-sight communication because light waves can
+only travel in a straight line.
+Inkjet printer: Printer that sprays small droplets of ink at high speed
+onto the surface of the paper, producing letter-quality images, and can
+print in color.
+Input: Any data or instructions used by a computer.
+Input device: Piece of equipment that translates data into a form a
+computer can process. The most common input devices are the keyboard and the
+mouse.
+Instagram: Microblogging site designed to share images and videos posts,
+with little to no written content.
+Instant messaging (IM): A program allowing communication and
+collaboration for direct, “live” connections over the Internet between two
+or more people.
+page 371
+Integrated circuit: See Silicon chip.
+Interactive whiteboard: See Digital whiteboard.
+Internal data: Data from within an organization consisting principally of
+transactions from the transaction processing system.
+Internal hard disk: Storage device consisting of one or more metallic
+platters sealed inside a container. Internal hard disks are installed inside
+reset page 859
+-------------------------------------------- 分页分隔 --------------------------------------------
+the system cabinet of a personal computer. It stores the operating system
+and major applications like Word.
+Internet: A huge computer network available to everyone with a personal
+computer and a means to connect to it. It is the actual physical network
+made up of wires, cables, and satellites as opposed to the web, which is the
+multimedia interface to resources available on the Internet.
+Internet of Things (IoT): Continuing development of the Internet that
+allows everyday objects embedded with electronic devices to send and receive
+data over the Internet.
+Internet scam: Using the Internet, a fraudulent act or operation designed
+to trick individuals into spending their time and money for little or no
+return.
+Internet security suite: Collection of utility programs designed to make
+using the Internet easier and safer.
+Internet service provider (ISP): Provides access to the Internet.
+Interpreter: Software that converts a procedural language one statement at
+a time into machine language just before the statement is executed. No
+object code is saved.
+Intranet: Like the Internet, it typically provides e-mail, mailing lists,
+newsgroups, and FTP services, but it is accessible only to those within the
+organization. Organizations use intranets to provide information to their
+employees.
+Intrusion detection system (IDS): Using sophisticated statistical
+techniques to analyze all incoming and outgoing network traffic, this system
+works with firewalls to protect an organization’s network.
+Inventory: Material or products that a company has in stock.
+Inventory control system: A system that keeps records of the number of
+each kind of part or finished good in the warehouse.
+iOS: Previously known as iPhone OS, mobile operating system developed for
+Apple’s iPhone, iPod Touch, and iPad.
+IP address (Internet Protocol address): The unique numeric address of
+a computer on the Internet that facilitates the delivery of e-mail.
+IT security analyst: Person responsible for maintaining the security of a
+company’s network, systems, and data. Employers look for candidates with a
+bachelor’s or associate’s degree in information systems or computer
+science and network experience.
+j
+reset page 860
+-------------------------------------------- 分页分隔 --------------------------------------------
+JavaScript: A scripting language that adds basic interactivity to web
+pages.
+Joystick: Popular input device for computer games. You control game
+actions by varying the pressure, speed, and direction of the joystick.
+k
+Key: Another term for encryption key.
+Key field: The common field by which tables in a database are related to
+each other. This field uniquely identifies the record. For example, in
+university databases, a key field is the Social Security number. Also known
+as primary key.
+Keyboard: Input device that looks like a typewriter keyboard but has
+additional keys.
+Keylogger: Also known as computer monitoring software and sniffer
+programs. They can be loaded onto your computer without your knowledge.
+Knowledge base: A system that uses a database containing specific facts,
+rules to relate these facts, and user input to formulate recommendations and
+decisions.
+Knowledge-based systems: Programs duplicating human knowledge. A type of
+artificial intelligence that uses a database to provide assistance to users.
+Knowledge work system (KWS): Specialized information system used to
+create information in a specific area of expertise.
+Knowledge worker: Person involved in the creation of information, such as
+an engineer or a scientist.
+l
+Land: See Lands and pits.
+Lands and pits: Flat and bumpy areas, respectively, that represent 1s and
+0s on the optical disc surface to be read by a laser.
+Language translator: Converts programming instructions into a machine
+language that can be processed by a computer.
+Laptop: A small, portable system unit that contains electronic components,
+selected secondary storage devices, and input devices.
+Laptop computer: Portable computer, also known as a notebook computer,
+weighing between 4 and 10 pounds.
+reset page 861
+-------------------------------------------- 分页分隔 --------------------------------------------
+Laptop keyboard: Almost all laptops have attached keyboards and screens.
+Laser printer: Printer that creates dotlike images on a drum, using a
+laser beam light source.
+Levels: Generations or levels of programming languages ranging from “low”
+to “high.” See also Generations (of programming languages).
+Light-emitting diode (LED): A technology for flat-panel monitors that
+have a more advanced backlighting technology. They produce better-quality
+images, are slimmer, and are more environmentally friendly as they require
+less power and use fewer toxic chemicals to manufacture. Most new monitors
+are LED.
+Link: A connection to related information.
+LinkedIn: The premier business-oriented social networking site.
+Linux: Type of UNIX operating system initially developed by Linus Torvalds,
+it is one of the most popular and powerful alternatives to the Windows
+operating system.
+Liquid crystal display (LCD): A technology used for flat-panel monitors.
+Local area network (LAN): Network consisting of computers and other
+devices that are physically near each other, such as within the same
+building.
+Location: For browsers to connect to resources, locations or addresses
+must be specified. Also known as uniform resource locators or URLs.
+page 372
+Logic error: Error that occurs when a programmer has used an incorrect
+calculation or left out a programming procedure.
+Logic structure: Programming statements or structures called sequence,
+selection, or loop that control the logical sequence in which computer
+program instructions are executed.
+Logical operation: Comparing two pieces of data to see whether one is
+equal to (=), less than (<), or greater than (>) the other.
+Logical view: Focuses on the meaning and content of the data. End users
+and computer professionals are concerned with this view as opposed to the
+physical view, with which only specialized computer professionals are
+concerned.
+Loop structure: Logic structure in which a process may be repeated as
+long as a certain condition remains true. This structure is called a
+“loop” because the program loops around or repeats again and again.
+Low bandwidth: See Voiceband.
+reset page 862
+-------------------------------------------- 分页分隔 --------------------------------------------
+Lower level: Programming language closer to the language the computer
+itself uses. The computer understands the 0s and 1s that make up bits and
+bytes.
+LTE (Long Term Evolution): A wireless standard, comparable to WiMax.
+m
+Machine language: Language in which data is represented in 1s and 0s.
+Most languages have to be translated into machine language for the computer
+to process the data. Either a compiler or an interpreter performs this
+translation.
+macOS: Operating system designed for Macintosh computers.
+macOS 12 Monterey: Mac operating system announced in 2021 that provides
+new interoperability between Mac devices, increased customization of
+notifications, and improved video conferencing tools.
+Magnetic card reader: A card reader that reads encoded information from a
+magnetic strip on the back of a card.
+Magnetic-ink character recognition (MICR): Direct-entry scanning
+devices used in banks. This technology is used to automatically read the
+numbers on the bottom of checks.
+Mainboard: See Motherboard or System board.
+Mainframe computer: This computer can process several million program
+instructions per second. Sizable organizations rely on these room-size
+systems to handle large programs and a great deal of data.
+Maintenance programmer: Programmer who maintains software by updating
+programs to protect them from errors, improve usability, standardize, and
+adjust to organizational changes.
+Malware: Short for malicious software.
+MAN: See Metropolitan area network.
+Management information system (MIS): Computer-based information system
+that produces standardized reports in a summarized and structured form.
+Generally used to support middle managers.
+Many-to-many relationship: In a network database, each child node may
+have more than one parent node, and vice versa.
+Marketing: The organizational department that plans, prices, promotes,
+sells, and distributes an organization’s goods and services.
+Mass storage: Refers to the tremendous amount of secondary storage
+required by large organizations.
+reset page 863
+-------------------------------------------- 分页分隔 --------------------------------------------
+Mass storage device: Device such as a file server, RAID system, tape
+library, optical jukebox, and more.
+MaxiCode: A code widely used by the United Parcel Service (UPS) and others
+to automate the process of routing packages, tracking in-transit packages,
+and locating lost packages.
+Media: Media are the actual physical material that holds the data, such as
+a hard disk, which is one of the important characteristics of secondary
+storage. Singular of media is medium.
+Medium: See Media.
+Medium band: Bandwidth of special leased lines, used mainly with
+minicomputers and mainframe computers.
+Megabits per second (Mbps): The transfer rate of millions of bits per
+second.
+Memory: Memory is contained on chips connected to the system board and is
+a holding area for data instructions and information (processed data waiting
+to be output to secondary storage). RAM, ROM, and CMOS are three types of
+memory chips.
+Menu: List of commands.
+Menu bar: Menus are displayed in a menu bar at the top of the screen.
+Mesh network: A topology requiring each node to have more than one
+connection to the other nodes so that if a path between two nodes is
+disrupted, data can be automatically rerouted around the failure using
+another path.
+Message: The content portion of e-mail correspondence.
+Methods: Instructions for retrieving or manipulating attribute values in
+an object-oriented database.
+Metropolitan area network (MAN): These networks are used as links
+between office buildings in a city.
+Microblog: Publishes short sentences that only take a few seconds to
+write, rather than long stories or posts like a traditional blog.
+Microprocessor: The central processing unit (CPU) of a personal computer
+controls and manipulates data to produce information. The microprocessor is
+contained on a single integrated circuit chip and is the brains of the
+system. Also known as a processor.
+Microwave: Communication using high-frequency radio waves that travel in
+straight lines through the air.
+Middle-level manager: Middle-level managers deal with control and
+planning. They implement the long-term goals of the organization.
+Midrange computer: Refrigerator-sized machines falling in between
+personal computers and mainframes in processing speed and data-storing
+reset page 864
+-------------------------------------------- 分页分隔 --------------------------------------------
+capacity. Medium-sized companies or departments of large companies use
+midrange computers.
+Mini notebook: A type of very portable laptop. They are lighter and
+thinner and have a longer battery life than other laptops. Also known as
+ultrabooks or ultraportables.
+Mini tablet: A type of tablet with a smaller screen.
+page 373
+Mistaken identity: Occurs when the electronic profile of one person is
+switched with another.
+Mobile app (application): Add-on feature for a variety of mobile
+devices, including smartphones, netbooks, and tablets.
+Mobile browser: Special browsers designed to run on portable devices.
+Mobile operating system: Embedded operating system that controls a
+smartphone.
+Mobile OS: See Mobile operating system.
+Modem: Short for modulator-demodulator. It is a communication device that
+translates the electronic signals from a computer into electronic signals
+that can travel over telephone lines.
+Modulation: Process of converting digital signals to analog signals.
+Module: See Program module.
+Monitor: See Display.
+Motherboard: Also called a system board; the communications medium for the
+entire system.
+Motion-sensing device: An input device that controls games with user
+movements.
+Mouse: Device that typically is moved across the desktop and directs the
+cursor on the display screen.
+Mouse pointer: Typically in the shape of an arrow.
+Multicore processor: A new type of chip that provides two or more
+separate and independent CPUs.
+Multidimensional database: Data can be viewed as a cube with three or
+more sides consisting of cells. Each side of the cube is considered a
+dimension of the data; thus, complex relationships between data can be
+represented and efficiently analyzed. Sometimes called a data cube and
+designed for analyzing large groups of records.
+reset page 865
+-------------------------------------------- 分页分隔 --------------------------------------------
+Multifunctional device (MFD): Device that typically combines the
+capabilities of a scanner, printer, fax, and copying machine.
+Multimedia messaging service (MMS): Supports the sending of images,
+video, and sound using text messaging.
+Multitasking: Operating system that allows a single user to run several
+application programs at the same time.
+Multitouch screen: Can be touched with more than one finger, which allows
+for interactions such as rotating graphical objects on the screen with your
+hand or zooming in and out by pinching and stretching your fingers.
+n
+Natural language: A fifth-generation computer language (5GL) that allows
+a person to describe a problem and some constraints and then request a
+solution using a common language like English.
+Network: The arrangement in which various communications channels are
+connected through two or more computers. The largest network in the world is
+the Internet.
+Network adapter card: Connects the system unit to a cable that connects
+to other devices on the network.
+Network administrator: Also known as network manager. Computer
+professional who ensures that existing information and communication systems
+are operating effectively and that new ones are implemented as needed. Also
+responsible for meeting security and privacy requirements.
+Network architecture: Describes how networks are configured and how the
+resources are shared.
+Network attached storage (NAS): Similar to a file server except simpler
+and less expensive. Widely used for home and small business storage needs.
+Network database: Database with a hierarchical arrangement of nodes,
+except that each child node may have more than one parent node. Also called
+many-to-many relationship.
+Network drive: Storage device attached to a network that can be accessed
+by other nodes of the network.
+Network gateway: Connection by which a local area network may be linked
+to other local area networks or to larger networks.
+Network interface card (NIC): Also known as a network adapter card. Used
+to connect a computer to one or more computers forming a communication
+network whereby users can share data, programs, and hardware.
+Network operating system (NOS): Interactive software between
+applications and computers coordinating and directing activities between
+reset page 866
+-------------------------------------------- 分页分隔 --------------------------------------------
+computers on a network. This operating system is located on one of the
+connected computers’ hard disks, making that system the network server.
+Network server: This computer coordinates all communication between the
+other computers. Popular network operating systems include NetWare and
+Windows NT Server. See also Network operating system.
+News feed: The first page you see after logging into a social networking
+site. It typically consists of a collection of recent posts from friends,
+trending topics on the site, people’s responses to your posts, and
+advertisements.
+Node: Any device connected to a network. For example, a node is a computer,
+printer, or data storage device and each device has its own address on the
+network. Also, within hierarchical databases, fields or records are
+structured in nodes.
+NoSQL: A new category of object-oriented databases.
+Notebook computer: See Laptop and Laptop computer.
+o
+Object: An element, such as a text box, that can be added to a workbook
+and can be selected, sized, and moved. For example, if a chart (object) in
+an Excel workbook file (source file) is linked to a Word document
+(destination file), the chart appears in the Word document. In this manner,
+the object contains both data and instructions to manipulate the data.
+Object code: Machine language code converted by a compiler from source
+code. Object code can be saved and run later.
+Object-oriented database: A more flexible type of database that stores
+data as well as instructions to manipulate data and is able to handle
+unstructured data such as photographs, audio, and video. Object-oriented
+databases organize data using objects, classes, entities, attributes, and
+methods.
+page 374
+Object-oriented programming (OOP): Methodology in which a program is
+organized into self-contained, reusable modules called objects. Each object
+contains both the data and processing operations necessary to perform a
+task.
+Object-oriented software development: Software development approach
+that focuses less on the tasks and more on defining the relationships
+reset page 867
+-------------------------------------------- 分页分隔 --------------------------------------------
+between previously defined procedures or objects.
+Objectives: In programming, it is necessary to make clear the problems you
+are trying to solve to create a functional program.
+Office automation system (OAS): System designed primarily to support
+data workers. It focuses on managing documents, communicating, and
+scheduling.
+Office software suites: See Productivity suites.
+Office suites: See Productivity suites.
+One-to-many relationship: In a hierarchical database, each entry has one
+parent node, and a parent may have several child nodes.
+Online: Being connected to the Internet is described as being online.
+Online identity: The information that people voluntarily post about
+themselves online.
+Online office suite: Office suite stored online and available anywhere
+the Internet can be accessed.
+Online processing: See Real-time processing.
+Online storage: Provides users with storage space that can be accessed
+from a website.
+Open source: A free and openly distributed software program intended to
+allow users to improve upon and further develop the program.
+Operating system (OS): Software that interacts between application
+software and the computer, handling such details as running programs,
+storing and processing data, and coordinating all computer resources,
+including attached peripheral devices.
+Operational feasibility: Making sure the design of a new system will be
+able to function within the existing framework of an organization.
+Operational model: A decision model that helps lower-level managers
+accomplish the organization’s day-to-day activities, such as evaluating and
+maintaining quality control.
+Operator: An operator handles correcting operational errors in any
+programs. To do that, they need documentation, which lets them understand
+the program, thus enabling them to fix any errors.
+Optical carrier (OC): Provides support for very high speed, all-digital
+transmission for large corporations.
+Optical-character recognition (OCR): Scanning device that uses special
+preprinted characters, such as those printed on utility bills, that can be
+read by a light source and changed into machine-readable code.
+Optical disc: Storage device that can hold over 17 gigabytes of data,
+which is the equivalent of several million typewritten pages. Lasers are
+used to record and read data on the disc. The three basic types of optical
+reset page 868
+-------------------------------------------- 分页分隔 --------------------------------------------
+discs are compact discs (CDs), digital versatile or video discs (DVDs), and
+Blu-ray discs (BDs).
+Optical disc drive: A disc is read by an optical disc drive using a laser
+that projects a tiny beam of light. The amount of reflected light determines
+whether the area represents a 1 or a 0.
+Optical-mark recognition (OMR): Device that senses the presence or
+absence of a mark, such as a pencil mark. As an example, an OMR device is
+used to score multiple-choice tests.
+Optical scanner: Device that identifies images or text on a page and
+automatically converts it to electronic signals that can be stored in a
+computer to copy or reproduce.
+Organic light-emitting diode (OLED): Replaces LED monitor’s
+backlighting technology with a thin layer of organic compound that produces
+light.
+Organization chart: Chart showing the levels of management and formal
+lines of authority in an organization.
+Organizational cloud storage: High-speed Internet connection to a
+dedicated remote organizational Internet drive site.
+Output: Processed data or information.
+Output device: Equipment that translates processed information from the
+central processing unit into a form that can be understood by humans. The
+most common output devices are monitors and printers.
+p
+Packet: Before a message is sent on the Internet, it is broken down into
+small parts called packets. Each packet is then sent separately over the
+Internet. At the receiving end, the packets are reassembled into the correct
+order.
+Page layout program: See Desktop publishing program.
+Page: A social networking tool often used by companies to promote their
+business. These pages can include hours of operations, upcoming sales, and
+information about their products.
+Parallel approach: Systems implementation in which old and new systems
+are operated side by side until the new one has shown it is reliable.
+Parallel processing: Used by supercomputers to run large and complex
+programs.
+Parent node: Node one level above the node being considered in a
+hierarchical database or network. Each entry has one parent node, although a
+parent may have several child nodes. Also called one-to-many relationship.
+reset page 869
+-------------------------------------------- 分页分隔 --------------------------------------------
+Password: Special sequence of numbers, letters, and characters that limits
+access to information, such as electronic mail.
+Password manager: Program that helps users create, use, and recall strong
+passwords.
+Patch: Programming modification or correction.
+Payroll: Activity concerned with calculating employee paychecks.
+PC: See Personal computer.
+PCI Express (PCIe): New type of bus that is 30 times faster than PCI bus.
+Peer-to-peer (P2P) network: Network in which nodes can act as both
+servers and clients. For example, one personal computer can obtain files
+located on another personal computer and also can provide files to other
+personal computers.
+page 375
+People: End users who use computers to make themselves more productive.
+Periodic report: Report for a specific time period as to the health of
+the company or a particular department of the company.
+Peripheral: External device, such as a monitor and keyboard.
+Personal area network (PAN): A type of wireless network that works
+within a very small area—your immediate surroundings.
+Personal computer: Small, low-cost computer designed for individual
+users. These include desktop computers, laptops, and mobile devices.
+Personal computer database: See Individual database.
+Personal laser printer: Inexpensive laser printer widely used by single
+users to produce black-and-white documents.
+Phased approach: Systems implementation whereby a new system is
+implemented gradually over a period of time.
+Phishing: An attempt to trick Internet users into thinking a fake but
+official-looking website or e-mail is legitimate.
+Photo editor: See Image editor.
+PHP: A language often used within HTML documents to improve a website’s
+interactivity.
+Physical security: Activity concerned with protecting hardware from
+possible human and natural disasters.
+Physical view: This focuses on the actual format and location of the data.
+See also Logical view.
+reset page 870
+-------------------------------------------- 分页分隔 --------------------------------------------
+Picture element: See Pixel.
+Picture Password: A security application in Windows 10 that accepts a
+series of gestures over a picture of the user’s choice to gain access to a
+user’s account.
+Pilot approach: Systems implementation in which a new system is tried out
+in only one part of the organization. Later it is implemented throughout the
+rest of the organization.
+Pit: See Lands and pits.
+Pixel (picture element): Smallest unit on the screen that can be turned
+on and off or made different shades. Pixels are individual dots that form
+images on a monitor. The greater the resolution, the more pixels and the
+better the clarity.
+Pixel pitch: The distance between each pixel on a monitor.
+Plagiarism: Representation of some other person’s work and ideas as your
+own without giving credit to the original source.
+Plagiarist: Someone who engages in plagiarism.
+Platform: The operating system. Application programs are designed to run
+with a specific platform. See also Operating system.
+Platform scanner: Handheld direct-entry device used to read special
+characters on price tags. Also known as wand reader.
+Platter: Rigid metallic disk; multiple platters are stacked one on top of
+another within a hard-disk drive.
+Plotter: Special-purpose output device for producing bar charts, maps,
+architectural drawings, and three-dimensional illustrations.
+Podcast: An Internet-based medium for delivering music and movie files
+from the Internet to a computer.
+Pointer: For a monitor, a pointer is typically displayed as an arrow and
+controlled by a mouse. For a database, a pointer is a connection between a
+parent node and a child node in a hierarchical database.
+Pointers: Within a network database, pointers are additional connections
+between parent nodes and child nodes. Thus, a node may be reached through
+more than one path and can be traced down through different branches.
+Pointing device: A device that provides an intuitive interface with the
+system unit by accepting pointing gestures and converting them into machine-
+readable input.
+Port: Connecting socket on the outside of the system unit. Used to connect
+input and output devices to the system unit.
+Portable language: Language that can be run on more than one type of
+computer.
+reset page 871
+-------------------------------------------- 分页分隔 --------------------------------------------
+Portable scanner: A handheld device that slides across an image to be
+scanned, making direct contact.
+Power supply unit: Desktop computers have a power supply unit located
+within the system unit that plugs into a standard wall outlet, converting AC
+to DC, which becomes the power to drive all of the system unit components.
+Preliminary investigation: First phase of the systems life cycle. It
+involves defining the problem, suggesting alternative systems, and preparing
+a short report.
+Presentation file: A file created by presentation software to save
+presentation materials. For example, a file might contain audience handouts,
+speaker notes, and electronic slides.
+Presentation software: Software used to combine a variety of visual
+objects to create attractive and interesting presentations.
+Primary key: See Key field.
+Primary storage: Holds data and program instructions for processing data.
+It also holds processed information before it is output. See also Memory.
+Printer: Device that produces printed paper output.
+Privacy: Computer ethics issue concerning the collection and use of data
+about individuals.
+Privacy mode: A browser feature that eliminates history files and blocks
+most cookies.
+Private Browsing: A privacy mode provided by Safari. See also Privacy
+mode.
+Procedural language: Programming language designed to focus on procedures
+and how a program will accomplish a specific task. Also known as 3GL or
+third-generation language.
+Procedure: Rule or guideline to follow when using hardware, software, and
+data.
+Processing rights: Refers to which people have access to what kind of
+data.
+Processor: See Central processing unit.
+Production: The organizational department that actually creates finished
+goods and services using raw materials and personnel.
+Productivity suites: Also known as office suites; contain professional-
+grade application programs, including word processing, spreadsheets, and
+more. A good example is Microsoft Office.
+Profile: A social networking tool used by individuals to share information
+and often include photos, personal details, and contact information.
+page 376
+reset page 872
+-------------------------------------------- 分页分隔 --------------------------------------------
+Program: Instructions for the computer to follow to process data. See also
+Software.
+Program analysis: See Program specification.
+Program coder: See Application generator.
+Program definition: See Program specification.
+Program design: Creating a solution using programming techniques, such as
+top-down program design, pseudocode, flowcharts, logic structures, object-
+oriented programming, and CASE tools.
+Program documentation: Written description of the purpose and process of
+a program. Documentation is written within the program itself and in printed
+documents. Programmers will find themselves frustrated without adequate
+documentation, especially when it comes time to update or modify the
+program.
+Program flowchart: Flowchart graphically presents a detailed sequence of
+steps needed to solve a programming problem.
+Program maintenance: Activity of updating software to correct errors,
+improve usability, standardize, and adjust to organizational changes.
+Program module: Each module is made up of logically related program
+statements. The program must pass in sequence from one module to the next
+until the computer has processed all modules.
+Program specification: Programming step in which objectives, output,
+input, and processing requirements are determined.
+Programmer: Computer professional who creates new software or revises
+existing software.
+Programming: A program is a list of instructions a computer will follow to
+process data. Programming, also known as software development, is a six-step
+procedure for creating that list of instructions. The six steps are program
+specification, program design, program code (or coding), program test,
+program documentation, and program maintenance.
+Programming language: A collection of symbols, words, and phrases that
+instruct a computer to perform a specific task.
+Project manager: Software that enables users to plan, schedule, and
+control the people, resources, and costs needed to complete a project on
+time.
+Property: Computer ethics issue relating to who owns data and rights to
+software.
+Protocol: Rules for exchanging data between computers. The protocol
+http:// is the most common.
+reset page 873
+-------------------------------------------- 分页分隔 --------------------------------------------
+Prototyping: Building a model or prototype that can be modified before the
+actual system is installed.
+Proxy server: Computer that acts as a gateway or checkpoint in an
+organization’s firewall. See also Firewall.
+Pseudocode: An outline of the logic of the program to be written. It is
+the steps or the summary of the program before you actually write the
+program for the computer. Consequently, you can see beforehand what the
+program is to accomplish.
+Purchase order: A form that shows the name of the company supplying the
+material or service and what is being purchased.
+Purchasing: Buying of raw materials and services.
+q
+Query-by-example: A specific tool in database management that shows a
+blank record and lets you specify the information needed, like the fields
+and values of the topic you are looking to obtain.
+Query language: Easy-to-use language and understandable to most users. It
+is used to search and generate reports from a database. An example is the
+language used on an airline reservation system.
+r
+RAID system: Several inexpensive hard-disk drives connected to improve
+performance and provide reliable storage.
+RAM: See Random-access memory.
+Random-access memory (RAM): Volatile, temporary storage that holds the
+program and data the CPU is presently processing. It is called temporary
+storage because its contents will be lost if electrical power to the
+computer is disrupted or the computer is turned off.
+Ransomware: Malicious software that encrypts your computer’s data and
+ransoms the password to the user.
+Rapid applications development (RAD): Involves the use of powerful
+development software and specialized teams as an alternative to the systems
+development life cycle approach. Time for development is shorter and quality
+of the completed systems development is better, although cost is greater.
+Raster: See Bitmap image.
+reset page 874
+-------------------------------------------- 分页分隔 --------------------------------------------
+Read-only: Optical disc format that does not allow a disc to be written on
+or erased by the user.
+Read-only memory (ROM): Refers to chips that have programs built into
+them at the factory. The user cannot change the contents of such chips. The
+CPU can read or retrieve the programs on the chips but cannot write or
+change information. ROM stores programs that boot the computer, for example.
+Also called firmware.
+Real-time operating system (RTOS): See Embedded operating system.
+Real-time processing: Or online processing. Occurs when data is processed
+at the same time a transaction occurs.
+Record: Each row of information in a database is a record. Each record
+contains fields of data about some specific item, like employee name,
+address, phone, and so forth. A record represents a collection of attributes
+describing an entity.
+Recordable (R): Optical disc format that allows a disc to be written on
+once. Also known as write-once disc.
+Redundant arrays of inexpensive disks (RAID): Groups of inexpensive
+hard-disk drives related or grouped together using networks and special
+software. They improve performance by expanding external storage.
+Relation: A table in a relational database in which data elements are
+stored in rows and columns.
+Relational database: A widely used database structure in which data is
+organized into related tables. Each table is made up of rows called records
+and columns called fields. Each record contains fields of data about a
+specific item.
+page 377
+Repetition structure: See Loop structure.
+Repetitive strain injury (RSI): Any injury that is caused by fast,
+repetitive work that can generate neck, wrist, hand, and arm pain.
+Research: The organizational department that identifies, investigates, and
+develops new products and services.
+Resolution: A measurement reflecting the quality of an image.
+Rewritable (RW): Optical disc format that allows a disc to be written to
+multiple times.
+RFID (radio-frequency identification) reader: A device used to read
+radio-frequency identification information.
+reset page 875
+-------------------------------------------- 分页分隔 --------------------------------------------
+RFID tag: Microchip that contains electronically stored information and
+can be embedded in items such as consumer products, driver’s licenses,
+passports, etc.
+Ribbon GUI: An interface that uses a system of ribbons, tabs, and
+galleries to make it easier to find and use all the features of an
+application.
+Ribbon: Feature of Microsoft Office that replaces menus and toolbars by
+organizing commonly used commands into a set of tabs.
+Ring network: Network in which each device is connected to two other
+devices, forming a ring. There is no host computer, and messages are passed
+around the ring until they reach the correct destination.
+Robot network: See Botnet.
+Robot: Typically use cameras, microphones, and other sensors as inputs.
+Widely used in factories and other applications involving repetitive
+actions.
+Rogue Wi-Fi hotspot: Imitation hotspot intended to capture personal
+information.
+Role playing game (RPG): Computer game in which players assume persona
+of one of the game’s actors.
+ROM: See Read-only memory.
+Router: A node that forwards or routes data packets from one network to
+their destination in another network.
+s
+Sales order processing: Activity that records the demands of customers
+for a company’s products or services.
+Satellite: This type of communication uses satellites orbiting about
+22,000 miles above the Earth as microwave relay stations.
+Satellite connection services: Connection services that use satellites
+and the air to download or send data to users at a rate seven times faster
+than dial-up connections.
+Scanner: See Optical scanner.
+Scanning devices: Convert scanned text and images into a form that the
+system unit can process.
+Schema: See Data dictionary.
+SD card: Type of expansion card designed for laptops, tablets, and
+smartphones.
+reset page 876
+-------------------------------------------- 分页分隔 --------------------------------------------
+Search engine: Specialized programs assisting in locating information on
+the web and the Internet.
+Search program: A utility that provides a quick and easy way to search or
+examine an entire computer system to find specific applications, data, or
+other files.
+Search service: Organization that maintains databases relating to
+information provided on the Internet and also provides search engines to
+locate information.
+Secondary storage: Permanent storage used to preserve programs and data
+that can be retained after the computer is turned off. These devices include
+hard disks, magnetic tape, CDs, DVDs, and more.
+Secondary storage device: These devices are used to save, back up, and
+transport files from one location or computer to another. See also Secondary
+storage.
+Sector: Section shaped like a pie wedge that divides the tracks on a disk.
+Secure file transfer protocol (SFTP): See File transfer protocol.
+Security: The protection of information, hardware, and software.
+Security suites: A collection of utility programs designed to protect
+your privacy and security while you are on the web.
+Selection structure: Logic structure that determines which of two paths
+will be followed when a program must make a decision. Also called IF-THEN-
+ELSE structures. IF something is true, THEN do option one, or ELSE do option
+two.
+Semiconductor: Silicon chip through which electricity flows with some
+resistance.
+Sequential structure: Logic structure in which one program statement
+follows another.
+Server: A host computer with a connection to the Internet that stores
+document files used to display web pages. Depending on the resources shared,
+it may be called a file server, printer server, communication server, web
+server, or database server.
+Share setting : A feature on social media accounts that determines who
+can see your social networking data.
+Shared laser printer: More expensive laser printer used by a group of
+users to produce black-and-white documents. These printers can produce over
+30 pages a minute.
+Signature: Provides additional information about a sender of an e-mail
+message, such as name, address, and telephone number.
+Silicon chip: Tiny circuit board etched on a small square of sandlike
+material called silicon. Chips are mounted on carrier packages, which then
+plug into sockets on the system board.
+reset page 877
+-------------------------------------------- 分页分隔 --------------------------------------------
+Siri: A virtual assistant designed by Apple that accepts commands through
+text or speech. Introduced as a utility in iOS and incorporated with macOS
+Yosemite in 2016.
+Slot: Area on a system board that accepts expansion cards to expand a
+computer system’s capabilities.
+Smartphone: A type of cell phone that offers a variety of advanced
+functionality, including Internet and e-mail.
+Smartwatch: A wearable computer that acts as a watch, fitness monitor, and
+communication device.
+SMS (short messaging service): Texting or process of sending a short
+electronic message using a wireless network to another person.
+Social engineering: The practice of manipulating people to
+divulge private data.
+Social networking: Using the Internet to connect individuals.
+Socket: A socket provides connection points on the system board for
+holding electronic parts.
+page 378
+Software: Computer program consisting of step-by-step instructions,
+directing the computer on each task it will perform.
+Software development: See Programming.
+Software development life cycle (SDLC): A six-step procedure for
+software development.
+Software engineer: Programming professional or programmer who analyzes
+users’ needs and creates application software.
+Software environment: Operating system, also known as software platform,
+consisting of a collection of programs to handle technical details depending
+on the type of operating system. For example, software designed to run on an
+Apple computer is compatible with the macOS environment.
+Software piracy: Unauthorized copying of programs for personal gain.
+Software platform: See Software environment.
+Software suite: Individual application programs that are sold together as
+a group.
+Software update: Patch in which modifications to the software are
+typically more extensive and significant.
+Solid-state drive (SSD): Designed to be connected inside a microcomputer
+system the same way an internal hard disk would be but contains solid-state
+reset page 878
+-------------------------------------------- 分页分隔 --------------------------------------------
+memory instead of magnetic disks to store data.
+Solid-state storage: A secondary storage device that has no moving parts.
+Data is stored and retrieved electronically directly from these devices,
+much as they would be from conventional computer memory.
+Source code: Occurs when a programmer originally writes the code for a
+program in a particular language. This is called source code until it is
+translated by a compiler for the computer to execute the program. It then
+becomes object code.
+Spam: Unwelcome and unsolicited e-mail that can carry attached viruses.
+Spam blocker: Also referred to as spam filter. Software that uses a
+variety of different approaches to identify and eliminate spam or junk mail.
+Spam filter: See Spam blocker.
+Speakers: Audio-output devices connected to a sound card in the system
+unit. The sound card is used to capture as well as play back recorded sound.
+Specialized application: Program that is narrowly focused on specific
+disciplines and occupations. Some of the best known are multimedia, web
+authoring, graphics, virtual reality, and artificial intelligence.
+Specialized suite: Programs that focus on specialized applications such
+as graphics or financial planning.
+Spider: Special program that continually looks for new information and
+updates a search server’s databases.
+Spreadsheet: Computer-produced spreadsheet based on the traditional
+accounting worksheet that has rows and columns used to present and analyze
+data.
+Spy removal program: Program such as Spybot and Spysweeper, designed to
+detect web bugs and monitor software.
+Spyware: Wide range of programs designed to secretly record and report an
+individual’s activities on the Internet.
+Stand-alone operating system: Also called desktop operating system; a
+type of operating system that controls a single desktop or notebook
+computer.
+Star network: Network of computers or peripheral devices linked to a
+central computer through which all communications pass. Control is
+maintained by polling. The configuration of the computers looks like a star
+surrounding and connected to the central computer in the middle.
+Storage area network (SAN): An architecture that links remote computer
+storage devices such as enterprise storage systems to computers so that the
+devices are available as locally attached drives.
+Storage device: Hardware that reads data and programs from storage media.
+Most also write to storage media.
+reset page 879
+-------------------------------------------- 分页分隔 --------------------------------------------
+Storage management program: Utility program designed to solve the
+problem of running out of storage space by providing lists of application
+programs, stored videos, and other program files so that unused applications
+or archived large files can be moved or eliminated.
+Strategic model: A decision model that assists top managers in long-range
+planning, such as stating company objectives or planning plant locations.
+Strategy: A way of coordinating the sharing of information and resources.
+The most common network strategies are terminal, peer-to-peer, and
+client/server networks.
+Streaming: Process in which audio or video files are continuously
+downloaded to a computer while the file contents are viewed or listened to.
+Structured program: Program that uses logic structures according to the
+program design and the language in which you have chosen to write the
+program. Each language follows techniques like pseudocode, flowcharts, and
+logic structures.
+Structured programming techniques: Techniques consisting of top-down
+program design, pseudocode, flowcharts, and logic structures.
+Structured Query Language (SQL): A program control language used to
+create sophisticated database applications for requesting information from a
+database.
+Stylus: Penlike device used with tablets and PDAs that uses pressure to
+draw images on a screen. A stylus interacts with the computer through
+handwriting recognition software.
+Subject: Located in the header of an e-mail message; a one-line
+description used to present the topic of the message.
+Supercomputer: Fastest calculating device ever invented, processing
+billions of program instructions per second. Used by very large
+organizations like NASA.
+Supervisor: Manager responsible for managing and monitoring workers.
+Supervisors have responsibility for operational matters.
+Switch: The center or central node for other nodes. This device
+coordinates the flow of data by sending messages directly between sender and
+receiver nodes.
+Syntax error: Violation of the rules of a language in which the computer
+program is written. For example, leaving out a semicolon would stop the
+entire program from working because it is not the exact form the computer
+expects for that language.
+page 379
+reset page 880
+-------------------------------------------- 分页分隔 --------------------------------------------
+System: Collection of activities and elements designed to accomplish a
+goal.
+System board: Flat board that usually contains the CPU and memory chips
+connecting all system components to one another.
+System bus: There are two categories of buses. One is the system bus that
+connects the CPU to the system board. The other is the expansion bus that
+connects the CPU to slots on the system board.
+System chassis: See System unit.
+System flowchart: A flowchart that shows the flow of input data to
+processing and finally to output, or distribution of information.
+System software: “Background” software that enables the application
+software to interact with the computer. System software consists of the
+operating system, utilities, device drivers, and language translators. It
+works with application software to handle the majority of technical details.
+System unit: Part of a personal computer that contains the CPU. Also known
+as the system cabinet or chassis, it is the container that houses most of
+the electronic components that make up the computer system.
+Systems analysis: This second phase of the systems life cycle determines
+the requirements for a new system. Data is collected about the present
+system and analyzed, and new requirements are determined.
+Systems analysis and design: Six phases of problem-solving procedures
+for examining information systems and improving them.
+Systems analysis report: Report prepared for higher management
+describing the current information system, the requirements for a new
+system, and a possible development schedule.
+Systems analyst: Plans and designs information systems.
+Systems audit: A systems audit compares the performance of a new system to
+the original design specifications to determine if the new procedures are
+actually improving productivity.
+Systems design: Phase three of the systems life cycle, consisting of
+designing alternative systems, selecting the best system, and writing a
+systems design report.
+Systems design report: Report prepared for higher management describing
+alternative designs, presenting costs versus benefits, and outlining the
+effects of alternative designs on the organization.
+Systems development: Phase four of the systems life cycle, consisting of
+developing software, acquiring hardware, and testing the new system.
+Systems implementation: Phase five of the systems life cycle is
+converting the old system to the new one and training people to use the new
+system. Also known as conversion.
+reset page 881
+-------------------------------------------- 分页分隔 --------------------------------------------
+Systems life cycle: The six phases of systems analysis and design are
+called the systems life cycle. The phases are preliminary investigation,
+systems analysis, systems design, systems development, systems
+implementation, and systems maintenance.
+Systems maintenance: Phase six of the systems life cycle, consisting of a
+systems audit and periodic evaluation.
+t
+T1: High-speed lines that support all digital communications, provide very
+high capacity, and are very expensive.
+T3: Copper lines combined to form higher-capacity options.
+Tab: Used to divide the ribbon into major activity areas, with each tab
+being organized into groups that contain related items.
+Table (in database): The list of records in a database. Tables make up
+the basic structure of a database. Their columns display field data and
+their rows display records. See also Field and Record.
+Tablet: A type of personal computer that contains a thin system unit, most
+of which is the monitor.
+Tablet computer: See Tablet.
+Tactical model: A decision model that assists middle-level managers to
+control the work of the organization, such as financial planning and sales
+promotion planning.
+Task-oriented language: Programming language that is nonprocedural and
+focuses on specifying what the program is to accomplish. Also known as 4GL
+or very high level language.
+Technical feasibility: Making sure hardware, software, and training will
+be available to facilitate the design of a new system.
+Technical writer: Prepares instruction manuals, technical reports, and
+other scientific or technical documents.
+Telephone line: A transmission medium for both voice and data.
+Temporary Internet file: File that has web page content and instructions
+for displaying this content.
+Text messaging (texting): The process of sending a short electronic
+message, typically fewer than 160 characters, using a wireless network to
+another person who views the message on a mobile device, such as a
+smartphone.
+Thermal printer: Printer that uses heat elements to produce images on
+heat-sensitive paper.
+reset page 882
+-------------------------------------------- 分页分隔 --------------------------------------------
+Third-generation language (3GL): See Procedural language.
+Third-party cookie: A cookie generated by an advertising company that is
+affiliated with the website you are currently visiting. Often also referred
+to as a tracking cookie.
+Thunderbolt 3: A specialty port for high-speed connections to up to seven
+separate devices connected one to another.
+Toggle key: These keys turn a feature on or off, like the Caps Lock key.
+Toolbar: Bar located typically below the menu bar containing icons or
+graphical representations for commonly used commands.
+Top-down analysis method: Method used to identify top-level components
+of a system, then break these components down into smaller parts for
+analysis.
+Top-down program design: Used to identify the program’s processing
+steps, called program modules. The program must pass in sequence from one
+module to the next until the computer has processed all modules.
+Top-level domain (TLD): Last part of an Internet address; identifies the
+geographic description or organizational identification. For example, using
+www.aol.com, the .com is the top-level domain code and indicates it is a
+commercial site. See also Domain name.
+page 380
+Top-level manager: Top-level managers are concerned with long-range
+(strategic) planning. They supervise middle management.
+Topology: The configuration of a network. The five principal network
+topologies are ring, bus, star, tree, and mesh.
+Touch pad: Used to control the pointer by moving and tapping your finger
+on the surface of a pad.
+Touch screen: Monitor screen allowing actions or commands to be entered by
+the touch of a finger.
+Tower computer: A desktop system unit placed vertically.
+Tower unit: See Tower computer.
+Track: Closed, concentric ring on a disk on which data is recorded. Each
+track is divided into sections called sectors.
+Tracking cookie: See Third-party cookie.
+Traditional keyboard: Full-sized, rigid, rectangular keyboard that
+includes function, navigational, and numeric keys.
+Transaction processing system (TPS): System that records day-to-day
+transactions, such as customer orders, bills, inventory levels, and
+reset page 883
+-------------------------------------------- 分页分隔 --------------------------------------------
+production output. The TPS tracks operations and creates databases.
+Transfer rate: Or transfer speed, is the speed at which modems transmit
+data, typically measured in bits per second (bps).
+Transmission control protocol/Internet protocol (TCP/IP):
+TCP/IP is the standard protocol for the Internet. The essential features of
+this protocol involve (1) identifying sending and receiving devices and (2)
+reformatting information for transmission across the Internet.
+Tree network: Also known as a hierarchical network. A topology in which
+each device is connected to a central node, either directly or through one
+or more other devices. The central node is then connected to two or more
+subordinate nodes that in turn are connected to other subordinate nodes, and
+so forth, forming a treelike structure.
+Trojan horse: Program that is not a virus but is a carrier of virus(es).
+The most common Trojan horses appear as free computer games, screen savers,
+or antivirus programs. Once downloaded, they locate and disable existing
+virus protection and then deposit the virus.
+Troubleshooting program: A utility program that recognizes and corrects
+computer-related problems before they become serious. Also called diagnostic
+program.
+Tweet: A twitter message.
+Twisted-pair cable: Cable consisting of pairs of copper wire that are
+twisted together.
+Twitter: The most popular microblogging site that enables you to add new
+content from your browser, instant messaging application, or even a mobile
+phone.
+Two-factor authentication: A type of authentication that requires two
+types (or factors) of data to verify a user’s identity.
+Two-in-one laptop: Laptop that includes a touch screen and the ability to
+fold flat like a tablet computer. It offers the advantages of a laptop with
+the convenience of a tablet.
+Two-step authentication: A type of authentication that uses one type of
+authentication twice.
+u
+Ultra HD Blu-rays (UHD BD): Blu-ray discs that are able to play back 4K
+video content and store up to 100 GB of data.
+Ultrabook: A very portable laptop that is lighter and thinner with a
+longer battery life than other laptops.
+Ultraportable: See Ultrabook.
+reset page 884
+-------------------------------------------- 分页分隔 --------------------------------------------
+Unicode: A 16-bit code designed to support international languages, like
+Chinese and Japanese.
+Uniform resource locator (URL): For browsers to connect you to
+resources on the web, the location or address of the resources must be
+specified. These addresses are called URLs.
+Universal product code (UPC): A bar code system that identifies the
+product to the computer, which has a description and the latest price for
+the product.
+Universal serial bus (USB): Combines with a PCI bus on the system board
+to support several external devices without inserting cards for each device.
+USB buses are used to support high-speed scanners, printers, and video-
+capturing devices.
+Universal serial bus—A (USB-A): The type of USB found on most laptops
+and desktops.
+Universal serial bus—B (USB-B): The type of USB found on most
+peripherals.
+Universal serial bus—C (USB-C): The newest USB type, expected to
+replace both USB types A and B.
+Universal serial bus (USB) port: These ports have replaced serial and
+parallel ports. They are faster, and one USB port can be used to connect
+several devices to the system unit.
+UNIX: An operating system originally developed for midrange computers. It
+is now important because it can run on many of the more powerful personal
+computers.
+Unmanned aerial vehicle (UAV): See Drone.
+Uplink: To send data to a satellite.
+Uploading: Process of transferring information from the computer the user
+is operating to a remote computer.
+USB flash drive: The size of a key chain, these hard drives connect to a
+computer’s USB port enabling a transfer of files.
+User: Any individual who uses a computer. See also End user.
+User interface: Means by which users interact with application programs
+and hardware. A window is displayed with information for the user to enter
+or choose, and that is how users communicate with the program.
+Utility: Performs specific tasks related to managing computer resources or
+files. Norton Utility for virus control and system maintenance is a good
+example of a utility. Also known as service programs.
+Utility suite: A program that combines several utilities in one package to
+improve system performance.
+reset page 885
+-------------------------------------------- 分页分隔 --------------------------------------------
+v
+Vector illustration: See Vector image.
+Vector image: Graphics file made up of a collection of objects such as
+lines, rectangles, and ovals. Vector images are more flexible than bitmaps
+because they are defined by mathematical equations so they can be stretched
+and resized. Illustration programs create and manipulate vector
+page 381
+graphics. Also known as vector illustrations.
+Very high level languages: Task-oriented languages that require little
+special training on the part of the user.
+Video editor: Program for editing videos to enhance their quality and
+appearance.
+Video game design software: Program for organizing and providing
+guidance for the entire game design process, including character development
+and environmental design.
+Videoconferencing system: Computer system that allows people located at
+various geographic locations to have in-person meetings.
+Virtual assistant: A utility that accepts commands through text or speech
+to allow intuitive interaction with your computer, cell phone, or tablet and
+coordinates personal data across multiple applications.
+Virtual keyboard: Displays an image of a keyboard on a touch-screen
+device. The screen functions as the actual input device, which is why the
+keyboard is considered virtual.
+Virtual machine: A software implementation of a computer that executes
+programs like a physical computer.
+Virtual memory: Feature of an operating system that increases the amount
+of memory available to run programs. With large programs, parts are stored
+on a secondary device like your hard disk. Then each part is read in RAM
+only when needed.
+Virtual private network (VPN): Creates a secure private connection
+between a remote user and an organization’s internal network. Special VPN
+protocols create the equivalent of a dedicated line between a user’s home
+or laptop computer and a company server.
+Virtual reality (VR): Interactive sensory equipment (head-mounted display
+and controller) allowing users to experience alternative realities generated
+in 3D by a computer, thus imitating the physical world.
+Virtualization: A process that allows a single physical computer to
+support multiple operating systems that operate independently.
+Virtualization software: Software that creates virtual machines.
+Virus: Hidden instructions that migrate through networks and operating
+systems and become embedded in different programs. They may be designed to
+reset page 886
+-------------------------------------------- 分页分隔 --------------------------------------------
+destroy data or simply to display messages.
+Voice assist tools: Operating system program that provides a visual way
+to interact with application programs and computer hardware and allows users
+to directly issue commands.
+Voice recognition system: Using a microphone, sound card, and specialty
+software, the user can operate a computer and create documents using voice
+commands.
+Voiceband: Bandwidth of a standard telephone line. Also known as low
+bandwidth.
+VR: See Virtual reality.
+VR controller: Device that provides input to a virtual reality environment
+about a user’s hand movements.
+VR head-mounted display: Interactive sensory equipment that collects
+data from embedded earphones and three-dimensional stereoscopic screens worn
+on the head.
+w
+WAN: See Wide area network.
+Wand reader: Special-purpose handheld device used to read OCR characters.
+Warm boot: Restarting your computer while the computer is already on and
+the power is not turned off.
+Wearable computer: See Wearable device.
+Wearable device: A type of mobile computer such as Apple’s Watch that
+contains an embedded computer chip. Also known as a smartwatch.
+Web: Prior to the introduction of the web in 1992, the Internet was all
+text. The web made it possible to provide a multimedia interface that
+includes graphics, animations, sound, and video.
+Web 1.0: The first generation of the web, which focused on linking
+existing information.
+Web 2.0: The second generation of the web, which evolved to support more
+dynamic content creation and social interaction.
+Web 3.0: The third generation of the web, which focuses on computer-
+generated information requiring less human interaction to locate and to
+integrate information.
+Web 4.0: The fourth generation of the web, which uses mobile devices to
+gather data and seamlessly inform and respond to the user’s needs.
+reset page 887
+-------------------------------------------- 分页分隔 --------------------------------------------
+Web 5.0: The fifth generation of the web, which focuses on programs that
+can recognize and respond to a user’s emotional state.
+Web auction: Similar to traditional auctions except that all transactions
+occur over the web; buyers and sellers seldom meet face to face.
+Web authoring: Creating a website.
+Web authoring program: Word processing program for generating web pages.
+Also called HTML editor or web page editor. Widely used web authoring
+programs include Adobe Dreamweaver and Microsoft FrontPage.
+Web-based e-mail system: An e-mail system that does not require an e-
+mail program to be installed on your computer.
+Web-based file transfer services: A type of file transfer service that
+uses a web browser to upload and download files, allowing you to copy files
+to and from your computer across the Internet.
+Web bug: Program hidden in the HTML code for a web page or e-mail message
+as a graphical image. Web bugs can migrate whenever a user visits a website
+containing a web bug or opens infected e-mail. They collect information on
+the users and report back to a predefined server.
+Web developer: Develops and maintains websites and web resources.
+Web page: Browsers interpret HTML documents to display web pages.
+Web page editor: See Web authoring program.
+Web suffix: Identifies type of organization in a URL.
+Web utilities: Specialized utility programs making the Internet and the
+web easier and safer. Some examples are plug-ins that operate as part of a
+browser and filters that block access and monitor use of selected websites.
+page 382
+Webcam: Specialized digital video camera for capturing images and
+broadcasting to the Internet.
+Webmail: E-mail that uses a webmail client.
+Webmail client: A special program that runs on an e-mail provider’s
+computer that supports webmail.
+Wheel button: Some mice have a wheel button that can be rotated to scroll
+through information displayed on the monitor.
+Wi-Fi (wireless fidelity): Wireless standard also known as 802.11, used
+to connect computers to each other and to the Internet.
+Wide area network (WAN): Countrywide and worldwide networks that use
+microwave relays and satellites to reach users over long distances.
+reset page 888
+-------------------------------------------- 分页分隔 --------------------------------------------
+Wiki: A website that allows people to fill in missing information or
+correct inaccuracies on it by directly editing the pages.
+Wikipedia: An online encyclopedia, written and edited by anyone who wants
+to contribute.
+WiMax (Worldwide Interoperability for Microwave Access): Technology
+that extends Wi-Fi networks to operate over greater distances.
+Window: A rectangular area containing a document or message.
+Windows: An operating environment extending the capability of DOS.
+Windows 11: OS announced in 2021 that includes significant changes to the
+graphical user interface for a simplified and unified experience for tablet,
+desktop, and two-in-one devices. It introduced the ability to run Android
+apps from the Windows environment.
+Wireless access point: Or base station. The receiver interprets incoming
+radio frequencies from a wireless LAN and routes communications to the
+appropriate devices, which could be separate computers, a shared printer, or
+a modem.
+Wireless charging platform: Recharging device for laptops, tablets, and
+wearable computers that does not require a connecting cable.
+Wireless communication: The revolutionary way we now communicate on
+devices like tablets, smartphones, and wearable devices.
+Wireless LAN (WLAN): Uses radio frequencies to connect computers and
+other devices. All communications pass through the network’s centrally
+located wireless receiver or base station and are routed to the appropriate
+devices.
+Wireless modem: Typically a small plug-in USB or ExpressCard device that
+provides very portable high-speed connectivity from virtually anywhere.
+Wireless mouse: See Cordless mouse.
+Wireless network card: Allows computers to be connected without cables.
+Wireless network encryption: Restricts access to authorized users on
+wireless networks.
+Wireless revolution: A revolution that is expected to dramatically affect
+the way we communicate and use computer technology.
+Wireless wide area network (WWAN) modem: See Wireless modem.
+Word: The number of bits (such as 16, 32, or 64) that can be accessed at
+one time by the CPU.
+Word processor: The computer and the program that allow you to create,
+edit, save, and print documents composed of text.
+Worksheet file: Created by electronic spreadsheets to analyze things like
+budgets and to predict sales.
+reset page 889
+-------------------------------------------- 分页分隔 --------------------------------------------

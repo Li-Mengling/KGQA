@@ -1,0 +1,1532 @@
+
+page 108
+The System Unit
+chapter
+5
+jamesteohart/Shutterstock
+reset page 283
+-------------------------------------------- 分页分隔 --------------------------------------------
+page 109
+Why should I read this chapter?
+System units are getting smaller, faster, cheaper, and more powerful.
+These staggering improvements are resulting in microchips integrating
+with all aspects of our lives. For example, in the future we will see
+everything from microchips embedded in the brain that improve mental
+capacity to sensors that can literally read your mind.
+Elnur/Shutterstock
+This chapter covers the things you need to know to be prepared for
+this ever-changing digital world, including:
+Types of computers—learn the strengths and weaknesses of cell phones,
+tablets, laptops, desktops, and wearable computers.
+Computer components—understand the impact microprocessors and memory
+have on the power of a computer.
+Peripherals and upgrades—expand your computer’s abilities and speed.
+Learning Objectives
+After you have read this chapter, you should be able to:
+1. Differentiate among the five basic types of system
+units.
+reset page 284
+-------------------------------------------- 分页分隔 --------------------------------------------
+2. Describe system boards, including sockets, slots, and
+bus lines.
+3. Recognize different microprocessors, including
+microprocessor chips and specialty processors.
+4. Compare different types of computer memory, including
+RAM, ROM, and flash memory.
+5. Explain expansion cards and slots.
+6. Describe bus lines, bus widths, and expansion buses.
+7. Describe ports, including standard and specialized
+ports.
+8. Identify power supplies for cell phones, tablets,
+laptops, and desktops.
+9. Explain how a computer can represent numbers and encode
+characters electronically.
+page 110
+Introduction
+“Hi,
+I’m Liz, and I’m a computer technician. I’d like to
+talk with you about the different types of system units for
+personal computers. I’d also like to talk about various
+electronic components that make your computer work.”
+reset page 285
+-------------------------------------------- 分页分隔 --------------------------------------------
+ESB Professional/Shutterstock
+When choosing a new cell phone, how can you tell which is the more
+powerful device? A device’s power lies in its speed, capacity, and
+flexibility—all qualities determined by a device’s system unit. Every
+computer has a system unit—from cell phones to laptops and desktops. In
+learning about the system unit, you will be prepared to make a smart
+choice on your next cell phone upgrade, tablet purchase, or even a laptop
+or desktop purchase. (The Computer Buyer’s Guide at the end of this book
+provides additional information on purchasing the right desktop or laptop
+for your needs.)
+Sometime you may get the chance to watch when a technician opens up a
+personal computer. You will see that it is basically a collection of
+electronic circuitry. Although there is no need to understand how all
+these components work, it is important to understand the principles. Armed
+with this knowledge, you will be able to confidently make sound purchasing
+and upgrading decisions.
+To efficiently and effectively use computers, you need to understand
+the functionality of the basic components in the system unit, including
+the system board, microprocessor, memory, expansion slots and cards, bus
+lines, ports, cables, and power supply units.
+System Unit
+The system unit, also known as the system chassis, is a
+container that houses most of the electronic components that
+make up a computer system. Some system units are located in a
+separate case, whereas others share a case with other parts
+of the computer system.
+reset page 286
+-------------------------------------------- 分页分隔 --------------------------------------------
+As we have previously discussed, a personal computer is
+the most widely used type of computer. It is the most
+affordable and is designed to be operated directly by an end
+user. The five most common types are cell phones, tablets,
+laptops, desktops, and wearable computers. Each has a unique
+type of system unit.
+ethics
+Many of the electronic devices purchased in the United States are
+manufactured in other countries. Some of these manufacturers pay
+extremely low wages, have unsafe or unacceptable work conditions, and
+pollute the environment. Do you think that consumers have an ethical
+responsibility regarding where and/or how products are manufactured?
+Smartphones
+As we discussed in Chapter 1, almost everyone has a cell
+phone, and almost every cell phone is a smartphone.
+Smartphones are the most popular type of personal computer.
+They are effectively a thin slab that is almost all monitor,
+with the system unit, secondary storage, and all electronic
+components located behind the monitor. Designed to
+comfortably fit into the palm of one hand and accept finger
+touches on the monitor as the primary input, cell phones have
+become the indispensable handheld computer. (See Figure 5-1.)
+reset page 287
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 5-1 Cell phone
+DenPhotos/Shutterstock
+Tablets
+Tablets, also known as tablet computers, are very similar to
+cell phones, although tablets are larger, heavier, and
+generally more powerful. Also, a tablet is not designed to be
+used as a phone and, typically, cannot be connected to phone
+networks. Tablets come in a range of styles and sizes, with
+the smallest tablets (called mini tablets) being just a
+little larger than the largest cell phones. (See Figure 5-2.)
+page 111
+Figure 5-2 Mini tablet
+guteksk7/Shutterstock
+Laptops
+Like cell phones and tablets, laptops have their system units
+housed with selected secondary storage and input devices.
+Laptops, however, are larger and more powerful. Their larger
+monitor is separate from the rest of the computer and
+attached to the system unit with a hinge. Unlike cell phones
+and tablets, most laptops do not accept input by touching the
+reset page 288
+-------------------------------------------- 分页分隔 --------------------------------------------
+screen. Rather, laptops typically use an attached keyboard
+and a mouse as the primary input devices.
+There are several specialized laptops with features that
+make them unique. Some of them are
+Two-in-one laptops, which include a touch screen and the
+ability to fold flat like a tablet computer. These laptops
+offer the advantages of a laptop with the convenience of a
+tablet. (See Figure 5-3.)
+Gaming laptops, which include high-end graphics hardware
+and very fast processors. As laptops have become more
+powerful, gaming laptops have become a favorite, primarily
+due to their portability. To learn more about specialized
+gaming computers, see the Making IT Work for You: Gaming on
+pages 112 and 113.
+Ultrabooks, also known as ultraportables or mini
+notebooks, are lighter and thinner with longer battery life
+than most laptops. They accomplish these advantages by
+leaving out components such as optical drives and using
+energy-efficient microprocessors. (See Figure 5-4.)
+Figure 5-3 Two-in-one laptop
+Andrey_Popov/Shutterstock
+reset page 289
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 5-4 Ultrabook
+Lukmanazis/Shutterstock
+Desktops
+Desktops are the most powerful type of personal computer.
+Like cell phones and tablets, some desktop computers, like
+Apple’s iMac, have their monitor and system unit housed
+together in the same case. These computers are known as all-
+in-one desktops. (See Figure 5-5.)
+Figure 5-5 All-in-one desktop
+Luxon Portfolio/Shutterstock
+However, most desktops have their system unit in a
+separate case. This case contains the system’s electronic
+components and selected secondary storage devices. Input and
+output devices, such as a mouse, keyboard, and monitor, are
+located outside the system unit. This type of system unit is
+designed to be placed either horizontally or vertically.
+reset page 290
+-------------------------------------------- 分页分隔 --------------------------------------------
+Desktop system units that are placed vertically are sometimes
+referred to as a tower unit or tower computer. (See Figure
+5-6.)
+Figure 5-6 Tower unit
+Kateryna998/Shutterstock
+page 112
+Making IT work for you
+GAMING
+Would you like to spend less time bored and more time
+playing games with friends? Would you like to turn a
+simple walk into a sci-fi shoot out or an evening in front
+of the TV into an adventure through the Middle Ages? Video
+games can turn the mundane into the magical, and with so
+many game styles and gaming devices, there is a video game
+for every interest and budget.
+Mobile Gaming You may already own one of the most popular gaming
+devices on the planet—a cell phone. As cell phones have gained powerful
+hardware, better screens, and faster Internet connections, they have
+become the most popular gaming device. Here are three things you should
+know about mobile gaming.
+reset page 291
+-------------------------------------------- 分页分隔 --------------------------------------------
+Casual gaming—Mobile games are often designed to be “casual
+games,” meaning the games are easy to pick up and play in short
+bursts. This is ideal for someone who wants to play for a few minutes
+while waiting in line or taking a break from work. Popular examples of
+casual gaming are Super Mario Run and Candy Crush.
+Augmented reality—More sophisticated mobile games use the mobile
+device’s GPS and camera to create “augmented reality” multiplayer
+games, where the game’s graphics are a mixture of video images from
+the phone’s camera and fantasy elements in the game realm. Examples
+of these games are Pokémon Go and Google’s Ingress Prime.
+Hidden costs—A final word of caution on mobile games: Many are free
+to play, but there may be hidden costs you should be aware of. Some
+games require high data usage that can rack up charges on your phone
+bill, and some may try to access personal information on your phone
+that you don’t intend to share. Be aware of your data usage, read any
+fine print, and exercise caution when a game asks for credit card
+information or permission to access data on your phone.
+Minecraft and other mobile games are designed to take advantage of cell
+phone and tablet interfaces.
+enchanted_fairy/Shutterstock
+Console Gaming The most popular video game hardware isn’t a desktop
+or laptop computer. It is a specialized computer called a gaming console.
+Consoles have specialized hardware that produce high-quality graphics and
+sound and are designed to take advantage of TVs and home theaters. They
+provide wireless controllers for playing from the living room couch and
+HDMI ports to support standard TV resolutions and sound configurations.
+Also, because consoles are standardized and popular, they often have
+large libraries of games to choose from.
+reset page 292
+-------------------------------------------- 分页分隔 --------------------------------------------
+The three most popular consoles are Nintendo Switch, Microsoft Xbox
+Series X and S, and the Sony PlayStation 5. If you are looking for an
+immersive video game that goes beyond the casual gamer experience,
+consoles offer great performance at a reasonable price with excellent
+online features and gaming libraries. Here are a few things to consider
+when deciding what console to purchase:
+Friends—If you want to play online games with your friends, you will
+need to get the same console that your friends have. If you want to
+play games when friends come over to visit, Nintendo offers many of
+the most innovative cooperative games with an emphasis on party games
+meant to be played together simultaneously.
+Input devices—Each console has its own controllers, with page 113
+different strengths and weaknesses. Nintendo offers motion-
+control controllers that use hand gestures to play games, Sony has a
+virtual reality headset, and Microsoft has a sophisticated set of
+cameras that can record body position and motion.
+Games—Although many games are offered across all consoles, some are
+exclusive to only one console. Further, each console has types of
+games that they are best known for. Nintendo, for example, tends to
+attract more casual and family-friendly gamers, whereas the Xbox is
+famous for its intense online competition. Look for a console with a
+catalog of games that appeal to you.
+Sony’s PlayStation VR with PS VR headset. Each console has its own
+unique input/output devices.
+Boumen Japet/Shutterstock
+PC Gaming While mobile devices and console systems are the most common
+and popular gaming devices, gaming desktops and laptops offer
+unparalleled experiences that attract video games’ biggest fans. Gaming
+reset page 293
+-------------------------------------------- 分页分隔 --------------------------------------------
+PCs offer the highest degree of customizability, with specialized
+graphics cards and input devices. Although an entry-level gaming desktop
+isn’t much more expensive than a typical desktop, the price can quickly
+escalate as you approach the cutting edge of graphics and sound
+technology. Here are some things to consider before buying a gaming PC:
+Indy games—Beyond offering the highest-quality video game
+experience, gaming PCs also have access to niche and independent
+(indy) video game developers, who cannot easily release games on
+consoles or mobile devices.
+Upgrades—Desktop PCs allow the computer hobbyist to upgrade hardware
+as technology improves. Gamers who are willing to open up their
+computer and replace parts can keep their gaming PC playing the newest
+games without having to buy a whole new computer.
+Compatibility—The fact that PC hardware is so customizable can make
+it difficult to be sure that the game you purchase is compatible with
+your PC configuration. PC gamers must know their system specifications
+when buying video games to be sure that the game will run on their
+system.
+A powerful gaming PC includes specialized hardware for running high-
+performance graphics.
+Gorodenkoff/Shutterstock
+page 114
+Wearable Computers
+reset page 294
+-------------------------------------------- 分页分隔 --------------------------------------------
+Wearable computers, also known as wearable devices, are one
+of the first evolutionary steps to the Internet of Things
+(IoT), as discussed in Chapter 2. These devices contain an
+embedded computer on a chip that is typically much smaller
+and less powerful than a cell phone’s. The most common
+wearable computers are smartwatches and activity trackers.
+(See Figure 5-7.)
+Smartwatches like Apple’s Watch. This device acts as a
+watch, fitness monitor, and communication device. For
+example, the Apple Watch connects to an iPhone to display
+e-mails, text messages, and calendar reminders on the
+user’s wrist.
+Activity trackers like Garmin Vivoactive 4. This device
+monitors daily exercise and sleep patterns. It also
+connects wirelessly to desktops, laptops, and smartphones
+to record and share data.
+Figure 5-7 Smartwatch
+reset page 295
+-------------------------------------------- 分页分隔 --------------------------------------------
+borchee/Getty Images
+Components
+Personal computers come in a variety of different sizes,
+shapes, and capabilities. Although they look different and
+each has its own unique features, they share surprisingly
+similar components, including system boards, microprocessors,
+and memory. (See Figure 5-8.)
+Figure 5-8 System unit components
+reset page 296
+-------------------------------------------- 分页分隔 --------------------------------------------
+Cell phone: Glevalex/Shutterstock; Tablet: Reprinted with permission from
+iFixit.; Wearable: Ivan Marc Sanchez/Alamy Stock Photo; Laptop: Raw
+Group/Shutterstock; Desktop: Godfried Edelman/iStock/Getty Images
+page 115
+concept check
+What is the system unit?
+Describe and compare the five most common types of personal computers.
+What is an ultrabook? What is an all-in-one? What is a tower unit?
+What is a mini tablet?
+System Board
+The system board is also known as the mainboard or
+motherboard. The system board controls communications for the
+entire computer system. All devices and components connect to
+the system board, including external devices like keyboards
+and monitors and internal components like hard drives drives
+and microprocessors. The system board acts as a data path and
+traffic monitor, allowing the various components to
+communicate efficiently with one another.
+For cell phones, tablets, and wearable computers, the
+system board is located behind the screen. For laptops and
+desktops, the system board is typically located at the bottom
+of the system unit or along one side. It is a flat circuit
+board covered with a variety of different electronic
+components, including sockets, slots, and bus lines. (See
+Figure 5-9.)
+Sockets provide a connection point for small specialized
+electronic parts called chips. Chips consist of tiny
+circuit boards etched onto squares of sandlike material
+reset page 297
+-------------------------------------------- 分页分隔 --------------------------------------------
+called silicon. These circuit boards can be smaller than
+the tip of your finger. (See Figure 5-10.) A chip is also
+called a silicon chip, semiconductor, or integrated
+circuit. Chips typically are mounted onto chip carriers.
+(See Figure 5-11.) These carriers plug either directly into
+sockets on the system board or onto cards that are then
+plugged into slots on the system board. Sockets are used to
+connect the system board to a variety of different types of
+chips, including the microprocessor and memory chips.
+Slots provide a connection point for specialized cards or
+circuit boards. These cards provide expansion capability
+for a computer system. For example, a wireless networking
+card plugs into a slot on the system board to provide a
+connection to a local area network.
+Connecting lines called bus lines provide pathways that
+support communication among the various electronic
+components that are either located on the system board or
+attached to the system board.
+Figure 5-9 Desktop system board
+Volodymyr Krasyuk/Shutterstock
+page 116
+reset page 298
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 5-10 Chip
+Szasz-Fabian Jozsef/Shutterstock
+Figure 5-11 Chip mounted onto a chip carrier
+ktsdesign/Shutterstock
+community
+Many electronics contain toxic materials, such as lead, mercury, and
+chromium. If not disposed of properly, these materials can leak into
+our water supply, get released into our air, or leach into our soil.
+First, consider donating them to various charitable organizations that
+work with local schools and low-income families. Otherwise, recycling
+electronics allows us to get rid of old devices and keep our community
+safe. Many computer retailers near you accept used devices and
+components for recycling, even if they are broken. Alternatively, visit
+reset page 299
+-------------------------------------------- 分页分隔 --------------------------------------------
+the website of your local government to find the electronics recycling
+center nearest you.
+Generally, the system board found on a desktop is larger
+than that found on a laptop, and much larger than one found
+on a tablet, cell phone, or wearable computer. Although these
+system boards vary in size, speed, power, and versatility,
+they nevertheless all perform the same function of
+communicating between the components of the personal
+computer.
+concept check
+What is the system board, and what does it do?
+Define and describe sockets, slots, and bus lines.
+What are chips? How are chips attached to the system board?
+Microprocessor
+In most personal computer systems, the central processing
+unit (CPU) or processor is contained on a single chip called
+the microprocessor. The microprocessor is the “brains” of
+the computer system. It has two basic components: the control
+unit and the arithmetic-logic unit.
+Control unit: The control unit tells the rest of the
+computer system how to carry out a program’s instructions.
+It directs the movement of electronic signals between
+memory, which temporarily holds data, instructions, and
+processed information, and the arithmetic-logic unit. It
+also directs these control signals between the CPU and
+input and output devices.
+reset page 300
+-------------------------------------------- 分页分隔 --------------------------------------------
+Arithmetic-logic unit: The arithmetic-logic unit, usually
+called the ALU, performs two types of operations:
+arithmetic and logical. Arithmetic operations are the
+fundamental math operations: addition, subtraction,
+multiplication, and division. Logical operations consist of
+comparisons such as whether one item is equal to (=), less
+than (<), or greater than (>) the other.
+Microprocessor Chips
+Microprocessors are an important part of any computing device
+and are tailored to the needs of the device it serves. There
+are two major categories of microprocessors developed today:
+mobile and desktop. Mobile processors are used in cell phones
+and tablets and try to strike a balance between the page 117
+processing power of the processor and the power the
+processor draws from the mobile device’s battery. See Figure
+5-12 for a listing of popular mobile processors. Desktop
+processors are used in laptops and desktops. These processors
+are less concerned with the energy use of the processor and
+are more powerful than mobile processors. See Figure 5-13 for
+a listing of popular desktop processors. Chip processing
+capacities are often expressed in word sizes. A word is the
+number of bits (such as 32 or 64) that can be accessed at one
+time by the CPU. The more bits in a word, the more data a
+computer can process at one time. Eight bits group together
+to form a byte. A 32-bit-word computer can access 4 bytes at
+a time. A 64-bit-word computer can access 8 bytes at a time.
+Therefore, the computer designed to process 64-bit words has
+greater processing capacity. Other factors affect a
+computer’s processing capability, including how fast it can
+process data and instructions.
+Processor Manufacturer
+A14 Bionic Apple
+Snapdragon Qualcomm
+reset page 301
+-------------------------------------------- 分页分隔 --------------------------------------------
+888
+Exynos Samsung
+2100
+Figure 5-12 Popular Mobile Microprocessors
+Processor Manufacturer
+Ryzen 5000 AMD
+M1 Apple
+Alder Lake Intel
+Figure 5-13 Popular desktop microprocessors
+The processing speed of a microprocessor is typically
+represented by its clock speed, which is related to the
+number of times the CPU can fetch and process data or
+instructions in a second. Older personal computers typically
+process data and instructions in millionths of a second, or
+microseconds. Newer personal computers are much faster and
+process data and instructions in billionths of a second, or
+nanoseconds. Supercomputers, by contrast, operate at speeds
+measured in picoseconds—1,000 times as fast as personal
+computers. In the near future, we can expect processor speeds
+to be 1,000 times faster than that, operating at speeds
+measured in femtoseconds. (See Figure 5-14.) Logically, the
+higher a microprocessor’s clock speed, the faster the
+microprocessor. However, some processors can handle multiple
+instructions per cycle or tick of the clock; this means that
+clock speed comparisons can only be made between processors
+that work the same way.
+Unit Speed
+Microsecond Millionth of a second
+Nanosecond Billionth of a second
+reset page 302
+-------------------------------------------- 分页分隔 --------------------------------------------
+Picosecond Trillionth of a second
+Femtosecond Quadrillionth of a
+second
+Figure 5-14 Processing speeds
+At one time, personal computers were limited by
+microprocessors that could support a single CPU that
+controlled operations. These computers were limited to
+processing one program at a time. Now, many personal
+computers have multicore processors that can provide two or
+more separate and independent CPUs. For example, a quad-core
+processor could have one core computing a complex Excel
+spreadsheet, a second core creating a report using Word, a
+third core locating a record using Access, and a fourth core
+running a multimedia presentation—all at the same time. More
+significantly, however, is the potential for personal
+computers to run very large, complex programs that previously
+required expensive and specialized hardware.
+For multicore processors to be used effectively, computers
+must understand how to divide tasks into parts that can be
+distributed across each core—an operation called parallel
+processing. Operating systems such as Windows 11 and macOS
+Big Sur support parallel processing. Software developers use
+this technology for a wide range of applications from
+scientific programs to sophisticated computer games.
+Specialty Processors
+In addition to microprocessor chips, a variety of more
+specialized processing chips have been developed and are
+widely used. For example, many cars have more than 100
+separate specialty processors to control nearly everything
+from fuel efficiency to satellite entertainment and tracking
+systems. Coprocessors, one of the more popular specialty
+processors, are specialty chips designed to improve specific
+reset page 303
+-------------------------------------------- 分页分隔 --------------------------------------------
+computing operations. For example, to support fast processing
+of virtual environments, a standard feature in gaming page 118
+computers is a graphics coprocessor known as a GPU
+(graphics processing unit). These processors are designed to
+handle a variety of specialized tasks such as displaying 3D
+images and encrypting data. Most cell phones and tablets have
+specialty processors to efficiently show and store videos.
+privacy
+Did you know that one type of specialty processor is devoted
+exclusively to protecting your privacy? Called cryptoprocessors, these
+microchips perform encoding and decoding of data faster and more
+securely than a CPU. These specialized chips exist in ATMs, TV set-top
+boxes, and payment terminals.
+concept check
+Name and describe the two components of a microprocessor.
+Define word, clock speed, multicore chip, and parallel processing.
+What are specialty processors? Describe coprocessors. What is a GPU?
+Memory
+Memory is a holding area for data, instructions, and
+information. Like microprocessors, memory is contained on
+chips connected to the system board. There are three well-
+known types of memory chips: random-access memory (RAM),
+read-only memory (ROM), and flash memory.
+RAM
+reset page 304
+-------------------------------------------- 分页分隔 --------------------------------------------
+Random-access memory (RAM) chips hold the program (sequence
+of instructions) and data that the CPU is presently
+processing. (See Figure 5-15.) RAM is called temporary or
+volatile storage because everything in most types of RAM is
+lost as soon as the computer is turned off. It is also lost
+if there is a power failure or other disruption of the
+electric current going to the computer.
+Figure 5-15 RAM chips mounted on circuit board
+daniiD/Shutterstock
+Cache (pronounced “cash”) memory improves processing by
+acting as a temporary high-speed holding area between the
+memory and the CPU. The computer detects which information in
+RAM is most frequently used and then copies that information
+into the cache. When needed, the CPU can quickly access the
+information from the cache.
+Having enough RAM is important! For example, to use
+Windows 11, Microsoft recommends that your computer have at
+least 4 GB, or 4 billion bytes, of RAM. Some applications,
+such as photo editing software, may require even more.
+Fortunately, additional RAM can be added to a computer system
+reset page 305
+-------------------------------------------- 分页分隔 --------------------------------------------
+by inserting an expansion module called a DIMM (dual in-line
+memory module) into the system board. The capacity or amount
+of RAM is expressed in bytes. There are three commonly used
+units of measurement to describe memory capacity. (See Figure
+5-16.)
+Unit Capacity
+Megabyte 1 million
+(MB) bytes
+Gigabyte 1 billion
+(GB) bytes
+Terabyte 1 trillion
+(TB) bytes
+Petabyte 1
+(PB) quadrillionbytes
+Figure 5-16 Memory capacity
+Even if your computer does not have enough RAM to hold a
+program, it might be able to run the program using virtual
+memory. With virtual memory, large programs are divided into
+parts, and the parts are stored on a secondary device,
+usually a hard disk. Each part is then read into RAM only
+when needed. In this way, computer systems are able to run
+very large programs.
+ROM
+Read-only memory (ROM) chips have information stored in them
+by the manufacturer. Unlike RAM chips, ROM chips are not
+volatile and cannot be changed by the user. “Read only”
+means that the CPU can read, or retrieve, data and programs
+written on the ROM chip. However, the computer cannot write—
+encode or change—the information or instructions in ROM.
+reset page 306
+-------------------------------------------- 分页分隔 --------------------------------------------
+Not long ago, ROM chips were typically used to contain
+almost all the instructions for basic computer operations.
+For example, ROM instructions are needed to start a computer,
+to access memory, and to handle keyboard input. Recently,
+however, flash memory chips have replaced ROM chips for many
+applications.
+Flash Memory
+Flash memory offers a combination of the features of RAM and
+ROM. Like RAM, it can be updated to store new information.
+Like ROM, it does not lose that information when power to the
+computer system is turned off.
+page 119
+Flash memory is used for a wide range of applications. For
+example, it is used to store the start-up instructions for a
+computer. This information is called the system’s BIOS
+(basic input/output system). This information includes the
+specifics concerning the amount of RAM and the type of
+keyboard, mouse, and secondary storage devices connected to
+the system unit. If changes are made to the computer system,
+these changes are reflected in flash memory.
+See Figure 5-17 for a summary of the three types of
+memory.
+Type Use
+RAM Programs and data
+ROM Fixed start-up
+instructions
+Flash Flexible start-up
+instructions
+Figure 5-17 Memory
+reset page 307
+-------------------------------------------- 分页分隔 --------------------------------------------
+concept check
+What is memory? Name and describe three types.
+What are cache memory, DIMM, and virtual memory?
+Define ROM and flash memory.
+Expansion Cards and Slots
+To meet the size constraints of cell phones, tablets, and
+laptops, fingernail-size expansion cards known as SD cards
+have been developed. These cards plug into expansion slots
+located within many cell phones, tablets, and laptops. (See
+Figure 5-18.)
+Figure 5-18 SD card
+tkyszk/Shutterstock
+As previously mentioned, many personal computers allow
+users to expand their systems by providing expansion slots on
+the system board. Users can insert optional devices known as
+expansion cards into these slots. (See Figure 5-19.) Ports on
+the cards allow cables to be connected from the expansion
+cards to devices outside the system unit. (See Figure 5-20.)
+There are a wide range of different types of expansion cards.
+Some of the most commonly used expansion cards are
+Graphics cards, which provide high-quality 3D graphics and
+animation for games and simulations. While many personal
+reset page 308
+-------------------------------------------- 分页分隔 --------------------------------------------
+computer systems have a GPU connected directly to the
+system board, others connect through a graphics card. This
+card can contain one or more GPU chips and is standard for
+most gaming computers.
+Network interface cards (NIC), also known as network
+adapter cards, are used to connect a computer to a network.
+(See Figure 5-21.) The network allows connected computers
+to share data, programs, and hardware. The network page 120
+adapter card connects the system unit to the
+network via a network cable.
+Wireless network cards allow computers to be connected
+without cables. As we will discuss in Chapter 8, wireless
+networks in the home are widely used to share a common
+Internet connection. Each device on the network is equipped
+with a wireless network card that communicates with the
+other devices.
+Figure 5-19 Expansion cards fit into slots on the system
+board
+Piotr Adamowicz/Shutterstock
+reset page 309
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 5-20 Expansion card with three ports
+anmbph/Shutterstock
+Figure 5-21 Network interface card
+Dudikov Sergey/Shutterstock
+Many computers include graphics and network capabilities
+embedded in the system board, making a graphics or network
+card unnecessary. However, graphics and network technologies
+are advancing quickly, and having an expansion card allows
+users to upgrade their computers to the newest technology
+without having to replace the system board.
+concept check
+reset page 310
+-------------------------------------------- 分页分隔 --------------------------------------------
+List and describe three commonly used expansion cards.
+What are SD cards? How are they used?
+What are expansion slots and cards? What are they used for?
+Bus Lines
+As mentioned earlier, a bus line—also known simply as a bus
+—connects the parts of the CPU to each other. Buses also
+link the CPU to various other components on the system board.
+(See Figure 5-22.) A bus is a pathway for bits representing
+data and instructions. The number of bits that can travel
+simultaneously down a bus is known as the bus width.
+Figure 5-22 Bus is a pathway for bits
+raigvi/Shutterstock
+A bus is similar to a multilane highway that moves bits
+rather than cars from one location to another. The number of
+traffic lanes determines the bus width. A highway (bus line)
+with more traffic lanes (bus width) can move traffic (data
+and instructions) more efficiently. For example, a 64-bit bus
+can move twice as much information at a time as a 32-bit bus.
+Why should you even care about what a bus line is? Because as
+microprocessor chips have changed, so have bus lines. Bus
+design or bus architecture is an important factor relating to
+the speed and power for a particular computer. Additionally,
+reset page 311
+-------------------------------------------- 分页分隔 --------------------------------------------
+many devices, such as expansion cards, will work with only
+one type of bus.
+Every computer system has two basic categories of buses.
+One category, called system buses, connects the CPU to memory
+on the system board. The other category, called expansion
+buses, connects the CPU to other components on the system
+board, including expansion slots.
+Expansion Buses
+Computer systems typically have a combination of different
+types of expansion buses. The principal types are USB,
+FireWire, and PCIe.
+Universal serial bus (USB) is widely used today. External
+USB devices are connected from one to another or to a
+common point or hub and then onto the USB bus. The USB bus
+then connects to the PCI bus on the system board. The
+current USB standard is USB 3.4.
+FireWire buses are similar to USB buses but are more
+specialized. They are used primarily to connect audio and
+video equipment to the system board.
+PCI Express (PCIe) is widely used in many of today’s most
+powerful computers. Unlike most other buses that share a
+single bus line or path with several devices, the PCIe bus
+provides a single dedicated path for each connected device.
+page 121
+concept check
+What is a bus, and what is bus width?
+What is the difference between a system and an expansion bus?
+Discuss three types of expansion buses.
+reset page 312
+-------------------------------------------- 分页分隔 --------------------------------------------
+Ports
+A port is a socket for external devices to connect to the
+system unit. A cell phone typically uses a port to recharge
+its battery. (See Figure 5-23.) Some ports connect directly
+to the system board, while others connect to cards that are
+inserted into slots on the system board. Some ports are
+standard features of most computer systems, and others are
+more specialized. (See Figure 5-24.)
+Figure 5-23 Cell phone port
+PIMPAN/Shutterstock
+Figure 5-24 Ports
+yxm2008/Shutterstock
+Standard Ports
+Most desktop and laptop computers come with a standard set of
+ports for connecting peripherals, or external devices, such
+as a monitor and keyboard. The most common ports are:
+reset page 313
+-------------------------------------------- 分页分隔 --------------------------------------------
+Universal serial bus (USB) ports can be used to connect
+several devices to the system unit and are widely used to
+connect keyboards, mice, printers, storage devices, and a
+variety of specialty devices. A single USB port can be used
+to connect many USB devices to the system unit. There are
+many types of USB ports.
+USB-A is the port found on most laptops and desktops.
+USB-B ports are found on peripheral devices, like digital
+cameras and cell phones.
+USB-C is the newest USB port, found on high-end cell phones
+and laptops. USB-C is faster, smaller, and easier to use
+than previous USB types. Some USB-C ports also support
+Thunderbolt 3, a high-speed version of the USB-C port.
+High Definition Multimedia Interface (HDMI) ports provide
+high-definition video and audio, making it possible to use
+a computer as a video jukebox or an HD video recorder.
+Ethernet ports are a high-speed networking port that has
+become a standard for many of today’s computers. Ethernet
+allows you to connect multiple computers for sharing files,
+or to a DSL or cable modem for high-speed Internet access.
+Specialized Ports
+In addition to standard ports, there are numerous specialty
+ports. The most common include:
+DisplayPorts (DP) are audiovisual ports typically used to
+connect large monitors. They are popular on gaming
+computers with high-end graphics cards.
+DVI (Digital Video Interface) ports connect digital
+monitors to your computer. These ports can only send video
+signals and cannot send audio signals. They can be found
+mainly on desktops.
+FireWire ports provide high-speed connections to
+specialized FireWire devices such as camcorders and storage
+reset page 314
+-------------------------------------------- 分页分隔 --------------------------------------------
+devices.
+page 122
+Cables
+Cables are used to connect exterior devices to the system
+unit via the ports. One end of the cable is attached to the
+device, and the other end has a connector that is attached to
+a matching connector on the port. Standard cables include
+USB, HDMI, Thunderbolt, and Ethernet. (See Figure 5-25.)
+Figure 5-25 Standard cables
+SpicyTruffel/Shutterstock
+Power Supply
+Computers require direct current (DC) to power their
+electronic components and to represent data and instructions.
+DC power can be provided indirectly by converting alternating
+current (AC) from standard wall outlets or directly from
+batteries.
+Most cell phones and tablets are powered directly from
+batteries that are recharged using an AC adapter. These
+adapters plug into standard wall outlets and convert AC to
+DC. With cell phones and tablets, a USB cable often
+reset page 315
+-------------------------------------------- 分页分隔 --------------------------------------------
+connects the AC adapter to the mobile device. Some cell
+phones, however, can use a wireless charging platform,
+eliminating the cable. (See Figure 5-26.) Most tablets,
+mobile devices, and wearable computers can operate only
+using battery power. Their AC adapters or charging
+platforms are only used to recharge batteries.
+Like cell phones and tablets, laptops typically use AC
+adapters that are located outside the system unit. (See
+Figure 5-27.) Unlike cell phones and tablets, these
+computers can be operated either using an AC adapter
+plugged into a wall outlet or using battery power. Their
+batteries typically provide sufficient power for up to
+eight hours before they need to be recharged.
+Desktop computers have a power supply unit located within
+the system unit. (See Figure 5-28.) This unit plugs into a
+standard wall outlet, converts AC to DC, and provides the
+power to drive all of the system unit components.
+page 123
+Unlike cell phones, tablets, or laptops, desktop computers
+do not have batteries and cannot operate unless connected
+to a power source.
+Figure 5-26 Wireless charging platform
+reset page 316
+-------------------------------------------- 分页分隔 --------------------------------------------
+Akkraraj kangrang/Shutterstock
+Figure 5-27 AC adapter
+SNP_SS/Shutterstock
+Figure 5-28 Power supply unit
+hodim/Shutterstock
+tips
+Does your laptop seem to be losing its charge sooner than it
+used to? These batteries do lose power over time; however, you
+can take some steps to slow down the aging process.
+reset page 317
+-------------------------------------------- 分页分隔 --------------------------------------------
+1
+Balance adapter and battery use. The best practice is to use
+the laptop on battery power for a little while without draining it
+completely (20 percent charge, for example), followed by charging
+it back to 100 percent. Modern batteries should not be drained to
+0 percent each day.
+2
+Calibrate it. Your laptop’s manufacturer will recommend that you
+calibrate, or reset, your battery every few months. Follow its
+guidelines on the web or in your instruction manual, as it will
+ensure that the battery meter in your operating system is accurate
+and that you are getting the expected charge time.
+3
+Avoid excessive heat. High temperatures can accelerate the
+deterioration of modern batteries. Therefore, avoid exposure to
+excessive heat and consider purchasing a laptop cooler or fan.
+4
+Proper storage. If you are not going to use your laptop for a few
+weeks, most manufacturers recommend that you remove the battery.
+concept check
+What are ports? What do they do?
+Describe four standard ports and three specialized ports.
+What is a power supply unit? AC adapter? Charging platform?
+Electronic Data and Instructions
+Have you ever wondered why it is said that we live in a
+digital world? It’s because computers cannot recognize
+information the same way you and I can. People follow
+instructions and process data using letters, numbers, and
+special characters. For example, if we wanted someone to add
+the numbers 3 and 5 together and record the answer, we might
+say “please add 3 and 5.” The system unit, however, is
+electronic circuitry and cannot directly process such a
+request.
+reset page 318
+-------------------------------------------- 分页分隔 --------------------------------------------
+Our voices create analog, or continuous, signals that vary
+to represent different tones, pitches, and volume. Computers,
+however, can recognize only digital electronic signals.
+Before any processing can occur within the system unit, a
+conversion must occur from what we understand to what the
+system unit can electronically process.
+Numeric Representation
+What is the most fundamental statement you can make about
+electricity? It is simply this: It can be either on or off.
+Indeed, many forms of technology can make use of this two-
+state on/off, yes/no, present/absent arrangement. For
+instance, a light switch may be on or off, or an electric
+circuit open or closed. A specific location on a tape or disk
+may have a positive charge or a negative charge. This is the
+reason, then, that a two-state or binary system is used to
+represent data and instructions.
+The decimal system that we are all familiar with has 10
+digits (0, 1, 2, 3, 4, 5, 6, 7, 8, 9). The binary system,
+however, consists of only two digits—0 and 1. Each 0 or 1 is
+called a bit—short for binary digit. In the system unit, the
+1 can be represented by a negative charge and the 0 by no
+electric charge. In order to represent numbers, letters, and
+special characters, bits are combined into groups of eight
+called bytes. Whenever you enter a number into a page 124
+computer system, that number must be converted
+into a binary number before it can be processed.
+tips
+Is your cell phone struggling to make it through the day on a
+single charge? Before you replace the battery, consider the
+following suggestions.
+1
+Monitor power usage. Some apps are always running, even when you
+aren’t using your cell phone. To monitor what apps are using the
+reset page 319
+-------------------------------------------- 分页分隔 --------------------------------------------
+most power, check out the power usage features in your mobile OS
+and close the apps you are not using.
+For Android cell phones: Click on the Settings icon from the
+home screen, then choose Device, then Battery or Settings, then
+Power, and finally Battery.
+For iOS cell phones: Click on the Settings icon from the Home
+screen, then choose Battery.
+2
+Reduce screen brightness. One of the greatest drains on your
+cell phone’s battery is the monitor. By reducing screen
+brightness, you can greatly extend your battery life.
+For Android cell phones: Swipe down from the top of the screen
+to display the notification shade and then adjust the
+brightness slider (an icon that looks like a sun) to lower your
+screen brightness.
+For iOS cell phones: Swipe down from the top-right corner of
+the screen to display the control center and then adjust the
+brightness bar (an icon that looks like a sun) to lower your
+screen brightness.
+3
+Reduce background services. When your battery gets low, you can
+set your cell phone to reduce its battery usage by performing
+background processes less frequently.
+For Android: Swipe down from the top of the screen to display
+the notification shade and tap the Battery Saver button.
+For iOS cell phones: Click on the Settings icon from the Home
+screen and choose Battery and tap the Low Power Mode button.
+Any number can be expressed as a binary number. Binary
+numbers, however, are difficult for humans to work with
+because they require so many digits. Instead, binary numbers
+are often represented in a format more readable by humans.
+The hexadecimal system, or hex, uses 16 digits (0, 1, 2, 3,
+4, 5, 6, 7, 8, 9, A, B, C, D, E, F) to represent binary
+numbers. Each hex digit represents four binary digits, and
+two hex digits are commonly used together to represent 1 byte
+(8 binary digits). (See Figure 5-29.) You may have already
+seen hex when selecting a color in a website design or
+drawing application, or when entering the password for access
+to a wireless network.
+reset page 320
+-------------------------------------------- 分页分隔 --------------------------------------------
+Decimal Binary Hex
+00 00000000 00
+01 00000001 01
+02 00000010 02
+03 00000011 03
+04 00000100 04
+05 00000101 05
+06 00000110 06
+07 00000111 07
+08 00001000 08
+09 00001001 09
+10 00001010 0A
+11 00001011 0B
+12 00001100 0C
+13 00001101 0D
+14 00001110 0E
+15 00001111 0F
+Figure 5-29 Numeric representations
+Character Encoding
+As we’ve seen, computers must represent all numbers with the
+binary system internally. What about text? How can a computer
+provide representations of the nonnumeric characters we use
+to communicate, such as the sentence you are reading now? The
+answer is character encoding schemes or standards.
+Character encoding standards assign a unique sequence of
+bits to each character. Historically, personal computers used
+the ASCII (American Standard Code for Information
+Interchange) to represent characters, while mainframe
+reset page 321
+-------------------------------------------- 分页分隔 --------------------------------------------
+computers used EBCDIC (Extended Binary Coded Decimal
+Interchange Code). These schemes were quite effective;
+however, they are limited. ASCII, for example, only uses 7
+bits to represent each character, which means that only 128
+total characters could be represented. This was fine for most
+characters in the English language but was not large enough
+to support other languages such as Chinese and Japanese.
+These languages have too many characters to be represented by
+the 7-bit ASCII code.
+The explosion of the Internet and subsequent globalization
+of computing have led to a new character encoding called
+Unicode. The Unicode standard is the most widely used
+character encoding standard and is recognized by virtually
+every computer system. The first 128 characters are assigned
+the same sequence of bits as ASCII to maintain compatibility
+with older ASCII-formatted information. However, Unicode uses
+a variable number of bits to represent each character, which
+allows non-English characters and special characters to be
+represented. Unicode can be written in UTF-16 or UTF-8. UTF-
+16 is the older Unicode standard, and each character is a
+minimum of 16 bits. The newer standard, UTF-8, can have
+characters as small as 8 bits, making it more efficient than
+UTF-16.
+page 125
+concept check
+What is the difference between an analog and a digital signal?
+What are decimal and binary systems? How are they different?
+Compare EBCDIC, ASCII, and Unicode.
+reset page 322
+-------------------------------------------- 分页分隔 --------------------------------------------
+Careers in IT
+“Now
+that you know about system units, I’d like to tell you
+about my career as a computer technician.”
+ESB Professional/Shutterstock
+Computer technicians repair and install computer
+components and systems. They may work on everything from
+personal computers and mainframe servers to printers. Some
+computer technicians are responsible for setting up and
+maintaining computer networks. Experienced computer
+technicians may work with computer engineers to diagnose
+problems and run routine maintenance on complex systems.
+Job growth is expected in this field as computer equipment
+becomes more complicated and technology expands.
+Employers look for those with certification or an
+associate’s degree in computer repair. Computer
+technicians also can expect to continue their education to
+keep up with technological changes. Good communication
+skills are important in this field.
+Computer technicians can expect to earn an annual salary
+in the range of $27,000 to $58,000. Opportunities for
+advancement typically come in the form of work on more
+reset page 323
+-------------------------------------------- 分页分隔 --------------------------------------------
+advanced computer systems. Some computer technicians move
+into customer service positions or go into sales.
+page 126
+A LOOK TO THE FUTURE
+Brain–Computer Interfaces
+Can you imagine a future when we become half human and half machine?
+Today, we use computer implants to help people hear and to control their
+heartbeat. Computer chips are being implanted into people with
+Parkinson’s disease to help them control their movements and to reduce
+other impacts of the condition. But these devices are simple compared to
+the future of brain–computer interfaces imagined by the researchers and
+entrepreneurs of Silicon Valley.
+The human brain stores information in neurons using electrical
+impulses. Using neural imaging, specialized equipment can read the
+intensity and location of these impulses or thought patterns. This
+technology currently allows amputees to control robotic limbs. This case
+and almost all other applications, however, require brain surgery and
+cumbersome equipment. Researchers are currently trying to reduce the size
+and invasiveness of these technologies. Scientists at Florida
+International University are investigating devices so small that they can
+travel through the bloodstream to the brain. In the future, a simple shot
+may allow your computer to tell what you are thinking.
+reset page 324
+-------------------------------------------- 分页分隔 --------------------------------------------
+Elnur/Shutterstock
+With improvements in the quality of neural imaging and neural hardware,
+we may soon be able to image all the brain’s electrical impulses. For
+example, when you think of turning on the house lights, a computer can
+take an image of your brain thinking about turning on the house lights.
+Later, when you have that thought again, the computer can compare your
+brain’s image to previous images and realize that when those areas of the
+brain are active, you want the house lights to turn on.
+Not only may computers someday read your mind—they someday may write
+to it as well. Memories are stored in the electrical impulses of the
+brain, and by injecting tiny magnetic particles into the brain, scientists
+can stimulate neurons, essentially creating memories. Currently, our
+understanding of how the brain operates is too limited, and our ability to
+manipulate neurons is too coarse, to allow us to accurately transmit
+information. However, someday you may think, “I would like to be able to
+speak French,” and through neural stimulation, a computer would generate
+the memories necessary for you to speak French.
+Many ethicists are concerned by the potential use of such technologies
+to improve human abilities instead of treating medical conditions. For
+example, with tiny chips being able to store so much, people could use
+brain implants to improve their memory. This can lead to a variety of
+scenarios where the individual with the implants would have an advantage
+over those who don’t have them. However, others disagree, arguing that
+the integration of technology and biology is to be expected and it is
+nothing more than the next step in human evolution. If such a technology
+became widespread and affordable, would you opt to receive a chip implant?
+page 127
+reset page 325
+-------------------------------------------- 分页分隔 --------------------------------------------
+VISUAL SUMMARY
+The System Unit
+SYSTEM UNIT
+Andrey_Popov/Shutterstock
+System unit (system chassis) contains electronic
+components. The most common personal computers are cell
+phone, tablet, laptop, desktop, and wearable computers.
+Smartphones
+Smartphones, more commonly called cell phones, are the
+most popular personal computer. Amost all monitor with
+system unit, storage, and electronics located behind
+monitor.
+Tablet
+A tablet, or tablet computer, is like a cell phone
+except larger, heavier, and more powerful. A mini tablet
+has a smaller screen with less functionality than
+traditional tablet.
+Laptop
+Laptops, compared to cell phones, are larger, are more
+powerful, have a separate monitor, and use a keyboard and
+reset page 326
+-------------------------------------------- 分页分隔 --------------------------------------------
+mouse. Specialty laptops include two-in-one laptops;
+gaming laptops (high-end graphics and fast processors);
+ultrabooks, also known as ultraportables; and mini
+notebooks.
+Desktop
+A desktop is most powerful personal computer; tower unit
+(tower computer) has vertical system unit; an all-in-one
+desktop combines system unit and monitor.
+Wearable Computers
+Wearable computers (wearable devices) contain an
+embedded computer on a chip. The most common wearable
+computers are smartwatches and activity trackers.
+Components
+Each type of system unit has the same basic components,
+including system board, microprocessor, and memory.
+SYSTEM BOARD
+Volodymyr Krasyuk/Shutterstock
+The system board (mainboard or motherboard) controls
+all communication for the computer system. All external
+and internal devices and components connect to it.
+reset page 327
+-------------------------------------------- 分页分隔 --------------------------------------------
+Sockets provide connection points for chips (silicon
+chips, semiconductors, integrated circuits). Chips
+are mounted on chip carriers.
+Slots provide connection points for specialized cards
+or circuit boards.
+Bus lines provide pathways to support communication.
+ktsdesign/Shutterstock
+page 128
+To efficiently and effectively use computers, you need
+to understand the functionality of the basic components
+in the system unit: system board, microprocessor,
+memory, expansion slots and cards, bus lines, ports,
+and cables. Additionally, you need to understand how
+data and programs are represented electronically.
+MICROPROCESSOR
+In most personal computers, the central processing unit
+(CPU), or processor, is contained on a single chip
+called the microprocessor. It has two basic components:
+a control unit and ALU.
+reset page 328
+-------------------------------------------- 分页分隔 --------------------------------------------
+Microprocessor Chips
+A word is the number of bits that can be accessed by the
+microprocessor at one time. Clock speed represents the
+number of times the CPU can fetch and process data or
+instructions in a second.
+Multicore processors can provide multiple independent
+CPUs. Parallel processing requires programs that allow
+multiple processors to work together to run large complex
+programs.
+Specialty Processors
+Specialty processors include graphics coprocessors, also
+known as GPU or graphics processing unit (processes
+graphic images), and processors in automobiles (monitor
+fuel efficiency, satellite entertainment, and tracking
+systems).
+MEMORY
+Memory holds data, instructions, and information. There
+are three types of memory chips.
+RAM
+RAM (random-access memory) chips are called temporary or
+volatile storage because their contents are lost if power
+is disrupted.
+Cache memory is a high-speed holding area for
+frequently used data and information.
+DIMM (dual in-line memory module) is used to expand
+memory.
+Virtual memory divides large programs into parts that
+are read into RAM as needed.
+ROM
+reset page 329
+-------------------------------------------- 分页分隔 --------------------------------------------
+ROM (read-only memory) chips are nonvolatile storage and
+control essential system operations.
+Flash Memory
+Flash memory does not lose its contents when power is
+removed.
+EXPANSION CARDS AND SLOTS
+tkyszk/Shutterstock
+SD cards are fingernail-size expansion cards used
+primarily for laptop computers, tablets, and cell phones.
+They connect to expansion slots within these devices.
+Many computers allow users to expand their systems by
+providing expansion slots on their system boards to
+accept expansion cards.
+Examples of expansion cards include graphics cards,
+network interface cards (NIC; network adapter cards),
+and wireless network cards.
+BUS LINES
+Bus lines, also known as buses, provide data pathways
+that connect various system components. Bus width is the
+number of bits that can travel simultaneously.
+reset page 330
+-------------------------------------------- 分页分隔 --------------------------------------------
+System buses connect CPU and memory. Expansion buses
+connect CPU and slots.
+Expansion Buses
+Three principal expansion bus types:
+USB (universal serial bus) can connect from one USB
+device to another or to a common point (hub) and then
+onto the system board.
+FireWire bus is similar to USB bus but more
+specialized.
+PCI Express (PCIe) bus is widely used; provides a
+single dedicated path for each connected device.
+page 129
+PORTS
+yxm2008/Shutterstock
+Ports are connecting sockets on the outside of the
+system unit.
+Standard Ports
+Four standard ports are as follows:
+USB (universal serial bus)—one USB port can connect
+several devices to system unit USB-A PCs; USB-B
+peripherals; USB-C gaining popularity.
+reset page 331
+-------------------------------------------- 分页分隔 --------------------------------------------
+HDMI (high definition multimedia interface)—provides
+high-definition video and audio.
+Thunderbolt—provides high-speed connections to up to
+seven Thunderbolt devices at once, such as external
+hard drives and monitors.
+Ethernet—high-speed networking port that has become a
+standard for many of today’s computers.
+Specialized Ports
+Three specialty ports are DisplayPort (DP) for large
+monitors, and DVI (Digital Video Interface) for
+connecting to monitors, and FireWire for high-speed
+connection to devices such as camcorders and secondary
+storage.
+Cables
+Cables are used to connect external devices to the
+system unit via ports.
+POWER SUPPLY
+Akkraraj kangrang/Shutterstock
+reset page 332
+-------------------------------------------- 分页分隔 --------------------------------------------
+Power supply units convert AC to DC and power desktops.
+AC adapters power laptops and tablets and recharge
+batteries. Some cell phones use wireless charging
+platforms.
+ELECTRONIC REPRESENTATION
+Human voices create analog (continuous) signals;
+computers only recognize digital electronic signals.
+Numeric Representation
+Data and instructions can be represented electronically
+with a two-state or binary system of numbers (0 and 1).
+Each 0 or 1 is called a bit. A byte consists of 8 bits.
+A hexadecimal system (hex) uses 16 digits to represent
+binary numbers.
+Character Encoding
+Character encoding standards assign unique sequences of
+bits to each character. Three standards are as follows:
+ASCII—American Standard Code for Information
+Interchange. Historically used for personal computers.
+EBCDIC—Extended Binary Coded Decimal Interchange
+Code. Historically used for mainframe computers.
+Unicode—16-bit code, most widely used standard.
+CAREERS in IT
+Computer technicians repair and install computer
+components and systems. Certification in computer repair
+or an associate’s degree from professional schools is
+required. Expected salary range is $27,000 to $58,000.
+reset page 333
+-------------------------------------------- 分页分隔 --------------------------------------------
+page 130
+KEY TERMS
+AC adapter (122)
+activity tracker (114)
+all-in-one desktop (111)
+analog (123)
+arithmetic-logic unit (ALU) (116)
+arithmetic operation (116)
+ASCII (American Standard Code for Information
+Interchange) (124)
+binary system (123)
+BIOS (basic input/output system) (119)
+bit (123)
+bus (120)
+bus line (115, 120)
+bus width (120)
+byte (123)
+cable (122)
+cache memory (118)
+cell phone (110)
+central processing unit (CPU) (116)
+character encoding standards (124)
+chip (115)
+chip carrier (115)
+clock speed (117)
+reset page 334
+-------------------------------------------- 分页分隔 --------------------------------------------
+computer technician (125)
+control unit (116)
+coprocessor (117)
+desktop (111)
+digital (123)
+DIMM (dual in-line memory module) (118)
+DisplayPort (DP) (121)
+DVI (Digital Video Interface) port (121)
+EBCDIC (Extended Binary Coded Decimal Interchange Code)
+(124)
+Ethernet port (121)
+expansion bus (120)
+expansion card (119)
+expansion slot (119)
+FireWire bus (120)
+FireWire port (121)
+flash memory (118)
+gaming laptop (111)
+GPU (graphics processing unit) (118)
+graphics card (119)
+graphics coprocessor (118)
+hexadecimal system (hex) 124)
+High Definition Multimedia Interface (HDMI) port (121)
+integrated circuit (115)
+laptop (111)
+logical operation (116)
+mainboard (115)
+memory (118)
+microprocessor (116)
+reset page 335
+-------------------------------------------- 分页分隔 --------------------------------------------
+mini notebook (111)
+mini tablet (110)
+motherboard (115)
+multicore processor (117)
+network adapter card (119)
+network interface card (NIC) (119)
+parallel processing (117)
+PCI Express (PCIe) (120)
+peripheral (121)
+personal computer (110)
+port (121)
+power supply unit (122)
+processor (116)
+random-access memory (RAM) (118)
+read-only memory (ROM) (118)
+SD card (119)
+semiconductor (115)
+silicon chip (115)
+slot (115)
+smartphone (110)
+smartwatch (114)
+socket (115)
+system board (115)
+system bus (120)
+system chassis (110)
+system unit (110)
+tablet (110)
+tablet computer (110)
+Thunderbolt 3 (121)
+reset page 336
+-------------------------------------------- 分页分隔 --------------------------------------------
+tower computer (111)
+tower unit (111)
+two-in-one laptop (111)
+ultrabooks (127)
+ultraportables (111)
+Unicode (124)
+universal serial bus (USB) (120)
+universal serial bus (USB) port (121)
+Universal serial bus—A (USB-A) (121)
+Universal serial bus—B (USB-B) (121)
+Universal serial bus—C (USB-C) (121)
+virtual memory (118)
+wearable computer (114)
+wearable device (114)
+wireless charging platform (122)
+wireless network card (120)
+word (117)
+page 131
+MULTIPLE CHOICE
+Circle the correct answer.
+1. This multiprocessor chip provides two or more separate
+and independent CPUs.
+a. multicore
+reset page 337
+-------------------------------------------- 分页分隔 --------------------------------------------
+b. mobile
+c. random access
+d. graphics
+2. This memory is volatile or loses its contents when power
+is turned off.
+a. USB
+b. random-access
+c. flash
+d. hex
+3. This system board component provides a connection point
+for specialized cards or circuit boards.
+a. slots
+b. ports
+c. sockets
+d. buses
+4. These provide connection points for chips.
+a. microprocessors
+b. sockets
+c. Unicode
+d. ROM
+5. A type of memory that improves processing by acting as a
+temporary high-speed holding area between the memory and
+the CPU.
+a. chassis
+b. DVI
+c. coprocessor
+d. cache
+6. A type of memory that provides a combination of features
+of RAM and ROM.
+a. BIOS
+reset page 338
+-------------------------------------------- 分页分隔 --------------------------------------------
+b. PCIe
+c. flash
+d. system
+7. Another name for a network adapter card.
+a. ASCII
+b. GPU
+c. NIC
+d. HDMI
+8. This bus connects the CPU to memory on the system board.
+a. tablet
+b. peripheral
+c. port
+d. system
+9. This port can be used to connect many USB devices to the
+system.
+a. PCIe
+b. USB
+c. ALU
+d. EBCDIC
+10. A socket for external devices to connect to the system
+unit.
+a. bus
+b. chassis
+c. port
+d. tablet
+page 132
+reset page 339
+-------------------------------------------- 分页分隔 --------------------------------------------
+MATCHING
+Match each numbered item with the most closely related
+lettered item. Write your answers in the spaces provided.
+a. sy stem unit 1. The most popular
+b. cell phone personal computer.
+c. sy stem 2. The mainboard or
+motherboard is also
+board
+known as .
+d. word
+3. This container houses
+e. chip
+most of the electrical
+f. virtual
+components for a
+g. network computer system.
+h. bu s 4. In a personal computer
+i. DisplayPort system, the central
+processing unit is
+j. digital
+typically contained on a
+single .
+5. This type of memory
+divides large programs
+into parts and stores
+the parts on a secondary
+storage device.
+6. Also known as NIC, this
+adapter card is used to
+connect a computer to
+a(n) .
+reset page 340
+-------------------------------------------- 分页分隔 --------------------------------------------
+7. This provides a pathway
+to connect parts of the
+CPU to each other.
+8. The number of bits that
+can be accessed by the
+CPU at one time.
+9. The specialized port
+that is typically used
+to connect large
+monitors.
+10. Computers can only
+recognize this type of
+electronic signal.
+OPEN-ENDED
+On a separate sheet of paper, respond to each question or
+statement.
+1. Describe the five most common types of personal
+computers.
+2. Describe system boards, including sockets, chips, chip
+carriers, slots, and bus lines.
+3. Discuss microprocessor components, chips, and specialty
+processors.
+4. Define computer memory, including RAM, ROM, and flash
+memory.
+5. Define SD cards, expansion slots, cards (including
+graphics cards), network interface cards, wireless
+reset page 341
+-------------------------------------------- 分页分隔 --------------------------------------------
+network cards, and SD cards.
+6. Describe bus lines, bus width, system bus, and expansion
+bus.
+7. Define ports, including standard and specialized ports.
+Give examples of each.
+8. Describe power supply, including power supply units and
+AC adapters.
+9. Discuss electronic data and instructions.
+page 133
+DISCUSSION
+Respond to each of the following questions.
+Making IT Work for You: GAMING
+1
+Review the Making IT Work for You: Gaming on pages 112 and 113 and then
+respond to the following: (a) What type of gaming system do you think
+you would most enjoy: mobile, console, or PC? Why? (b) Do you own any
+specialized gaming hardware? If you do, describe the equipment. If you
+do not, do you have any interest in game playing? Why or why not? (c)
+Look online to learn the differences between the Microsoft, Sony, and
+Nintendo consoles. Summarize the differences between the consoles. If
+you were to purchase a console system, which one would you buy? Defend
+your choice.
+Privacy: CRYPTOPROCESSORS
+2
+Did you know that some systems have specialty processors that
+automatically encrypt data before storing? Review the Privacy box on
+page 117, and respond to the following: (a) Who do you think would need
+a cryptoprocessor? Be specific. (b) Do you think these processors would
+reset page 342
+-------------------------------------------- 分页分隔 --------------------------------------------

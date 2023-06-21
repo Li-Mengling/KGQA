@@ -1,0 +1,1341 @@
+
+page 316
+Programming and
+chapter
+13
+Languages
+reset page 747
+-------------------------------------------- 分页分隔 --------------------------------------------
+whiteMocca/Shutterstock
+page 317
+Why should I read this chapter?
+Poorly designed software has destroyed companies in the blink of an eye.
+From stock purchases to pacemakers, our lives are increasingly dependent
+on digital devices and the programs that run them. In the future, robots
+with sophisticated artificial intelligence will handle everyday chores,
+and you will program these robots using conversational English
+instruction.
+Alexander Supertramp/Shutterstock
+This chapter covers the things you need to know to be prepared for
+this ever-changing digital world, including:
+The software development life cycle—understand the steps of software
+development to be prepared to assist or manage software development
+projects.
+Programming languages—understand the differences among assembly,
+procedural, and natural languages to choose the best language for your
+needs.
+Learning Objectives
+After you have read this chapter, you should be able to:
+reset page 748
+-------------------------------------------- 分页分隔 --------------------------------------------
+1. Define programming and describe the six steps of
+programming.
+2. Compare design tools, including top-down design,
+pseudocode, flowcharts, and logic structures.
+3. Describe program testing and the tools for finding and
+removing errors.
+4. Describe CASE tools and object-oriented software
+development.
+5. Explain the five generations of programming languages.
+page 318
+Introduction
+“Hi,
+I’m Alice, and I’m a computer programmer. I’d like to
+talk with you about programming and programming languages.”
+In the previous chapter, we discussed systems analysis and design. We
+discussed the six-phase systems life cycle approach for examining and
+improving an information system. One of the phases is systems development,
+or the acquisition of new hardware and software. This chapter relates to
+this phase, systems development. More specifically, this chapter focuses
+on developing new software or programming. We will describe programming in
+two parts: (1) the steps in the programming process and (2) some of the
+programming languages available.
+reset page 749
+-------------------------------------------- 分页分隔 --------------------------------------------
+Images Products/Shutterstock
+Why should you need to know anything about programming? The answer is
+simple. You might need to deal with programmers in the course of your
+work. You also may be required to do some programming yourself in the
+future. A growing trend is toward end-user software development. This
+means that end users, like you, are developing their own application
+programs.
+To efficiently and effectively use computers, you need to understand
+the relationship between systems development and programming.
+Additionally, you need to know the six steps of programming, including
+program specification, program design, program code, program test, program
+documentation, and program maintenance.
+Programs and Programming
+What exactly is programming? Many people think of it as
+simply typing words into a computer. That may be part of it,
+but that is certainly not all of it. Programming, as we’ve
+hinted before, is actually a problem-solving procedure.
+What Is a Program?
+To see how programming works, think about what a program is.
+A program is a list of instructions for the computer to
+follow to accomplish the task of processing data into
+information. The instructions are made up of statements used
+in a programming language, such as C++, Java, or Python.
+reset page 750
+-------------------------------------------- 分页分隔 --------------------------------------------
+You are already familiar with some types of programs. As
+we discussed in Chapters 1 and 3, application programs are
+widely used to accomplish a variety of different types of
+tasks. For example, we use word processors to create
+documents and spreadsheets to analyze data. These can be
+purchased and are referred to as prewritten or packaged
+programs. Programs also can be created or custom-made. In
+Chapter 12, we saw that the systems analyst looked into the
+availability of time-and-billing software for Advantage
+Advertising. Will off-the-shelf software do the job, or
+should it be custom-written? This is one of the first things
+that needs to be decided in programming.
+What Is Programming?
+A program is a list of instructions for the computer to
+follow to process data. Programming, also known as software
+development, typically follows a six-step process known as
+the software development life cycle (SDLC). (See Figure 13-
+1.)
+page 319
+reset page 751
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 13-1 Software development
+The six steps are as follows:
+. Program specification: The program’s objectives, outputs,
+inputs, and processing requirements are determined.
+. Program design: A solution is created using programming
+techniques such as top-down program design, pseudocode,
+flowcharts, and logic structures.
+. Program code: The program is written or coded using a
+programming language.
+. Program test: The program is tested or debugged by looking
+for syntax and logic errors.
+. Program documentation: Documentation is an ongoing process
+throughout the programming process. This phase focuses on
+formalizing the written description and processes used in
+the program.
+reset page 752
+-------------------------------------------- 分页分隔 --------------------------------------------
+. Program maintenance: Completed programs are periodically
+reviewed to evaluate their accuracy, efficiency,
+standardization, and ease of use. Changes are made to the
+program’s code as needed.
+In organizations, computer professionals known as software
+engineers or programmers use this six-step procedure. In a
+recent survey by Money magazine, software engineers were
+ranked near the top of over 100 widely held jobs based on
+salary, prestige, and security.
+You may well find yourself working directly with a
+programmer or indirectly through a systems analyst. Or you
+may actually do the programming for a system that you
+develop. Whatever the case, it’s important that you
+understand the six-step programming procedure.
+concept check
+What is a program?
+What are the six programming steps?
+page 320
+Step 1: Program Specification
+Program specification is also called program definition or
+program analysis. It requires that the programmer—or you,
+the end user, if you are following this procedure—specify
+five items: (1) the program’s objectives, (2) the desired
+output, (3) the input data required, (4) the processing
+requirements, and (5) the documentation. (See Figure 13-2.)
+reset page 753
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 13-2 Step 1: Program specification
+Program Objectives
+You solve all kinds of problems every day. A problem might be
+deciding how to commute to school or work or which homework
+or report to do first. Thus, every day you determine your
+objectives—the problems you are trying to solve. Programming
+is the same. You need to make a clear statement of the
+problem you are trying to solve. An example would be “I want
+a time-and-billing system to record the time I spend on
+different jobs for different clients of Advantage
+Advertising.”
+Desired Output
+It is best always to specify outputs before inputs. That is,
+you need to list what you want to get out of the computer
+system. Then you should determine what will go into it. The
+best way to do this is to draw a picture. You—the end user,
+not the programmer—should sketch or write how you want the
+reset page 754
+-------------------------------------------- 分页分隔 --------------------------------------------
+output to look when it’s done. It might be printed out or
+displayed on the monitor.
+For example, if you want a time-and-billing report, you
+might write or draw something like Figure 13-3. Another form
+of output from the program might be bills to clients.
+Figure 13-3 End user’s sketch of desired output
+Description
+Input Data
+Once you know the output you want, you can determine the
+input data and the source of this data. For example, for a
+time-and-billing report, you can specify that one source of
+data to be processed should be time cards. These are usually
+logs or statements of hours worked submitted either page 321
+electronically or on paper forms. The log shown in
+Figure 13-4 is an example of the kind of input data used in
+Advantage Advertising’s manual system. Note that military
+time is used. For example, instead of writing “5:45 .,”
+P.M
+people would write “1745.”
+reset page 755
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 13-4 Example of input data for hours worked,
+expressed in military time
+Description
+Processing Requirements
+Here you define the processing tasks that must happen for
+input data to be processed into output. For Advantage, one of
+the tasks for the program will be to add the hours worked for
+different jobs for different clients.
+Program Specifications Document
+As in the systems life cycle, ongoing documentation is
+essential. You should record program objectives, desired
+outputs, needed inputs, and required processing. This leads
+to the next step, program design.
+concept check
+What is program specification?
+Describe the first procedure, program objectives. Why determine
+outputs before inputs?
+Discuss processing requirements and the program specifications
+document.
+reset page 756
+-------------------------------------------- 分页分隔 --------------------------------------------
+page 322
+Step 2: Program Design
+After program specification, you begin program design. (See
+Figure 13-5.) Here you plan a solution, preferably using
+structured programming techniques. These techniques consist
+of the following: (1) top-down program design, (2)
+pseudocode, (3) flowcharts, and (4) logic structures.
+Figure 13-5 Step 2: Program design
+Top-Down Program Design
+First determine the outputs and inputs for the program. Then
+use top-down program design to identify the program’s
+reset page 757
+-------------------------------------------- 分页分隔 --------------------------------------------
+processing steps. Such steps are called program modules (or
+just modules). Each module is made up of logically related
+program statements.
+An example of a top-down program design for a time-and-
+billing report is shown in Figure 13-6. Each of the boxes
+shown is a module. Under the rules of top-down design, each
+module should have a single function. The program must pass
+in sequence from one module to the next until all modules
+have been processed by the computer. Three of the boxes
+—“Obtain input,” “Compute hours for billing,” and
+“Produce output”—correspond to the three principal
+computer system operations: input, process, and output.
+Figure 13-6 Example of top-down program design
+Description
+reset page 758
+-------------------------------------------- 分页分隔 --------------------------------------------
+page 323
+Pseudocode
+Pseudocode (pronounced “soo-doh-code”) is an outline of the
+logic of the program you will write. It is like doing a
+summary of the program before it is written. Figure 13-7
+shows the pseudocode you might write for one module in the
+time-and-billing program. This shows the reasoning behind
+determining hours—including overtime hours—worked for
+different jobs for one client, Client A. Again, note this
+expresses the logic of what you want the program to do.
+Figure 13-7 Example of pseudocode
+Description
+Flowcharts
+We mentioned system flowcharts in the previous chapter. Here
+we are concerned with program flowcharts. These graphically
+present the detailed sequence of steps needed to solve a
+programming problem. Figure 13-8 presents several of the
+standard flowcharting symbols. An example of a program
+reset page 759
+-------------------------------------------- 分页分隔 --------------------------------------------
+flowchart is presented in Figure 13-9. This flowchart
+expresses all the logic for just one module—“Compute time
+on Client A jobs”—in the top-down program design.
+Figure 13-8 Flowchart symbols
+Perhaps you can see from this flowchart why a computer is
+a computer, and not just an adding machine. One of the most
+powerful capabilities of computers is their ability to make
+logical comparisons. For example, a computer can compare two
+items to determine if one is less than, greater than, or
+equal to the other item.
+page 324
+reset page 760
+-------------------------------------------- 分页分隔 --------------------------------------------
+
+reset page 761
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 13-9 Flowchart for “Compute time on Client A jobs”
+Description
+page 325
+But have we skipped something? How do we know which kinds
+of twists and turns to put in a flowchart so that it will
+work logically? The answer is based on the use of logic
+structures, as we will explain.
+Logic Structures
+How do you link the various parts of the flowchart? The best
+way is a combination of three logic structures called
+sequential, selection, and repetition. Using these
+arrangements enables you to write structured programs, which
+take much of the guesswork out of programming. Let us look at
+the logic structures.
+In the sequential structure, one program statement follows
+another. Consider, for example, the “compute time”
+flowchart. (Refer back to Figure 13-9.) Add regular hours
+to total regular hours and Add overtime hours to total
+overtime hours form a sequential structure. They logically
+follow each other. There is no question of “yes” or
+“no” or a decision suggesting other consequences. (See
+Figure 13-10.)
+The selection structure occurs when a decision must be
+made. The outcome of the decision determines which of two
+paths to follow. (See Figure 13-11.) This structure is also
+known as an IF-THEN-ELSE structure because that is how you
+can formulate the decision. Consider, for example, the
+selection structure in the “compute time” flowchart,
+which is concerned about computing overtime hours (Work
+reset page 762
+-------------------------------------------- 分页分隔 --------------------------------------------
+past 1700?). (Refer back to Figure 13-9.) It might be
+expressed in detail as follows:
+IF hour finished for this job is later than 1700 hours
+(5:00 ), THEN overtime hours equal the number of hours
+P.M.
+past 1700 hours, ELSE overtime hours equal zero.
+(See Figure 13-11.)
+The repetition or loop structure describes a process that
+may be repeated as long as a certain condition remains
+true. The structure is called a “loop” or “iteration”
+because the program loops around (iterates or repeats)
+again and again. Consider the loop structure in the
+“compute time” flowchart, which is concerned with testing
+if there are more jobs (More jobs for clients?). It might
+be expressed in detail as follows:
+DO read in job information WHILE (that is, as long as)
+there are more jobs.
+(See Figure 13-12.)
+Figure 13-10 Sequential logic structure
+reset page 763
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 13-11 Selection (IF-THEN-ELSE) logic structure
+Description
+Figure 13-12 Repetition logic structure
+Description
+reset page 764
+-------------------------------------------- 分页分隔 --------------------------------------------
+The last thing to do before leaving the program design
+step is to document the logic of the design. This report
+typically includes pseudocode, flowcharts, and logic
+structures. Now you are ready for the next step, program
+code.
+concept check
+Define the goal of the program design step.
+Discuss top-down program design, pseudocode, flowcharts, and logic
+structures.
+Describe three logic structures.
+page 326
+Step 3: Program Code
+Writing the program is called coding. Here you use the logic
+you developed in the program design step to actually write
+the program. (See Figure 13-13.) This is the “program code”
+that instructs the computer what to do. Coding is what many
+people think of when they think of programming. As we’ve
+pointed out, however, it is only one of the six steps in the
+programming process.
+reset page 765
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 13-13 Step 3: Program code
+The Good Program
+What are the qualities of a good program? Above all, it
+should be reliable—that is, it should work under most
+conditions and produce correct output. It should catch
+obvious and common input errors. It also should be well
+documented and understandable by programmers other than the
+person who wrote it. After all, someone may need to make
+changes in the program in the future. One of the best ways to
+code effective programs is to write so-called structured
+programs, using the logic structures described in Step 2:
+Program Design.
+Coding
+After the program logic has been formulated, the next step is
+to code, or write the program using the appropriate computer
+language.
+reset page 766
+-------------------------------------------- 分页分隔 --------------------------------------------
+A programming language uses a collection of symbols,
+words, and phrases that instruct a computer to perform
+specific operations. Programming languages process data and
+information for a wide variety of different types of
+applications. Figure 13-14 presents the programming code
+using C++, a widely used programming language, to calculate
+the compute time module. For a description of C++ and some
+other widely used programming languages, see Figure 13-15.
+Figure 13-14 C++ code for computing regular and overtime
+hours
+isocpp.org
+Language Description
+C++ Extends C to use objects or program modules that
+can be reused and interchanged between programs
+C# A programming language designed by Microsoft to
+reset page 767
+-------------------------------------------- 分页分隔 --------------------------------------------
+extend C++ for developing applications in the
+Windows environment
+Java Primarily used for Internet applications;
+similar to C++; runs with a variety of operating
+systems
+JavaScript Embedded into web pages to provide dynamic and
+interactive content
+Python General-purpose programming language that is
+simple and easy to learn. Frequently used in
+introductory programming courses
+Swift Uses graphical user interface and special code
+for touch screen interfaces to create apps for
+Apple iOS devices
+Figure 13-15 Widely used programming languages
+Once the program has been coded, the next step is testing,
+or debugging, the program.
+page 327
+concept check
+What is coding?
+What makes a good program?
+What is a programming language?
+page 328
+Step 4: Program Test
+reset page 768
+-------------------------------------------- 分页分隔 --------------------------------------------
+Debugging refers to the process of testing and then
+eliminating errors (“getting the bugs out”). (See Figure
+13-16.) It means running the program on a computer and then
+fixing the parts that do not work. Programming errors are of
+two types: syntax errors and logic errors.
+Figure 13-16 Step 4: Program test
+Description
+Syntax Errors
+A syntax error is a violation of the rules of the programming
+language. For example, in C++, each statement must end with a
+semicolon (;). If the semicolon is omitted, then the program
+will not run or execute due to a syntax error. For example,
+Figure 13-17 shows testing of the compute time module in
+which a syntax error was identified.
+reset page 769
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 13-17 Syntax error identified
+Apple Inc.
+Logic Errors
+A logic error occurs when the programmer uses an incorrect
+calculation or leaves out a programming procedure. For
+example, a payroll program that did not compute overtime
+hours would have a logic error.
+Testing Process
+Several methods have been devised for finding and removing
+both types of errors, including desk checking, manually
+testing, translating, running, and beta testing.
+Desk checking: In desk checking or code review, a
+programmer sitting at a desk checks (proofreads) a printout
+of the program. The programmer goes through the listing
+line by line carefully looking for syntax errors and logic
+errors.
+Manually testing with sample data: Using a page 329
+calculator and sample data, a programmer follows
+each program statement and performs every calculation.
+reset page 770
+-------------------------------------------- 分页分隔 --------------------------------------------
+Looking for programming logic errors, the programmer
+compares the manually calculated values to those calculated
+by the programs.
+Attempt at translation: The program is run through a
+computer, using a translator program. The translator
+attempts to translate the written program from the
+programming language (such as C++) into the machine
+language. Before the program will run, it must be free of
+syntax errors. Such errors will be identified by the
+translating program. (See Figure 13-17.)
+Testing sample data on the computer: After all syntax
+errors have been corrected, the program is tested for logic
+errors. Sample data is used to test the correct execution
+of each program statement.
+Testing by a select group of potential users: This is
+sometimes called beta testing. It is usually the final step
+in testing a program. Potential users try out the program
+and provide feedback.
+For a summary of Step 4: Program test, see Figure 13-18.
+Task Description
+1 Desk check for syntax and logic
+errors.
+2 Manually test with sample data.
+3 Translate program to identify
+syntax errors.
+4 Run program with sample data.
+5 Beta test with potential users.
+Figure 13-18 Step 4: Program testing process
+concept check
+reset page 771
+-------------------------------------------- 分页分隔 --------------------------------------------
+What is debugging?
+What is the difference between syntax errors and logic errors?
+Briefly describe the testing process.
+page 330
+Step 5: Program Documentation
+Documentation consists of written descriptions and procedures
+about a program and how to use it. (See Figure 13-19.) It is
+not something done just at the end of the programming
+process. Program documentation is carried on throughout all
+the programming steps. In this step, all the prior
+documentation is reviewed, finalized, and distributed.
+Documentation is important for people who may be involved
+with the program in the future. These people may include the
+following:
+Users. Users need to know how to use the software. Some
+organizations may offer training courses to guide users
+through the program. However, other organizations may
+expect users to be able to learn a package just from the
+written documentation. Two examples of this sort of
+documentation are printed manuals and the help option
+within most applications.
+Operators. Documentation must be provided for computer
+operators. If the program sends them error messages, for
+instance, they need to know what to do about them.
+Programmers. As time passes, even the creator of the
+original program may not remember much about it. Other
+programmers wishing to update and modify it—that is,
+perform program maintenance—may find themselves frustrated
+reset page 772
+-------------------------------------------- 分页分隔 --------------------------------------------
+without adequate documentation. This kind of documentation
+should include text and program flowcharts, program
+listings, and sample output. It also might include system
+flowcharts to show how the particular program relates to
+other programs within an information system.
+Figure 13-19 Step 5: Program documentation
+concept check
+What is documentation?
+When does program documentation occur?
+Who is affected by documentation?
+page 331
+reset page 773
+-------------------------------------------- 分页分隔 --------------------------------------------
+Step 6: Program Maintenance
+The final step is program maintenance. (See Figure 13-20.)
+As much as 75 percent of the total lifetime cost for an
+application program is for maintenance. This activity is so
+commonplace that a special job title, maintenance
+programmer, exists.
+Figure 13-20 Step 6: Program maintenance
+The purpose of program maintenance is to ensure that
+current programs are operating error-free, efficiently, and
+effectively. Activities in this area fall into two
+categories: operations and changing needs.
+Operations
+Operations activities concern locating and correcting
+operational errors, making programs easier to use, and
+reset page 774
+-------------------------------------------- 分页分隔 --------------------------------------------
+standardizing software using structured programming
+techniques. For properly designed programs, these activities
+should be minimal.
+Programming modifications or corrections are often
+referred to as patches. For software that is acquired, it is
+common for the software manufacturer to periodically send
+patches or updates for its software. If the patches are
+significant, they are known as software updates.
+Changing Needs
+All organizations change over time, and their programs must
+change with them. Programs need to be adjusted for a variety
+of reasons, including new tax laws, new information needs,
+and new company policies. Significant revisions may require
+that the entire programming process begin again with program
+specification.
+Ideally, a software project sequentially follows the six
+steps of software development. However, some projects start
+before all requirements are known. In these cases, the SDLC
+becomes a more cyclical process, repeated several times
+throughout the development of the software. For example,
+agile development, a popular development page 332
+methodology, starts by getting core functionality
+of a program working, and then expands on it until the
+customer is satisfied with the results. All six steps are
+repeated over and over as quickly as possible to create
+incrementally more functional versions of the application.
+Figure 13-21 summarizes the six steps of the programming
+process.
+Step Primary Activity
+1. Program specification Determine program objectives,
+desired output, required input,
+and processing requirements.
+2. Program design Use structured programming
+techniques.
+reset page 775
+-------------------------------------------- 分页分隔 --------------------------------------------
+3. Program code Select programming language; write
+the program.
+4. Program test Perform desk check (code review)
+and manual checks; attempt
+translation; test using sample
+data; beta test with potential
+users.
+5. Program documentation Write procedure for users,
+operators, and programmers.
+6. Program maintenance Adjust for errors, inefficient or
+ineffective operations,
+nonstandard code, and changes over
+time.
+Figure 13-21 Summary of six steps in programming
+concept check
+What is the purpose of program maintenance?
+Discuss operations activities. What are patches? Software updates?
+What are changing needs, and how do they affect programs?
+CASE and OOP
+You hear about efficiency and productivity everywhere. They
+are particularly important for software development. Two
+resources that promise to help are CASE tools and object-
+oriented software development.
+CASE Tools
+Professional programmers are constantly looking for ways to
+make their work easier, faster, and more reliable. One tool
+we mentioned in Chapter 12, CASE, is meeting this need.
+Computer-aided software engineering (CASE) tools provide
+reset page 776
+-------------------------------------------- 分页分隔 --------------------------------------------
+some automation and assistance in program design, coding, and
+testing. (See Figure 13-22.)
+page 333
+Figure 13-22 Sparx Systems offers the CASE tool Enterprise
+Architect
+Smartdraw Software, LLC.
+Object-Oriented Software Development
+Traditional systems development is a careful, step-by-step
+approach focusing on the procedures needed to complete a
+certain objective. Object-oriented software development
+focuses less on the procedures and more on defining the
+relationships between previously defined procedures or
+“objects.” Object-oriented programming (OOP) is a process
+by which a program is organized into objects. Each object
+contains both the data and processing operations necessary to
+perform a task. Let’s explain what this means.
+In the past, programs were developed as giant entities,
+from the first line of code to the last. This has been
+reset page 777
+-------------------------------------------- 分页分隔 --------------------------------------------
+compared to building a car from scratch. Object-oriented
+programming is like building a car from prefabricated parts—
+carburetor, alternator, fenders, and so on. Object-oriented
+programs use objects that are reusable, self-contained
+components. Programs built with these objects assume that
+certain functions are the same. For example, many programs,
+from spreadsheets to database managers, have an instruction
+that will sort lists of names in alphabetical order. A
+programmer might use this object for alphabetizing in many
+other programs. There is no need to invent this activity anew
+every time. C++ is one of the most widely used object-
+oriented programming languages.
+concept check
+What are CASE tools?
+What is object-oriented software development?
+What is object-oriented programming?
+page 334
+Generations of Programming
+Languages
+Computer professionals talk about levels or generations of
+programming languages, ranging from “low” to “high.”
+Programming languages are called lower level when they are
+closer to the language the computer itself uses. The computer
+understands the 0s and 1s that make up bits and bytes.
+Programming languages are called higher level when they are
+closer to the language humans use—that is, for English
+speakers, more like English.
+reset page 778
+-------------------------------------------- 分页分隔 --------------------------------------------
+There are five generations of programming languages: (1)
+machine languages, (2) assembly languages, (3) procedural
+languages, (4) task-oriented languages, and (5) problem and
+constraint languages.
+Machine Languages: The First Generation
+We mentioned in Chapter 5 that a byte is made up of bits,
+consisting of 1s and 0s. These 1s and 0s may correspond to
+electricity being on or off in the computer. They also may
+correspond to a magnetic charge being present or absent on
+storage media such as disc or tape. From this two-state
+system, coding schemes have been developed that allow us to
+construct letters, numbers, punctuation marks, and other
+special characters. Examples of these coding schemes, as we
+saw, are ASCII, EBCDIC, and Unicode.
+Data represented in 1s and 0s is said to be written in
+machine language. To see how hard this is to understand,
+imagine if you had to code this:
+Machine languages also vary according to make of computer—
+another characteristic that makes them hard to work with.
+Assembly Languages: The Second Generation
+Before a computer can process or run any program, the program
+must be converted or translated into machine language.
+Assembly languages use abbreviations or mnemonics such as ADD
+that are automatically converted to the appropriate sequence
+of 1s and 0s. Compared to machine languages, assembly
+languages are much easier for humans to understand and to
+use. The machine language code we gave above could be
+expressed in assembly language as
+reset page 779
+-------------------------------------------- 分页分隔 --------------------------------------------
+This is still pretty obscure, of course, and so assembly
+language is also considered low level.
+Assembly languages also vary from computer to computer.
+With the third generation, we advance to high-level
+languages, many of which are considered portable languages.
+That is, they can be run on more than one kind of computer—
+they are “portable” from one machine to another.
+High-Level Procedural Languages: The Third Generation
+People are able to understand languages that are more like
+their own (e.g., English) than machine languages or assembly
+languages. These more English-like programming languages are
+called “high-level” languages. However, most people still
+require some training to use higher-level languages. This is
+particularly true of procedural languages.
+Procedural languages, also known as 3GLs (third-
+generation languages), are designed to express the logic—
+the procedures—that can solve general problems. page 335
+Procedural languages, then, are intended to solve
+general problems and are the most widely used languages to
+create software applications. C++ is a procedural language
+widely used by today’s programmers. For example, C++ was
+used in Advantage Advertising’s time-and-billing report.
+(See Figure 13-14 again for the compute time module of this
+program.)
+Consider the following C++ statement from a program that
+assigns letter grades based on the score of an exam:
+This statement tests whether the score is greater than or
+equal to 90. If it is, then the letter grade of A is
+reset page 780
+-------------------------------------------- 分页分隔 --------------------------------------------
+assigned.
+Like assembly languages, procedural languages must be
+translated into machine language so that the computer
+processes them. Depending on the language, this translation
+is performed by either a compiler or an interpreter.
+A compiler converts the programmer’s procedural language
+program, called the source code, into a machine language
+code, called the object code. This object code can then be
+saved and run later. The standard version of C++ is a
+procedural language that uses a compiler.
+An interpreter converts the procedural language one
+statement at a time into machine code just before it is to
+be executed. No object code is saved. An example of a
+procedural language using an interpreter is the standard
+version of BASIC.
+What is the difference between using a compiler and using
+an interpreter? When a program is run, the compiler requires
+two steps. The first step is to convert the entire program’s
+source code to object code. The second step is to run the
+object code. The interpreter, in contrast, converts and runs
+the program one line at a time. The advantage of a compiler
+language is that once the object code has been obtained, the
+program executes faster. The advantage of an interpreter
+language is that programs are easier to develop.
+Task-Oriented Languages: The Fourth Generation
+Third-generation languages are valuable, but they require
+training in programming. Task-oriented languages, also known
+as 4GLs (fourth-generation languages) and very high level
+languages, require little special training on the part of the
+user.
+Unlike general-purpose languages, task-oriented languages
+are designed to solve specific problems. While 3GLs focus on
+procedures and how logic can be combined to solve a variety
+reset page 781
+-------------------------------------------- 分页分隔 --------------------------------------------
+of problems, 4GLs are nonprocedural and focus on specifying
+the specific tasks the program is to accomplish. 4GLs are
+more English-like, easier to program, and widely used by
+nonprogrammers. Some of these fourth-generation languages are
+used for very specific applications. For example, IFPS
+(interactive financial planning system) is used to develop
+financial models. Many 4GLs are part of a database management
+system. 4GLs include query languages and application
+generators:
+Query languages: Query languages enable nonprogrammers to
+use certain easily understood commands to search and
+generate reports from a database. One of the most widely
+used query languages is SQL (Structured Query Language).
+For example, let’s assume that Advantage Advertising has a
+database containing all customer calls for service and that
+its management would like a listing of all clients who
+incurred overtime charges. The SQL command to create this
+list is
+This SQL statement selects or identifies all clients (a
+field name from the dailyLog table) that required service
+after 17 (military time for 5:00 ). Microsoft Access can
+P.M.
+generate SQL commands like this one by using its Query
+wizard.
+Application generators: An application generator page 336
+or a program coder is a program that provides
+modules of prewritten code. When using an application
+generator, a programmer can quickly create a program by
+referencing the module(s) that performs certain tasks. This
+greatly reduces the time to create an application. For
+example, Access has a report generation application and a
+Report wizard for creating a variety of different types of
+reports using database information.
+reset page 782
+-------------------------------------------- 分页分隔 --------------------------------------------
+Problem and Constraint Languages: The Fifth Generation
+As they have evolved through the generations, computer
+languages have become more humanlike. Clearly, the fourth-
+generation query languages using commands that include words
+like SELECT, FROM, and WHERE are much more humanlike than the
+0s and 1s of machine language. However, 4GLs are still a long
+way from the natural languages such as English and Spanish
+that people use.
+The next step in programming languages will be the fifth-
+generation language (5GL), or computer languages that
+incorporate the concepts of artificial intelligence to allow
+a person to provide a system with a problem and some
+constraints and then request a solution. Additionally, these
+languages would enable a computer to learn and to apply new
+information as people do. Rather than coding by keying in
+specific commands, we would communicate more directly to a
+computer using natural languages.
+Consider the following natural language statement that
+might appear in a 5GL program for recommending medical
+treatment:
+When will fifth-generation languages become a reality?
+That’s difficult to say; however, researchers are actively
+working on the development of 5GL languages and have
+demonstrated some success.
+See Figure 13-23 for a summary of the generations of
+programming languages.
+Generation Sample Statement
+First: 111100100111001111010010000100000111000000101011
+Machine
+Second: ADD 210(8,13),02B(4,7)
+reset page 783
+-------------------------------------------- 分页分隔 --------------------------------------------
+Assembly
+Third: if (score > = 90) grade = ‘A’;
+Procedural
+Fourth: SELECT client FROM dailyLog WHERE serviceEnd >
+Task 17
+Fifth: Get patientDiagnosis from patientSymptoms
+Problems “sneezing”, “coughing”, “aching”
+andConstraints
+Figure 13-23 Summary of five programming generations
+concept check
+What distinguishes a lower-level language from a higher-level
+language?
+What is the difference between machine and assembly languages?
+What is the difference between procedure and task-oriented languages?
+Define problem and constraint languages.
+page 337
+Careers in IT
+“Now
+that you have learned about programming and programming
+languages, let me tell you about my career as a programmer.”
+Computer programmers create, test, and troubleshoot
+programs used by computers. Programmers also may update and
+repair existing programs. Most computer programmers are
+employed by companies that create and sell software, but
+reset page 784
+-------------------------------------------- 分页分隔 --------------------------------------------
+programmers also may be employed in various other
+businesses. Many computer programmers work on a project
+basis as consultants, meaning they are hired by a company
+only to complete a specific program. As technology has
+developed, the need for programmers to work on the most
+basic computer functions has decreased. However, demand for
+computer programmers with specializations in advanced
+programs continues.
+Images Products/Shutterstock
+Jobs in programming typically require a bachelor’s
+degree in computer science or information systems. However,
+positions are available in the field for those with a two-
+year degree. Employers looking for programmers typically
+put an emphasis on previous experience. Programmers who
+have patience, think logically, and pay attention to detail
+are continually in demand. Additionally, programmers who
+can communicate technical information to nontechnical
+people are preferred.
+Computer programmers can expect to earn an annual salary
+in the range of $65,760 to $112,120. Advancement
+opportunities for talented programmers include a lead
+programmer position or supervisory positions. Programmers
+with specializations and experience also may have an
+opportunity to consult.
+reset page 785
+-------------------------------------------- 分页分隔 --------------------------------------------
+page 338
+A LOOK TO THE FUTURE
+Your Own Programmable Robot
+Have you ever dreamed of having your own robot that could help you with
+all your chores? Wouldn’t it be nice if that robot understood every word
+you said and required no complex programming from you? Such a robot will
+be possible in the future as the field of robotics keeps advancing.
+Currently, robots are used in many manufacturing roles, making everything
+from cars to frozen pancakes. Recently, there are already several
+companies that are mass-producing programmable robots for individuals and
+educational institutions. It is just a matter of time before these robots
+can understand human instructions instead of complex programming
+languages. Technology has been making better programming tools and will
+continue to evolve to improve our lives as we look to the future.
+One of the earliest robots that was made available to consumers was the
+Roomba from iRobot, which is essentially an automated, intelligent vacuum
+cleaner. Since then, the same company has released robots that wash
+floors, clean pools, and clear gutters. The programming is handled by the
+robot’s developers, with the end user doing very little except turning
+the robot on. As well as these robots perform, their function is limited
+to their programmed task.
+A company named Aldebaran Robotics has taken a different approach,
+creating small, humanoid robots, called Nao, which the end user can
+program. Although the Nao robots are being mass-produced, they are a bit
+too expensive for the average home. Currently, they are being marketed
+toward schools and research institutions. Using a GUI, students can create
+programs that the robot will follow. Alternatively, programmers can use
+one of several supported languages to write their own custom scripts for
+Nao.
+reset page 786
+-------------------------------------------- 分页分隔 --------------------------------------------
+Alexander Supertramp/Shutterstock
+In the future, it will not be necessary for someone to use software or
+know a programming language to communicate with a robot. Developers will
+use sophisticated programming to give the robot the artificial
+intelligence necessary to understand natural language. This software will
+be embedded in a chip within the robot. When you purchase a robot, all you
+will have to do is speak the commands in normal, conversational English.
+If you want the robot to help you clean the pool or lift a heavy box, you
+can tell the robot in the same manner you would tell another person.
+The hardware components needed to make robots are becoming cheaper.
+However, the software remains a challenge. Human languages and
+conversations remain very difficult for a computer to fully understand.
+Speech recognition continues to improve, and we are seeing this technology
+embedded in the latest cell phones. Nevertheless, many improvements are
+necessary before a humanoid robot will be able to converse with us.
+Do you think you will be able to own a humanoid robot in your lifetime?
+Do you believe that programmers will be able to make these robots
+intelligent enough to carry on conversations and perform a wide variety of
+tasks?
+page 339
+VISUAL SUMMARY Programming and
+reset page 787
+-------------------------------------------- 分页分隔 --------------------------------------------
+Languages
+PROGRAMS AND PROGRAMMING
+A program is a list of instructions for a computer to
+follow. Programming (software development) is a six-
+step procedure for creating programs.
+The steps are
+Program specification—defining objectives, inputs,
+outputs, and processing requirements.
+Program design—creating a solution using structured
+programming tools and techniques such as top-down
+program design, pseudocode, program flowcharts, and
+logic structures.
+Program code—writing or coding the program using a
+programming language.
+Program test—testing or debugging the program by
+looking for syntax and logic errors.
+reset page 788
+-------------------------------------------- 分页分隔 --------------------------------------------
+Program documentation—ongoing process throughout the
+programming process.
+Program maintenance—periodically evaluating programs
+for accuracy, efficiency, standardization, and ease of
+use and modifying program code as needed.
+STEP 1: PROGRAM SPECIFICATION
+Program specification, also called program definition
+or program analysis, consists of specifying five tasks
+related to objectives, outputs, inputs, requirements, and
+documentation.
+Program Objectives
+The first task is to clearly define the problem to solve
+in the form of program objectives.
+Desired Output
+Next, focus on the desired output before considering the
+required inputs.
+Input Data
+Once outputs are defined, determine the necessary input
+data and the source of the data.
+reset page 789
+-------------------------------------------- 分页分隔 --------------------------------------------
+Processing Requirements
+Next, determine the steps necessary (processing
+requirements) to use input to produce output.
+Program Specifications Document
+The final task is to create a specifications document to
+record this step’s program objectives, outputs, inputs,
+and processing requirements.
+page 340
+To efficiently and effectively use computers, you need
+to understand the six steps of programming: program
+specification, program design, program coding, program
+test, program documentation, and program maintenance.
+Additionally, you need to be aware of CASE, OOP, and
+the generations of programming languages.
+STEP 2: PROGRAM DESIGN
+reset page 790
+-------------------------------------------- 分页分隔 --------------------------------------------
+In program design, a solution is designed using,
+preferably, structured programming techniques,
+including the following.
+Top-Down Program Design
+In top-down program design, major processing steps,
+called program modules (or modules), are identified.
+Pseudocode
+Pseudocode is an outline of the logic of the program you
+will write.
+Flowcharts
+Program flowcharts are graphic representations of the
+steps necessary to solve a programming problem.
+Logic Structures
+Logic structures are arrangements of programming
+statements. Three types are
+Sequential—one program statement followed by another.
+Selection (IF-THEN-ELSE)—when a decision must be
+made.
+Repetition (loop)—when a process is repeated until
+the condition is true.
+STEP 3: PROGRAM CODE
+reset page 791
+-------------------------------------------- 分页分隔 --------------------------------------------
+Coding is writing a program. There are several important
+aspects of writing a program. Two are writing good
+programs and actually writing or coding.
+Good Programs
+Good programs are reliable, detect obvious and common
+errors, and are well documented. The best way to create
+good programs is to write structured programs using the
+three basic logic structures presented in Step 2.
+Coding
+There are hundreds of different programming languages.
+Programming languages instruct a computer to perform
+specific operations. C++ is a widely used programming
+language.
+reset page 792
+-------------------------------------------- 分页分隔 --------------------------------------------
+isocpp.org
+page 341
+STEP 4: PROGRAM TEST
+Debugging is a process of testing and eliminating errors
+in a program. Syntax and logic are two types of
+programming errors.
+Syntax Errors
+Syntax errors are violations of the rules of a
+programming language. For example, omitting a semicolon
+at the end of a C++ statement is a syntax error.
+reset page 793
+-------------------------------------------- 分页分隔 --------------------------------------------
+Logic Errors
+Logic errors are incorrect calculations or procedures.
+For example, failure to include calculation of overtime
+hours in a payroll program is a logic error.
+Testing Process
+Five methods for testing for syntax and logic errors are
+Desk checking (code review)—careful reading of a
+printout of the program.
+Manual testing—using a calculator and sample data to
+test for correct programming logic.
+Attempt at translation—running the program using a
+translator program to identify syntax errors.
+Testing sample data—running the program and testing
+the program for logic errors using sample data.
+Testing by users (beta testing)—final step in which
+potential users try the program and provide feedback.
+Apple Inc.
+STEP 5: PROGRAM DOCUMENTATION
+reset page 794
+-------------------------------------------- 分页分隔 --------------------------------------------
+Program documentation consists of a written description
+of the program and the procedures for running it. People
+who use documentation include
+Users, who need to know how to use the program. Some
+organizations offer training courses; others expect
+users to learn from written documentation.
+Operators, who need to know how to execute the program
+and how to recognize and correct errors.
+Programmers, who may need to update and maintain the
+program in the future. Documentation could include text
+and program flowcharts, program listings, and sample
+outputs.
+reset page 795
+-------------------------------------------- 分页分隔 --------------------------------------------
+Michael Poehlman/The ImageBank/Getty Images
+page 342
+STEP 6: PROGRAM MAINTENANCE
+Program maintenance is designed to ensure that the
+program operates correctly, efficiently, and effectively.
+Two categories of maintenance activities are the
+following.
+reset page 796
+-------------------------------------------- 分页分隔 --------------------------------------------
+Operations
+Operations activities include locating and correcting
+errors, improving usability, and standardizing software.
+Software updates are known as patches. Significant
+patches are called software updates.
+Changing Needs
+Organizations change over time, and their programs must
+change with them. Agile development starts with core
+program functionality and expands until the customer is
+satisfied with the results.
+Lucas Lenci Photo/Image Bank/GettyImages
+CASE AND OOP
+reset page 797
+-------------------------------------------- 分页分隔 --------------------------------------------
+Smartdraw Software, LLC.
+CASE
+Computer-aided software engineering (CASE) tools
+provide automation and assistance in program design,
+coding, and testing.
+OOP
+Traditional systems development focuses on procedures to
+complete a specific objective.
+Object-oriented software development focuses less on
+procedures and more on defining relationships between
+previously defined procedures or objects. Object-
+oriented programming (OOP) is a process by which a
+program is divided into modules called objects. Each
+object contains both the data and processing operations
+necessary to perform a task.
+PROGRAMMING LANGUAGE GENERATIONS
+Programming languages have levels or generations ranging
+from low to high. Lower-level languages are closer to
+the 0s and 1s language of computers. Higher-level
+languages are closer to the languages of humans.
+CAREERS in IT
+reset page 798
+-------------------------------------------- 分页分隔 --------------------------------------------
+Programmers create, test, and troubleshoot programs.
+They also update and repair existing programs.
+Requirements include a bachelor’s or specialized two-
+year degree in computer science or information systems.
+Expected salary range is $65,760 to $112,120.
+page 343
+KEY TERMS
+agile development (331)
+application generator (336)
+assembly language (334)
+beta testing (329)
+code (326)
+code review (328)
+coding (326)
+compiler (335)
+computer-aided software engineering (CASE) tools (332)
+debugging (328)
+desk checking (328)
+documentation (330)
+fifth-generation language (5GL) (336)
+fourth-generation language (4GL) (335)
+generation (334)
+higher level (334)
+reset page 799
+-------------------------------------------- 分页分隔 --------------------------------------------
+IF-THEN-ELSE structure (325)
+IFPS (interactive financial planning system) (335)
+interpreter (335)
+level (334)
+logic error (328)
+logic structure (325)
+loop structure (325)
+lower level (334)
+machine language (334)
+maintenance programmer (331)
+module (322)
+natural language (336)
+object (333)
+object code (335)
+object-oriented programming (OOP) (333)
+object-oriented software development (333)
+objective (330)
+operator (330)
+patch (331)
+portable language (334)
+procedural language (334)
+program (318)
+program analysis (320)
+program coder (336)
+program definition (320)
+program design (322)
+program documentation (330)
+program flowchart (323)
+program maintenance (331)
+reset page 800
+-------------------------------------------- 分页分隔 --------------------------------------------
+program module (322)
+program specification (320)
+programmer (319, 330, 337)
+programming (318)
+programming language (326)
+pseudocode (323)
+query language (335)
+repetition structure (325)
+selection structure (325)
+sequential structure (325)
+software development (318)
+software development life cycle (SDLC) (318)
+software engineer (319)
+software update (331)
+source code (335)
+structured program (326)
+structured programming technique (322)
+syntax error (328)
+task-oriented language (335)
+third-generation language (3GL) (334)
+top-down program design (322)
+user (330)
+very high level language (335)
+page 344
+MULTIPLE CHOICE
+reset page 801
+-------------------------------------------- 分页分隔 --------------------------------------------
+Circle the correct answer.
+1. Another name for programming.
+a. design
+b. compiling
+c. software development
+d. documentation
+2. An outline of the logic of the program to be written.
+a. CASE
+b. logic structure
+c. software development life cycle
+d. pseudocode
+3. Logic structure, also known as IF-THEN-ELSE, that
+controls program flow based on a decision.
+a. sequential
+b. syntax
+c. selection
+d. IFPS
+4. Programming languages that are closer to the language of
+humans.
+a. high level
+b. very high level
+c. higher level
+d. assembly
+5. The process of testing and then eliminating program
+errors.
+a. debugging
+b. compiling
+c. documenting
+d. designing
+reset page 802
+-------------------------------------------- 分页分隔 --------------------------------------------
+6. Program step that involves creating descriptions and
+procedures about a program and how to use it.
+a. debugging
+b. documentation
+c. compiling
+d. designing
+7. The first-generation language consisting of 1s and 0s.
+a. machine
+b. assembly
+c. natural
+d. high level
+8. Converts a procedural language one statement at a time
+into machine code just before it is to be executed.
+a. compiler
+b. software developer
+c. sequential
+d. interpreter
+9. Generation of computer languages that allows a person to
+provide a system with a problem and some constraints,
+and then request a solution.
+a. 3GL
+b. 4GL
+c. 5GL
+d. 6GL
+10. 5GL that allows more direct human communication with a
+program.
+a. assembly
+b. natural language
+c. task-oriented
+d. portable
+reset page 803
+-------------------------------------------- 分页分隔 --------------------------------------------
+page 345
+MATCHING
+Match each numbered item with the most closely related
+lettered item. Write your answers in the spaces provided.
+a. da ta 1. The programming logic
+b. high-level structure in which one
+program statement
+language
+follows another.
+c. modules
+2. A compiler converts the
+d. object code
+programmer’s procedural
+e. object-
+language program, called
+oriented
+the source code, into a
+f. program machine language code,
+maintenance c alled the .
+g. pr ogram 3. These 4GL languages
+test enable nonprogrammers to
+h. query use certain easily
+understood commands to
+i. sequential
+search and generate
+j. structured
+reports from a database.
+programs
+4. This step in the six-
+step programming
+procedure is the final
+step.
+reset page 804
+-------------------------------------------- 分页分隔 --------------------------------------------
+5. What a program
+processes.
+6. The major processing
+steps identified in a
+top-down program design.
+7. Unlike traditional
+systems development,
+this software
+development approach
+focuses less on the
+procedures and more on
+defining the
+relationships between
+previously defined
+procedures.
+8. Natural languages are
+considered to be a(n)
+.
+9. One of the best ways to
+code effective programs
+is to use the three
+basic logic structures
+to create .
+10. This step in the six-
+step programming
+procedure involves desk
+checking and searching
+for syntax and logic
+errors.
+reset page 805
+-------------------------------------------- 分页分隔 --------------------------------------------
+OPEN-ENDED
+On a separate sheet of paper, respond to each question or
+statement.
+1. Identify and discuss each of the six steps of
+programming.
+2. Describe CASE tools and OOP. How does CASE assist
+programmers?
+3. What is meant by “generation” in reference to
+programming languages? What is the difference between
+low-level and high-level languages?
+4. What is the difference between a compiler and an
+interpreter?
+5. What are logic structures? Describe the differences
+between the three types.
+page 346
+DISCUSSION
+Respond to each of the following questions.
+Expanding Your Knowledge: SOURCE CODE
+1
+GENERATORS
+Generally, the human resources that are devoted to a successful software
+project are its greatest single expense. Programming and testing
+applications are time-consuming tasks. Recently, source code generators
+reset page 806
+-------------------------------------------- 分页分隔 --------------------------------------------

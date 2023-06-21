@@ -1,0 +1,1042 @@
+
+page 246
+Information
+chapter
+10
+Systems
+reset page 604
+-------------------------------------------- 分页分隔 --------------------------------------------
+metamorworks/Shutterstock
+page 247
+Why should I read this chapter?
+A simple online purchase requires a tremendous collection of carefully
+planned and executed jobs. If you buy a some sports equipment online,
+your purchase becomes part of a complex stream of information that allow
+a company to succeed, employees to flourish, and you to get your sports
+equipment. The ability to gather, analyze, and respond to data, like the
+data generated when you make an online purchase, can mean the difference
+between a company giving employees bonuses or layoff notices. The best
+information systems automatically adjust to their environments and help
+organizations react to current and future changes.
+Rymden/Shutterstock
+This chapter covers the things you need to know to be prepared for
+this ever-changing digital world, including:
+Organizational flow—identify how information flows within an
+organization.
+Computer-based information systems—recognize the levels of information
+systems and how they help businesses make decisions.
+Other information systems—understand expert systems and how you can
+use them to make faster, smarter decisions.
+reset page 605
+-------------------------------------------- 分页分隔 --------------------------------------------
+Learning Objectives
+After you have read this chapter, you should be able to:
+1. Explain the functional view of an organization and
+describe each function.
+2. Describe the management levels and the informational
+needs for each level in an organization.
+3. Describe how information flows within an organization.
+4. Describe computer-based information systems.
+5. Distinguish among a transaction processing system, a
+management information system, a decision support
+system, and an executive support system.
+6. Distinguish between office automation systems and
+knowledge work systems.
+7. Explain the difference between data workers and
+knowledge workers.
+8. Define expert systems and knowledge bases.
+page 248
+Introduction
+“Hi,
+I’m Sue, and I’m an information systems manager. I’d
+like to talk with you about how organizations use computer
+information systems. I’d also like to talk about specialized
+reset page 606
+-------------------------------------------- 分页分隔 --------------------------------------------
+knowledge work systems that assist managers, engineers, and
+scientists make decisions.”
+An information system is a collection of people, procedures, software,
+hardware, data, and connectivity (as we discussed in Chapter 1). They all
+work together to provide information essential to running an organization.
+This information is critical to successfully produce a product or service
+and, for profit-oriented enterprises, to derive a profit.
+Roman Samborskyi/Shutterstock
+Why are computers used in organizations? At a basic level, computers
+are used to record events. A computer will record the details of a sale
+made in a store or update a database to recognize that an item sold has
+reduced inventory. However, at a deeper level, computers are used to make
+decisions. The data from sales in stores will decide employee bonuses. The
+data about inventory items will identify market trends and affect what is
+manufactured next season. In this chapter, you will learn how businesses
+collect and use information to make decisions.
+To efficiently and effectively use computers within an organization,
+you need to understand how the information flows as it moves through an
+organization’s different functional areas and management levels. You need
+to be aware of the different types of computer-based information systems,
+including transaction processing systems, management information systems,
+decision support systems, and executive support systems. You also need to
+understand the role and importance of databases to support each level or
+type of information system.
+Organizational Information Flow
+reset page 607
+-------------------------------------------- 分页分隔 --------------------------------------------
+Computerized information systems do not just keep track of
+transactions and day-to-day business operations. They also
+support the vertical and horizontal flow of information
+within the organization. To understand this, we need to
+understand how an organization is structured. One way to
+examine an organization’s structure is to view it from a
+functional perspective. That is, you can study the different
+basic functional areas in organizations and the different
+types of people within these functional areas.
+As we describe these, consider how they apply to a
+hypothetical manufacturer of sporting goods, the HealthWise
+Group. This company manufactures equipment for sports and
+physical activities. Its products range from soccer balls to
+yoga mats. (See Figure 10-1.)
+Figure 10-1 Yoga mats
+F8 studio/Shutterstock
+reset page 608
+-------------------------------------------- 分页分隔 --------------------------------------------
+Like many organizations, HealthWise Group can be viewed
+from a functional perspective with various management levels.
+Effective operations require an efficient and coordinated
+flow of information throughout the organization.
+Functions
+Depending on the services or products they provide, most
+organizations have departments that specialize in one of five
+basic functions. These are accounting, marketing, human
+resources, production, and research. (See Figure 10-2.)
+page 249
+Accounting records all financial activity from billing
+customers to paying employees. The HealthWise accounting
+department tracks all sales, payments, and transfers of
+funds. It also produces reports detailing the financial
+condition of the company.
+Marketing plans, prices, promotes, sells, and distributes
+the organization’s goods and services. HealthWise’s goods
+include a wide range of products related to sports and
+other types of physical activity.
+Human resources focuses on people—hiring, training,
+promoting, and any number of other human-centered
+activities within the organization. At HealthWise, human
+resources is responsible for implementing a new benefits
+package, for hiring new skilled workers, and much more.
+Production actually creates finished goods and services
+using raw materials and personnel. HealthWise manufacturers
+a variety of sports equipment, including yoga mats.
+Research identifies, investigates, and develops new
+products and services. For example, at HealthWise,
+reset page 609
+-------------------------------------------- 分页分隔 --------------------------------------------
+scientists are investigating a light, inexpensive alloy for
+a new line of weight-training equipment.
+Figure 10-2 The five functions of an organization
+Description
+page 250
+Although the titles may vary, nearly every large and small
+organization has departments that perform these basic
+functions. Whatever your job in an organization, it is likely
+to be in one of these functional areas.
+Management Levels
+The foundation of any organization is not managers, but the
+employees who produce goods and services. These employees are
+reset page 610
+-------------------------------------------- 分页分隔 --------------------------------------------
+the base of the organizational pyramid and consist of
+assemblers, painters, welders, drivers, and others. Above
+them are various levels of managers—people with titles such
+as supervisor, director, regional manager, and vice
+president. These are the people who do the planning, leading,
+organizing, and controlling necessary to see that the work
+gets done.
+For example, the northwest district sales manager for
+HealthWise directs and coordinates all the salespeople in her
+area. Other job titles might be vice president of marketing,
+director of human resources, or production manager. In
+smaller organizations, these titles are often combined.
+Management in many organizations is divided into three
+levels. These levels are supervisors, middle management, and
+top management. (See Figure 10-3.)
+Supervisors: Supervisors manage and monitor the employees
+or workers. Thus, these managers have responsibility
+relating to operational matters. They monitor day-to-day
+events and immediately take corrective action, if
+necessary.
+Middle management: Middle-level managers deal with
+control, planning (also called tactical planning), and
+decision making. They implement the long-term goals of the
+organization.
+Top management: Top-level managers are concerned with
+long-range planning (also called strategic planning). They
+need information that will help them plan the future growth
+and direction of the organization.
+reset page 611
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 10-3 Three levels of management
+Description
+page 251
+Information Flow
+Each level of management has different information needs.
+Top-level managers need summary information describing the
+overall operations of the business. They also need
+information from outside the organization because top-level
+managers need to forecast and plan for long-range events.
+Middle-level managers need summarized information—weekly or
+monthly reports. They need to develop budget projections and
+to evaluate the performance of supervisors. Supervisors need
+detailed, very current, day-to-day information on their units
+so that they can keep operations running smoothly. (See
+Figure 10-4.)
+reset page 612
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 10-4 Supervisors monitor day-to-day events
+yoh4nn/Getty Images
+To support these different needs, information flows in
+different directions. (See Figure 10-5.) For top-level
+managers, the flow of information from within the
+organization is both vertical and horizontal. The top-level
+managers, such as the chief executive officer (CEO), need
+information from below and from all departments. They also
+need information from outside the organization. For example,
+HealthWise is deciding whether to introduce a line of fitness
+trackers in the southwestern United States. The vice
+president of marketing must look at relevant data. Such data
+might include the number of people currently using the
+HealthWise fitness app and census data about the number of
+young people. It also might include sales histories on
+related fitness monitoring equipment.
+reset page 613
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 10-5 Information flow within an organization
+Description
+For middle-level managers, the HealthWise information flow
+is both vertical and horizontal across functional lines. For
+example, the regional sales managers set their sales goals by
+coordinating with middle managers in the production
+department. They are able to tell sales managers what
+products will be produced, how many, and when. The regional
+sales managers also must coordinate with the strategic goals
+set by the top managers. They must set and monitor the sales
+goals for the supervisors beneath them.
+page 252
+For supervisory managers, information flow is primarily
+vertical. That is, supervisors communicate mainly with their
+middle managers and with the workers beneath them. For
+instance, at HealthWise, production supervisors rarely
+communicate with people in the accounting department.
+reset page 614
+-------------------------------------------- 分页分隔 --------------------------------------------
+However, they are constantly communicating with production-
+line workers and with their own managers.
+Now we know how many organizations are structured and how
+information flows within the organization. But how is a
+computer-based information system likely to be set up to
+support its needs? And what do you need to know to use it?
+concept check
+What are the five basic functions within an organization?
+What are the three levels of management? Discuss each level.
+Describe the flow of information within an organization.
+Computer-Based Information
+Systems
+Almost all organizations have computer-based information
+systems. Large organizations typically have formal names for
+the systems designed to collect and use the data. Although
+different organizations may use different names, the most
+common names are transaction processing, management
+information, decision support, and executive support systems.
+(See Figure 10-6.)
+reset page 615
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 10-6 Types of computer-based information systems
+Description
+Transaction processing system: The transaction processing
+system (TPS) records day-to-day transactions, such as
+customer orders, bills, inventory levels, and production
+output. The TPS helps supervisors by generating databases
+that act as the foundation for the other information
+systems.
+Management information system: The management information
+system (MIS) summarizes the detailed data of the
+transaction processing system in standard reports for
+middle-level managers. Such reports might include weekly
+sales and production schedules.
+Decision support system: The decision support system
+(DSS) provides a flexible tool for analysis. The DSS helps
+middle-level managers and others in the organization
+analyze a wide range of problems, such as the effect of
+events and trends outside the organization. Like the MIS,
+the DSS draws on the detailed data of the transaction
+processing system.
+reset page 616
+-------------------------------------------- 分页分隔 --------------------------------------------
+Executive support system: The executive support system
+(ESS), also known as the executive information system
+(EIS), is an easy-to-use system that presents information
+in a very highly summarized form. It helps top-level
+managers oversee the company’s operations and develop
+strategic plans. The ESS combines the databases generated
+from the TPS and the reports generated from the MIS with
+external data.
+concept check
+What is a transaction processing system? How does it help supervisors?
+What is a management information system? Decision support system? How
+are they different?
+What is an executive support system? Who uses it? What is it used for?
+page 253
+Transaction Processing Systems
+A transaction processing system (TPS) helps an organization
+keep track of routine operations and records these events in
+a database. For this reason, some firms call this the data
+processing system (DPS). The data from operations—for
+example, customer orders for HealthWise’s products—makes up
+a database that records the transactions of the company. This
+database of transactions is used to support the MIS, DSS, and
+ESS.
+One of the most essential transaction processing systems
+for any organization is in the accounting area. (See Figure
+10-7.) Every accounting department handles six basic
+activities. Five of these are sales order processing,
+accounts receivable, inventory and purchasing, accounts
+reset page 617
+-------------------------------------------- 分页分隔 --------------------------------------------
+payable, and payroll. All of these are recorded in the
+general ledger, the sixth activity.
+Figure 10-7 Transaction processing system for accounting
+page 254
+Let us take a look at these six activities. They will make
+up the basis of the accounting system for almost any
+organization you might work in.
+The sales order processing activity records the customer
+requests for the company’s products or services. At
+HealthWise when an order comes in—a request for a set of
+barbells, for example—the warehouse is alerted to ship a
+product.
+The accounts receivable activity records money received
+from or owed by customers. HealthWise keeps track of bills
+paid by sporting goods stores and by gyms and health clubs
+to which it sells directly.
+The parts and finished goods that the company has in stock
+are called inventory. At HealthWise this would include all
+exercise machines, footballs, soccer balls, and yoga mats
+ready for sale in the warehouse. (See Figure 10-8.) An
+reset page 618
+-------------------------------------------- 分页分隔 --------------------------------------------
+inventory control system keeps records of the number of
+each kind of part or finished good in the warehouse.
+Purchasing is the buying of materials and services.
+Often a purchase order is used. This is a form that shows
+the name of the company supplying the material or service
+and what is being purchased.
+Accounts payable refers to money the company owes its
+suppliers for materials and services it has received. At
+HealthWise this would include materials such as steel and
+aluminum used to manufacture its exercise equipment.
+The payroll activity is concerned with calculating employee
+paychecks. Amounts are generally determined by the pay
+rate, hours worked, and deductions (such as taxes, Social
+Security, medical insurance). Paychecks may be calculated
+from employee time cards or, in some cases, supervisors’
+time sheets.
+The general ledger keeps track of all summaries of all the
+foregoing transactions. A typical general ledger system can
+produce income statements and balance sheets. Income
+statements show a company’s financial performance—income,
+expenses, and the difference between them for a specific
+time period. Balance sheets list the overall financial
+condition of an organization. They include assets (for
+example, buildings and property owned), liabilities
+(debts), and how much of the organization (the equity) is
+owned by the owners.
+reset page 619
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 10-8 Inventory control systems manage the
+merchandise in the warehouse
+monkeybusinessimages/iStock/Getty Images
+There are many other transaction processing systems that
+you come into contact with every day. These include automatic
+teller machines, which record cash withdrawals; online
+registration systems, which track student enrollments; and
+supermarket discount cards, which track customer purchases.
+concept check
+What is the purpose of a transaction processing system?
+Describe the six activities of a TPS for accounting.
+Other than TPS for accounting, describe three other TPSs.
+page 255
+Management Information Systems
+reset page 620
+-------------------------------------------- 分页分隔 --------------------------------------------
+A management information system (MIS) is a computer-based
+information system that produces standardized reports in
+summarized structured form. (See Figure 10-9.) It is used to
+support middle managers. An MIS differs from a transaction
+processing system in a significant way. Whereas a transaction
+processing system creates databases, an MIS uses databases.
+Indeed, an MIS can draw from the databases of several
+departments. Thus, an MIS requires a database management
+system that integrates the databases of the different
+departments. Middle managers often need summary data drawn
+from across different functional areas.
+Figure 10-9 Management information system report
+An MIS produces reports that are predetermined. That is,
+they follow a predetermined format and always show the same
+kinds of content. Although reports may differ from one
+industry to another, there are three common categories of
+reports: periodic, exception, and demand.
+Periodic reports are produced at regular intervals—weekly,
+monthly, or quarterly, for instance. Examples are
+HealthWise’s monthly sales and production reports. The
+sales reports from district sales managers are combined
+reset page 621
+-------------------------------------------- 分页分隔 --------------------------------------------
+into a monthly report for the regional sales managers. For
+comparison purposes, a regional manager is also able to see
+the sales reports of other regional managers.
+Exception reports call attention to unusual events. An
+example is a sales report that shows that certain items are
+selling significantly above or below marketing department
+forecasts. For instance, if fewer exercise bicycles are
+selling than were predicted for the northwest sales region,
+the regional manager will receive an exception report. That
+report may be used to alert the district managers and
+salespeople to give this product more attention.
+The opposite of a periodic report, a demand report is
+produced on request. An example is a report on the numbers
+and types of jobs held by women and minorities. Such a
+report is not needed periodically, but it may be required
+when requested by the U.S. government. At HealthWise, many
+government contracts require this information. It is used
+to certify that HealthWise is within certain government
+equal-opportunity guidelines.
+concept check
+What is the purpose of a management information system?
+What are predetermined reports?
+Describe the three common categories of MIS reports.
+page 256
+Decision Support Systems
+Managers often must deal with unanticipated questions. For
+example, the Health-Wise manager in charge of manufacturing
+reset page 622
+-------------------------------------------- 分页分隔 --------------------------------------------
+might ask how an anticipated labor strike would affect
+production schedules. A decision support system (DSS)
+enables managers to get answers to such unexpected and
+generally nonrecurring kinds of problems.
+A DSS is quite different from a transaction processing
+system, which simply records data. It is also different from
+a management information system, which summarizes data in
+predetermined reports. A DSS is used to analyze data.
+Moreover, it produces reports that do not have a fixed
+format. This makes the DSS a flexible tool for analysis.
+A DSS must be easy to use—or most likely it will not be
+used at all. A HealthWise marketing manager might want to
+know which territories are not meeting their monthly sales
+quotas. To find out, the executive could ask or query the
+sales database for all “SALES < QUOTA.” (See Figure 10-10.)
+Figure 10-10 Decision support system query results for
+SALES < QUOTA
+Microsoft Corporation
+reset page 623
+-------------------------------------------- 分页分隔 --------------------------------------------
+How does a decision support system work? Essentially, it
+consists of four parts: the user, system software, data, and
+decision models.
+The user could be you. In general, the user is someone who
+has to make decisions—a manager, often a middle-level
+manager.
+System software is essentially the operating system—
+programs designed to work behind the scenes to handle
+detailed operating procedures. In order to give the user a
+good, intuitive interface, the software typically is menu
+or icon driven. That is, the screen presents easily
+understood lists of commands or icons, giving the user
+several options.
+Data in a DSS is typically stored in a database and
+consists of two kinds. Internal data—data from within the
+organization—consists principally of transactions from the
+transaction processing system. External data is data
+gathered from outside the organization. Examples are data
+provided by marketing research firms, trade associations,
+and the U.S. government (such as customer profiles, census
+data, and economic forecasts).
+Decision models give the DSS its analytical capabilities.
+There are three basic types of decision models: strategic,
+tactical, and operational. Strategic models assist top-
+level managers in long-range planning, such as stating
+company objectives or planning plant locations. page 257
+Tactical models help middle-level managers control
+the work of the organization, such as financial planning
+and sales promotion planning. Operational models help
+lower-level managers accomplish the organization’s day-to-
+day activities, such as evaluating and maintaining quality
+control.
+Some DSSs are specifically designed to support more than
+one or a team of decision makers. These systems, known as
+reset page 624
+-------------------------------------------- 分页分隔 --------------------------------------------
+group decision support systems (GDSS), include tools to
+support group meetings and collective work.
+concept check
+What is the purpose of a decision support system?
+Describe the four parts of a DSS.
+Identify three basic types of decision models.
+Executive Support Systems
+Using a DSS requires some training. Many top managers have
+other people in their offices running DSSs and reporting
+their findings. Top-level executives also want something more
+concise than an MIS—something that produces very focused
+reports.Executive
+support systems (ESSs) consist of sophisticated
+software that, like an MIS or a DSS, can present, summarize,
+and analyze data from an organization’s databases. However,
+an ESS is specifically designed to be easy to use. This is so
+that a top executive with little spare time, for example, can
+obtain essential information without extensive training.
+Thus, information is often displayed in a very condensed form
+with informative graphics.
+Consider an executive support system used by the president
+of HealthWise. It is available on his personal computer. The
+first thing each morning, the president calls up the ESS on
+his display screen, as shown in Figure 10-11. Note that the
+screen gives a condensed account of activities in the five
+different areas of the company. (These are Accounting,
+Marketing, Production, Human Resources, and Research.) On
+this particular morning, the ESS shows business in four areas
+proceeding smoothly. However, in the first area, Accounting,
+reset page 625
+-------------------------------------------- 分页分隔 --------------------------------------------
+the percentage of late-paying customers—past due accounts—
+has increased by 3 percent. Three percent may not seem like
+much, but HealthWise has had a history of problems with late
+payers, which has left the company at times strapped for
+cash. The president decides to find out the details. To do
+so, he selects 1. Accounting.
+Figure 10-11 Opening screen for an executive support system
+Microsoft Corporation
+Description
+page 258
+Within moments, the display screen displays a graph of the
+past due accounts. (See Figure 10-12.) The status of today’s
+late payers is shown in red. The status of late payers at
+reset page 626
+-------------------------------------------- 分页分隔 --------------------------------------------
+this time a year ago is shown in yellow. The differences
+between today and a year ago are significant and clearly
+presented. For example, approximately $60,000 was late 1 to
+10 days last year. This year, over $80,000 was late. The
+president knows that he must take some action to speed up
+customer payments. (For example, he might call this to the
+attention of the vice president of accounting. The vice
+president might decide to implement a new policy that offers
+discounts to early payers or charge higher interest to late
+payers.)
+Figure 10-12 Graphic representation of past due accounts
+Microsoft Corporation
+Description
+ESSs permit a firm’s top executives to gain direct access
+to information about the company’s performance. Most provide
+reset page 627
+-------------------------------------------- 分页分隔 --------------------------------------------
+direct electronic communication links to other executives. In
+addition, some ESSs have the ability to retrieve information
+from databases outside the company, such as business-news
+services. This enables a firm to watch for stories on
+competitors and stay current on relevant news events that
+could affect its business. For example, news of increased
+sports injuries caused by running and aerobic dancing, and
+the consequent decrease in people’s interest in these
+activities, might cause HealthWise to alter its sales and
+production goals for its line of fitness-related shoes.
+For a summary of the different types of information
+systems, see Figure 10-13.
+Type Description
+TPS Tracks routine operations and records events in databases; also known
+as data processing systems
+MIS Produces standardized reports (periodic, exception, and demand) using
+databases created by TPS
+DSS Analyzes unanticipated situations using data (internal and external)
+and decision models (strategic, tactical, and operational)
+ESS Presents summary information in a flexible, easy-to-use, graphical
+format designed for top executives
+Figure 10-13 Summary of information systems
+concept check
+What is the purpose of an executive support system?
+Describe the four types of information systems.
+How is an ESS similar to and different from an MIS or a DSS?
+page 259
+reset page 628
+-------------------------------------------- 分页分隔 --------------------------------------------
+Other Information Systems
+We have discussed only four information systems: TPSs to
+support lower-level managers, MISs and DSSs to support
+middle-level managers, and ESSs to support top-level
+managers. There are many other information systems to support
+different individuals and functions. The fastest growing are
+information systems designed to support information workers.
+Information workers distribute, communicate, and create
+information. They are the organization’s administrative
+assistants, clerks, engineers, and scientists, to name a few.
+Some are involved with distribution and communication of
+information (like administrative assistants and clerks; see
+Figure 10-14). They are called data workers. Others are
+involved with the creation of information (like the engineers
+and scientists). They are called knowledge workers.
+reset page 629
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 10-14 Administrative assistants and clerks are data
+workers
+Diego Cervo/Shutterstock
+Two systems to support information workers are
+Office automation systems: Office automation systems
+(OASs) are designed primarily to support data workers.
+These systems focus on managing documents, communicating,
+and scheduling. Documents are managed using word
+processing, web authoring, desktop publishing, and other
+image technologies. Project managers are programs designed
+to schedule, plan, and control project resources. Microsoft
+Project is the most widely used project manager.
+Videoconferencing systems are computer systems that allow
+people located at various geographic locations to
+reset page 630
+-------------------------------------------- 分页分隔 --------------------------------------------
+communicate and have in-person meetings. (See Figure 10-
+15.)
+Knowledge work systems: Knowledge workers use OAS systems.
+Additionally, they use specialized information systems
+called knowledge work systems (KWSs) to create information
+in their areas of expertise. For example, engineers
+involved in product design and manufacturing use computer-
+aided design/computer-aided manufacturing (CAD/CAM)
+systems. (See Figure 10-16.) These KWSs consist of powerful
+personal computers running special programs that integrate
+the design and manufacturing activities. CAD/CAM is widely
+used in the manufacture of automobiles and other products.
+Figure 10-15 Videoconferencing: Individuals and groups can
+see and share information
+Andrey_Popov/Shutterstock
+reset page 631
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 10-16 CAD/CAM: Knowledge work systems used by design
+and manufacturing engineers
+Gorodenkoff/Shutterstock
+Expert systems are another widely used knowledge work
+system.
+page 260
+Expert Systems
+People who are expert in a particular area—certain kinds of
+medicine, accounting, engineering, and so on—are generally
+well paid for their specialized knowledge. Unfortunately for
+their clients and customers, these experts are expensive and
+not always available.
+What if you were to somehow capture the knowledge of a
+human expert and make it accessible to everyone through a
+computer program? This is exactly what is being done with
+expert systems. Expert systems, also known as knowledge-
+based systems, are a type of artificial intelligence that
+uses a database to provide assistance to users. This
+database, known as a knowledge base, contains facts and rules
+to relate these facts distilled from a human expert. Users
+interact with an expert system by describing a particular
+situation or problem. The expert system takes the inputs and
+reset page 632
+-------------------------------------------- 分页分隔 --------------------------------------------
+searches the knowledge base until a solution or
+recommendation is formulated. Expert systems are highly
+specialized software built by experienced professionals in
+their field. Industries where expert systems are popular
+include medicine, geology, architecture, and nature.
+concept check
+What is an information worker?
+Who are data workers? What type of information system is designed to
+support them?
+Who are knowledge workers? What type of information system is designed
+to support them?
+What are expert systems? What is a knowledge base?
+Careers in IT
+“Now
+that you have learned about information systems, let me
+tell you about my career as an information systems manager.”
+Roman Samborskyi/Shutterstock
+reset page 633
+-------------------------------------------- 分页分隔 --------------------------------------------
+Information systems managers oversee the work of
+programmers, computer specialists, systems analysts, and
+other computer professionals. They create and implement
+corporate computer policy and systems.
+Most companies look for individuals with strong
+technical backgrounds, sometimes as consultants, with a
+master’s degree in business. Employers seek individuals
+with strong leadership and excellent communication skills.
+Information systems managers must be able to communicate
+with people in technical and nontechnical terms.
+Information systems management positions are often filled
+by individuals who have been consultants or managers in
+previous positions. Those with experience in computer and
+network security will be in demand as businesses and
+society continue to struggle with important security
+issues.
+Information systems managers can expect an annual salary
+of $90,430 to $208,000. Advancement opportunities typically
+include leadership in the field.
+page 261
+A LOOK TO THE FUTURE
+IBM’s Watson: The Ultimate Information-Finding
+Machine
+Have you noticed how much information is out there, from books and
+journals in your library to the millions of articles on the web? Do you
+ever wonder how professionals manage to read through all that research in
+reset page 634
+-------------------------------------------- 分页分隔 --------------------------------------------
+order to stay up to date in their field? Recently, as the amount of
+information increases, those professionals are finding it difficult to
+keep up. In the future, IBM hopes to change that through its information-
+finding supercomputer known as Watson. Technology has been making better
+information tools, and will continue to evolve to improve our lives as we
+look to the future.
+In 2011, Watson made headlines by defeating the two best contestants in
+the game show Jeopardy. What made the achievement so remarkable was that
+the computer had to read the question, understand what was being asked,
+search through 200 million pages of text, figure out what the best answer
+would be, and then hit a buzzer before the other contestants to deliver
+the answer. It accomplished all these steps in about 3 seconds.
+With this skill, IBM predicts that Watson could be the ultimate
+researcher, helping professionals in various industries find the
+information they are looking for in a matter of seconds. Several
+organizations have already “hired” Watson. One healthcare company will
+be using Watson to help suggest options based on a patient’s unique
+circumstances. It assists physicians and nurses by looking through
+millions of pages of medical research and then quickly identifying the
+most likely diagnosis and treatment options for the patient. To help
+Watson learn more about the medical field, IBM has partnered with a cancer
+center in order to “teach” Watson how to process the massive amount of
+cancer-related research and case studies. In the finance field, Watson has
+recently been learning about the complexities of Wall Street, with the
+hopes that it can help financial firms identify risks and rewards to
+improve the advice given to their customers.
+Rymden/Shutterstock
+In the future, IBM envisions Watson’s technology being an integral
+part of these two industries. In addition, it sees practical applications
+in call centers and technical support services. Countless organizations
+reset page 635
+-------------------------------------------- 分页分隔 --------------------------------------------
+and consumers would all benefit if access to this type of information
+technology became widespread. It would transform the way all of us do
+research and seek answers for our toughest problems.
+Since Watson’s debut, many other companies have developed similar
+systems. Ride-sharing company Uber uses Microsoft’s Azure Cognitive
+Services to verify the identity of its drivers. The United Kingdom’s
+National Health Services uses Quill, developed by Narrative Science, to
+analyze medical research documents and patient data to assist medical
+doctors in treating patients. They also use DeepMind, developed by Google,
+to analyze medical test results and to propose specific treatment options
+for patients.
+What do you think about these powerful services? Do you think you could
+one day have access to this powerful technology on your favorite search
+engine? How about at home? Do you believe it will be a beneficial support
+tool or a machine that threatens to take jobs away from professionals?
+page 262
+Information
+VISUAL SUMMARY
+Systems
+ORGANIZATIONAL INFORMATION FLOW
+reset page 636
+-------------------------------------------- 分页分隔 --------------------------------------------
+Information flows in an organization through functional
+areas and between management levels.
+Functions
+Most organizations have separate departments to perform
+five functions:
+Accounting—tracks all financial activities and
+generates periodic financial statements.
+Marketing—advertises, promotes, and sells the product
+(or service).
+Production—makes the product (or service) using raw
+materials and people to turn out finished goods.
+Human resources—finds and hires people; handles such
+matters as sick leave, retirement benefits, evaluation,
+compensation, and professional development.
+Research—conducts product research and development;
+monitors and troubleshoots new products.
+Management Levels
+The three basic management levels are
+reset page 637
+-------------------------------------------- 分页分隔 --------------------------------------------
+Top level—concerned with long-range planning and
+forecasting.
+Middle level—deals with control, planning, decision
+making, and implementing long-term goals.
+Supervisors—control operational matters, monitor day-
+to-day events, and supervise workers.
+Information Flow
+Information flows within an organization in different
+directions.
+For top-level managers, the information flow is
+primarily upward from within the organization and into
+the organization from the outside.
+For middle-level managers, the information flow is
+horizontal and vertical within departments.
+For supervisors, the information flow is primarily
+vertical.
+page 263
+To efficiently and effectively use computers within an
+organization, you need to understand how information
+flows through functional areas and management levels.
+You need to be aware of the different types of
+computer-based information systems, including
+transaction processing systems, management information
+systems, decision support systems, and executive
+support systems.
+INFORMATION SYSTEMS
+reset page 638
+-------------------------------------------- 分页分隔 --------------------------------------------
+Transaction Processing Systems
+Transaction processing systems (TPSs), sometimes called
+data processing systems (DPSs), record day-to-day
+transactions. Accounting activities include sales order
+processing, accounts receivable, inventory and
+purchasing, accounts payable, payroll, and general
+ledger. A general ledger is used to produce income
+statements and balance sheets.
+Management Information Systems
+Management information systems (MISs) produce
+predetermined reports (periodic, exception, demand).
+Decision Support Systems
+Decision support systems (DSSs) focus on unanticipated
+questions; consist of the user, system software, data
+(internal and external), and decision models. Three
+types are strategic, tactical, and operational. Group
+decision support systems (GDSS) support a team of
+decision makers.
+reset page 639
+-------------------------------------------- 分页分隔 --------------------------------------------
+Executive Support Systems
+Executive support systems (ESSs) are similar to MIS or
+DSS but easier to use. ESSs are designed specifically for
+top-level decision makers.
+Other Information Systems
+Many other systems are designed to support information
+workers who create, distribute, and communicate
+information. Three such systems are
+Office automation systems (OASs), which support data
+workers who are involved with distribution and
+communication of information. Project managers and
+videoconferencing systems are OASs.
+Knowledge work systems (KWSs), which support
+knowledge workers, who create information. Many
+engineers use computer-aided design/computer-aided
+manufacturing (CAD/CAM) systems.
+Expert (knowledge-based) systems, which are a type of
+knowledge work system. They use knowledge bases to
+apply expert knowledge to specific user problems.
+CAREERS in IT
+Information systems managers oversee a variety of other
+computer professionals. Strong leadership and
+communication skills are required; experience as a
+consultant and/or manager is desired. Expected salary
+range is $90,430 to $208,000.
+page 264
+reset page 640
+-------------------------------------------- 分页分隔 --------------------------------------------
+KEY TERMS
+accounting (249)
+accounts payable (254)
+accounts receivable (254)
+balance sheet (254)
+computer-aided design/computer-aided manufacturing
+(CAD/CAM) system (259)
+data (256)
+data processing system (DPS) (253)
+data worker (259)
+decision model (256)
+decision support system (DSS) (252, 256)
+demand report (255)
+exception report (255)
+executive information system (EIS) (252)
+executive support system (ESS) (252, 257)
+expert system (260)
+external data (256)
+general ledger (254)
+group decision support system (GDSS) (257)
+human resources (249)
+income statement (254)
+information system (248)
+information systems manager (260)
+information worker (259)
+internal data (256)
+inventory (254)
+reset page 641
+-------------------------------------------- 分页分隔 --------------------------------------------
+inventory control system (254)
+knowledge base (260)
+knowledge-based system (260)
+knowledge work system (KWS) (259)
+knowledge worker (259)
+management information system (MIS) (252, 255)
+marketing (249)
+middle-level manager (250)
+office automation system (OAS) (259)
+operational model (257)
+payroll (254)
+periodic report (255)
+production (249)
+project manager (259)
+purchase order (254)
+purchasing (254)
+research (249)
+sales order processing (254)
+strategic model (256)
+supervisor (250)
+system software (256)
+tactical model (257)
+top-level manager (250)
+transaction processing system (TPS) (252)
+user (256)
+videoconferencing system (259)
+page 265
+reset page 642
+-------------------------------------------- 分页分隔 --------------------------------------------
+MULTIPLE CHOICE
+Circle the correct answer.
+1. The accounting activity that records the customer
+requests for the company’s products or services is
+sales order .
+a. research
+b. accounting
+c. processing
+d. tracking
+2. The accounting activity concerned with calculating
+employee paychecks is .
+a. purchasing
+b. payroll
+c. TPS
+d. processing
+3. MIS produces this type of report.
+a. support summary
+b. boundary
+c. inventory
+d. standardized
+4. This function plans, prices, promotes, sells, and
+distributes the organization’s goods and services.
+a. accounting
+b. production
+c. marketing
+d. human resources
+reset page 643
+-------------------------------------------- 分页分隔 --------------------------------------------
+5. Select a managerial level where information flow is
+vertical and horizontal.
+a. top level
+b. middle level
+c. supervisors
+d. omega level
+6. Type of worker who is involved with the distribution and
+communication of information.
+a. data
+b. knowledge
+c. expert
+d. accountant
+7. Computer system that allows people located at various
+geographic locations to communicate and have in-person
+meetings.
+a. MIS
+b. videoconferencing
+c. managerial
+d. TPS
+8. A computer-based information system that uses data from
+TPS to support middle-level managers.
+a. ESS
+b. DSS
+c. MIS
+d. GPS
+9. A type of report that calls attention to unusual events.
+a. periodic
+b. emergency
+c. inventory
+d. exception
+reset page 644
+-------------------------------------------- 分页分隔 --------------------------------------------
+10. Type of software that works behind the scenes to handle
+detailed operating procedures.
+a. system
+b. ESS
+c. accounting
+d. supervisor
+page 266
+MATCHING
+Match each numbered item with the most closely related
+lettered item. Write your answers in the spaces provided.
+a. ac counting 1. Accounts payable refers
+b. balance to money the company
+owes its suppliers for
+sheet
+materials and services
+c. data
+it has __.
+d. general
+2. This accounting
+ledger
+activity keeps track of
+e. information
+all summaries of all
+f. MIS transactions.
+g. pe riodic 3. This managerial level
+h. project has information flow
+managers that is vertical,
+horizontal, and
+i. received
+external.
+j. top
+reset page 645
+-------------------------------------------- 分页分隔 --------------------------------------------
+4. This computer-based
+information system uses
+data from TPS and
+analytical tools to
+support middle managers.
+5. The type of worker
+involved with the
+distribution,
+communication, and
+creation of information.
+6. The type of program
+designed to schedule,
+plan, and control
+project resources.
+7. This accounting
+statement lists the
+overall financial
+condition of an
+organization.
+8. A type of report
+produced at regular
+intervals.
+9. A DSS consists of four
+parts: user, system
+software, decision
+mo dels, and .
+10. This basic
+organizational function
+records all financial
+activity from billing
+reset page 646
+-------------------------------------------- 分页分隔 --------------------------------------------
+customers to paying
+employees.
+OPEN-ENDED
+On a separate sheet of paper, respond to each question or
+statement.
+1. Name and discuss the five common functions of most
+organizations.
+2. Discuss the roles of the three kinds of management in a
+corporation.
+3. What are the four most common computer-based information
+systems?
+4. Describe the different reports and their roles in
+managerial decision making.
+5. What is the difference between an office automation
+system and a knowledge work system?
+page 267
+DISCUSSION
+Respond to each of the following questions.
+reset page 647
+-------------------------------------------- 分页分隔 --------------------------------------------

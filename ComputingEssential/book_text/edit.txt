@@ -1,0 +1,575 @@
+  page viii
+Contents
+INFORMATION TECHNOLOGY, THE INTERNET, AND YOU 
+2
+Introduction 
+4
+Information Systems 
+4
+People 
+6
+Software 
+7
+System Software  7
+Application Software  8
+Making IT work for you: Free Antivirus Program 
+9
+Hardware 
+10
+Types of Computers  10
+Cell Phones  11
+Personal Computer Hardware  11
+Data 
+13
+Connectivity and the Mobile Internet 
+14
+Careers in IT 
+15
+A Look to the Future: Using and Understanding Information
+Technology  16
+Visual Summary  17
+Key Terms  20
+Multiple Choice  21
+Matching  22
+Open-Ended  22
+Discussion  23
+THE INTERNET, THE WEB, AND ELECTRONIC COMMERCE 
+24
+Introduction 
+26
+The Internet and the Web 
+26
+Making IT work for you: Online Entertainment 
+28
+Internet Access 
+31
+Providers  31
+Browsers  31
+Web Utilities 
+33
+Filters  33
+File Transfer Utilities  33
+Internet Security Suites  34
+Communication 
+35
+Social Networking  35
+Blogs, Microblogs, Podcasts, and Wikis  36
+Messaging  37
+E-mail  38
+Search Tools 
+40
+Search Engines  40
+Content Evaluation  40
+Electronic Commerce 
+41
+Security  42
+Cloud Computing 
+43
+The Internet of Things 
+45
+Careers in IT 
+45
+A Look to the Future: Home Smart Home  46
+Visual Summary  47
+Key Terms  51
+Multiple Choice  52
+Matching  53
+Open-Ended  54
+Discussion  54
+APPLICATION SOFTWARE 
+56
+Introduction 
+58
+Application Software 
+58
+App Stores  58
+User Interface  58
+Common Features  61
+Mobile Apps 
+61
+Apps  61
+General-Purpose Applications 
+62
+Word Processors  62
+Presentation Software  65
+Spreadsheets  66
+Database Management Systems  68
+Specialized Applications 
+69
+Graphics Programs  69
+Video Game Design Software  70
+Web Authoring Programs  71
+Other Specialized Applications  72
+Software Suites 
+72
+Office Suites  72
+Cloud Computing  72
+Specialized and Utility Suites  72
+Careers in IT 
+73
+  page ix
+Making IT work for you: Cloud Office Suites 
+74
+A Look to the Future: The New Workplace Realities  76
+Visual Summary  77
+Key Terms  80
+Multiple Choice  81
+Matching  82
+Open-Ended  82
+Discussion  83
+SYSTEM SOFTWARE 
+84
+Introduction 
+86
+System Software 
+86
+Operating Systems 
+87
+Functions  87
+Features  88
+Categories  89
+Mobile Operating Systems 
+90
+Desktop Operating Systems 
+91
+Windows  91
+macOS  91
+UNIX and Linux  92
+Virtualization  92
+Utilities 
+93
+Making IT work for you: 
+Virtual Assistant 
+94
+Operating System Utilities  96
+Utility Suites  99
+Careers in IT 
+99
+A Look to the Future: Making Better Computers by Making Them More Human  100
+Visual Summary  101
+Key Terms  104
+Multiple Choice  105
+Matching  106
+Open-Ended  106
+Discussion  107
+THE SYSTEM UNIT 
+108
+Introduction 
+110
+System Unit 
+110
+Smartphones  110
+Tablets  110
+Laptops  111
+Desktops  111
+Making IT work for you: Gaming 
+112
+Wearable Computers  114
+Components  114
+System Board 
+115
+Microprocessor 
+116
+Microprocessor Chips  116
+Specialty Processors  117
+Memory 
+118
+RAM  118
+ROM  118
+Flash Memory  118
+Expansion Cards and Slots 
+119
+Bus Lines 
+120
+Expansion Buses  120
+Ports 
+121
+Standard Ports  121
+Specialized Ports  121
+Cables  122
+Power Supply 
+122
+Electronic Data and Instructions 
+123
+Numeric Representation  123
+Character Encoding  124
+Careers in IT 
+125
+A Look to the Future: Brain–Computer Interfaces  126
+Visual Summary  127
+Key Terms  130
+Multiple Choice  131
+Matching  132
+Open-Ended  132
+Discussion  133
+INPUT AND OUTPUT 
+134
+Introduction 
+136
+What Is Input? 
+136
+Keyboard Entry 
+136
+Keyboards  136
+Pointing Devices 
+138
+Touch Screens  138
+Mice  138
+Game Controllers  138
+Scanning Devices 
+139
+Optical Scanners  139
+Card Readers  140
+Bar Code Readers  140
+RFID Readers  141
+Character and Mark Recognition Devices  141
+Image-Capturing Devices 
+141
+Digital Cameras  141
+Webcams  142
+  page x
+Audio-Input Devices 
+142
+Voice Recognition Systems  142
+What Is Output? 
+143
+Monitors 
+143
+Features  143
+Flat-Panel Monitors  144
+E-book Readers  144
+Other Monitors  145
+Printers 
+146
+Features  146
+Inkjet Printers  147
+Laser Printers  147
+3D Printers  147
+Other Printers  147
+Audio-Output Devices 
+148
+Combination Input and Output Devices 
+148
+Headsets  148
+Multifunctional Devices  149
+Virtual Reality Head-Mounted Displays and Controllers  149
+Drones  149
+Making IT work for you: Headphones 
+150
+Robots  152
+Ergonomics 
+152
+Portable Computers  154
+Careers in IT 
+154
+A Look to the Future: The Internet of Things  155
+Visual Summary  156
+Key Terms  160
+Multiple Choice  161
+Matching  162
+Open-Ended  162
+Discussion  163
+SECONDARY STORAGE 
+164
+Introduction 
+166
+Storage 
+166
+Solid-State Storage 
+167
+Solid-State Drives  167
+Flash Memory Cards  168
+USB Flash Drives  168
+Hard Disks 
+169
+Internal Hard Disks  169
+External Hard Disks  169
+Network Drives  169
+Performance Enhancements  170
+Optical Discs 
+171
+Cloud Storage 
+172
+Making IT work for you: Cloud Storage 
+174
+Mass Storage Devices 
+176
+Enterprise Storage System  176
+Storage Area Network  177
+Careers in IT 
+177
+A Look to the Future: Next-Generation Storage  178
+Visual Summary  179
+Key Terms  182
+Multiple Choice  182
+Matching  183
+Open-Ended  184
+Discussion  184
+COMMUNICATIONS AND NETWORKS 
+186
+Introduction 
+188
+Communications 
+188
+Connectivity  188
+The Wireless Revolution  189
+Communication Systems  189
+Communication Channels 
+190
+Wireless Connections  190
+Physical Connections  191
+Connection Devices 
+192
+Modems  192
+Connection Service  193
+Making IT work for you: The Mobile Office 
+194
+Data Transmission 
+196
+Bandwidth  196
+Protocols  196
+Networks 
+197
+Terms  197
+Network Types 
+199
+Local Area Networks  199
+Home Networks  199
+Wireless LAN  200
+Personal Area Networks  200
+Metropolitan Area Networks  200
+Wide Area Networks  201
+Network Architecture 
+201
+Topologies  202
+Strategies  203
+Organizational Networks 
+203
+Internet Technologies  203
+Network Security  204
+Careers in IT 
+205
+  page xi
+A Look to the Future: Telepresence Lets You Be There without
+Actually Being There  206
+Visual Summary  207
+Key Terms  210
+Multiple Choice  211
+Matching  212
+Open-Ended  212
+Discussion  213
+PRIVACY, SECURITY, AND ETHICS 
+214
+Introduction 
+216
+People 
+216
+Privacy 
+216
+Big Data  217
+Private Networks  219
+The Internet and the Web  219
+Online Identity  222
+Major Laws on Privacy  223
+Security 
+223
+Cybercrime  223
+Social Engineering  225
+Malicious Software  225
+Malicious Hardware  225
+Measures to Protect Computer Security  226
+Ethics 
+231
+Cyberbullying  231
+Copyright and Digital Rights Management  231
+Making IT work for you: Security and Technology 
+232
+Plagiarism  234
+Careers in IT 
+235
+A Look to the Future: End of Anonymity  236
+Visual Summary  237
+Key Terms  240
+Multiple Choice  241
+Matching  242
+Open-Ended  243
+Discussion  243
+INFORMATION SYSTEMS 
+246
+Introduction 
+248
+Organizational Information Flow 
+248
+Functions  248
+Management Levels  250
+Information Flow  251
+Computer-Based Information Systems 
+252
+Transaction Processing Systems 
+253
+Management Information Systems 
+255
+Decision Support Systems 
+256
+Executive Support Systems 
+257
+Other Information Systems 
+259
+Expert Systems  260
+Careers in IT 
+260
+A Look to the Future: IBM’s Watson: The Ultimate Information-Finding Machine  261
+Visual Summary  262
+Key Terms  264
+Multiple Choice  265
+Matching  266
+Open-Ended  266
+Discussion  267
+DATABASES 
+268
+Introduction 
+270
+Data 
+270
+Data Organization 
+271
+Key Field  272
+Batch versus Real-Time Processing  272
+Databases 
+273
+Need for Databases  274
+Database Management  274
+DBMS Structure 
+276
+Hierarchical Database  276
+Network Database  277
+Relational Database  277
+Multidimensional Database  278
+Object-Oriented Database  279
+Types of Databases 
+280
+Individual  280
+Company  280
+Distributed  281
+Commercial  281
+Database Uses and Issues 
+282
+Strategic Uses  282
+Security  282
+Careers in IT 
+283
+A Look to the Future: The Future of Crime Databases  284
+Visual Summary  285
+Key Terms  288
+Multiple Choice  289
+Matching  290
+Open-Ended  290
+Discussion  291
+  page xii
+SYSTEMS ANALYSIS AND DESIGN 
+292
+Introduction 
+294
+Systems Analysis and Design 
+294
+Phase 1: Preliminary Investigation 
+296
+Defining the Problem  296
+Suggesting Alternative Systems  297
+Preparing a Short Report  297
+Phase 2: Systems Analysis 
+298
+Gathering Data  298
+Analyzing the Data  298
+Documenting Systems Analysis  300
+Phase 3: Systems Design 
+300
+Designing Alternative Systems  300
+Selecting the Best System  301
+Writing the Systems Design Report  301
+Phase 4: Systems Development 
+302
+Acquiring Software  302
+Acquiring Hardware  302
+Testing the New System  303
+Phase 5: Systems Implementation 
+303
+Types of Conversion  303
+Training  304
+Phase 6: Systems Maintenance 
+304
+Prototyping and Rapid Applications Development 
+305
+Prototyping  305
+Rapid Applications Development  305
+Careers in IT 
+306
+A Look to the Future: The Challenge of Keeping Pace  307
+Visual Summary  308
+Key Terms  312
+Multiple Choice  313
+Matching  314
+Open-Ended  314
+Discussion  315
+PROGRAMMING AND LANGUAGES 
+316
+Introduction 
+318
+Programs and Programming 
+318
+What Is a Program?  318
+What Is Programming?  318
+Step 1: Program Specification 
+320
+Program Objectives  320
+Desired Output  320
+Input Data  320
+Processing Requirements  321
+Program Specifications Document  321
+Step 2: Program Design 
+322
+Top-Down Program Design  322
+Pseudocode  323
+Flowcharts  323
+Logic Structures  325
+Step 3: Program Code 
+326
+The Good Program  326
+Coding  326
+Step 4: Program Test 
+328
+Syntax Errors  328
+Logic Errors  328
+Testing Process  328
+Step 5: Program Documentation 
+330
+Step 6: Program Maintenance 
+331
+Operations  331
+Changing Needs  331
+CASE and OOP 
+332
+CASE Tools  332
+Object-Oriented Software Development  333
+Generations of Programming Languages 
+334
+Machine Languages: The First Generation  334
+Assembly Languages: The Second Generation  334
+High-Level Procedural Languages: The Third Generation  334
+Task-Oriented Languages: The Fourth Generation  335
+Problem and Constraint Languages: The Fifth Generation  336
+Careers in IT 
+337
+A Look to the Future: Your Own Programmable Robot  338
+Visual Summary  339
+Key Terms  343
+Multiple Choice  344
+Matching  345
+Open-Ended  345
+Discussion  346
+The Evolution of the Computer Age 
+347
+The Computer Buyer’s Guide 
+358
+Glossary  362
+Index  383

@@ -1,0 +1,1956 @@
+
+page 383
+Index
+1G. See First generation
+2G. See Second generation
+3D printers, 147, 158
+3D scanners, 139–140, 157
+3G. See Third generation
+3GLs. See Third-generation languages
+4G. See Fourth generation
+4GLs. See Fourth-generation languages
+5G. See Fifth generation
+32-bit-word computer, 117
+64-bit-word computer, 117
+802.11ac, 190
+802.11ax, 190
+802.11g, 190
+802.11n, 190
+a
+AC. See Alternating current
+AC adapters, 122, 123, 129
+Access, 217, 237
+data dictionary form, 274, 275
+reset page 891
+-------------------------------------------- 分页分隔 --------------------------------------------
+data entry form, 275
+restricting, 230
+speed, 167, 179
+Accounting, 249, 262
+applications, 72
+area, 253
+TPS for, 253
+Accounts payable, 254, 263
+Accounts receivable, 254, 263
+Accuracy, 40–41, 49, 217, 237
+Active display area, 143, 144
+Activity trackers, 114, 127
+Ad-Aware, 222
+Additive manufacturing. See 3D printers
+Addresses, 32, 38, 47, 49
+Adobe Creative Cloud, graphics suites, 72
+Adobe Dreamweaver, 71
+Adobe Illustrator Draw, 70
+Adobe InDesign, 70
+Adobe Photoshop, 70
+Adobe Premier, 69
+ADSL. See Asymmetric digital subscriber line
+Advanced-fee scam, 224
+Advanced Research Project Agency Network (ARPANET), 26, 47,
+350
+Age of Connectivity, 353
+Agile development, 331–332, 342
+Aldebaran Robotics, 338
+Alignment, 61
+reset page 892
+-------------------------------------------- 分页分隔 --------------------------------------------
+All-in-one desktops, 111, 127
+Alternating current (AC), 122
+ALU. See Arithmetic-logic unit
+Amazon, 43, 59, 61, 77, 173, 355
+Amazon Prime, 28
+Amazon’s Alexa, 94, 95
+American Standard Code for Information Interchange (ASCII),
+124, 129, 167, 334, 349
+Analog signals, 123, 129, 192
+Android, 90, 102
+backup programs, 98
+search program, 96
+storage management programs, 97
+Animation, 65
+Anonymity
+end of, 236
+illusion of, 219, 237
+Anticipating disasters, 226, 230, 238
+Antispyware, 222, 237
+Antivirus programs, 93, 103
+Apple, 351, 352, 353, 355, 356
+Apple App Store, 58, 59, 77
+Apple FileMaker, 68, 78
+Apple Health App, 45, 50
+Apple iMac, 111
+Apple iMovie, 69, 90
+Apple iOS 15, 227
+Apple iPhone, 62
+Apple iTunes Music Store, 234, 239
+reset page 893
+-------------------------------------------- 分页分隔 --------------------------------------------
+Apple iWorks, 72, 74, 75
+Apple Keynote, 65, 78
+Apple macOS, 89
+Apple Mail, 39
+Apple News, 30
+Apple Numbers, 66, 78
+Apple Pages, 62, 78
+Apple Safari, 31
+Apple Watch, 11, 89, 114
+Application generation subsystem, 274–275, 286
+Application generators, 336
+Application programs, 318
+Application software, 8, 18, 58–61, 77
+app stores, 58
+common features, 61, 77
+general-purpose applications. See General-purpose
+applications
+mobile apps/applications, 8, 18, 58, 61–62
+software suites, 72
+specialized applications, 8, 18, 58, 69–72
+user interface, 58–60
+Apps, 8, 18, 61–62, 77
+App Stores, 58, 59, 77
+AR. See Augmented reality
+Arithmetic-logic unit (ALU), 116, 128
+Arithmetic operations, 116
+ARPANET. See Advanced Research Project Agency Network
+ASCII. See American Standard Code for Information Interchange
+Aspect ratio, 143
+reset page 894
+-------------------------------------------- 分页分隔 --------------------------------------------
+Assembly languages. See Second generation (2G)
+Asymmetric digital subscriber line (ADSL), 193, 208
+AT&T, 31
+Attachments, 39, 49
+Attributes, 271, 279, 285, 287
+Audio-input devices, 142, 157
+Audio-output devices, 148, 159
+Augmented reality (AR), 76, 112
+Authentication, 228, 238
+two-factor, 228, 238
+two-step, 228, 238
+Authority, 40, 49
+Autodesk Sketchbook, 70
+Automated design tools, 299
+Automatic teller machines, 254
+Autonomic computing systems, 100
+AVG, 9
+Antitrack, 222
+TuneUp, 72
+b
+B2B commerce. See Business-to-business commerce
+B2C commerce. See Business-to-consumer commerce
+Babbage, Charles, 347
+Backbone, 202, 209
+Background, 88, 101
+Back pain, 152
+Backup programs, 93, 98, 103
+reset page 895
+-------------------------------------------- 分页分隔 --------------------------------------------
+Backups, 230
+Balance sheets, 254, 263
+Bandwidth, 196, 208
+Bank loan/credit card scam, 224
+Bar codes, 140, 157
+readers, 140, 157
+Baseband, 196, 208
+Base station, 200, 208
+Basic input/output system (BIOS), 119
+Batch processing, 272, 285
+BDs. See Blu-ray discs (BDs)
+Beta testing, 329, 341
+Big data, 217–219, 237
+Binary system, 123, 129
+Bing, 32, 40, 49
+Biometric scanning, 227, 238
+devices, 227
+BIOS. See Basic input/output system
+Bit, 123
+Bitcoins, 42, 50
+Bitdefender Internet Security, 34, 99
+Bitmap, 70
+BitTorrent, 33–34, 48
+Blogs, 36, 48, 71, 79
+Bluetooth, 148, 159, 190, 200, 207
+Blu-ray discs (BDs), 12, 18, 171, 181
+Booting, 88, 101
+Botnet, 225, 238
+Brain-computer interfaces, 126
+reset page 896
+-------------------------------------------- 分页分隔 --------------------------------------------
+Broadband, 196
+Browser cache. See Temporary Internet files
+Browsers, 31–32, 47
+Bus. See Bus lines
+Business directories, 282
+Business statistical information, 282
+Business-to-business (B2B) commerce, 42, 50
+Business-to-consumer (B2C) commerce, 41, 50
+Bus lines, 110, 115, 120, 127, 128
+expansion buses, 120
+Bus network, 202, 209
+Bus width, 120, 128
+Buttons, 59, 60, 77
+Bytes, 123
+c
+C#, 327
+C++, 327, 335
+code, 326, 327
+C2C commerce. See Consumer-to-consumer commerce
+Cables, 31, 47, 110, 122, 129, 208
+coaxial, 191, 192
+ethernet, 191, 192
+fiber-optic, 191
+modem, 192
+service, 193, 208
+twisted-pair, 191
+Cache memory, 118, 128
+reset page 897
+-------------------------------------------- 分页分隔 --------------------------------------------
+CAN-SPAM, 39
+Capacity, 166, 179
+Card readers, 140, 157
+magnetic, 140, 157
+Cards, 110
+chip, 140, 157
+Carpal tunnel syndrome, 153, 159
+Cascading style sheets (CSS), 32, 47, 71
+Casual gaming, 112
+CDs. See Compact discs
+Cell phone. See Mobile
+Cells, 66, 190, 207
+Cell towers, 190, 207
+Cellular, 190, 207
+Cellular service providers, 193, 208
+Censorship, 27
+Central processing unit (CPU), 116, 128
+page 384
+Channels
+communication, 190–192
+physical connections, 191–192
+wireless connections, 190–191
+Character, 141, 271, 285
+effects, 61, 63
+encoding, 124, 129
+encoding standards, 124, 129
+Chief executive officer (CEO), 251
+reset page 898
+-------------------------------------------- 分页分隔 --------------------------------------------
+Child nodes, 276, 286
+Chip cards, 140, 157
+Chips, 115, 347, 350
+carriers, 115, 116, 127
+Circle, web filter, 33
+Circle with Disney, 33
+Cisco TelePresence, 206
+Clarity, 143
+Classes, 279, 287
+Client-based e-mail systems, 39, 49
+Clients, 43–44, 197, 208
+Client/server networks, 203, 209
+Clock speed, 117, 128
+Cloud computing, 14, 19, 43–44, 50, 72, 172, 181
+Cloud office suites, 6, 74–75
+Cloud printers, 147, 158
+Cloud storage, 6, 172–173, 174–175, 181, 195
+Google Drive Docs, 173
+organizational, 177, 181
+services, 173
+Cloud suites, 72, 73, 74
+Coaxial cable, 191, 192, 207
+Code review. See Desk checking
+Coding, 326, 340
+Cold boot, 88, 101
+Color, 146
+.com, 32
+Combination input and output devices, 148–149, 152, 159
+drones, 149, 159
+reset page 899
+-------------------------------------------- 分页分隔 --------------------------------------------
+headsets, 148, 159
+multifunctional devices (MFD), 149, 159
+robots, 152, 159
+virtual reality, 149, 159
+Combination keys, 137, 156
+Comcast, 31
+Commercial database, 281, 282, 287
+Common Business Oriented Language (COBOL), 349
+Common data item, 277, 286
+Communication(s), 27, 35–39, 47, 48–49, 188–190, 207
+blogs, 36, 48
+channels, 190–192
+computer, 188
+connection devices, 192–193
+connectivity, 188, 207
+data transmission, 196–197
+devices, 12, 18
+e-mail, 38–39
+Internet, 35–39
+links, 258
+messaging, 37–38
+microblogs, 36, 48
+mobile office, 194–195
+networks, 197–203
+and networks, 187, 188
+organizational networks, 203–205
+podcasts, 36–37, 48
+social networking, 35–36, 48
+systems, 189–190, 207
+reset page 900
+-------------------------------------------- 分页分隔 --------------------------------------------
+telepresence, 206
+wikis, 37, 48
+wireless revolution, 189, 207
+Community, 7, 17, 35, 37, 41, 138, 167, 218
+Amazon’s project, 191
+fake reviews, 61
+impact of technology, 6
+operating system, 88
+recycling, 116
+Compact discs (CDs), 12, 18, 171, 181
+Company database, 280–281, 282, 287
+Compatibility, 113
+Compiler, 335
+Computer age, evolution of, 347–357
+Computer-aided design/computer-aided manufacturing systems
+(CAD/CAM systems), 259, 260, 263
+Computer-aided software engineering (CASE) tools, 299, 332,
+333, 342
+Computer-based information systems, 252, 253
+Computer Buyer’s Guide, 358–361
+desktops, 359, 360–361
+laptop computers, 358, 360
+smartphones, 358, 360
+tablets, 358–359
+Computer crime. See Cyberterrorism
+Computer Fraud and Abuse Act, 226, 238
+Computer(s), 110, 188
+communications, 188
+desktop, 360–361
+reset page 901
+-------------------------------------------- 分页分隔 --------------------------------------------
+monitoring software, 221–222, 237
+networks, 197, 198, 203, 208
+technicians, 125, 129
+types of, 10–11, 18
+Computer security, 223
+anticipating disasters, 230
+encrypting data, 228–230
+measures to protecting, 226–230, 238
+preventing data loss, 230
+restricting access, 226–228
+Computer support specialists, 15, 19, 99, 103
+Computer technician, 15, 19
+“Compute time” flowchart, 325
+Conceptualization, 279
+Connected Generation, 347
+Connection
+service, 193
+technologies, 31, 47
+Connection devices, 189, 190, 192–193
+connection service, 193
+modems, 192–193
+Connectivity, 4, 14, 19, 146, 158, 188, 207
+Console gaming, 112–113
+Consumer-to-consumer (C2C) commerce, 41, 50
+Contactless payment, 140
+Content evaluation, 40–41, 49
+Contextual tabs, 60, 77
+Contrast ratios, 143
+Control, 250
+reset page 902
+-------------------------------------------- 分页分隔 --------------------------------------------
+unit, 116, 128
+Cookies, 220
+accepting, 220
+blocking, 220
+first-party, 220
+third-party, 220
+tracking, 220
+Copper lines, 193
+Coprocessors, 117
+Copyright, 231
+Cordless/wireless mouse, 138, 156
+Cortana, 93, 94, 142, 157
+CPU. See Central processing unit (CPU)
+Crackers, 225, 238
+Credit card, 42
+Credit card fraud, 42
+Crime databases, 284
+Crossy-road and Stardew Valley, 61, 62
+Cryptocurrency, 42
+Cryptoprocessors, 117
+CSS. See Cascading style sheets
+Currency, 41, 49
+Cyberbullying, 231, 239
+Cybercrime, 223–224, 238
+Cyberterrorism, 223, 238
+Cylinders, 169, 180
+d
+reset page 903
+-------------------------------------------- 分页分隔 --------------------------------------------
+Dark web, 219, 237
+Data, 4, 5, 13–14, 17, 19, 256, 270
+administration subsystem, 275, 286
+analysis, 67
+cube, 278, 287
+definition subsystem, 274, 286
+dictionary, 274
+encryption, 228–230
+integrity, 273, 274
+less redundancy, 274
+loss prevention, 230
+maintenance, 274, 286
+mining, 282
+redundancy, 274
+security, 230
+storage, 166
+warehouse, 282
+workers, 259
+Data banks, 281, 287
+Database, 68, 78
+creation of, 68
+files, 14, 19
+Database administrators (DBAs), 275, 283, 286, 287
+Database management system (DBMS), 8, 68, 78, 255, 274, 286
+access data dictionary form, 274, 275
+access data entry form, 275
+department of motor vehicles, 278
+engine, 274, 286
+hierarchical database, 276–277, 286
+reset page 904
+-------------------------------------------- 分页分隔 --------------------------------------------
+multidimensional database, 278–279, 287
+network database, 277, 286
+object-oriented database, 279–280, 287
+organization, 280
+relational database, 277–278, 286
+structure, 276–280
+Database manager, 68, 78
+Databases, 248, 271, 272–273, 285
+commercial, 281, 282
+company, 280–281, 282
+data organization, 271–272
+DBMS, 274–275
+DBMS structure, 276–280
+distributed, 281, 282
+individual, 280, 282
+model, 276, 286
+need for, 274, 286
+security, 282–283, 287
+strategic uses, 282, 287
+types of, 280–282
+uses and issues, 282–283
+Data flow
+diagrams, 299, 300
+diagram symbols, 300
+Data manipulation, 224, 238
+subsystem, 274, 286
+Data organization, 271–273
+batch processing, 272, 285
+key field, 272, 285
+reset page 905
+-------------------------------------------- 分页分隔 --------------------------------------------
+logical, 271
+real-time processing, 273, 285
+Data processing systems (DPSs). See Transaction processing
+system
+Data transmission, 196–197
+bandwidth, 196
+protocols, 196–197
+specifications, 190
+DBMS. See Database management system
+Debnath, Shantanu, 357
+Debts, 254
+Debugging, 328, 341
+Decision making, 248, 250
+Decision models, 256, 263
+Decision support system (DSS), 252, 253, 256–257, 258, 262
+Deep fakes, 40, 49
+Deep web, 219, 237
+Demand report, 255
+Demodulation, 192, 208
+Demographic data, 282
+Denial of service attacks (DoS attacks), 224, 238
+Density, 169, 180
+Department of Defense, 191
+Desired output, end user’s sketch of, 320, 321, 339
+Desk checking, 328, 341
+Desktop browsers, 32, 47
+Desktop operating systems, 8, 18, 89, 101
+Linux, 92, 103
+macOS, 91–92, 102
+reset page 906
+-------------------------------------------- 分页分隔 --------------------------------------------
+UNIX, 92, 103
+virtualization, 92–93, 103
+Windows, 91, 102
+Desktop(s), 88, 101, 111, 127, 359
+all-in-one, 111, 127
+computers, 11, 18, 109, 360–361
+publishing programs, 70, 79
+Device drivers, 86, 101
+page 385
+Diagnostic program, 93, 103
+Dialog boxes, 59, 60, 77, 89, 101
+Dial-up services, 193, 208
+Dictionary attacks, 226, 238
+Digital cameras, 141, 142, 157
+Digital cash, 42, 50
+providers, 42
+Digital currency, 42, 50
+Digital electronic signals, 123
+Digital Equipment Corporation (DEC), 350
+Digital footprint, 217, 237
+Digital Millennium Copyright Act, 231, 237
+Digital projectors, 145, 158
+Digital rights management (DRM), 231–232, 239
+Digital signals, 122, 129
+Digital subscriber line (DSL) service, 192, 193, 208
+Digital versatile discs (DVDs), 12, 18, 171, 181
+Digital video disc (DVD), 12
+reset page 907
+-------------------------------------------- 分页分隔 --------------------------------------------
+Digital Video Interface (DVI) ports, 121, 129
+Digital whiteboards, 145, 158
+Direct approach, 303, 310
+Direct current (DC), 123, 122
+Directory server, 198, 208
+Disaster recovery plans, 230
+Disaster recovery specialists, 177, 181
+Disk caching, 170, 180
+Disk surface, 169
+Display, 12, 18
+Display Ports (DP), 121, 129
+Display screens. See Monitors
+Distributed database, 281, 282
+Distributed denial of service (DDoS), 224, 238
+DP. See DisplayPort
+DNA, 178
+Documentation, 319, 330
+Documents, 61
+files, 13, 19
+scanner, 139, 140, 157
+theme, 65
+Domain name, 32, 47
+Domain name server (DNS), 197
+converting text-based addresses to numeric IP addresses,
+197
+Dot (pixel) pitch, 143
+Dots per inch (dpi), 146, 158
+Dow Jones Factiva, 281
+Downlink, 191
+reset page 908
+-------------------------------------------- 分页分隔 --------------------------------------------
+Downloading, 33, 48
+Drawing programs, 70, 79
+Drives, 167
+Drones, 149, 159
+DS3 lines. See T3 lines
+DSL (digital subscriber line), 31, 47
+DSS. See Decision support system
+Dual in-line memory module (DIMM), 118, 128
+Duckduckgo, 40, 49
+Duplex printing, 146, 158
+DVDs. See Digital versatile discs
+DVI (Digital Video Interface) ports, 121
+e
+eBay, 41
+EBCDIC. See Extended Binary Coded Decimal Interchange Code
+eBid, 41
+Eckert, J. Presper, Jr., 348
+Economic feasibility, 300, 309
+.edu, 32
+Education, 27, 47
+E-ink, 144
+EIS. See Executive information system
+E-learning, 27, 46
+Electronic-book readers (e-readers), 144, 158
+Electronic books (e-books), 144, 145, 158
+Electronic commerce (e-commerce), 41–43, 50, 188
+security, 42, 50
+reset page 909
+-------------------------------------------- 分页分隔 --------------------------------------------
+types of, 41–42, 50
+Electronic data and instructions, 123–124, 129
+character encoding, 124, 129
+numeric representation, 123–124, 129
+Electronic mail (e-mail), 38–39, 49, 188
+client-based, 39, 49
+encryption, 228, 229
+web-based, 39
+Electronic Numerical Integrator and Computer (ENIAC), 348
+Electronic Recording Machine Accounting (ERMA), 349
+E-mail. See Electronic mail
+Embedded operating systems, 8, 18, 89, 101
+Employee-monitoring software, 219, 237
+Encryption, 228, 238
+e-mail, 228, 229
+file, 228–229
+key, 228, 238
+website, 229
+End users, 4, 17
+Enterprise storage system, 176–177, 181
+Entertainment, online, 27–29, 47
+Entity, 271, 285
+Environment, 4
+Equity, 254
+Ergonomic(s), 152–154, 159
+keyboard, 153
+physical problems, 152
+portable computers, 154, 159
+recommendations, 153, 159
+reset page 910
+-------------------------------------------- 分页分隔 --------------------------------------------
+ESSs. See Executive support systems
+Ethernet, 199, 208
+cables, 191, 207
+ports, 121, 129
+Ethics, 7, 16, 17, 27, 190, 216, 222, 231, 239
+computer, 231, 239
+copyright, 231–232
+cyberbullying, 231
+DRM, 231
+end of anonymity, 236
+image editing software, 69
+IT security analysts, 235, 239
+plagiarism, 234
+voice assist tools, 87
+Etsy, 41
+Exception reports, 255
+Executive information system (EIS), 252
+Executive support systems (ESSs), 252, 253, 257–258, 263
+Expansion buses, 120, 128
+Expansion cards, 119–120, 128
+Expansion slots, 110, 119–120, 128
+Expert systems, 260
+Extended Binary Coded Decimal Interchange Code (EBCDIC), 124,
+129, 167
+External data, 256, 263
+External hard drives, 169, 180
+Extranet, 204, 209
+Eyestrain, 152
+reset page 911
+-------------------------------------------- 分页分隔 --------------------------------------------
+f
+Facebook, 26, 30, 36, 48, 77, 218, 355
+digital cash (Libra), 42
+profile, 35
+Facebook Messenger, 38
+Facial recognition, 227, 238
+Fake news, 40, 49
+Fake reviews, 61
+Family Educational Rights and Privacy Act (FERPA), 223, 237
+Feedly, 30
+Femtosecond, 117
+Fiber-optic cable, 191, 207
+Fiber-optic service (FiOS), 193, 208
+Field, 271, 285
+Fields, database, 68
+Fifth generation (5G), 347, 353
+mobile telecommunications, 193, 208
+Fifth-generation language (5GL), 336
+File compression, 170, 180
+File decompression, 170, 180
+File(s), 89, 101
+database, 14, 19
+encryption, 228–229
+transfer utilities, 33–34, 48
+types, 13–14
+File servers, 176
+File transfer, 34
+File transfer protocol (FTP), 34, 48
+reset page 912
+-------------------------------------------- 分页分隔 --------------------------------------------
+Filters, 33, 34, 48
+Final Fantasy, 77
+Fingerprint, 227, 227
+Firewalls, 204, 209, 227, 238, 283
+FireWire buses, 120, 128
+FireWire ports, 121
+First generation (1G), 334, 347, 348
+mobile telecommunications, 193, 208
+First-party cookie, 220
+Fitbit, 45, 46, 50
+Flash, 118
+Flash drives, 167
+Flash memory, 118–119, 128, 167, 178, 179
+cards, 168, 179
+Flatbed scanner, 139, 157
+Flat-panel monitors, 144, 158
+Flexible screens, 145
+Flowcharts, 323, 325, 339, 340
+for “Compute time on Client A jobs,” 324
+symbols, 323
+system, 299
+Flyer creation, 63
+Folders, 89, 101
+Foreground, 89, 101
+Forms, database, 68
+Formulas, 66
+FORmula TRANslator (FORTRAN), 348
+Fourth generation (4G), 347, 351
+mobile telecommunications, 193, 208
+reset page 913
+-------------------------------------------- 分页分隔 --------------------------------------------
+Fourth-generation languages (4GLs), 335
+Free antivirus program, 6, 9
+Freedom of Information Act, 219, 237
+Free-to-play, 62
+Friends, 35, 38, 48, 49, 112
+Froala 4.0, 71
+FTP. See File transfer protocol
+Functions, 66, 87–88
+g
+Galleries, 59, 60, 77
+Game controllers, 138, 139, 156
+Gamepads, 138, 139, 156
+Games, 112, 113
+Games app, 61–62
+Gaming, 6, 112–113
+console, 112–113
+gamepads, 138, 139
+joysticks, 138, 139
+laptops, 111, 127
+mice, 138, 139
+mobile, 112
+motion-sensing devices, 139, 139
+PC, 113
+Gates, Bill, 352
+Gbps, 190
+General Electric Corporation, 349
+General ledger, 254, 263
+reset page 914
+-------------------------------------------- 分页分隔 --------------------------------------------
+General-purpose applications, 8, 18, 58, 61–68, 77–78
+database management system, 68
+presentation software, 67, 78
+spreadsheets, 66–67, 78
+word processors, 62–64, 78
+Generations of programming languages, 334
+Gesture control, 89, 101
+Global positioning system (GPS), 191, 207
+navigation, 191
+virtual assistants, 95
+Google, 40, 43, 49, 90, 355, 356
+Google Android, 77
+Google Assistant, 26, 94
+Google Chrome OS, 31–32, 92, 103, 221
+Google Cloud Print, 147, 158
+Google Docs, 62, 72, 74, 75, 77
+Google Drive Apps, 44
+page 386
+Google Drive Docs, 173
+Google Gmail, 39
+Google Hangouts, 38
+Google Nest, 45, 46
+Google News, 30
+Google Now, 142, 157
+Google Pay, 42
+Google Play, 59, 77
+Google Podcasts, 30
+reset page 915
+-------------------------------------------- 分页分隔 --------------------------------------------
+Google Search engine, 26
+Google Sheets, 66
+Google Slides, 65, 78
+Google Street View, 217, 218
+Google Translate, 142
+.gov, 32
+GPU. See Graphics processing unit
+Grammar checker, 61
+Gramm-Leach-Bliley Act, 223, 237
+Graphical user interface (GUI), 58–59, 77, 87, 101
+Ribbon, 59, 77
+traditional, 59
+Graphics, 69–70, 79
+cards, 119, 128
+coprocessor, 117, 128
+Graphics processing unit (GPU), 117, 128
+Grayscale, 146, 158
+Greeting card scam, 224
+Grid charts, 299, 309
+Group decision support systems (GDSS), 257, 262
+Groups, 35, 48, 60, 78
+Guest operating system, 93, 103
+GUI. See Graphical user interface
+h
+Handwriting recognition software, 138, 156
+Haptic technology, 206
+Hard disks, 12, 18, 166, 169–170, 180
+reset page 916
+-------------------------------------------- 分页分隔 --------------------------------------------
+drives, 115
+external, 169, 180
+internal, 167, 169, 180
+network drives, 169, 180
+performance enhancements, 170, 180
+Hardware, 4, 5, 10–13, 17, 18. See also Computer(s)
+personal computer, 11–12, 18
+HBO Max (hbomax.com), 28
+HD 720, 143
+HD 1080, 143
+HDMI ports. See High Definition Multimedia Interface ports
+Headache, 152
+Header, 38, 49
+Headphones, 148, 150–151, 159
+Headsets, 148, 159
+Health Insurance Portability and Accountability Act (HIPAA),
+223, 237
+HealthWise, 251
+Group, 248
+monthly sales and production reports, 255
+Heat-assisted magnetic recording (HAMR), 178
+Help, 89, 101
+Hexadecimal system (hex), 124
+Hidden costs, 112
+Hierarchical database, 276–277
+Hierarchical network, 202, 211
+Hierarchical organization, 280
+High-definition (hi-def), 171, 181
+reset page 917
+-------------------------------------------- 分页分隔 --------------------------------------------
+High Definition Multimedia Interface (HDMI) ports, 121, 122,
+129
+Higher-level languages, 334, 335, 342
+High-frequency transmission cable, 191
+High-level procedural languages, 334–335
+High-speed Internet wireless technology, 189
+History files, 219, 237
+Hoff, Ted, Dr., 351
+Home, 201
+Home networks, 199, 208
+Hopper, Grace, Dr., 348
+Host, 198, 208
+Host operating system, 92, 103
+Hotspots, 200
+HTML. See Hypertext Markup Language
+HTML editors, 71, 79
+Hub, 198
+Hulu (hulu.com), 28
+Human resources, 249, 262
+Hybrid drives, 170, 180
+Hyperlinks, 32, 47
+Hypertext Markup Language (HTML), 32, 47, 71
+Hypertext transfer protocol secure (https), 196, 208, 229,
+238
+i
+IBM, 42, 348, 350, 352, 357
+Blue Gene supercomputer, 10
+reset page 918
+-------------------------------------------- 分页分隔 --------------------------------------------
+Watson, 261
+Icons, 58, 88, 101
+Identification, 196–197
+Identity theft, 223, 224, 238
+Industrial robots assemble automobiles, 152
+IF-THEN-ELSE structure, 325
+IFPS (interactive financial planning system), 335
+Illusion of anonymity, 223, 240
+Illustration programs, 70, 79
+IM. See Instant messaging
+Image-capturing devices, 141–142, 157
+Image editing software, 69
+Image editors, 70, 79
+Immersive experience, 149, 159
+Incognito Mode, 221
+Income statements, 254, 263
+Individual database, 280, 282, 287
+Indy games, 113
+Infected USB flash drives, 226, 238
+Information, 4, 17
+brokers, 217, 237
+flow, 251–252, 262
+resellers, 217, 237
+workers, 259
+Information systems, 17, 248, 256, 259–260, 263, 294
+computer-based information systems, 252, 253
+data, 4, 5, 13–14, 17
+DSS, 252, 253, 256–257, 258, 263
+ESSs, 252, 253, 257–258, 263
+reset page 919
+-------------------------------------------- 分页分隔 --------------------------------------------
+expert systems, 260
+hardware, 4, 5, 10–13, 17
+IBM’s Watson, 261
+Internet, 4, 5, 17
+managers, 260
+MIS, 252, 253, 255, 258, 263
+organizational information flow, 248–252
+parts of, 4–5
+people, 4, 5, 6–7, 17
+procedures, 4, 5, 17
+software, 4, 5, 7–8, 17
+TPS, 253–254, 258, 263
+Information technology (IT), 7, 17
+free antivirus program, 6, 9
+future trends, 16
+information systems. See Information systems
+Information utilities, 281, 287
+Infrared, 191, 207
+Inkjet printers, 147, 158
+Input, 136, 156
+audio-input devices, 142
+character and mark recognition devices, 141
+data, 320–321, 339
+devices, 12, 18, 111, 112, 136, 156
+image capturing devices, 141–142
+keyboard entry, 136–137
+pointing devices, 138–139
+RFID reader, 141–142
+scanning devices, 139–140
+reset page 920
+-------------------------------------------- 分页分隔 --------------------------------------------
+Instagram, 36, 48, 61, 77
+Instant messaging (IM), 37–38, 49
+Integrated circuit (IC). See Chips
+Integrated Circuit Age, 350
+Intel Corporation, 43, 351, 356
+Interactive financial planning system (IFPS), 335
+Interactive whiteboards, 145, 158
+Internal data, 256, 263
+Internal hard disk, 169, 180
+International Telecommunications Satellite Consortium
+(Intelsat), 191
+Internet, 4, 5, 12, 14, 16, 17, 19, 33, 44, 47, 188, 219–
+223, 237, 248
+access, 31–32
+browsers, 31–32, 47
+cloud computing, 43–44
+common uses of, 47
+communications, 35–39
+e-commerce, 41–43, 50
+IoT, 45–46, 50
+providers, 31
+scams, 223–224
+search tools, 40–41
+security suite, 34, 48
+smart homes, 46
+technologies, 203–204, 209
+and web, 26–27, 47
+Internet of Things (IoT), 15, 19, 45–46, 46, 50, 114, 155
+Internet protocol address (IP address), 196–197, 208, 219
+reset page 921
+-------------------------------------------- 分页分隔 --------------------------------------------
+Internet scams, 223–224, 238
+Internet security suite, 34, 48
+Internet service providers (ISPs), 31, 47, 224
+Internet technologies, 203–204
+Interpreter, 335
+Intranet, 203–204, 209
+Intrusion detection systems (IDS), 205, 209
+Intuit QuickBooks, 72
+Inventory, 254, 263
+control system, 254
+iOS, 90, 102
+backup programs, 98
+search program, 96
+storage management programs, 97
+IoT. See Internet of Things
+iPhone OS (iOS), 90
+Iris scanners, 227
+iRobot, 338
+ISP. See Internet service provider
+IT security analysts, 235, 239
+j
+Jacquard, Joseph Marie, 347
+Java, 327
+JavaScript, 32, 47, 327
+Jobs, Steve, 351
+Joysticks, 138, 139, 156
+reset page 922
+-------------------------------------------- 分页分隔 --------------------------------------------
+k
+Key, 228
+Keyboard, 12, 18, 136, 156
+attachments, 111
+entry, 136–137
+ergonomic, 153
+laptop, 137, 156
+traditional, 137, 156
+virtual, 137, 156
+Key field, 272, 285
+Keylogger, 222, 237
+Knowledge base, 260, 263
+Knowledge-based systems. See Expert systems
+Knowledge workers, 259
+Knowledge work systems (KWSs), 259, 263
+l
+Lands, 171, 181
+Language translators, 86, 101
+LANs. See Local area networks (LANs)
+Laptop(s), 11, 18, 111, 127, 154, 359–360
+computers, 358
+gaming, 111, 127
+keyboards, 137, 156
+two-in-one, 111, 127
+Large databases, 217–219
+Large-scale integration (LSI), 351
+Laser printer, 147, 158
+reset page 923
+-------------------------------------------- 分页分隔 --------------------------------------------
+page 387
+Laws on privacy, 223
+LCD. See Liquid crystal display
+LED. See Light-emitting diode
+Less data redundancy, 274
+Levels of programming languages, 334
+LexisNexis, 281
+Libra (Facebook’s digital cash), 42
+Light-emitting diode (LED), 144, 158
+Line-of-sight communication, 190
+LinkedIn, 36, 48
+Links, 32, 47
+Linux, 89, 90, 92, 203
+Liquid crystal display (LCD), 144, 158
+Local area networks (LANs), 199, 200, 208, 351
+adapter, 198
+Location, 32, 47
+Logical operations, 116
+Logical view, 270
+Logic errors, 328, 339, 341
+Logic structures, 325, 339, 340
+Long-range planning, 250
+Long Term Evolution (LTE), 193, 208
+Loop. See Repetition logic structure
+Lottery scam, 224
+Low bandwidth. See Voiceband
+Lower-level languages, 334, 342
+reset page 924
+-------------------------------------------- 分页分隔 --------------------------------------------
+m
+Machine languages. See First generation (1G)
+Macintosh, 352
+macOS, 8, 89, 91–92, 102
+backup programs, 98
+search program, 96
+storage management programs, 97
+macOS High Sierra, 91, 102
+macOS X, 103
+macOS X Server, 203
+macOS 12 Monterey, 91
+Magix’s Sound Forge Pro 15, mastering suites, 72
+Magnetic card reader, 140, 160
+Magnetic field, 178
+Magnetic-ink character recognition (MICR), 141, 157
+Mainboard. See System board
+Mainframe computers, 10, 18
+Maintenance programmer, 331
+Malicious programs, 8
+Malicious software, 225, 238
+Malware, 225, 238
+Management information system (MIS), 252, 253, 255, 258, 263
+Management levels, 250, 262
+MANs. See Metropolitan area networks (MANs)
+Manual testing, 329, 341
+Many-to-many relationship, 277, 286
+Marketing, 249, 262
+Mark recognition devices, 141
+reset page 925
+-------------------------------------------- 分页分隔 --------------------------------------------
+Mass storage, 176, 181
+devices, 176–177, 181
+enterprise storage system, 176–177, 181
+storage area network, 177, 181
+Mauchly, John W., Dr., 348
+MaxiCode, 140, 157
+Mbps, 192
+Media, 166, 179
+Medium band, 196
+Megabits per second (Mbps), 192, 208
+Megabytes (MB), 171
+Memory, 11–12, 18, 110, 118, 119, 128, 146
+cache, 118, 128
+capacity, 118
+DIMM, 118, 128
+flash, 118–119, 128, 167
+RAM, 12, 18, 118, 128
+ROM, 118, 128
+virtual, 118, 128
+Menu bar, 59, 59, 77
+Menus, 59, 77, 89, 101
+Mesh network, 202, 209
+Message, 39, 49
+Messaging, 37–38, 49
+Methods, 279, 287
+Metropolitan area networks (MANs), 200–202, 208
+MICR. See Magnetic-ink character recognition
+Microblogs, 36, 48
+Microprocessor, 11, 18, 110, 115, 116–117, 128
+reset page 926
+-------------------------------------------- 分页分隔 --------------------------------------------
+chips, 116, 128
+specialty processors, 117
+Microprocessor Age, 351
+Microsecond, 117
+Microsoft, 43, 49, 353, 355, 356, 357
+Microsoft Access, 68, 78
+Microsoft Cortana monitors, 95
+Microsoft Edge, 31
+Microsoft Excel, 66
+Microsoft Office, 72, 90
+Microsoft Office 365, 72, 74
+Microsoft PowerPoint, 65, 78
+Microsoft Project, 72, 259
+Microsoft Publisher, 70
+Microsoft search engine, 32
+Microsoft Store, 58, 59, 77
+Microsoft’s Outlook, 39
+Microsoft’s Photos, 70
+Microsoft Windows 11, 227
+Microsoft Windows operating systems, 88, 89, 91
+Microsoft Word, 62, 71, 78
+Microsoft Xbox One, 112
+Microwave, 190, 207
+dish, 191
+transmissions, 191
+Middle-level managers, 251, 262
+Middle management, 250
+Middle managers, 255
+Midrange computers, 10–11, 18
+reset page 927
+-------------------------------------------- 分页分隔 --------------------------------------------
+.mil, 32
+Minecraft, 77
+Mini DisplayPort (MiniDP/mDP) ports, 121, 129
+Mini notebooks. See Ultrabooks
+Mini tablets, 110
+MIS. See Management information system (MIS)
+Mistaken identity, 218
+MMS (Multimedia Messaging Service), 37
+Mobile, 11, 18
+browsers, 32, 47
+computing, 187
+devices, 8
+gaming, 112
+hotspot device, 194
+office, 194–195
+operating systems, 90, 102
+Mobile apps/applications, 8, 18, 58, 61–63, 77
+Mobile Internet, 14–15, 19
+Mobile office, 6
+Modems, 12, 18, 31, 192, 208
+Modulation, 192
+Modules, 322
+Moneytree Software’s TOTAL Planning Suite, 72
+Monitors, 12, 18, 143–145, 158
+e-readers, 144, 145, 158
+features, 143, 158
+flat-panel, 144, 158
+resolution, 143
+Motherboard. See System board
+reset page 928
+-------------------------------------------- 分页分隔 --------------------------------------------
+Motion-sensing devices, 139, 139, 156
+Mouse, 12, 18, 138, 156
+cordless/wireless, 138
+pointer, 138, 156
+Mozilla Firefox, 31
+Multicore processors, 117, 128
+Multidimensional database, 278–279, 287
+Multidimensional data model, 278
+Multidimensional organization, 280
+Multifunctional devices (MFD), 149, 159
+Multilevel cells (MLCs), 178
+Multitasking, 88, 101
+Multitouch screens, 138, 156
+Music apps, 77
+n
+Nanosecond, 117
+Nao robots, 338
+Natural languages, 336
+Neck pain, 152
+.net, 32
+Netflix, 32, 61, 77, 356
+Net Nanny, 33
+Net neutrality, 231
+Network, 14, 19
+administrator, 199, 205, 208, 209
+architecture, 201–203, 209
+communications and, 187, 188, 197
+reset page 929
+-------------------------------------------- 分页分隔 --------------------------------------------
+computer, 198, 208
+database, 277, 286
+gateway, 199, 208
+organizational networks, 203–205
+security, 204–205, 209
+strategies, 201
+telepresence, 206
+terms, 197–199
+topology, 201
+types, 199–201, 208
+Network adapter cards. See Network interface cards (NIC)
+Network administrator, 15, 19, 199
+Network attached storage (NAS), 176, 181
+Network drives, 169, 180
+Network interface cards (NIC), 119–120, 128, 198, 208
+Network operating systems (NOS), 8, 18, 89–90, 101, 199, 208
+Network organization, 280
+Network server, 89, 101
+News feeds, 30, 35, 48
+Newspapers, 35
+Next-generation storage, 178
+Nintendo Switch, 112
+Nodes, 197, 208, 276, 286
+Norton Security, 222
+Norton’s utility suite, 99
+NOS. See Network operating systems
+NoSQL, 280, 287
+Notebook computers, 11, 18
+Numeric representation, 123–124, 129
+reset page 930
+-------------------------------------------- 分页分隔 --------------------------------------------
+o
+OASs. See Office automation systems (OASs)
+Object code, 335
+Objectivity, 41, 49
+Object-oriented organization, 280
+Object-oriented programming (OOP), 333, 342
+Object-oriented software development, 333, 342
+Objects, 279, 287, 342
+OCR. See Optical-character recognition
+Office automation systems (OASs), 259, 263
+Office software suites. See Office suites
+Office suites, 72, 79
+OLED. See Organic light-emitting diode
+OMR. See Optical-mark recognition
+One-to-many relationship, 276, 286
+Online, 27
+books, 29
+entertainment, 27–29, 47
+music, 28
+processing. See Real-time processing
+registration systems, 254
+video, 28
+Online identity, 222, 237
+Online office suites. See Cloud suites
+Online storage. See Cloud storage
+Open-source software, 92, 103
+page 388
+reset page 931
+-------------------------------------------- 分页分隔 --------------------------------------------
+Operating systems (OS), 8, 18, 86, 87–93, 101
+defined, 87
+embedded/real-time, 8, 18, 89, 101
+features, 88–89, 101
+functions, 87–88, 101
+mobile, 90, 102
+network, 8, 18, 89, 101
+stand-alone, 8, 18, 89
+utilities, 96–98, 103
+voice assist tools, 87
+Operational feasibility, 301, 309
+Operational models, 257, 263
+Operators, 330, 341
+Optical carrier (OC) lines, 193, 208
+Optical-character recognition (OCR), 141, 157
+Optical discs, 12, 18, 171–172, 181
+BDs, 171, 181
+CDs, 171, 181
+drive, 171, 181
+DVDs, 171, 181
+read-only, 171, 181
+recordable (R) disc, 172
+rewritable, 172, 181
+types of, 172
+UHD BD, 171, 181
+write-once, 172, 181
+Optical-mark recognition (OMR), 141, 157
+Optical scanners, 139–140, 157
+3D scanners, 139, 140, 157
+reset page 932
+-------------------------------------------- 分页分隔 --------------------------------------------
+document scanner, 139, 140, 157
+flatbed scanner, 139, 157
+portable scanner, 139, 157
+Oracle Database Express Edition, 68
+.org, 32
+Organic light-emitting diode (OLED), 144, 158
+Organizational cloud storage, 177, 181
+Organizational information flow, 248–252
+functions, 248–250
+information flow, 251–252
+management levels, 250
+Organization chart, 298, 309
+Organizations, 16
+OS. See Operating systems
+Output, 143, 158
+audio-output devices, 148
+devices, 12, 18, 111, 143, 158
+monitors, 143–145
+printers, 146–148
+p
+P2P network. See Peer-to-peer network
+Packetization, 197
+Packets, 197, 208
+Page layout programs, 70, 79
+Pages, 35, 48
+PAN. See Personal area network (PAN)
+Pandora, 77, 234
+reset page 933
+-------------------------------------------- 分页分隔 --------------------------------------------
+Parallel approach, 303, 310
+Parallel processing, 117, 128
+Parallels (virtual machine program), 92, 103
+Parent node, 276, 286
+Password managers, 227, 238
+Passwords, 226, 238
+Patches, 331, 342
+Paychecks, 254
+PayPal, 43
+Payroll, 254, 263
+PCIe. See PCI Express
+PCI Express (PCIe), 120, 128
+PCs. See Personal computers
+Peer-to-peer (P2P) network, 203, 209
+People, 4, 5, 6–7, 17, 216
+Performance enhancements, 170, 180
+techniques, 170
+Periodic evaluation, 304
+Periodic reports, 255
+Peripherals, 121
+Personal area network (PAN), 200, 201, 208
+Personal computers (PCs), 11, 18, 110, 199
+gaming, 113
+hardware, 11–12, 18
+Personal consent, spreading information without, 218
+Personal hotspot, 194
+Personalized buying guide, 359–361
+desktop computers, 360–361
+laptops, 359–360
+reset page 934
+-------------------------------------------- 分页分隔 --------------------------------------------
+smartphones, 360
+tablet computers, 360
+Personal laser printers, 147, 158
+Personal security, 223
+Phased approach, 304, 310
+Phishing, 224, 225, 238
+Photo editors. See Image editors PHP, 32, 47
+Physical connections, 191, 207
+Physical security, 230
+Physical view, 270
+Picosecond, 117
+Picture elements. See Pixels
+Picture Password, 227, 238
+Pilot approach, 303, 310
+Pinterest, 36
+Pits, 171, 181
+Pixels, 70, 79, 143
+Plagiarism, 234, 239
+Plagiarists, 234, 239
+Planning, 250
+Platform scanners, 140, 157
+Platters, 169, 180
+Plotters, 148, 158
+Podcasts, 30, 36–37, 48
+Pointer, 59, 77, 88, 101 277, 286
+Pointing devices, 138–139, 156
+game controllers, 138, 139, 156
+mouse, 138, 156
+touch screen, 138, 156
+reset page 935
+-------------------------------------------- 分页分隔 --------------------------------------------
+Popular microprocessors, 117
+Pop-ups, 31
+Portable computers, 154, 159
+Portable languages, 334
+Portable scanner, 139, 157
+Ports, 110, 121–122, 129
+cables, 122, 129
+cell phone, 121, 129
+DVI, 121–122, 129
+Ethernet, 121, 129
+FireWire, 121, 129
+HDMI, 121, 129
+MiniDP/mDP, 121, 129
+specialized, 121–122, 129
+standard, 121, 129
+Thunderbolt, 121, 129
+USB-A, 121, 129
+USB-B, 121, 129
+USB-C, 121, 129
+VGA, 121–122, 129
+Power supply, 122, 129
+units, 110, 122, 129
+Preliminary investigation, 296–297, 308
+Presentation files, 14, 19
+Presentation software, 8, 65, 78
+creating presentation, 65
+Pretty Good Privacy, 228
+Prewritten programs, 318
+Primary key, 68, 272, 285
+reset page 936
+-------------------------------------------- 分页分隔 --------------------------------------------
+Primary storage, 166, 179
+Printers, 146–148, 158
+3D, 147, 158
+cloud, 147, 158
+features, 146, 158
+inkjet, 147, 158
+laser, 147, 158
+plotters, 148, 158
+thermal, 148, 158
+Privacy, 7, 16, 17, 35, 117, 216, 217, 237
+end of anonymity, 236
+Google Street View, 217, 218
+information reseller’s website, 217
+Internet and web, 219–222, 237
+IT security analysts, 235, 239
+large databases, 217–219
+laws on, 223
+mobile apps, 77
+mode, 221, 237
+online identity, 222
+private networks, 219, 237
+Private Browsing, 221, 237
+Private networks, 219, 237
+Problem and constraint languages. See Fifth-generation
+language (5GL)
+Problem-solving procedure, 318
+Procedural languages. See Third-generation languages (3GLs)
+Procedures, 4, 5, 17
+Processing rights, 275, 286
+reset page 937
+-------------------------------------------- 分页分隔 --------------------------------------------
+Processing speeds, 117, 279
+Processor, 116, 128
+Production, 249, 262
+Productivity suites. See Office suites
+Profiles, 35, 48
+Program, 318, 339
+code, 319, 326–327, 332, 340
+design, 319, 322–325, 332, 340
+definition, 320
+documentation, 319, 330, 332, 341
+flowcharts, 323
+maintenance, 319, 331–332, 342
+modules, 322
+objectives, 320, 339
+specification, 319, 320–321, 332, 339
+test, 319, 328–329, 332, 341
+Program analysis. See Program specification
+Program code, 319, 326–327, 332, 340
+Program coder, 336
+Program definition. See Program specification
+Program design, 319, 322–325, 332, 340
+flowcharts, 323–325, 339, 340
+logic structures, 325, 339, 340
+pseudocode, 323, 339, 340
+top-down, 322, 339, 340
+Program documentation, 319, 330, 332, 341
+Programmable robot, 338
+Program maintenance, 319, 331–332, 342
+Programmers. See Software engineers
+reset page 938
+-------------------------------------------- 分页分隔 --------------------------------------------
+Programming, 318–319, 339
+Programming language, 326, 327, 332, 339, 340
+generations of, 334–336, 342
+Programs, 4, 17, 18. See also Software
+Program specification, 319, 320–321, 332, 339
+Program test, 319, 328–329, 332, 341
+Project managers, 259, 263
+Property, 217, 237
+ProQuest Dialog, 281
+Protocols, 32, 47, 196–197, 208
+feature, 196
+identification, 196–197
+packetization, 197
+Prototyping, 305, 311
+Proxy server, 204
+Pseudocode, 323, 339, 340
+Public Wi-Fi, 194
+Purchase order, 254
+Purchasing, 254, 263
+Python, 327
+q
+QuarkXPress, 70
+Query-by-example, 274
+Query languages, 335
+Quicken Starter Edition, 72
+Qustodio Parental Control, 33
+QWERTY keyboard, 136
+reset page 939
+-------------------------------------------- 分页分隔 --------------------------------------------
+r
+Radio frequencies, 200
+Radio-frequency identification (RFID) tags, 141, 157
+RAID. See Redundant arrays of inexpensive disks
+Random-access memory (RAM), 12, 18, 118, 119, 128, 166, 172,
+179, 181
+Ransomware, 224, 238
+Ransomware “WannaCry,” 224
+Rapid applications development (RAD), 305, 311
+Raster images, 70, 79
+Reader/sorter, 141
+Reading, 166
+page 389
+Read-only memory (ROM), 118, 119, 128, 171, 181
+Real-time operating systems (RTOS), 8, 18, 89, 101
+Real-time processing, 273, 285
+Receiving devices, 189, 190
+Record, 271, 285
+Recordable (R) disc, 172
+Records, database, 68
+Recycling, 6
+Redundant arrays of inexpensive disks (RAID), 170, 177, 180,
+181, 230
+Regional manager, 255
+Relation, 277, 286
+Relational database, 277–278, 286
+Relational organization, 280
+reset page 940
+-------------------------------------------- 分页分隔 --------------------------------------------
+Repetition logic structure, 325, 340
+Repetitive strain injury (RSI), 153, 159
+Report creation, 64
+Research, 249, 262
+Resolution, 143, 146, 158
+standards, 143
+Restricting access, 226–228
+Rewritable discs, 172, 181
+RFID reader, 141, 157. See also Radio-frequency
+identification (RFID) tags
+Ribbon GUI, 59, 77
+Ribbons, 59, 77
+Ring network, 202, 209
+Robot network, 225, 238
+Robots, 152, 159
+Rogue Wi-Fi hotspots, 225–226, 238
+Role playing game (RPG), 62, 71, 77
+Router, 198, 208
+RPG. See Role playing game
+RTOS. See Real-time operating systems
+s
+Sales order processing, 254, 263
+Satellite, 191, 207, 208
+Satellite connection services, 193
+Scanners, 140, 157. See also Optical scanners
+Scanning devices, 139–141, 157
+bar code readers, 140, 157
+reset page 941
+-------------------------------------------- 分页分隔 --------------------------------------------
+card readers, 140, 157
+character and mark recognition devices, 141, 157
+optical scanners, 139–140, 157
+RFID readers, 141, 157
+Schema, 274
+SD card, 119, 128
+Search engines, 40, 49
+Searching, for information, 27, 47
+Search programs, 93, 96, 103
+Search services, 40, 49
+Search tools, 40–41
+Secondary storage, 12, 18, 166, 179
+cloud storage, 172–173
+devices, 166, 179
+hard disks, 12, 169–170
+mass storage devices, 176–177
+next-generation storage, 178
+optical discs, 12, 171–172
+solid-state storage, 12, 167–168
+Second generation (2G), 334, 347, 349
+mobile telecommunications, 193, 208
+Sectors, 169, 180
+Secure file transfer protocol (SFTP), 34, 48
+Security, 16, 42, 50, 216, 223, 238, 274, 282–283, 287
+cybercrime, 223–224, 238
+data, 230
+end of anonymity, 236
+IT security analysts, 235, 239
+malicious hardware, 225–226, 238
+reset page 942
+-------------------------------------------- 分页分隔 --------------------------------------------
+malicious software, 225, 238
+measures to protecting computer security, 226–230, 238
+physical, 230
+social engineering, 225, 238
+suites, 227, 238
+and technology, 232
+Selection logic structure, 325, 340
+Semiconductor, 115, 127
+Sending devices, 189, 190
+Sequential logic structure, 325, 340
+Servers, 10, 18, 198, 208. See also Midrange computers
+Service providers, 44
+SFTP. See Secure file transfer protocol
+Shared laser printers, 147, 158
+Share settings, 35, 48
+Sharing, 274
+Shopping, 27
+Shopping apps, 61
+Signature, 38, 49
+Silicon chip, 115, 127
+Siri, 27, 93, 94, 142, 157
+Six-phase systems life cycle, 295
+Slots, 115–116, 127
+Smart homes, 46
+Smartphones, 11, 18, 110, 111, 114, 127, 154, 358 360. See
+also Mobile bar code reader, 140
+Smartwatches, 114, 127
+Smith, David L., 354
+SMS (short message service), 37, 49. See also Text messaging
+reset page 943
+-------------------------------------------- 分页分隔 --------------------------------------------
+Snapchat, 36
+Snapseed, 70
+Social engineering, 225, 238
+Social media, 29
+Social networking, 35–36, 48, 61, 218
+Sockets, 115, 127
+Software, 4, 5, 7–8, 16, 17, 18
+application. See Application software
+environment/platform, 89, 101
+piracy, 231, 239
+presentation, 8
+suites, 72, 79
+system. See System software updates, 331, 342
+Software development, 318, 319, 339. See also Programming
+Software development life cycle (SDLC), 318–319, 331
+Software engineers, 15, 19, 73, 80, 319, 330, 337, 341, 342
+Solaris, 203
+Solid-state drives (SSDs), 167, 179
+Solid-state storage, 12, 18, 167–168, 179
+flash memory cards, 168, 179
+internal drive, 167
+USB drives, 168, 179
+Sony PlayStation 4, 112
+Source code, 335
+Spam, 39, 49
+Spam blockers/filters, 39, 49
+Speakers, 148, 159
+Specialized applications, 8, 18, 58, 69–72
+graphics programs, 69–70, 79
+reset page 944
+-------------------------------------------- 分页分隔 --------------------------------------------
+video game design software, 70–71, 79
+web authoring programs, 71, 79
+Specialized ports, 121–123
+Specialized suites, 72, 79
+Specialty processors, 117, 128
+Speed, 146
+Spell checker, 61, 63
+Spiders, 40, 49
+Spotify, 29, 61, 77
+Spreading inaccurate information, 218–219
+Spreading information without personal consent, 218
+Spreadsheets, 8, 66–67, 78
+flyer, creation of, 63
+report, creation of, 63
+sales forecast, creation of, 66
+Sprint, 31
+Spy removal programs, 222, 237
+Spyware, 221, 237
+SSDs. See Solid-state drives
+Stand-alone operating systems, 8, 18, 89, 101
+Standard ports, 121, 123 202, 209
+Storage, 166–167, 179
+devices, 167, 179
+next-generation, 178
+Storage area network (SAN), 177, 181
+Storage management programs, 93, 97, 103
+Strategic models, 256, 263
+Strategic uses, 282, 287
+Strategy, 203, 209
+reset page 945
+-------------------------------------------- 分页分隔 --------------------------------------------
+Structured programming techniques, 322
+Structured programs, 326, 340
+Structured query language (SQL), 274, 335
+Stylus, 138, 156
+Subject, 38, 49
+Subscription services, 28
+Supercomputers, 10, 18
+Supervisors, 250, 262
+Supervisory managers, 252
+Swift, 327
+Switch, 198, 208
+Symantec Norton Family Premier, 33
+Symantec Norton Internet Security, 34
+Symantec Norton Utilities, 72
+Syntax errors, 328, 329, 339, 341
+System, 294, 308
+analysts, 295, 306, 308, 311
+audit, 304, 311
+buses, 120, 128
+design, 295, 300–301, 308, 309
+design report, 301, 309
+development, 295, 302–303, 310
+flowcharts, 299, 309
+flowchart symbols, 299
+implementation, 295, 303–304, 310
+life cycle, 295, 304, 305, 308
+maintenance, 295, 304, 311
+System board, 110, 115, 127
+System chassis. See System unit
+reset page 946
+-------------------------------------------- 分页分隔 --------------------------------------------
+System conversion, 303
+types, 303
+Systems analysis, 294–295, 298–300, 308, 309
+analyzing data, 298–299
+documenting, 300
+gathering data, 298
+one step in defining problems, 297
+preliminary investigation, 296–297, 308
+prototyping, 305, 311
+RAD, 305, 311
+report, 300, 309
+systems design, 300–301, 309
+systems development, 302–303, 310
+systems implementation, 303–304, 310
+systems maintenance, 304, 311
+testing system, 304
+Systems maintenance, 304, 311
+System software, 7–8, 18, 58, 86–87, 101, 256, 263
+device drivers, 86
+language translator, 86
+operating systems. See Operating systems
+utilities, 86, 93–99
+System unit, 11–12, 18, 110–111, 114–115, 127
+brain-computer interfaces, 126
+bus lines, 120, 128
+components, 114, 127
+computer technicians, 125, 129
+desktops, 111, 127
+electronic data and instructions, 123–124, 129
+reset page 947
+-------------------------------------------- 分页分隔 --------------------------------------------
+expansion cards and slots, 119–120, 128
+gaming, 112–113
+laptops, 111, 127
+memory, 119, 128
+microprocessor, 116, 128
+ports, 121, 129
+power supply, 122, 129
+smartphones, 110, 127
+system board, 115, 127
+tablets, 110–111, 127
+wearable computers, 114, 127
+t
+T1 lines, 193, 208
+T3 lines, 193, 208
+Tables, 68, 271, 285
+Tablet computers. See Tablets
+page 390
+Tablet hunch, 154
+Tablets, 11, 18, 110–111, 127, 154, 358–359, 360
+mini, 111, 127
+Tabs, 59, 77, 89, 101
+Tactical models, 257, 263
+Task-oriented languages. See Fourth-generation languages
+(4GLs)
+Tbps, 192
+reset page 948
+-------------------------------------------- 分页分隔 --------------------------------------------
+Technical feasibility, 301, 309
+Technical writer, 15, 19, 154, 159
+Technology, 216
+Telephone lines, 191, 207
+Templates, 65
+Temporary Internet files, 220, 237
+Temporary storage, 12, 118
+Testing process, 328–329, 341
+Tethering, 194
+Text databases, 282
+Text entries, 66
+Texting. See Text messaging
+Text messaging, 37, 49, 188
+Thermal printers, 148, 158
+Third generation (3G), 347, 350
+mobile telecommunications, 193, 208
+Third-generation languages (3GLs), 334–335
+Third-party cookie, 220
+Thunderbolt 3, 121
+Thunderbolt ports, 121, 129
+Tidal (tidal.com), 29
+TikTok, 30, 36, 61
+TLD. See Top-level domain
+T-Mobile, 31
+Toggle keys, 137, 156
+Toolbars, 59, 60, 77
+Top-down analysis method, 298–299, 309
+Top-down program design, 322, 339, 340
+Top-level domain (TLD), 32, 47
+reset page 949
+-------------------------------------------- 分页分隔 --------------------------------------------
+Top-level executives, 257
+Top-level managers, 251, 262
+Top management, 250
+Topologies, 202, 209
+Torvalds, Linus, 353
+Touch pad, 138, 156
+Touch screen, 138, 156
+Tower computer, 111, 127
+Tower unit, 111
+TPS. See Transaction processing system
+Tracking cookies, 220
+Tracks, 169, 180
+Traditional graphical user interface, 60
+Traditional keyboards, 137, 156
+Traditional laptop, 359
+Transaction processing system (TPS), 252, 253–254, 256, 258,
+259, 263
+Transfer rate, 192, 208
+Transistor Age, 349
+Transmission control protocol/Internet protocol (TCP/IP),
+196, 208
+Tree network, 202, 209
+Trojan horses, 225, 238
+Troubleshooting program, 93, 103
+Tumblr, 36
+Turnitin website, 235
+Tweets, 36, 48
+Twisted-pair cable, 191, 207
+Twitter, 27, 29, 36, 48
+reset page 950
+-------------------------------------------- 分页分隔 --------------------------------------------
+Two-in-one laptops, 111, 127
+u
+UHD 4K, 143
+UHD 8K, 143
+UHD BD. See Ultra HD Blu-rays discs
+Ultrabooks, 111, 127, 359
+Ultra HD Blu-rays (UHD BD) discs, 171, 181
+Ultraportables. See Ultrabooks
+Unicode, 124, 129
+binary codes, 167
+Uniform resource locators (URLs), 32, 47
+United Parcel Service (UPS), 140
+UNIVAC, 348
+Universal product codes (UPCs), 140, 157
+Universal serial bus (USB), 120, 121, 122, 128, 129
+flash drives, 168, 179
+port types, 121
+UNIX, 89, 92, 103
+Unmanned aerial vehicles (UAVs), 149, 159
+UPCs. See Universal product codes
+Upgrades, 113
+Uplink, 191
+Uploading, 33, 48
+URLs. See Uniform resource locators
+USB. See Universal serial bus
+USB flash drives, 168
+User interface, 58–60, 77, 87, 101
+reset page 951
+-------------------------------------------- 分页分隔 --------------------------------------------
+graphical. See Graphical user interface
+Users, 256, 263, 330, 341
+Utilities, 8, 18, 86, 93–99, 101, 103
+operating system, 96–98, 103
+virtual assistant, 94–95
+Utility suites, 72, 79, 99, 103
+v
+Vacuum Tube Age, 348
+Vector illustrations/images, 70, 79
+Venmo, 43
+Verizon, 31
+Very high level languages (4GLs), 335
+Video apps, 61
+Videoconferencing, 188, 195
+Videoconferencing systems, 259, 263
+Video editors, 69, 79
+Video game design software, 70–71, 79
+Virtual assistants, 93, 103
+Virtualization, 92, 103
+Virtualization software, 92, 103
+Virtual keyboards, 137, 156
+Virtual machines, 92, 103
+Virtual memory, 118, 128
+Virtual private networks (VPNs), 205, 209, 229, 238
+Virtual reality (VR), 76, 149, 159
+head-mounted displays and controllers, 149, 159
+Viruses, 8, 39, 49, 99, 103, 225, 238
+reset page 952
+-------------------------------------------- 分页分隔 --------------------------------------------
+tracking, 228
+VMware (virtual machine program), 92, 103
+Voice assist tools, 87, 101
+Voiceband, 196
+Voice recognition systems, 142, 157
+Volatile storage, 118
+VR. See Virtual reality
+VR controllers, 149
+VR head-mounted displays, 149
+w
+WAN. See Wide area network (WAN)
+Wand readers, 140, 157
+Warm boot, 88, 101
+Watson (supercomputer), 261
+Wearable computers, 11, 18, 114, 127
+Wearable devices. See Wearable computers
+Web, 14, 16, 19, 26–27, 47, 219–222, 237, 353
+Web 1.0, 26
+Web 2.0, 26, 36
+Web 3.0, 26, 27
+application, 45, 50
+Web 4.0, 27, 47
+Web 5.0, 27, 46, 47
+Web auctions, 41
+Web authoring, 71, 79
+Web authoring programs, 71, 79
+Web-based e-mail systems, 39, 49
+reset page 953
+-------------------------------------------- 分页分隔 --------------------------------------------
+Web-based file transfer services, 33, 48
+Web bugs, 221
+Webcams, 142, 157
+Web databases, 282
+Web developers, 15, 19, 45, 50
+Webmail, 39, 49
+Webmail client, 39
+Web page, 32, 47
+Web page editors, 71, 79
+Website encryption, 229
+Web suffix, 32, 47
+Web utilities, 33–34, 48
+What-if analysis, 67
+WhatsApp, 38
+Wheel button, 138, 156
+Wide area networks (WANs), 201, 208
+Widely used programming languages, 275, 326, 327, 340
+Wi-Fi Protected Access (WPA2), 230, 238
+Wi-Fi standards, 191
+Wikipedia, 37, 48
+Wikis, 37, 48
+Windows, 58, 59, 77, 89, 91, 93, 101, 102
+backup programs, 98
+search program, 96
+storage management programs, 97
+Windows 10, 8
+Windows 11, 91, 93, 102
+Windows Defender, 222
+Windows key, 137
+reset page 954
+-------------------------------------------- 分页分隔 --------------------------------------------
+Windows operating systems, 88
+Windows Server, 89, 203
+WinZip, 170
+Wired channels, 199
+Wired networks, 187
+Wireless
+keyboard, 359
+modem, 138, 156
+mouse, 138, 156
+Wireless access point, 200, 208
+Wireless adapter, 200
+Wireless channels, 199
+Wireless charging platform, 122, 129
+Wireless communications, 189
+devices, 14–15
+Wireless connections, 190–191, 207
+Wireless fidelity (Wi-Fi), 190, 207
+public, 194
+Wireless local area network (WLAN), 200, 201, 208
+Wireless modems, 31, 47
+Wireless network cards, 120, 128
+Wireless network encryption, 230
+Wireless networks, 187
+Wireless revolution, 15, 19, 189, 207
+Wireless technology, 189
+Wireless wide area network (WWAN) modem, 192, 208
+WLAN. See Wireless local area network
+Word, 117
+Word processors, 8, 62–64, 78
+reset page 955
+-------------------------------------------- 分页分隔 --------------------------------------------

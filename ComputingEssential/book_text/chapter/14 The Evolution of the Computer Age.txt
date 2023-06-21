@@ -1,0 +1,141 @@
+
+page 347
+The Evolution of the Computer
+Age
+Many of you probably can’t remember a world without
+computers, but for some of us, computers were virtually
+unknown when we were born and have rapidly come of age during
+our lifetime.
+Although there are many predecessors to what we think of
+as the modern computer—reaching as far back as the 18th
+century, when Joseph Marie Jacquard created a loom programmed
+to weave cloth and Charles Babbage created the first fully
+modern computer design (which he could never get to work)—
+the computer age did not really begin until the first
+computer was made available to the public in 1951.
+The modern age of computers thus spans slightly more than
+65 years (so far), which is typically broken down into five
+generations. Each generation has been marked by a significant
+advance in technology.
+• First Generation (1951–57): During the first generation,
+computers were built with vacuum tubes—electronic tubes that
+were made of glass and were about the size of lightbulbs.
+reset page 808
+-------------------------------------------- 分页分隔 --------------------------------------------
+Mathew Spolin/500px Prime/Getty Images
+• Second Generation (1958–63): This generation began with
+the first computers built with transistors—small devices
+that transfer electronic signals across a resistor. Because
+transistors are much smaller, use less power, and create less
+heat than vacuum tubes, the new computers were faster,
+smaller, and more reliable than the first-generation
+machines.
+Keystone-France/Gamma-Keystone/Getty Images
+• Third Generation (1964–69): In 1964, computer
+manufacturers began replacing transistors with integrated
+circuits. An integrated circuit (IC) is a complete electronic
+circuit on a small chip made of silicon (one of the most
+abundant elements in the earth’s crust). These computers
+were more reliable and compact than computers made with
+transistors, and they cost less to manufacture.
+• Fourth Generation (1970–90): Many key advances were made
+during this generation, the most significant being the
+microprocessor—a specialized chip developed for computer
+reset page 809
+-------------------------------------------- 分页分隔 --------------------------------------------
+memory and logic. Use of a single chip to create a smaller
+“personal” computer (as well as digital watches, pocket
+calculators, copy machines, and so on) revolutionized the
+computer industry.
+Victor R. Boswell Jr./National Geographic/Getty Images
+• Fifth Generation (1991–2021 and beyond): Our current
+generation has been referred to as the “Connected
+Generation” because of the industry’s massive effort to
+increase the connectivity of computers. The rapidly expanding
+Internet, World Wide Web, and intranets have created an
+information superhighway that has enabled both computer
+professionals and home computer users to communicate with
+others across the globe.
+This appendix provides you with a timeline that describes
+in more detail some of the most significant events in each
+generation of the computer age.
+reset page 810
+-------------------------------------------- 分页分隔 --------------------------------------------
+John Foxx/Stockbyte/Getty Images
+page 348
+First Generation: The Vacuum Tube Age
+reset page 811
+-------------------------------------------- 分页分隔 --------------------------------------------
+(1951) left: Mathew Spolin/500px Prime/Getty Images; right: Bettman/Getty
+Images; (1951–53) Underwood Archives/Getty Images; (1952) Photo
+Researchers/Science History Images/Alamy Stock Photo
+Description
+reset page 812
+-------------------------------------------- 分页分隔 --------------------------------------------
+page 349
+Second Generation: The Transistor Age
+reset page 813
+-------------------------------------------- 分页分隔 --------------------------------------------
+(1958) Keystone-France/Gamma-Keystone/Getty Images; (1959) top: Joseph
+Nettis/Science Source; bottom: VOLKER STEGER/Science Source
+Description
+page 350
+reset page 814
+-------------------------------------------- 分页分隔 --------------------------------------------
+Third Generation: The Integrated Circuit
+Age
+(1964) top: Jerry Marshall/pictureresearching.com; bottom: INTERFOTO/Alamy
+Stock Photo; (1965) Underwood Archives/Getty Images
+reset page 815
+-------------------------------------------- 分页分隔 --------------------------------------------
+Description
+page 351
+Fourth Generation: The Microprocessor Age
+reset page 816
+-------------------------------------------- 分页分隔 --------------------------------------------
+(1970) Bill Pierce/Time Life Pictures/Getty Images; (1975) Science & Society
+Picture Library/Getty Images; (1977) Timothy A. Clary/AFP/Getty Images
+Description
+page 352
+reset page 817
+-------------------------------------------- 分页分隔 --------------------------------------------
+(1980) Deborah Feingold/Corbis Premium Historical/Getty Images; (1981)
+Science & Society Picture Library/Getty Images; (1984) Science & Society
+Picture Library/Getty Images; (1989) Science & Society Picture Library/Getty
+Images
+Description
+reset page 818
+-------------------------------------------- 分页分隔 --------------------------------------------
+page 353
+Fifth Generation: The Age of Connectivity
+reset page 819
+-------------------------------------------- 分页分隔 --------------------------------------------
+(1991) Chuck Nacke/Alamy Stock Photo; (1992) Science & Society Picture
+Library/Getty Images; (1993) Science & Society Picture Library/Getty Images;
+(1995) top-left: Science & Society Picture Library/Getty Images; top-
+right: Jerry Marshall/pictureresearching.com; bottom: Roland
+Magnusson/Shutterstock
+Description
+reset page 820
+-------------------------------------------- 分页分隔 --------------------------------------------
+page 354
+(1997) Microsoft Corporation; (1998) Microsoft Corporation; (1999)
+Blogger.com; (2000) 360b/Shutterstock
+Description
+page 355
+reset page 821
+-------------------------------------------- 分页分隔 --------------------------------------------
+(2002) top: Anatolii Babii/Alamy Stock Photo; middle: Microsoft
+Corporation; bottom: David Gee/Alamy Stock Photo; (2003) PSL Images/Alamy
+Stock Photo; (2004) Google Inc.; (2005) TP/Alamy Stock Photo
+Description
+page 356
+reset page 822
+-------------------------------------------- 分页分隔 --------------------------------------------
+(2006) top: thelefty/Shutterstock; bottom: Rose Carson/Shutterstock;
+(2007) Shaun Curry/AFP/Getty Images; (2008) Intel Corporation; (2009)
+Vodafone Group Plc; (2010) Daniel Acker/Bloomberg/Getty Images
+Description
+page 357
+reset page 823
+-------------------------------------------- 分页分隔 --------------------------------------------

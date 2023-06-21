@@ -1,0 +1,1125 @@
+
+page 292
+Systems Analysis
+chapter
+12
+and Design
+reset page 697
+-------------------------------------------- 分页分隔 --------------------------------------------
+bluebay/Shutterstock
+page 293
+Why should I read this chapter?
+When an organization designs and implements a new system, jobs are on the
+line. A well-designed system can make a career; a poor one can destroy a
+company. Systems analysis and design details the framework for creating
+new systems. In the future, information systems will rely on cloud-based
+services, giving easier upgrades, improved security, and higher
+reliability.
+Den Rise/Shutterstock
+This chapter covers the things you need to know to be prepared for
+this ever-changing digital world, including:
+The systems life cycle—understand the phases of information systems
+development and avoid confusion, missteps, and inefficiency.
+Prototyping and rapid development—learn the newest alternatives to the
+systems life cycle to respond quickly and effectively to unexpected
+systems design challenges.
+Learning Objectives
+After you have read this chapter, you should be able to:
+reset page 698
+-------------------------------------------- 分页分隔 --------------------------------------------
+1. Describe the six phases of the systems life cycle.
+2. Identify information needs and formulate possible
+solutions.
+3. Analyze existing information systems and evaluate the
+feasibility of alternative systems.
+4. Identify, acquire, and test new system software and
+hardware.
+5. Switch from an existing information system to a new one
+with minimal risk.
+6. Explain system audits and periodic evaluations.
+7. Describe prototyping and rapid applications development.
+page 294
+Introduction
+“Hi,
+I’m Marie, and I’m a systems analyst. I’d like to talk
+with you about analyzing and designing information systems for
+organizations.”
+reset page 699
+-------------------------------------------- 分页分隔 --------------------------------------------
+Ridofranz/Getty Images
+Most people in an organization are involved with an information system of
+some kind. For an organization to create and effectively use a system
+requires considerable thought and effort. Fortunately, there is a six-step
+process for accomplishing this. It is known as systems analysis and
+design.
+Big organizations can make big mistakes. For example, a large
+automobile manufacturer once spent $40 billion putting in factory robots
+and other high technology in its automaking plants. Unfortunately, the
+manufacturer could never make these new changes work and removed much of
+the equipment and reinstalled its original production systems. Why did the
+high-tech production systems fail? The probable reason was that not enough
+energy was devoted to training its workforce in using the new systems.
+The government also can make big mistakes. In one year, the Internal
+Revenue Service computer system was so overwhelmed it could not deliver
+tax refunds on time. How did this happen? Despite extensive testing of
+much of the system, not all testing was completed. Thus, when the new
+system was phased in, the IRS found it could not process tax returns as
+quickly as it had hoped.
+Both of these examples show the necessity for thorough planning—
+especially when an organization is trying to implement a new kind of
+system. Systems analysis and design reduces the chances for such
+spectacular failures.
+To efficiently and effectively use computers, you need to understand
+the importance of systems analysis and design. You need to be aware of the
+relationship of an organization’s chart to its managerial structure.
+Additionally, you need to know the six phases of the systems development
+life cycle: preliminary investigation, systems analysis, systems design,
+systems development, systems implementation, and systems maintenance.
+reset page 700
+-------------------------------------------- 分页分隔 --------------------------------------------
+Systems Analysis and Design
+A system is a collection of activities and elements organized
+to accomplish a goal. As we saw in Chapter 10, an information
+system is a collection of hardware, software, people,
+procedures, data, and the Internet. These work together to
+provide information essential to running an organization.
+This information helps produce a product or service and, for
+profit-oriented businesses, derive a profit.
+Information about orders received, products shipped, money
+owed, and so on flows into an organization from the outside.
+Information about what supplies have been received, which
+customers have paid their bills, and so on also flows within
+the organization. To avoid confusion, the flow of information
+must follow a route that is defined by a set of rules and
+procedures. However, from time to time, organizations need to
+change their information systems. Reasons include
+organizational growth, mergers and acquisitions, new
+marketing opportunities, revisions in governmental
+regulations, and availability of new technology.
+page 295
+Systems analysis and design is a six-phase problem-
+solving procedure for examining and improving an information
+system. The six phases make up the systems life cycle. (See
+Figure 12-1.) The phases are as follows:
+. Preliminary investigation: The organization’s problems or
+needs are identified and summarized in a short report.
+. Systems analysis: The present system is studied in depth.
+New requirements are specified and documented.
+. Systems design: A new or alternative information system is
+designed and a design report created.
+reset page 701
+-------------------------------------------- 分页分隔 --------------------------------------------
+. Systems development: New hardware and software are
+acquired, developed, and tested.
+. Systems implementation: The new information system is
+installed, and people are trained to use it.
+. Systems maintenance: In this ongoing phase, the system is
+periodically evaluated and updated as needed.
+Figure 12-1 The six-phase systems life cycle
+In organizations, this six-phase systems life cycle is
+used by computer professionals known as systems analysts.
+These people study an organization’s systems to determine
+what actions to take and how to use computer technology to
+assist them.
+As an end user, working alone or with a systems analyst,
+it is important that you understand how the systems life
+cycle works. In fact, you may have to use the procedure.
+Every career is affected by information systems, and
+reset page 702
+-------------------------------------------- 分页分隔 --------------------------------------------
+understanding how they are created and used will allow you to
+work smarter and avoid common mistakes.
+There are many misconceptions about the life cycle of an
+information system. Those unfamiliar with the life cycle
+model are likely to consider the design, development, and
+implementation phases as the most important. However, many
+information systems fail because of a lack of investigation
+and analysis. Further, many information systems go over
+budget or become obsolete too quickly because of a failure to
+recognize the importance of system maintenance. It can be a
+thankless task, insisting that design and development be
+delayed to ensure that investigation and analysis be done
+throughly. Further, inexperienced developers, in an effort to
+save money, will look to reduce or underestimate maintenance
+expenses. However, the long-term success of an information
+system is dependent on understanding the value and necessity
+of each of the phases.
+Learning the six steps described in this chapter will
+raise your computer efficiency and effectiveness. It also
+will give you skills to solve a wide range of problems. These
+skills can make you more valuable to an organization.
+concept check
+What is a system?
+Name the six phases of the systems life cycle.
+What do systems analysts do?
+page 296
+reset page 703
+-------------------------------------------- 分页分隔 --------------------------------------------
+Phase 1: Preliminary
+Investigation
+The first phase of the systems life cycle is a preliminary
+investigation of a proposed project to determine the need for
+a new information system. This usually is requested by an end
+user or a manager who wants something done that is not
+presently being done. For example, suppose you work for
+Advantage Advertising, a fast-growing advertising agency.
+Advantage Advertising produces a variety of different ads for
+a wide range of different clients. The agency employs both
+regular staff workers and on-call freelancers. One of your
+responsibilities is keeping track of the work performed for
+each client and the employees who performed the work. In
+addition, you are responsible for tabulating the final bill
+for each project.
+How do you figure out how to charge which clients for
+which work done by which employees? This kind of problem is
+common to many service organizations (such as lawyers’ and
+contractors’ offices). Indeed, it is a problem in any
+organization where people charge for their time and clients
+need proof of hours worked.
+In Phase 1, the systems analyst—or the end user—is
+concerned with three tasks: (1) briefly defining the problem,
+(2) suggesting alternative solutions, and (3) preparing a
+short report. (See Figure 12-2.) This report will help
+management decide whether to pursue the project further. (If
+you are an end user, you may not produce a written report.
+Rather, you might report your findings directly to your
+supervisor.)
+reset page 704
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 12-2 Phase 1: Preliminary investigation
+Defining the Problem
+Defining the problem means examining whatever current
+information system is in use. Determining what information is
+needed, by whom, when, and why is accomplished by
+interviewing and making observations. If the information
+system is large, this survey is done by a systems analyst. If
+the system is small, the survey can be done by the end user.
+For example, suppose Advantage Advertising account
+executives, copywriters, and graphic artists currently record
+the time spent on different jobs on their desk calendars.
+(Examples might be “Client A, telephone conference, 15
+minutes”; “Client B, design layout, 2 hours.”) After
+interviewing several account executives and page 297
+listening to their frustrations, it becomes clear
+that the approach is somewhat disorganized. (See Figure 12-
+3.) Written calendar entries are too unprofessional to be
+reset page 705
+-------------------------------------------- 分页分隔 --------------------------------------------
+shown to clients. Moreover, a large job often has many people
+working on it. It is difficult to pull together all their
+notations to make up a bill for the client. Some freelancers
+work at home, and their time slips are not readily available.
+These matters constitute a statement of the problem: The
+company has a manual time-and-billing system that is slow and
+difficult to use.
+Figure 12-3 One step in defining problems with the current
+system is to interview executives
+ESB Professional/Shutterstock
+As an end user, you might experience difficulties with
+this system yourself. You’re in someone else’s office, and
+a telephone call comes in for you from a client. Your desk
+calendar is back in your own office. You have two choices.
+You can always carry your calendar with you, or you can
+remember to note the time you spent on various tasks when you
+return to your office. The administrative assistant reporting
+to the account executive is continually after you (and
+everyone else at Advantage) to provide photocopies of your
+calendar. This is so that various clients can be billed for
+the work done on various jobs. Surely, you think, there must
+be a better way to handle time and billing.
+reset page 706
+-------------------------------------------- 分页分隔 --------------------------------------------
+Suggesting Alternative Systems
+This step is simply to suggest some possible plans as
+alternatives to the present arrangement. For instance,
+Advantage could hire more administrative assistants to
+collect the information from everyone’s calendars (including
+telephoning those working at home). Or it could use the
+existing system of network-linked personal computers that
+staffers and freelancers presently use. Perhaps, you think,
+there is already some off-the-shelf packaged software
+available that could be used for a time-and-billing system.
+At least there might be one that would make your own job
+easier.
+Preparing a Short Report
+For large projects, the systems analyst writes a report
+summarizing the results of the preliminary investigation and
+suggesting alternative systems. The report also may include
+schedules for further development of the project. This
+document is presented to higher management, along with a
+recommendation to continue or discontinue the project.
+Management then decides whether to finance the second phase,
+the systems analysis.
+For Advantage Advertising, your report might point out
+that billing is frequently delayed. It could say that some
+tasks may even “slip through the cracks” and not get
+charged at all. Thus, as the analyst has noted, you suggest
+the project might pay for itself merely by eliminating lost
+or forgotten charges.
+concept check
+What is the purpose of the preliminary investigation phase?
+What are the three tasks the systems analyst is concerned with during
+this phase?
+reset page 707
+-------------------------------------------- 分页分隔 --------------------------------------------
+Who determines whether to finance the second phase?
+page 298
+Phase 2: Systems Analysis
+In Phase 2, systems analysis, data is collected about the
+present system. This data is then analyzed, and new
+requirements are determined. We are not concerned with a new
+design here, only with determining the requirements for a new
+system. Systems analysis is concerned with gathering and
+analyzing the data. This usually is completed by documenting
+the analysis in a report. (See Figure 12-4.)
+Figure 12-4 Phase 2: Systems analysis
+reset page 708
+-------------------------------------------- 分页分隔 --------------------------------------------
+Gathering Data
+When gathering data, the systems analyst—or the end user
+doing systems analysis—expands on the data gathered during
+Phase 1. He or she adds details about how the current system
+works. Data is obtained from observation and interviews. In
+addition, data may be obtained from questionnaires given to
+people using the system. Data also is obtained from studying
+documents that describe the formal lines of authority and
+standard operating procedures. One such document is the
+organization chart, which shows levels of management as well
+as formal lines of authority.
+Analyzing the Data
+In the data analysis step, the idea is to learn how
+information currently flows and to pinpoint why it isn’t
+flowing appropriately. The whole point of this step is to
+apply logic to the existing arrangement to see how workable
+it is. Many times, the current system is not operating
+correctly because prescribed procedures are not being
+followed. That is, the system may not really need to be
+redesigned. Rather, the people in it may need to be shown how
+to follow correct procedures.
+Many different tools are available to assist systems
+analysts and end users in the analysis phase. Some of the
+most important are the top-down analysis method, grid charts,
+system flowcharts, data flow diagrams, and automated design
+tools.
+Top-down analysis method: The top-down analysis method is
+used to identify the top-level components of a complex
+system. Each component is then broken down into smaller and
+smaller components. This approach makes each component
+easier to analyze and deal with.
+page 299
+reset page 709
+-------------------------------------------- 分页分隔 --------------------------------------------
+For instance, the systems analyst might look at the
+present kind of bill submitted to a client for a complex
+advertising campaign. The analyst might note the categories
+of costs—employee salaries, telephone and mailing charges,
+travel, supplies, and so on.
+Grid charts: A grid chart shows the relationship between
+input and output documents. An example is shown in Figure
+12-5 that indicates the relationship between the data input
+and the outputs.
+For instance, a time sheet is one of many inputs that
+produces a particular report, such as a client’s bill.
+Other inputs might be forms having to do with telephone
+conferences and travel expenses. On a grid sheet, rows
+represent inputs, such as time sheet forms. Columns
+represent output documents, such as different clients’
+bills. A check mark at the intersection of a row and column
+means that the input document is used to create the output
+document.
+System flowcharts: System flowcharts show the flow of
+input data to processing and finally to output, or
+distribution of information. An example of a system
+flowchart keeping track of time for advertising “creative
+people” is shown in Figure 12-6. The explanation of the
+symbols used appears in Figure 12-7. Note that this
+describes the present manual, or noncomputerized, system.
+(A system flowchart is not the same as a program flowchart,
+which is very detailed. Program flowcharts are discussed in
+Chapter 13.)
+Data flow diagrams: Data flow diagrams show the data or
+information flow within an information system. The data is
+traced from its origin through processing, storage, and
+output. An example of a data flow diagram is shown in
+Figure 12-8. The explanation of the symbols used appears in
+Figure 12-9.
+reset page 710
+-------------------------------------------- 分页分隔 --------------------------------------------
+Automated design tools: Automated design tools are
+software packages that evaluate hardware and software
+alternatives according to requirements given by the systems
+analyst. They are also called computer-aided software
+engineering (CASE) tools. These tools are not limited to
+systems analysis. They are used in systems design and
+development as well. CASE tools relieve the systems
+analysts of many repetitive tasks, develop clear
+documentation, and, for larger projects, coordinate team
+member activities.
+Figure 12-5 Example of a grid chart
+Description
+reset page 711
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 12-6 Example of a system flowchart
+Description
+reset page 712
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 12-7 System flowchart symbols
+page 300
+Figure 12-8 Example of a data flow diagram
+Description
+reset page 713
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 12-9 Data flow diagram symbols
+Documenting Systems Analysis
+In larger organizations, the systems analysis stage is
+typically documented in a report for higher management. The
+systems analysis report describes the current information
+system, the requirements for a new system, and a possible
+development schedule. For example, at Advantage Advertising,
+the system flowcharts show the present flow of information in
+a manual time-and-billing system. Some boxes in the system
+flowchart might be replaced with symbols showing where a
+computerized information system could work better.
+Management studies the report and decides whether to
+continue with the project. Let us assume your boss and higher
+management have decided to continue. You now move on to Phase
+3, systems design.
+concept check
+What is the purpose of the analysis phase?
+List and describe five important analysis tools.
+What is a systems analysis report?
+Phase 3: Systems Design
+reset page 714
+-------------------------------------------- 分页分隔 --------------------------------------------
+Phase 3 is systems design. It consists of three tasks: (1)
+designing alternative systems, (2) selecting the best system,
+and (3) writing a systems design report. (See Figure 12-10.)
+Figure 12-10 Phase 3: Systems design
+Designing Alternative Systems
+In almost all instances, more than one design can be
+developed to meet the information needs. Systems designers
+evaluate each alternative system for feasibility. By
+feasibility we mean three things:
+Economic feasibility: Will the costs of the new system be
+justified by the benefits it promises? How long will it
+take for the new system to pay for itself?
+Technical feasibility: Are reliable hardware, page 301
+software, and training available to make the system
+work? If not, can they be obtained?
+reset page 715
+-------------------------------------------- 分页分隔 --------------------------------------------
+Operational feasibility: Can the system actually be made
+to operate in the organization, or will people—employees,
+managers, clients—resist it?
+Selecting the Best System
+When choosing the best design, managers must consider these
+four questions: (1) Will the system work with the
+organization’s overall information system? (2) Will the
+system be flexible enough so it can be modified in the
+future? (3) Can it be made secure against unauthorized use?
+(4) Are the benefits worth the costs?
+For example, one aspect you have to consider at Advantage
+Advertising is security. Should freelancers and outside
+vendors enter data directly into a computerized time-and-
+billing system, or should they keep submitting time sheets
+manually? In allowing these outside people to input
+information directly, are you also allowing them access to
+files they should not see? Do these files contain
+confidential information, perhaps information of value to
+rival advertising agencies?
+Writing the Systems Design Report
+The systems design report is prepared for higher management
+and describes the alternative designs. It presents the costs
+versus the benefits and outlines the effect of alternative
+designs on the organization. It usually concludes by
+recommending one of the alternatives.
+concept check
+What is the purpose of the design phase?
+Distinguish among economic, technical, and operational feasibility.
+Identify the factors that need to be considered when choosing the best
+systems design.
+reset page 716
+-------------------------------------------- 分页分隔 --------------------------------------------
+page 302
+Phase 4: Systems Development
+Phase 4 is systems development. It has three steps: (1)
+acquiring software, (2) acquiring hardware, and (3) testing
+the new system. (See Figure 12-11.)
+Figure 12-11 Phase 4: Systems development
+Acquiring Software
+Application software for the new information system can be
+obtained in two ways. It can be purchased as off-the-shelf
+packaged software and possibly modified, or it can be custom-
+designed. If any of the software is being specially created,
+reset page 717
+-------------------------------------------- 分页分隔 --------------------------------------------
+the programming steps we will outline in Chapter 13 should be
+followed.
+With the systems analyst’s help, you have looked at time-
+and-billing packaged software designed for service
+organizations. Unfortunately, you find that none of the
+packaged software will do. Most of the packages seem to work
+well for one person (you). However, none seems to be designed
+for many people working together. It appears, then, that
+software will have to be custom-designed. (We discuss the
+process of developing software in Chapter 13, on
+programming.)
+Acquiring Hardware
+Some new systems may not require new computer equipment, but
+others will. The equipment needed and the places where they
+are to be installed must be determined. This is a very
+critical area. Switching or upgrading equipment can be a
+tremendously expensive proposition. Will a personal computer
+system be sufficient as a company grows? Are networks
+expandable? Will people have to undergo costly training?
+The systems analyst tells you that there are several
+different makes and models of personal computers currently in
+use at Advantage Advertising. Fortunately, all are connected
+by a local area network to a file server that can hold the
+time-and-billing data. To maintain security, the systems
+analyst suggests that an electronic mailbox be installed for
+freelancers and others outside the company. They can use this
+electronic mailbox to post their time charges. Thus, it
+appears that existing hardware will work just fine.
+page 303
+Testing the New System
+reset page 718
+-------------------------------------------- 分页分隔 --------------------------------------------
+After the software and equipment have been installed, the
+system should be tested. Sample data is fed into the system.
+The processed information is then evaluated to see whether
+results are correct. Testing may take several months if the
+new system is complex.
+For this step, you ask some people in Creative Services to
+test the system. (See Figure 12-12.) You observe that some of
+the people have problems knowing where to enter their times.
+To solve the problem, the software is modified to display an
+improved user entry screen. After the system has been
+thoroughly tested and revised as necessary, you are ready to
+put it into use.
+Figure 12-12 To test a system, sample data is entered and
+problems are resolved
+Rido/Shutterstock
+concept check
+What is the purpose of the development phase?
+What are the ways by which application software can be obtained?
+reset page 719
+-------------------------------------------- 分页分隔 --------------------------------------------
+Phase 5: Systems Implementation
+Another name for Phase 5, systems implementation, is
+conversion. It is the process of changing—converting—from
+the old system to the new one and training people to use the
+new system.
+Types of Conversion
+There are four approaches to conversion: direct, parallel,
+pilot, and phased.
+In the direct approach, the conversion is done simply by
+abandoning the old and starting up the new. This can be
+risky. If anything is still wrong with the new system, the
+old system is no longer available to fall back on.
+The direct approach is not recommended precisely because
+it is so risky. Problems, big or small, invariably crop up
+in a new system. In a large system, a problem might just
+mean catastrophe.
+In the parallel approach, old and new systems are operated
+side by side until the new one proves to be reliable.
+This approach is low risk. If the new system fails, the
+organization can just switch to the old system to keep
+going. However, keeping enough equipment and people active
+to manage two systems at the same time can be very
+expensive. Thus, the parallel approach is used only in
+cases in which the cost of failure or of interrupted
+operation is great.
+In the pilot approach, the new system is tried out in only
+one part of the organization. Once the system is working
+smoothly in that part, it is implemented throughout the
+rest of the organization.
+The pilot approach is certainly less expensive than the
+parallel approach. It also is somewhat riskier. However,
+reset page 720
+-------------------------------------------- 分页分隔 --------------------------------------------
+the risks can be controlled because problems will be
+confined to only certain areas of the organization.
+Difficulties will not affect the entire organization.
+In the phased approach, the new system is page 304
+implemented gradually over a period of time. The
+entire implementation process is broken down into parts or
+phases. Implementation begins with the first phase, and
+once it is successfully implemented, the second phase
+begins. This process continues until all phases are
+operating smoothly. Typically, this is an expensive
+proposition because the implementation is done slowly.
+However, it is certainly one of the least risky approaches.
+In general, the pilot and phased approaches are the
+favored methods. Pilot is preferred when there are many
+people in an organization performing similar operations—for
+instance, all salesclerks in a department store. Phased is
+more appropriate for organizations in which people are
+performing different operations.
+You and the systems analyst, with top management support,
+have decided on a pilot implementation. This approach was
+selected in part based on cost and the availability of a
+representative group of users. The Creative Services
+department previously tested the system and has expressed
+enthusiastic support for it. A group from this department
+will pilot the implementation of the time-and-billing system.
+Training
+Training people is important, of course. Unfortunately, it is
+one of the most commonly overlooked activities. Some people
+may begin training early, even before the equipment is
+delivered, so that they can adjust more easily. In some
+cases, a professional software trainer may be brought in to
+show people how to operate the system. However, at Advantage
+Advertising, the time-and-billing software is simple enough
+that the systems analyst can act as the trainer.
+reset page 721
+-------------------------------------------- 分页分隔 --------------------------------------------
+concept check
+What is the goal of the implementation phase?
+Briefly describe the four approaches to conversion.
+Which two conversion approaches are favored methods?
+Phase 6: Systems Maintenance
+After implementation comes systems maintenance, the last
+step in the systems life cycle. This phase is a very
+important, ongoing activity. Most organizations spend more
+time and money on this phase than on any of the others.
+Maintenance has two parts: a systems audit and a periodic
+evaluation.
+In the systems audit, the system’s performance is
+compared to the original design specifications. This is to
+determine whether the new procedures are actually furthering
+productivity. If they are not, some redesign may be
+necessary.
+After the systems audit, the new information system is
+further modified, if necessary. All systems should be
+evaluated from time to time to determine whether they are
+meeting the goals and providing the service they are supposed
+to.
+The six-step systems life cycle is summarized in Figure
+12-13.
+Phase Activity
+1. Preliminary Define problem, suggest alternatives,
+investigation prepare short report
+2. Systems analysis Gather data, analyze data, document
+3. Systems design Design alternatives, select best
+alternative, write report
+reset page 722
+-------------------------------------------- 分页分隔 --------------------------------------------
+4. Systems Develop software, acquire hardware,
+development test system
+5. Systems Convert, train
+implementation
+6. Systems Perform systems audit, evaluate
+maintenance periodically
+Figure 12-13 Summary of systems life cycle
+concept check
+What is the purpose of the maintenance phase?
+Name the two parts of the maintenance phase.
+page 305
+Prototyping and Rapid
+Applications
+Development
+Is it necessary to follow every phase of the systems life
+cycle? It may be desirable, but often there is no time to do
+so. For instance, hardware may change so fast that there is
+no opportunity for evaluation, design, and testing as just
+described. Two alternative approaches that require much less
+time are prototyping and rapid applications development.
+Prototyping
+Prototyping means to build a model or prototype that can be
+modified before the actual system is installed. For instance,
+the systems analyst for Advantage Advertising might develop a
+reset page 723
+-------------------------------------------- 分页分隔 --------------------------------------------
+proposed or prototype menu as a possible screen display for
+the time-and-billing system. Users would try it out and
+provide feedback to the systems analyst. The systems analyst
+would revise the prototype until the users felt it was ready
+to put into place. Typically, the development time for
+prototyping is shorter; however, it is sometimes more
+difficult to manage the project and to control costs. (See
+Figure 12-14.)
+Figure 12-14 Micro Focus offers prototyping software
+Justinmind
+Rapid Applications Development
+Rapid applications development (RAD) involves the use of
+powerful development software, small specialized teams, and
+highly trained personnel. For example, the systems analyst
+for Advantage Advertising would use specialized development
+software like CASE, form small teams consisting of select
+users and managers, and obtain assistance from other highly
+qualified analysts. Although the resulting time-and-billing
+system would likely cost more, the development time would be
+shorter and the quality of the completed system would be
+better.
+reset page 724
+-------------------------------------------- 分页分隔 --------------------------------------------
+concept check
+What is prototyping?
+What is RAD?
+What is the advantage of these two approaches over the systems life
+cycle approach?
+page 306
+Careers in IT
+“Now
+that you have learned about systems analysis and design,
+let me tell you about my career as a systems analyst.”
+Ridofranz/Getty Images
+A systems analyst follows the steps described in the
+systems life cycle. Analysts plan and design new systems or
+reorganize a company’s computer resources to best utilize
+them. Analysts follow the systems life cycle through all of
+its steps: preliminary investigation, analysis, design,
+development, implementation, and maintenance.
+reset page 725
+-------------------------------------------- 分页分隔 --------------------------------------------
+Systems analyst positions normally require either an
+advanced associate’s degree or a bachelor’s degree in
+computer science or information systems and technical
+experience. Internships and prior experience with the
+latest technology are a considerable advantage for those
+seeking jobs in this industry. Systems analysts can expect
+to earn an annual salary of $48,000 to $95,000.
+Opportunities for advancement include positions as a chief
+technology officer or other managerial opportunities.
+page 307
+A LOOK TO THE FUTURE
+The Challenge of Keeping Pace
+Have you noticed the speed with which new (or competing) products and
+services are being released? Does your favorite website change often to
+keep up with its competitors? Most observers firmly believe that the pace
+of business is accelerating. The time to develop a product and bring it to
+market, in many cases, is now months rather than years. Internet
+technologies, in particular, have provided tools to support the rapid
+introduction of new products and services. Technology has been making
+better business tools, and will continue to evolve to improve our lives as
+we look to the future.
+reset page 726
+-------------------------------------------- 分页分隔 --------------------------------------------
+Den Rise/Shutterstock
+To stay competitive, corporations must integrate these new technologies
+into their existing ways of doing business. In many cases, the traditional
+systems life cycle approach takes too long—sometimes years—to develop a
+system. Many organizations are responding by aggressively implementing
+prototyping and RAD. Others are enlisting the services of outside
+consulting groups that specialize in systems development. However, many
+experts believe that the future of life cycle management lies in relying
+on the cloud—businesses will turn to companies that offer both processing
+and software as a service, rather than hosting these systems on their own.
+In the future, many companies will no longer have large servers and
+database systems under their own roof. They will instead pay a monthly fee
+to a company, such as Amazon, that has large data centers that are
+accessible via the Internet. These data centers offer security and
+reliability, and they can grow, or scale, based on the needs of the
+business. The systems analyst of the future will not have to worry about
+the hardware requirements of a new piece of software or database
+management system. The implementation of new systems will be much easier,
+for both the business and its customers. All hardware upgrades will now be
+managed by the company offering the cloud service, and the software will
+be hosted there. Of course, all this requires a good communications
+infrastructure—one that is being improved each year by telecommunications
+companies.
+What do you think about moving so many aspects of a system to the
+cloud? Is there a danger in trusting another company with your business’s
+data? Do you think cloud computing will enable a business to release
+reliable products more quickly and at a lower cost?
+page 308
+reset page 727
+-------------------------------------------- 分页分隔 --------------------------------------------
+Systems Analysis
+VISUAL SUMMARY
+and Design
+SYSTEMS ANALYSIS AND DESIGN
+A system is a collection of activities and elements
+organized to accomplish a goal. Systems analysis and
+design is a six-phase problem-solving procedure that
+makes up the systems life cycle. The phases are
+Preliminary investigation—identifying organization’s
+problems or needs and summarizing in short report.
+Systems analysis—studying present system in depth,
+specifying new requirements, and documenting findings.
+Systems design—designing new or alternative system to
+meet new requirements and creating a design report.
+reset page 728
+-------------------------------------------- 分页分隔 --------------------------------------------
+Systems development—acquiring, developing, and testing
+needed hardware and software.
+Systems implementation—installing new system and
+training people.
+Systems maintenance—periodically evaluating and
+updating system as needed.
+Systems analysts are the computer professionals who
+typically follow the six-phase systems life cycle.
+PHASE 1: PRELIMINARY INVESTIGATION
+The preliminary investigation determines the need for a
+new information system. It is typically requested by an
+end user or a manager. Three tasks of this phase are
+defining the problem, suggesting alternative systems, and
+preparing a short report.
+Defining the Problem
+The current information system is examined to determine
+who needs what information, when the information is
+needed, and why it is needed.
+reset page 729
+-------------------------------------------- 分页分隔 --------------------------------------------
+If the existing information system is large, then a
+systems analyst conducts the survey. Otherwise, the end
+user conducts the survey.
+Suggesting Alternative Systems
+Some possible alternative systems are suggested. Based on
+interviews and observations made in defining the problem,
+alternative information systems are identified.
+Preparing a Short Report
+To document and communicate the findings of Phase 1,
+preliminary investigation, a short report is prepared and
+presented to management.
+page 309
+To efficiently and effectively use computers, you need
+to understand the importance of systems analysis and
+design. You need to know the six phases of the systems
+development life cycle: preliminary investigation,
+analysis, design, development, implementation, and
+maintenance. Additionally, you need to understand
+prototyping and RAD.
+PHASE 2: SYSTEMS ANALYSIS
+reset page 730
+-------------------------------------------- 分页分隔 --------------------------------------------
+In systems analysis, data is collected about the present
+system. The focus is on determining the requirements for
+a new system. Three tasks of this phase are gathering
+data, analyzing the data, and documenting the analysis.
+Gathering Data
+Data is gathered by observation, interviews,
+questionnaires, and looking at documents. One helpful
+document is the organization chart, which shows a
+company’s functions and levels of management.
+Analyzing the Data
+There are several tools for the analysis of data,
+including top-down analysis, grid charts, and system
+flowcharts.
+Documenting Systems Analysis
+To document and communicate the findings of Phase 2, a
+systems analysis report is prepared for higher
+management.
+reset page 731
+-------------------------------------------- 分页分隔 --------------------------------------------
+PHASE 3: SYSTEMS DESIGN
+In the systems design phase, a new or alternative
+information system is designed. This phase consists of
+three tasks:
+Designing Alternative Systems
+Alternative information systems are designed. Each
+alternative is evaluated for
+Economic feasibility—cost versus benefits; time for
+the system to pay for itself.
+reset page 732
+-------------------------------------------- 分页分隔 --------------------------------------------
+Technical feasibility—hardware and software
+reliability; available training.
+Operational feasibility—will the system work within
+the organization?
+Selecting the Best System
+Four questions should be considered when selecting the
+best system:
+Will the system fit into an overall information system?
+Will the system be flexible enough to be modified as
+needed in the future?
+Will it be secure against unauthorized use?
+Will the system’s benefits exceed its costs?
+Writing the Systems Design Report
+To document and communicate the findings of Phase 3, a
+systems design report is prepared for higher management.
+page 310
+PHASE 4: SYSTEMS DEVELOPMENT
+reset page 733
+-------------------------------------------- 分页分隔 --------------------------------------------
+In the systems development phase, software and hardware
+are acquired and tested.
+Acquiring Software
+Two ways to acquire software are purchasing off-the-shelf
+packaged software and designing custom programs.
+Acquiring Hardware
+Acquiring hardware involves consideration for future
+company growth, existing networks, communication
+capabilities, and training.
+Testing the New System
+Using sample data, the new system is tested. This step
+can take several months for a complex system.
+reset page 734
+-------------------------------------------- 分页分隔 --------------------------------------------
+Rido/Shutterstock
+PHASE 5: SYSTEMS IMPLEMENTATION
+Systems implementation, also known as conversion, is
+the process of changing to the new system and training
+people.
+Types of Conversion
+reset page 735
+-------------------------------------------- 分页分隔 --------------------------------------------
+Four ways to convert are direct, parallel, pilot, and
+phased approaches.
+Direct approach—abandoning the old system and
+starting up the new system; can be very risky and not
+recommended.
+Parallel approach—running the old and new side by
+side until the new system proves its worth; very low
+risk; however, very expensive; not generally
+recommended.
+Pilot approach—converting only one part of the
+organization to the new system until the new system
+proves its worth; less expensive but riskier than
+parallel conversion; recommended for situations with
+many people performing similar operations.
+Phased approach—gradually implementing the new system
+to the entire organization; less risky but more
+expensive than parallel conversion; recommended for
+situations with many people performing different
+operations.
+Training
+Training is important, but often overlooked. Some people
+may train early as the equipment is being delivered so
+that they can adjust more easily. Sometimes a
+professional trainer is used; other times the systems
+analyst acts as the trainer.
+page 311
+PHASE 6: SYSTEMS MAINTENANCE
+reset page 736
+-------------------------------------------- 分页分隔 --------------------------------------------
+Systems maintenance consists of a systems audit followed
+by periodic evaluation.
+Systems Audit
+Once the system is operational, the systems analyst
+performs a systems audit by comparing the new system to
+its original design specifications.
+Periodic Evaluation
+The new system is periodically evaluated to ensure that
+it is operating efficiently.
+Phase Activity
+1. Preliminary Define problem, suggest alternatives, prepare
+investigation short report
+2. Systems analysis Gather data, analyze data, document
+3. Systems design Design alternatives, select best alternative,
+write report
+reset page 737
+-------------------------------------------- 分页分隔 --------------------------------------------
+4. Systems Develop software, acquire hardware, test
+development system
+5. Systems Convert, train
+implementation
+6. Systems Perform systems audit, evaluate periodically
+maintenance
+PROTOTYPING AND RAD
+Justinmind
+Due to time pressures, it is not always feasible to
+follow every phase of the systems life cycle. Two
+alternatives that require less time are prototyping and
+RAD.
+Prototyping
+Prototyping means to build a model or prototype that can
+be modified before the actual system is installed.
+Typically, the development time for prototyping is
+shorter; however, it can be more difficult to manage the
+project and to control costs.
+Rapid Applications Development
+reset page 738
+-------------------------------------------- 分页分隔 --------------------------------------------
+Rapid applications development (RAD) uses powerful
+development software, small specialized teams, and highly
+trained personnel. Typically, the development costs more.
+However, the time is much less and the quality is often
+better.
+CAREERS in IT
+Systems analysts plan and design new systems or
+reorganize a company’s computer resources to better
+utilize them. They follow the systems life cycle through
+all its steps. Either an advanced associate’s degree or
+a bachelor’s degree in computer science or information
+systems and technical experience are required. Expected
+salary range is $48,000 to $95,000.
+page 312
+KEY TERMS
+automated design tools (299)
+computer-aided software engineering (CASE) tools (299)
+conversion (303)
+data flow diagram (299)
+direct approach (303)
+economic feasibility (300)
+grid chart (299)
+operational feasibility (301)
+reset page 739
+-------------------------------------------- 分页分隔 --------------------------------------------
+organization chart (298)
+parallel approach (303)
+phased approach (304)
+pilot approach (303)
+preliminary investigation (296)
+prototyping (305)
+rapid applications development (RAD) (305)
+system (294)
+system flowchart (299)
+systems analysis (298)
+systems analysis and design (295)
+systems analysis report (300)
+systems analyst (295, 306)
+systems audit (304)
+systems design (300)
+systems design report (301)
+systems development (302)
+systems implementation (303)
+systems life cycle (295)
+systems maintenance (304)
+technical feasibility (301)
+top-down analysis method (298)
+page 313
+MULTIPLE CHOICE
+reset page 740
+-------------------------------------------- 分页分隔 --------------------------------------------
+Circle the correct answer.
+1. This is examined and improved through systems analysis.
+a. information technologies
+b. software analysis
+c. software implementation
+d. information systems
+2. Systems life cycle phase that studies the present system
+in depth.
+a. analysis
+b. design
+c. implementation
+d. conversion
+3. Systems analysis involves suggesting alternative
+.
+a. implementations
+b. facts
+c. solutions
+d. software
+4. The last and ongoing phase of the systems life cycle is
+systems .
+a. maintenance
+b. implementation
+c. analysis
+d. information
+5. The document that shows the levels of management and
+formal lines of authority is a(n) .
+a. systems tree
+b. organization chart
+c. authority hierarchy
+reset page 741
+-------------------------------------------- 分页分隔 --------------------------------------------
+d. direct conversion graph
+6. This phase begins with designing alternative systems.
+a. systems design
+b. implementation
+c. maintenance
+d. investigation
+7. Another name for systems implementation.
+a. reveal
+b. conversion
+c. pre-maintenance
+d. piloting
+8. The phase in which the old system is replaced and
+training begins.
+a. maintenance
+b. implementation
+c. analysis
+d. information
+9. The four approaches to conversion are parallel, pilot,
+phased, and .
+a. implementation
+b. preliminary
+c. direct
+d. designed
+10. The approach in which the new system is implemented
+gradually over a period of time.
+a. parallel
+b. phased
+c. pilot
+d. designed
+reset page 742
+-------------------------------------------- 分页分隔 --------------------------------------------
+page 314
+MATCHING
+Match each numbered item with the most closely related
+lettered item. Write your answers in the spaces provided.
+a. CASE 1. This systems
+b. data analysis tool shows
+the relationship
+c. grid chart
+between input and
+d. operational
+output documents.
+e. pilot
+2. This phase involves
+f. preliminary installing the new
+investigation system and training
+g. RAD people.
+h. syste ms 3. This approach to
+implementation conversion begins by
+trying out a new
+i. systems
+system in only one
+analysis
+part of an
+j. systems design
+organization.
+4. These tools relieve
+the systems analysts
+of many repetitive
+tasks; develop clear
+documentation; and,
+for larger projects,
+reset page 743
+-------------------------------------------- 分页分隔 --------------------------------------------
+coordinate team
+member activities.
+5. This phase is
+concerned with
+economic, technical,
+and operational
+feasibility.
+6. An information
+system is a
+collection of
+hardware, software,
+people, procedures,
+the Internet, and
+.
+7. The first phase in
+the systems life
+cycle.
+8. An alternative to
+the systems life
+cycle approach using
+powerful development
+software, small
+specialized teams,
+and highly trained
+personnel.
+9. This phase is
+concerned about
+determining system
+requirements, not
+with design.
+reset page 744
+-------------------------------------------- 分页分隔 --------------------------------------------
+10. This type of
+feasibility evaluates
+whether the people
+within the
+organization will
+embrace or resist a
+new system.
+OPEN-ENDED
+On a separate sheet of paper, respond to each question or
+statement.
+1. What is a system? What are the six phases of the systems
+life cycle? Why do corporations undergo this process?
+2. What are the tools used in the analysis phase? What is
+top-down analysis? How is it used?
+3. Describe each type of system conversion. Which is the
+most commonly used?
+4. What is systems maintenance? When does it occur?
+5. Explain prototyping and RAD. When might they be used by
+corporations?
+page 315
+DISCUSSION
+reset page 745
+-------------------------------------------- 分页分隔 --------------------------------------------

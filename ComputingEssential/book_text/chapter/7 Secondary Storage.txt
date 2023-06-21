@@ -1,0 +1,1289 @@
+
+page 164
+Secondary Storage
+chapter
+7
+Blackboard/Shutterstock
+reset page 419
+-------------------------------------------- 分页分隔 --------------------------------------------
+page 165
+Why should I read this chapter?
+Secondary storage is vital to keeping our data safe, secure, and
+available. If you run out of secondary storage, your cell phone won’t
+take videos, your laptop won’t install apps, and your tablet will slow
+to a crawl. The future of secondary storage looks to hold even more
+information in smaller packages using holograms or even organic molecules
+to store data.
+Rost9/Shutterstock
+This chapter covers the things you need to know to be prepared for
+this ever-changing digital world, including:
+Hard drives—get the right hard drive on your computer to meet all your
+needs.
+Optical discs—share digital information on Blu-ray, CD, or DVD.
+Solid-state storage—make your portable electronics faster and use less
+power.
+Cloud storage—store your information safely and securely on the
+Internet.
+Learning Objectives
+reset page 420
+-------------------------------------------- 分页分隔 --------------------------------------------
+After you have read this chapter, you should be able to:
+1. Distinguish between primary and secondary storage.
+2. Identify the important characteristics of secondary
+storage, including media, capacity, storage devices, and
+access speed.
+3. Define solid-state storage, including solid-state
+drives, flash memory cards, and USB drives.
+4. Describe hard-disk platters, tracks, sectors, and
+cylinders.
+5. Compare performance enhancements, including disk
+caching, RAID, hybrid drives, file compression, and file
+decompression.
+6. Define optical storage, including compact discs, digital
+versatile discs, and Blu-ray discs.
+7. Compare internal, external, and network drives.
+8. Define cloud storage and cloud storage services.
+9. Describe mass storage, mass storage devices, enterprise
+storage systems, and storage area networks.
+page 166
+Introduction
+“Hi,
+I’m Nicole, and I’m a disaster recovery specialist. I’d
+like to talk with you about secondary storage, one of the most
+reset page 421
+-------------------------------------------- 分页分隔 --------------------------------------------
+critical parts of any computer system. I’d also like to talk
+about various cloud storage services.”
+John Fedele/Getty Images
+Secondary storage is how we store, protect, and transport our most
+important data. Families save precious photos to secondary storage.
+Students back up important homework assignments to secondary storage. And
+when your cell phone runs out of secondary storage, you can no longer
+download new apps or take photos or videos.
+Secondary storage devices have always been an indispensable element in
+any computer system. They have similarities to output and input devices.
+Like output devices, secondary storage devices receive information from
+the system unit in the form of the machine language of 0s and 1s. Rather
+than translating the information, however, secondary storage devices save
+the information in machine language for later use. Like input devices,
+secondary storage devices send information to the system unit for
+processing. However, the information, because it is already in machine
+form, does not need to be translated. It is sent directly to memory (RAM),
+where it can be accessed and processed by the CPU.
+Understanding the uses and different types of secondary storage will
+help you make smart decisions when purchasing a new cell phone or laptop,
+help you to protect your data from disaster or theft, and improve the
+usefulness of the devices you already own. You need to know the
+capabilities, limitations, and uses of hard disks, solid-state drives,
+optical discs, cloud storage, and other types of secondary storage.
+Additionally, you need to be aware of specialty storage devices for
+portable computers and to be knowledgeable about how large organizations
+manage their extensive data resources.
+Storage
+reset page 422
+-------------------------------------------- 分页分隔 --------------------------------------------
+An essential feature of every computer is the ability to
+save, or store, information. As discussed in Chapter 5,
+random-access memory (RAM) holds or stores data and programs
+that the CPU is presently processing. Before data can be
+processed or a program can be run, it must be in RAM. For
+this reason, RAM is sometimes referred to as primary storage.
+Unfortunately, most RAM provides only temporary or
+volatile storage. That is, if the computer is turned off or
+loses power due to a power failure, all the information
+stored on RAM is erased. This volatility results in a need
+for more permanent or nonvolatile storage for data and
+programs. RAM also has the disadvantage of being relatively
+small and unable to hold all the videos, photos, and
+applications that we regularly use.
+Secondary storage provides permanent or nonvolatile
+storage with far larger capacity than RAM. Using secondary
+storage devices such as a solid-state drive, data and
+programs can be retained after the computer has been shut
+off. This is accomplished by writing files to and reading
+files from secondary storage devices. Writing is the process
+of saving information to the secondary storage device.
+Reading is the process of accessing information from
+secondary storage. The most important characteristics of
+secondary storage are:
+Media are the physical material that holds the data and
+programs.
+Capacity measures how much a particular storage medium can
+hold.
+Storage devices are hardware that reads data and page 167
+programs from storage media. These devices are
+typically referred to as drives. Most also write to storage
+media.
+Access speed measures the amount of time required by the
+storage device to retrieve data and programs.
+reset page 423
+-------------------------------------------- 分页分隔 --------------------------------------------
+Most cell phones, tablets, and laptops have solid-state
+storage drives. Desktop computers often have internal hard-
+disk drives. (See Figure 7-1.)
+Figure 7-1 A solid-state drive
+Sahara Prince/Shutterstock
+concept check
+What is the difference between primary storage and secondary storage?
+What does it mean to write to secondary storage? What does it mean to
+read from secondary storage?
+What are four important characteristics of secondary storage?
+Solid-State Storage
+Solid-state storage devices provide access to flash memory,
+commonly known as solid-state storage. As we discussed in
+Chapter 5, flash memory offers a combination of features of
+RAM and ROM. Like RAM, it can be updated, and like ROM it
+does not lose information when a computer is turned off.
+Flash memory is a little slower than traditional memory but
+much faster than other secondary storage drives.
+Solid-State Drives
+reset page 424
+-------------------------------------------- 分页分隔 --------------------------------------------
+Solid-state drives (SSDs) store and retrieve data and
+information much in the same manner as RAM. As we discussed
+in Chapter 5, characters are represented by positive (+) and
+negative (−) charges using the ASCII, EBCDIC, or Unicode
+binary codes. For example, the letter A would require a
+series of eight charges. (See Figure 7-2.)
+Figure 7-2 Charges representing the letter A
+SSDs are fast and durable and require little power, making
+them popular for cell phones, tablets, and laptops. SSDs are
+common on mobile devices and are gaining popularity on gaming
+computers and desktops due to their speed and power
+efficiency.
+community
+Criminals often target communities with malware and viruses by using
+infected USB flash drives. These infected drives are handed out for
+free at conventions, “accidentally” left behind at the library, or
+simply dropped on the ground. When the victim finds the drive and plugs
+it into their computer, the drive automatically installs malware and
+viruses. Many believe you should never plug in an unknown USB drive.
+Others suggest the risks are overblown. What do you think?
+These drives can provide internal storage or be located
+inside the system unit. (See Figure 7-3.) Or SSDs can provide
+external storage.
+reset page 425
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 7-3 Internal solid-state drive
+monte_a/Shutterstock
+page 168
+Flash Memory Cards
+Flash memory cards are small solid-state storage devices
+widely used in portable devices. Some of the cards are used
+within devices such as cell phones, laptops, and GPS
+navigation systems. Other cards provide external or removable
+storage. Flash memory cards are commonly used with digital
+cameras and cell phones to expand their internal storage.
+(See Figure 7-4.)
+reset page 426
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 7-4 Flash memory card
+Evgeniy Medvedev/Shutterstock
+tips
+Have you ever accidentally deleted or lost important files from
+your flash drive? Do you have a USB flash drive that is no
+longer being recognized by your computer? Here are a few
+suggestions that might help:
+1
+Recovery/undelete software. If you accidentally deleted files
+from a flash drive, it is unlikely that you can recover them using
+your operating system or searching through your recycle bin.
+Fortunately, there are several recovery (or undelete) programs
+that might help, and some are even free. For example, two free
+programs are Disk Drill and Recuva. These programs will scan your
+flash drives for deleted files and offer you a chance to recover
+the ones you want back.
+2
+Testing USB ports. If your computer does not recognize your USB
+flash drive, there could be a problem with your USB port. Try
+plugging another device into that same port to see if it works. If
+this device does not work, then your computer’s USB is most
+likely defective and needs to be replaced. If the device works,
+then most likely your USB flash drive is damaged and you should
+try the professional recovery services discussed in the next step.
+3
+Professional recovery services. For damaged flash drives, there
+is a possibility that your data could be recovered by several
+reset page 427
+-------------------------------------------- 分页分隔 --------------------------------------------
+companies that are dedicated to data recovery. Although the fees
+are high, they can rescue data from the actual memory chip, even
+if the drive or supporting circuits are damaged.
+USB Flash Drives
+USB flash drives, or simply flash drives, are so compact
+that they can be transported on a key ring. These small,
+solid-state drives conveniently connect directly to a
+computer’s USB port to transfer files and can have
+capacities ranging from 1 GB to 2 TB and higher, with a broad
+price range to match. (See Figure 7-5.) Due to their
+convenient size and large capacities, flash drives have
+become a very popular option for transporting data and
+information among computers, specialty devices, and the
+Internet.
+Figure 7-5 USB flash drive
+Pheelings media/Shutterstock
+concept check
+What is solid-state storage? How is it different from RAM? ROM?
+What are solid-state drives? What are they used for?
+reset page 428
+-------------------------------------------- 分页分隔 --------------------------------------------
+What are flash memory cards? What are USB flash drives? What are they
+used for?
+page 169
+Hard Disks
+Unlike solid-state drives, which have no moving parts, hard-
+disk drives rotate and have read/write heads that move in and
+out. These moving parts allow hard-disk drives to use
+inexpensive technology to provide large-capacity storage;
+however, they also make hard disks less durable and slower
+than solid-state drives.
+Hard disks save files by altering the magnetic charges of
+the disk’s surface to represent 1s and 0s. Hard disks
+retrieve data and programs by reading these charges from the
+magnetic disk. Density refers to how tightly these charges
+can be packed next to one another on the disk.
+Hard disks use rigid metallic platters that are stacked
+one on top of another. Hard disks store and organize files
+using tracks, sectors, and cylinders. Tracks are rings of
+concentric circles on the platter. Each track is divided into
+invisible wedge-shaped sections called sectors. (See Figure
+7-6.) A cylinder runs through each track of a stack of
+platters. Cylinders are necessary to differentiate files
+stored on the same track and sector of different platters.
+When a hard disk is formatted, tracks, sectors, and cylinders
+are assigned.
+reset page 429
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 7-6 Tracks and sectors
+There are three basic types of hard disks: internal,
+external, and network.
+Internal Hard Disks
+An internal hard disk is located inside the system unit.
+These hard disks are able to store and retrieve large
+quantities of information quickly. They are used to store
+programs and data files. For example, nearly every personal
+computer uses its internal hard disk to store its operating
+system and major applications such as Word and Excel.
+To ensure adequate performance of your internal hard disk
+and the safety of your data, you should perform routine
+maintenance and periodically make backup copies of all
+important files.
+External Hard Disks
+Although internal hard disks provide fast access, they have a
+fixed amount of storage and cannot be easily removed from the
+system unit. External hard disks provide slower access and
+reset page 430
+-------------------------------------------- 分页分隔 --------------------------------------------
+are typically connected to a USB or Thunderbolt port on the
+system unit and are easily removed. Like an internal hard
+disk, external hard disks have a fixed amount of storage.
+However, because each removable hard disk can be easily
+replaced by another removable hard disk, a single port on the
+system unit can provide access to an unlimited amount of
+storage. (See Figure 7-7.)
+Figure 7-7 External hard drive
+TK 1980/Shutterstock
+External hard drives use the same basic technology as
+internal hard drives and are used primarily to complement an
+internal hard disk. Because they are easily removed, they are
+particularly useful to protect or secure sensitive
+information. Other uses for external drives include backing
+up the contents of the internal hard disk and providing
+additional hard-disk capacity.
+Network Drives
+While internal and external hard-disk drives exist local to
+the system unit, either within the system unit or nearby,
+network drives place the drive or drives on a network and can
+be located across the world from the system unit. This is a
+popular solution for individuals and businesses where access
+reset page 431
+-------------------------------------------- 分页分隔 --------------------------------------------
+speed is not essential, but capacity and durability are
+crucial.
+page 170
+Performance Enhancements
+Four ways to improve the performance of hard disks are disk
+caching, hybrid drives, redundant arrays of inexpensive
+disks, and file compression/decompression.
+Disk caching improves hard-disk performance by
+anticipating data needs. It performs a function similar to
+cache memory discussed in Chapter 5. While cache memory
+improves processing by acting as a temporary high-speed
+holding area between memory and the CPU, disk caching
+improves processing by acting as a temporary high-speed
+holding area between a secondary storage device and memory.
+Disk caching requires a combination of hardware and software.
+During idle processing time, frequently used data is
+automatically identified and read from the hard disk into the
+disk cache. When needed, the data is then accessed directly
+from memory. The transfer rate from memory is much faster
+than from the hard disk. As a result, overall system
+performance is often increased by as much as 30 percent.
+privacy
+Diminishing secondary storage prices have an unexpected impact on
+privacy. The availability of cheap digital storage has resulted in a
+permanent digital record of our lives available for all to see on the
+Internet. Once an image, video, or message is released on the Internet,
+it is very difficult to remove. Some argue that we all have a “right
+to be forgotten” and that major Internet companies like Instagram and
+Google should help people permanently remove records of embarrassing or
+unpleasant moments. Others say that the Internet is a record of our
+past and we can’t choose to only hold on to the positive things. What
+do you think?
+reset page 432
+-------------------------------------------- 分页分隔 --------------------------------------------
+Hybrid drives are storage drives that contain both solid-
+state storage and hard disks in an attempt to gain the speed
+and power benefits of SSDs while still having the low cost
+and large capacity of hard drives. Typically, these systems
+use SSD to store the operating system and applications and
+hard disks to store videos, music, and documents.
+Redundant arrays of inexpensive disks (RAID) improve
+performance by expanding external storage, improving access
+speed, and providing reliable storage. Several inexpensive
+hard-disk drives are connected to one another. These
+connections can be by a network or within specialized RAID
+devices. (See Figure 7-8.) The connected hard-disk drives are
+related or grouped together, and the computer system
+interacts with the RAID system as though it were a single
+large-capacity hard-disk drive. The result is expanded
+storage capability, fast access speed, and high reliability.
+For these reasons, RAID is often used by Internet servers and
+large organizations.
+Figure 7-8 RAID storage device
+AlexLMX/Shutterstock
+File compression and file decompression increase storage
+capacity by reducing the amount of space required to store
+data and programs. File compression is not limited to hard-
+disk systems. It is frequently used to compress files on
+reset page 433
+-------------------------------------------- 分页分隔 --------------------------------------------
+DVDs, CDs, and flash drives as well. File compression also
+helps to speed up transmission of files from one computer
+system to another. Sending and receiving compressed files
+across the Internet is a common activity.
+File compression programs scan files for ways to reduce
+the amount of required storage. One way is to search for
+repeating patterns. The repeating patterns are replaced with
+a token, leaving enough tokens so that the original can be
+rebuilt or decompressed. These programs often shrink files to
+a quarter of their original size.
+Windows and Mac operating systems provide compression and
+decompression utilities. For more advanced compression
+schemes, you can use specialized utilities such as WinZip.
+For a summary of performance enhancement techniques, see
+Figure 7-9.
+Technique Description
+Disk caching Uses cache and anticipates
+data needs
+Hybrid drive Uses both SSD and hard disks
+RAID Linked, inexpensive hard-disk
+drives
+File Reduces file size
+compression
+File Expands compressed files
+decompression
+Figure 7-9 Performance enhancement techniques
+page 171
+concept check
+What are the three types of drives? Briefly describe each.
+reset page 434
+-------------------------------------------- 分页分隔 --------------------------------------------
+What is density? What are tracks, sectors, and cylinders?
+List and describe four ways to improve the performance of hard disks.
+Optical Discs
+Optical discs can hold over 128 GB (gigabytes) of data. (See
+Figure 7-10.) That is the equivalent of millions of
+typewritten pages or a medium-sized library, all on a single
+disc. Most software and many movies are available on optical
+discs.
+Figure 7-10 Optical disc
+limpido/Shutterstock
+In optical disc technology, a laser beam alters the
+surface of a plastic or metallic disc to represent data.
+Unlike hard disks, which use magnetic charges to represent 1s
+and 0s, optical discs use reflected light. The 1s and 0s are
+represented by flat areas called lands and bumpy areas called
+pits on the disc surface. The disc is read by an optical disc
+drive using a laser that projects a tiny beam of light on
+reset page 435
+-------------------------------------------- 分页分隔 --------------------------------------------
+these areas. The amount of reflected light determines whether
+the area represents a 1 or a 0.
+Like hard disks, optical discs use tracks and sectors to
+organize and store files. Unlike the concentric tracks and
+wedge-shaped sectors used for hard disks, however, optical
+discs typically use a single track that spirals outward from
+the center of the disc. This single track is divided into
+equal-sized sectors.
+The most widely used optical discs are CD, DVD, and Blu-
+ray discs.
+Compact discs (CDs) were the first widely available optical
+format for PC users, but have largely been replaced by DVDs
+and Blu-rays. Typically, CD drives store 700 MB (megabytes)
+of storage. Optical discs that store music are often CDs.
+Digital versatile discs (DVDs) are the standard optical
+discs in PCs. DVDs are very similar to CDs except that
+typical DVD discs can store 4.7 GB (gigabytes)—seven times
+the capacity of CDs. Optical discs that store movies or
+software are often DVDs. DVD drives and CD drives look very
+similar.
+Blu-ray discs (BDs) are the newest form of optical storage
+designed to store hi-def (high-definition) video. The name
+Blu-ray comes from a special blue-colored laser used to
+read the discs that gives them a typical capacity of 50 GB
+—10 times the capacity of DVDs. Optical discs that store
+hi-def video and the newest video games are often Blu-ray
+discs. The newest Blu-ray discs, Ultra HD Blu-rays (UHD
+BD), are able to play back 4K video content and store up to
+100 GB of data.
+Each of these optical discs has three basic formats: read
+only, write once, and rewritable.
+Read-only (ROM for read-only memory) discs are discs that
+cannot be written on or erased by the user. Optical discs
+reset page 436
+-------------------------------------------- 分页分隔 --------------------------------------------
+that you buy in a store, such as music CDs, DVD movies, and
+Blu-ray video games, are often read only.
+Write-once (R for recordable) discs can be page 172
+written on once. After that, the disc can be read
+many times but cannot be written on or erased. These discs
+are ideal for creating permanent archives, such as CD-R,
+often used for storing family photos, and DVD-R, often used
+to store home movies.
+Rewritable (RW for rewritable or RAM for random-access
+memory) discs are similar to write-once discs except that
+the disc surface is not permanently altered when data is
+recorded. These changeable, portable storage options are
+popular for storing and sharing audio, video, and large
+multimedia presentations.
+tips
+Today’s cloud services allow your cell phone to access
+important files from anywhere; however, it can use a lot of
+data. Going over your cell phone plan’s data limits can be
+expensive and frustrating. Even if you have an unlimited data
+plan, if you are a heavy Internet user, your service provider
+may slow your Internet connection. If you’d like to reduce
+your data usage, consider the following suggestions.
+1
+Monitor your data usage. Find out what apps are using the most
+data by checking your operating system’s data usage statistics.
+For Android cell phones: Click on the Settings icon from the
+home screen, then choose Wireless & Networks and then Data
+Usage. You may need to scroll down to see how much data each
+app is using.
+For iOS cell phones: Click on the Settings icon from the Home
+screen and tap on Cellular. You may need to scroll down to see
+how much data each app is using.
+2
+Limit background data use. Many apps will use your data plan
+even when the app is not open. Your mobile OS can limit which apps
+can use your data in the background.
+reset page 437
+-------------------------------------------- 分页分隔 --------------------------------------------
+For Android cell phones: Click on the Settings icon from the
+home screen, then choose Data Usage and then tap Data Saver.
+This will automatically block all apps from downloading data
+while active. Finally, select Unrestricted data access and
+select any apps you want to allow to use background data.
+For iOS cell phones: Click on the Settings icon from the Home
+screen and choose General and then Background App Refresh. This
+lists your apps, and you can select which can use background
+data and which cannot.
+Some optical discs, referred to as double-sided discs,
+contain information on both sides of the disc and need to be
+flipped over to read the other side, effectively doubling the
+storage capacity of the disk. For example, a double-sided DVD
+can store 9.4 GB, or twice as much as a single-sided DVD.
+Another way to add capacity to an optical disc is by adding
+multiple recording layers. These discs store information on
+several layers sandwiched together on one side of the disc.
+For example, some Blu-ray discs have multiple layers that
+increase storage capacity from 25 GB to 128 GB.
+For a summary of the different types of optical discs, see
+Figure 7-11.
+Format Typical Description
+Capacity
+CD 700 MB Once the standard
+optical disc
+DVD 4.7 GB Current standard
+BD 25 GB Hi-def format, large
+capacity
+UHD BD 100 GB 4K video
+Figure 7-11 Types of optical discs
+concept check
+reset page 438
+-------------------------------------------- 分页分隔 --------------------------------------------
+How is data represented on optical discs?
+Compare CD, DVD, and BD formats.
+Compare ROM, R, and RW discs.
+Cloud Storage
+Recently, many applications that would have required
+installation on your computer to run have moved to the web.
+As we discussed in Chapter 2, this is known as cloud
+computing, where the Internet acts as a “cloud” of servers
+that supply applications to clients as a service rather than
+a product. Additionally, these servers provide cloud storage,
+also known as online storage.
+page 173
+If you have used Google Drive Docs to create a word
+processing document or a spreadsheet, you have already used
+cloud computing. (See Figure 7-12.) The service provider’s
+server runs the applications, and your computer displays
+results. The applications and data can be accessed from any
+Internet-ready device. This means that even devices with
+little storage, memory, or processing power, such as a cell
+phone, can run the same powerful applications as a desktop
+computer.
+reset page 439
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 7-12 Google Drive Docs
+Nopparat Khokthong/Shutterstock
+ethics
+Cloud storage has created some interesting legal and ethical questions
+regarding the storage of sensitive and privileged information. Who is
+responsible for maintaining security and privacy of sensitive and
+confidential information? What if your attorney or doctor stored
+confidential information about you in the cloud and it somehow became
+widely distributed across the Internet? Clearly, you suffer any related
+consequences, but who is responsible? Is it your attorney, your doctor,
+the company providing the cloud service, or do you somehow have the
+responsibility to protect personal sensitive information?
+The benefits to this arrangement are numerous:
+Maintenance—The cloud service will take care of backups,
+encryption, and security.
+reset page 440
+-------------------------------------------- 分页分隔 --------------------------------------------
+Hardware upgrades—The cloud service will never run out of
+disk space and can replace failed hard disks without
+interruption to the user.
+File syncing and collaboration—Users can share documents,
+spreadsheets, and files with others from anywhere with an
+Internet connection. One user can sync files across
+multiple devices, and all users will have the most recent
+version of their documents.
+Of course, there are some disadvantages of cloud storage:
+Access speed—The data transfer rate is dependent upon the
+speed of your Internet connection, which most likely is not
+as fast as a user’s internal network.
+File security—Users are dependent upon the cloud
+service’s security procedures, which may not be as
+effective as your own.
+Numerous websites provide cloud storage services. (See
+Figure 7-13.) To learn more about how you could use cloud
+storage, see Making IT Work for You: Cloud Storage on pages
+174 and 175.
+Company Location
+Dropbox dropbox.com
+Google drive.google.com
+Microsoft onedrive.live.com
+Amazon amazon.com/gp/drive
+Apple icloud.com
+Figure 7-13 Cloud storage services
+concept check
+reset page 441
+-------------------------------------------- 分页分隔 --------------------------------------------
+What is cloud computing?
+What is cloud storage?
+What are some of the advantages and disadvantages of cloud storage?
+page 174
+Making IT work for you
+CLOUD STORAGE
+Do you find that you take a lot of photos and videos on
+your phone, and your storage space is running low? Are you
+working on a group project and finding it difficult to
+keep everyone updated with the most recent version of
+documents and files? Are you looking for a safe, secure
+location to store backups and important files? If so,
+cloud storage may be the solution you are looking for.
+Here are some things to consider when choosing a cloud
+storage option.
+What will you store?
+The types of files that you store can have a big impact on
+determining the best cloud storage service for you. The following
+suggests the best file service for you based on the types of files
+you typically store.
+If you primarily store photos, then consider the cloud services
+of Flickr and Adobe Creative Cloud. They feature online tools to
+edit, share, and search photos.
+If you primarily store music, then consider the cloud services
+of Google Play Music and iTunes Match. They feature online tools
+to listen to music and create customizable playlists.
+reset page 442
+-------------------------------------------- 分页分隔 --------------------------------------------
+If you primarily store documents, then consider the cloud
+services Adobe Document Cloud and Microsoft’s One Drive. They
+feature online tools to view and edit documents.
+If you primarily need storage to back up your system programs,
+consider the cloud services of Backblaze and iDrive. They have
+apps that back up your devices’ data, making backups seamless
+and easy.
+Also, what you store will impact how much storage you need.
+If you are only looking to store documents and text files, you
+will not need much storage space; however, videos and photo
+albums can take up a lot more storage. Different services offer
+different pricing plans and have special offers depending on
+what types of files you store—the best cloud storage plan for
+you will tailor itself to your storage needs.
+Cloud storage service Flickr is designed to store and display digital
+photos.
+OlegDoroshin/Shutterstock
+What tools will you use?
+If your storage needs are mostly sharing and working on documents,
+your best cloud storage choice may be determined by the software
+you use to create those documents. Most office software page 175
+suites are designed to work seamlessly with specific
+cloud storage services. Examples of popular office suites and
+their corresponding cloud services include:
+If you primarily use Microsoft Office applications, then
+consider Microsoft OneDrive cloud service.
+If you primarily use Google Docs, then consider Google Drive
+cloud service.
+reset page 443
+-------------------------------------------- 分页分隔 --------------------------------------------
+If you primarily use Apple iWork applications, then consider
+Apple iCloud cloud service.
+Apple’s iCloud works with the iWorks office suite.
+NetPhotos3/Alamy Stock Photo
+What hardware do you have?
+Your hardware choices can influence your best cloud storage
+option. Apple’s iCloud works best on Apple devices. Chromebooks
+and Android phones are designed around using Google Drive, and
+Windows PCs have OneDrive designed into the operating system.
+Also, not just the manufacturer of your device, but the type of
+device can impact your choice as well. For example, if you do most
+of your computing on a mobile device, Google Drive has apps and
+tools that are designed to work with touch screens and mobile
+Internet connections. However, if you spend most of your time
+offline, you may find that Google Drive is not as robust as other
+cloud storage options.
+How do you want to share?
+One of the best features of cloud storage is the ease of sharing
+files. Consider who you share with and what you want to share
+before choosing a cloud storage provider. For example, if you are
+working on a group project at school, and the school uses
+Microsoft OneDrive, Microsoft OneDrive might be the easiest
+solution. If you share files at work, but only want the recipient
+to be able to read but not write to a file, you may need the more
+robust security features found in a service like box.com. Sharing
+photos and videos on Google and Dropbox is easy if the recipient
+has a Google or Dropbox account; otherwise, it might take a little
+more effort.
+reset page 444
+-------------------------------------------- 分页分隔 --------------------------------------------
+Also, consider the technical knowledge of the people you share
+with. Some cloud services are designed to be used by businesses
+with complex security and backup features. Such features would be
+valuable to a company of trained professionals sharing sensitive
+documents, but for many less technical people, it is an
+unnecessary complication that makes sharing photos and files more
+difficult. Apple’s iCloud makes organizing and sharing photos
+simple for a typical iPhone user, but that simplicity might be too
+limiting for a professional photographer. Facebook may store your
+low-resolution photos for free, but if you want to share a photo,
+the recipient must sign up for Facebook.
+Microsoft OneDrive works well on Windows OS and with Microsoft Office
+products.
+dennizn/Shutterstock
+There are many options in the cloud storage market—finding the right one
+for you will require understanding how you want to use cloud storage.
+Recognizing the features and limitations of each service is a start to
+finding the right place for your family photos or last year’s tax
+records. Finally, most services offer a free trial before purchasing or
+committing fully—try out a service with different files, on different
+devices, and sharing with different people to find out which is best for
+you.
+page 176
+reset page 445
+-------------------------------------------- 分页分隔 --------------------------------------------
+Mass Storage Devices
+It is natural to think of secondary storage media and devices
+as they relate to us as individuals. It may not be as obvious
+how important these matters are to organizations. Mass
+storage refers to the tremendous amount of secondary storage
+required by large organizations.
+Mass storage devices are specialized high-capacity
+secondary storage devices designed to meet organizational
+demands for data storage. These mass storage solutions allow
+large corporations and institutions to centralize their
+maintenance and security of data, thereby reducing costs and
+personnel.
+Enterprise Storage System
+Most large organizations have established a strategy called
+an enterprise storage system to promote efficient and safe
+use of data across the networks within their organizations.
+(See Figure 7-14.) Some of the mass storage devices that
+support this strategy are as follows:
+File servers—dedicated computers with very large storage
+capacities that provide users access to fast storage and
+retrieval of data.
+Network attached storage (NAS)—a type of file server
+designed for homes and small businesses. NAS is less
+expensive, easier to set up, and easier to manage than most
+file servers. However, it does not include powerful
+management tools and features found in many large-scale
+file servers.
+RAID systems—larger versions of the specialized page 177
+devices discussed earlier in this chapter that
+protect data by constantly making backup copies of files
+moving across the organization’s networks.
+reset page 446
+-------------------------------------------- 分页分隔 --------------------------------------------
+Organizational cloud storage—high-speed Internet
+connection to a dedicated remote storage facility. These
+facilities contain banks of file servers to offer enormous
+amounts of storage.
+Figure 7-14 Enterprise storage system
+(top-left): Gravvi/Shutterstock; (top-right): ©Copyright 2015, CRU
+Acquisition Group, LLC. All Rights Reserved; (bottom-right):
+300dpi/Shutterstock.
+Description
+reset page 447
+-------------------------------------------- 分页分隔 --------------------------------------------
+Storage Area Network
+An innovative and growing mass storage technology is storage
+area network (SAN) systems. SAN is an architecture to link
+remote computer storage devices, such as enterprise storage
+systems, to computers such that the devices are as available
+as locally attached drives. In a SAN system, the user’s
+computer provides the file system for storing data, but the
+SAN provides the disk space for data.
+The key to a SAN is a high-speed network, connecting
+individual computers to mass storage devices. Special file
+systems prevent simultaneous users from interfering with each
+other. SANs provide the ability to house data in remote
+locations and still allow efficient and secure access.
+concept check
+Define mass storage and mass storage devices.
+What is an enterprise storage system?
+What is a storage area network system?
+Careers in IT
+“Now
+that you’ve learned about secondary storage, let me tell
+you a little bit about my career as a disaster recovery
+specialist.”
+reset page 448
+-------------------------------------------- 分页分隔 --------------------------------------------
+John Fedele/Getty Images
+Disaster recovery specialists are responsible for
+recovering systems and data after a disaster strikes an
+organization. In addition, they often create plans to
+prevent and prepare for such disasters. A crucial part of
+that plan is to use storage devices and media in order to
+ensure that all company data is backed up and, in some
+cases, stored off-site.
+Employers typically look for candidates with a
+bachelor’s or associate’s degree in information systems
+or computer science. Experience in this field is usually
+required, and additional skills in the areas of networking,
+security, and database administration are desirable.
+Disaster recovery specialists should possess good
+communication skills and be able to handle high-stress
+situations.
+Disaster recovery specialists can expect to earn an
+annual salary of $70,500 to $87,000. Opportunities for
+advancement typically include upper-management positions.
+With so many types of threats facing organizations, demand
+for these types of specialists is expected to grow.
+page 178
+reset page 449
+-------------------------------------------- 分页分隔 --------------------------------------------
+A LOOK TO THE FUTURE
+Next-Generation Storage
+Every year, cell phones improve. One of their greatest features is the
+incredible cameras we can now carry in our pockets. As we record longer
+videos at greater quality, we need more secondary storage to hold them.
+Scientists are looking to a future where you may carry years, worth of
+videos or walk around with an entire copy of the Internet in your pocket
+and where every moment of your day will be recorded in vastly larger
+secondary storage devices than the ones we have today. Such future storage
+will require new ways of thinking and astounding technological
+advancements that are currently being studied. In the future, your cell
+phone may record data using heat rays, lasers, or even DNA.
+Our cell phones, tablets, and laptops have secondary storage that uses
+magnets to store information. A magnetic field writes data on the surface
+of a magnetized material by flipping a magnetic charge on the surface of
+the material. The retained magnetic charge on the surface represents one
+bit of information. The magnetic charge on the surface must be kept far
+apart from the other bits of information stored elsewhere on the surface.
+If the two bits are stored too closely together, the magnetic field of one
+bit could overwrite the data in the other bit. This is one of the major
+limitations to how much space is required to store information digitally.
+Rost9/Shutterstock
+To overcome this limitation, scientists are exploring the use of
+Samsung’s Heat-Assisted Magnetic Recording (HAMR) technologies. A HAMR
+writes data on a special heat-sensitive magnetic surface. The surface can
+reset page 450
+-------------------------------------------- 分页分隔 --------------------------------------------
+be written on with a magnetic field—but only when the surface is heated.
+When not heated, the surface will not change. Thus, closely packed bits of
+information will not overwrite each other as long as the material is not
+heated. Writing to the surface is accomplished by preheating an area using
+a precision laser. If this technology can be brought to market, a hard
+disk could store 50 times more information.
+While HAMR technology may allow us to store more information in every
+square inch of a magnetic surface, Intel’s Optane flash memory is
+exploring the possibility of storing data not on the surface but in 3D
+multilevel cells (MLCs). Optane uses flash memory technologies to create
+nonvolatile memory stacks that store information both horizontally and
+vertically. These dense stacks of bits can be accessed much faster than
+traditional flash memory—at speeds rivaling RAM access speeds.
+The greatest innovations in secondary storage will likely require a
+major change in the way we store data. Many of the most promising and
+futuristic secondary storage devices do not use magnets to store
+information. In nature, living creatures store genetic information on
+strands of sequenced cells, called DNA. In 2017, Columbia University used
+encoding techniques developed at Netflix to store 215 petabytes in one
+gram of DNA. In 2019, researchers at the University of Washington
+automated the read and write processes used to record data on DNA—
+bringing the possibility of DNA secondary storage even closer.
+Obviously, the technology to read and write DNA data is neither cheap
+nor common, but when it comes to storing data, nature has been doing it
+longer and better than we have. Perhaps in the future your family photos
+won’t be stored on DVDs, but instead on genetic material. Do you think
+that the expenses associated with DNA processing will ever reduce enough
+to make DNA data storage useful, or will we continue with hard drives and
+flash memory?
+page 179
+VISUAL SUMMARY
+Secondary Storage
+STORAGE
+reset page 451
+-------------------------------------------- 分页分隔 --------------------------------------------
+Sahara Prince/Shutterstock
+RAM is primary storage. Most RAM is volatile, meaning
+that it loses its contents whenever power is disrupted.
+Secondary storage provides nonvolatile storage.
+Secondary storage retains data and information after the
+computer system is turned off.
+Writing is the process of saving information to
+secondary storage devices (drives). Reading is the
+process of accessing information.
+Important characteristics include the following:
+Media—actual physical material that retains data and
+programs.
+Capacity—how much a particular storage medium can
+hold.
+Storage devices—hardware that reads and writes to
+storage media.
+Access speed—time required to retrieve data from a
+secondary storage device.
+SOLID-STATE STORAGE
+reset page 452
+-------------------------------------------- 分页分隔 --------------------------------------------
+Pheelings media/Shutterstock
+Solid-state storage devices provide access to flash
+memory, also know as solid-state storage. Flash memory
+is slower than traditional memory but faster than other
+secondary storage drives. Solid-state storage devices
+have no moving parts and provide access to flash memory
+(solid-state storage).
+Solid-State Drives
+Solid-state drives (SSDs) work much like RAM. They are
+fast and durable, require little power, are relatively
+expensive, and are lower in capacity than other secondary
+storage drives. SSDs can provide internal storage or can
+be located outside the system unit.
+Flash Memory Cards
+Flash memory cards are small solid-state storage devices
+that are widely used with portable devices including
+digital cameras, cell phones, and navigation systems.
+USB Flash Drives
+USB flash drives (flash drives) are so small that they
+fit onto a key ring. These drives connect to a
+reset page 453
+-------------------------------------------- 分页分隔 --------------------------------------------
+computer’s USB port and are widely used to transfer data
+and information between computers, specialty devices, and
+the Internet.
+page 180
+To efficiently and effectively use computers, you need
+to be aware of the different types of secondary
+storage. You need to know their capabilities,
+limitations, and uses. There are four widely used
+storage media: hard disk, solid state, optical disc,
+and cloud storage.
+HARD DISKS
+Hard disks use rigid metallic platters that provide a
+large amount of capacity. They store data and programs by
+altering the electromagnetic charges on the platter’s
+surface. Files are organized according to
+reset page 454
+-------------------------------------------- 分页分隔 --------------------------------------------
+Tracks—concentric rings on the platter.
+Sectors—wedge-shaped sections.
+Cylinders—run through each track of a stack of
+platters.
+Density refers to how tightly electromagnetic charges
+can be packed next to one another on the disk.
+Internal Hard Disks
+Internal hard disks are located within the system unit.
+They are used to store programs and data files.
+External Hard Disks
+External hard-disk drives connect to a port on the system
+unit, are not as fast as internal drives, and are
+removable, providing unlimited storage using a single
+port.
+HARD DISKS
+AlexLMX/Shutterstock
+Network Drives
+Network drives are located on a network anywhere in the
+world.
+reset page 455
+-------------------------------------------- 分页分隔 --------------------------------------------
+Performance Enhancements
+Four ways to improve hard-disk performance are disk
+caching, hybrid drives, RAID, and file compression and
+decompression.
+Disk caching—provides a temporary high-speed holding
+area between a secondary storage device and the CPU;
+improves performance by anticipating data needs and
+reducing time to access data from secondary storage.
+Hybrid drives—contain both solid-state storage and
+hard disks in an attempt to gain the speed and power
+benefits of SSDs while still having the low cost and
+large capacity of hard drives.
+RAID (redundant array of inexpensive disks)—several
+inexpensive hard-disk drives are connected together;
+improves performance by providing expanded storage,
+fast access, and high reliability.
+File compression and decompression—files are
+compressed before storing and then decompressed before
+being used again; improves performance through
+efficient storage.
+page 181
+OPTICAL DISCS
+reset page 456
+-------------------------------------------- 分页分隔 --------------------------------------------
+limpido/Shutterstock
+Optical discs use laser technology. 1s and 0s are
+represented by pits and lands. Optical disc drives
+project light and measure the reflected light.
+The most widely used optical discs are the following:
+Compact discs (CDs) were the first; typical storage
+700 MB; often used to store music.
+Digital versatile discs (DVDs) are standard optical
+discs; typical storage 4.7 GB; often used to store
+movies and software.
+Blu-ray discs (BDs) are designed to store hi-def
+(high-definition) video; typical storage 50 GB; often
+used to store hi-def video and video games; Ultra HD
+Blu-rays (UHD BD) are the newest and able to use 4K
+video content and store up to 100 GB of data.
+Each of these optical discs has three basic formats:
+Read-only (ROM for read-only memory) discs cannot be
+written on or erased by the user.
+Write-once (R for recordable) discs can be written on
+once. After that, they can be read many times but
+cannot be written on or erased.
+reset page 457
+-------------------------------------------- 分页分隔 --------------------------------------------
+Rewritable (RW for rewritable or RAM for random-
+access memory) discs are similar to write-once discs
+except that the disc surface is not permanently altered
+when data is recorded.
+CLOUD STORAGE
+Nopparat Khokthong/Shutterstock
+With cloud computing, the Internet acts as a “cloud”
+of servers. Cloud storage (online storage) is supplied
+by these servers.
+Cloud servers provide storage, processing, and memory.
+Advantages for users include less maintenance, fewer
+hardware upgrades, and easy file sharing and
+collaboration.
+Disadvantages for users include slower access speed and
+less control over file security.
+MASS STORAGE DEVICES
+Mass storage refers to the tremendous amount of
+secondary storage required by large organizations. Mass
+reset page 458
+-------------------------------------------- 分页分隔 --------------------------------------------
+storage devices are specialized high-capacity secondary
+storage devices.
+Most large organizations have established a strategy
+called an enterprise storage system to promote efficient
+and safe use of data.
+Mass storage devices that support this strategy are
+file servers, network attached storage (NAS), RAID
+systems, and organizational cloud storage. A storage
+area network (SAN) is a method of using enterprise-level
+remote storage systems as if they were local to your
+computer.
+CAREERS in IT
+Disaster recovery specialists are responsible for
+recovering systems and data after a disaster strikes an
+organization. Bachelor’s or associate’s degree in
+information systems or computer science, experience, and
+additional skills in the areas of networking, security,
+and database administration are desirable. Expected
+salary range is $70,500 to $87,000.
+page 182
+KEY TERMS
+access speed (167)
+Blu-ray disc (BD) (171)
+capacity (166)
+reset page 459
+-------------------------------------------- 分页分隔 --------------------------------------------
+cloud computing (172)
+cloud storage (172)
+compact disc (CD) (171)
+cylinder (169)
+density (169)
+digital versatile disc or digital video disc (DVD) (171)
+disaster recovery specialist (177)
+disk caching (170)
+drives (167)
+enterprise storage system (176)
+external hard drive (169)
+file compression (170)
+file decompression (170)
+file server (176)
+flash drive (168)
+flash memory (167)
+flash memory card (168)
+hard-disk drive (169)
+hi-def (high-definition) (171)
+hybrid drive (170)
+internal hard disk (169)
+land (171)
+mass storage (176)
+mass storage devices (176)
+media (166)
+network attached storage (NAS) (176)
+network drive (169)
+online storage (172)
+optical disc (171)
+reset page 460
+-------------------------------------------- 分页分隔 --------------------------------------------
+optical disc drive (171)
+organizational cloud storage (177)
+pit (171)
+platter (169)
+primary storage (166)
+RAID system (177)
+random-access memory (RAM) disc (172)
+read-only memory (ROM) disc (171)
+recordable (R) disc (172)
+redundant array of inexpensive disks (RAID) (170)
+rewritable (RW) disc (172)
+secondary storage (166)
+secondary storage device (166)
+sector (169)
+solid-state drive (SSD) (167)
+solid-state storage (167)
+storage area network (SAN) (177)
+storage device (167)
+track (169)
+Ultra HD Blu-ray (UHD BD) (171)
+USB flash drive (168)
+write-once disc (172)
+MULTIPLE CHOICE
+Circle the correct answer.
+reset page 461
+-------------------------------------------- 分页分隔 --------------------------------------------
+1. Provides permanent or nonvolatile storage.
+a. secondary storage
+b. RAM
+c. primary storage
+d. NAS
+2. Hardware that reads data and programs from storage
+media.
+a. storage devices
+b. density
+c. sectors
+d. disk caching
+3. Concentric rings on a hard-disk platter.
+a. sectors
+b. tracks
+c. vectors
+d. platter
+4. Each track is divided into invisible wedge- page 183
+shaped sections called .
+a. tracks
+b. sectors
+c. vectors
+d. platters
+5. Increases storage capacity by reducing the amount of
+space required to store data and programs.
+a. file server
+b. file compression
+c. storage area network
+d. hybrid drive
+6. Optical disc most common on today’s personal computers.
+reset page 462
+-------------------------------------------- 分页分隔 --------------------------------------------
+a. DVD
+b. flash memory card
+c. NAS
+d. sector
+7. Which of the following is NOT an important
+characteristic of secondary storage?
+a. media
+b. capacity
+c. access speed
+d. file compression
+8. Similar to internal hard-disk drives except they use
+solid-state memory.
+a. DVDs
+b. cloud storage
+c. solid-state drives
+d. enterprise storage
+9. Mass storage device widely used for home and small
+business storage.
+a. cloud storage
+b. flash drive
+c. Blu-ray
+d. storage area network
+10. Architecture to link remote storage devices to computers
+such that the devices are as available as locally
+attached drives.
+a. flash drive
+b. RAID
+c. platter
+d. network attached storage
+reset page 463
+-------------------------------------------- 分页分隔 --------------------------------------------
+MATCHING
+Match each numbered item with the most closely related
+lettered item. Write your answers in the spaces provided.
+a. c loud 1. Another name for online
+b. density s torage is
+storage.
+c. disk
+2. Commonly used on cameras
+caching
+and cell phones to expand
+d. enterprise
+their internal storage.
+storage
+s ystem 3. This hard-disk
+performance enhancement
+e. flash
+anticipates data needs.
+memory
+c ards 4. The name for the
+concentric circles on a
+f. mass
+hard disk.
+storage
+d evices 5. This type of storage
+uses pits and lands to
+g. media
+represent 1s and 0s.
+h. primary
+6. RAM is sometimes
+storage
+refer red to as .
+i. solid
+7. The actual physical
+state
+material that holds the
+j. tracks
+data and programs.
+8. This measures how
+tightly the magnetic
+charges can be packed
+reset page 464
+-------------------------------------------- 分页分隔 --------------------------------------------
+next to one another on
+the disk.
+9. An organizational
+strategy to promote
+efficient and safe use of
+data across the networks.
+10. Specialized high-
+capacity secondary
+storage devices designed
+to meet organizational
+demands.
+page 184
+OPEN-ENDED
+On a separate sheet of paper, respond to each question or
+statement.
+1. Compare primary storage and secondary storage, and
+discuss the most important characteristics of secondary
+storage.
+2. Discuss solid-state storage, including solid-state
+drives, flash memory, and USB drives.
+3. Discuss hard disks, including density, platters, tracks,
+sectors, cylinders, internal, external, and performance
+enhancements.
+4. Discuss optical discs, including pits, lands, CDs, DVDs,
+Blu-ray, and hi-def.
+reset page 465
+-------------------------------------------- 分页分隔 --------------------------------------------
+5. Discuss cloud computing and cloud storage.
+6. Describe mass storage devices, including enterprise
+storage systems, file servers, network attached storage,
+RAID systems, organizational cloud storage, and storage
+area network systems.
+DISCUSSION
+Respond to each of the following questions.
+Making IT Work for You: CLOUD STORAGE
+1
+Have you ever found yourself e-mailing files back and forth between two
+of your computers or with others as a way to transport them? Review the
+Making IT Work for You: Cloud Storage on pages 174 and 175. Then respond
+to the following: (a) Have you ever used Dropbox or a similar service?
+If so, what service have you used, and what do you typically use it for?
+If you have not used Dropbox or a similar service, describe how and why
+you might use one. (b) If you do not have a Dropbox account, set up a
+free one and create a Dropbox folder. Use Dropbox to either (1) access a
+file from another computer or (2) share a file with one of your
+classmates. Describe your experience. (c) Try a few of Dropbox’s
+features, and describe your experience with these features. (d) Do you
+see yourself using Dropbox on an everyday basis? Why or why not?
+Privacy: RIGHT TO BE FORGOTTEN
+2
+As a generation grows up with social media, a surplus of youthful
+indiscretions is now stored on the Internet for all to see. Review the
+Privacy box on page 170 and respond to the following: (a) Is there a
+photo or video of you on the Internet that you would prefer not be
+publicly available? Have you said or done things that, if recorded and
+posted on social media, could have a negative impact on a job interview?
+(b) Do you have the right to decide what photos of you are posted on the
+Internet by others? Why or why not? (c) Does someone else have the right
+to tell you what to do with the photos you take, even if they are in the
+photo? Why or why not? (d) Should Facebook remove photos, videos, or
+reset page 466
+-------------------------------------------- 分页分隔 --------------------------------------------
+messages if someone is embarrassed by them? Should Facebook have the
+right to remove your photos, videos, or messages if someone is
+embarrassed by the content? Justify your answer.
+page 185
+Ethics: CLOUD STORAGE AND
+3
+CONFIDENTIALITY
+When individuals and businesses store files using cloud services, they
+expect the cloud company to behave ethically by providing adequate
+security to protect confidential files. What if this expectation is not
+met? Review the Ethics box on page 173, and then respond to the
+following: (a) Would you be comfortable if your attorney stored digital
+copies of your legal documents in the cloud? What about your doctor or
+psychologist? Why or why not? (b) Who should be responsible if files
+stored in the cloud are stolen or viewed by hackers or unethical
+employees? Who would suffer the consequences? Defend your position. (c)
+Should laws be created that require cloud storage companies to operate
+ethically and to assume responsibility for security and confidentiality
+of stored data? Why or why not? (d) Cloud computers are not necessarily
+located within the borders of the United States and therefore may not be
+subject to the same regulations as U.S.-based computers. Do you think
+that all U.S. companies should be required to keep their cloud servers
+in this country? Defend your response. (e) How do you feel about storing
+personal and confidential information in the cloud? Do you currently do
+it? Why or why not?
+Community: DANGEROUS USB FLASH DRIVES
+4
+Review the Community box on page 167 and then respond to the following:
+(a) Have you (or someone you know) ever attended an event where USB
+flash drives were handed out for free? Have you (or someone you know)
+ever found a USB flash drive on the ground? (b) Often, USB flash drives
+are handed out at booths at convention centers and other community
+gatherings. How closely monitored are such booths? Would it be possible
+for someone to get a free drive, infect it, and then return it to the
+booth among the other drives being handed out? (c) Are there any
+circumstances where you would trust an unknown USB flash drive? What are
+the potential costs to plugging in an unknown drive? What are the
+potential benefits?
+reset page 467
+-------------------------------------------- 分页分隔 --------------------------------------------

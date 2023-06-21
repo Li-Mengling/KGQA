@@ -1,0 +1,1843 @@
+
+page 134
+Input and Output
+chapter
+6
+Peshkova/Shutterstock
+reset page 344
+-------------------------------------------- 分页分隔 --------------------------------------------
+page 135
+Why should I read this chapter?
+Input and output devices have seen staggering advances in recent years. A
+typical cell phone now has dozens of input sensors and display options.
+In the future, input devices such as tiny attachments to clothes or
+eyewear will likely be as common as cell phones. Augmented reality
+displays or wearable glasses will integrate what you see with extensive
+databases of relevant information.
+Rawpixel.com/Shutterstock
+This chapter covers the things you need to know to be prepared for
+this ever-changing digital world, including:
+Keyboard design—discover how wireless and virtual keyboards might
+improve the speed and ease of typing.
+Intuitive input devices—learn about advances in touch screens and
+voice recognition systems.
+Display technology—discover how webcams and digital whiteboards can
+create videos and share presentations.
+Evolving output devices—learn about advances in UHDTVs, 3D printers,
+and e-books.
+Learning Objectives
+reset page 345
+-------------------------------------------- 分页分隔 --------------------------------------------
+After you have read this chapter, you should be able to:
+1. Define input.
+2. Describe keyboard entry, including types and features of
+keyboards.
+3. Identify different pointing devices, including touch
+screens, game controllers, and styluses.
+4. Describe scanning devices, including optical scanners,
+RFID readers, and recognition devices.
+5. Recognize image capturing and audio-input devices.
+6. Define output.
+7. Identify different monitor features and types, including
+flat panels and e-books.
+8. Define printing features and types, including inkjet,
+3D, and cloud printers.
+9. Recognize different audio-output devices, including
+headphones and headsets.
+10. Define combination input and output devices, including
+multifunctional devices, VR head-mounted displays and
+controllers, drones, and robots.
+11. Explain ergonomics and ways to minimize physical damage.
+page 136
+Introduction
+reset page 346
+-------------------------------------------- 分页分隔 --------------------------------------------
+“Hi,
+I’m James, and I’m a technical writer. I’d like to talk
+with you about input and output devices … all those devices that
+help us to communicate with a computer. I’d also like to talk
+about emerging technologies such as virtual reality.”
+How do you send instructions and data to the CPU? How do you get
+information out? Here we describe one of the most important places where
+computers interface with people. We input text, music, and even speech,
+but we probably never think about the relationship between what we enter
+and what the computer processes. Input devices translate numbers, letters,
+special characters, and gestures that people understand into a form that
+computers can process.
+Tatiana Frank/Shutterstock
+Have you ever wondered how information processed by the CPU is
+converted into a form that you can use? That is the role of output
+devices. While input devices convert what we understand into what the
+system unit can process, output devices convert what the system unit has
+processed into a form that we can understand. Output devices translate
+digital information into letters, numbers, sounds, and images that people
+can understand.
+To efficiently and effectively use computers, you need to know about
+the most commonly used input devices, including touch screens, game
+controllers, scanners, digital cameras, voice recognition, and audio-input
+devices. Additionally, you need to know about the most commonly used
+output devices, including monitors, printers, and audio and video output
+devices. You also need to be aware of combination input and output devices
+such as multifunctional devices, virtual reality devices, drones, and
+robots.
+reset page 347
+-------------------------------------------- 分页分隔 --------------------------------------------
+What Is Input?
+Input is any data or instructions entered into a computer. It
+can come directly from you or from other sources. You provide
+input whenever you use system or application programs. For
+example, when sending a text message from a cell phone, you
+enter data in the form of numbers and letters and issue
+commands such as send message or attach photo. You also can
+enter data and issue commands by pointing to items or using
+your voice. Other sources of input include scanned or
+photographed images.
+Input devices are hardware used to translate words,
+numbers, sounds, images, and gestures that people understand
+into a form that the system unit can process. For example,
+when writing an e-mail, you typically use a keyboard to enter
+text and a mouse to issue commands. In addition to keyboards
+and mice, there are a wide variety of other input devices.
+These include pointing, scanning, image capturing, and audio-
+input devices.
+Keyboard Entry
+When you type into your cell phone or laptop, you are using
+one of the most common input devices, a keyboard. As
+mentioned in Chapter 5, keyboards convert numbers, letters,
+and special characters that people understand into electrical
+signals. These signals are sent to, and processed by, the
+system unit. Most keyboards use an arrangement of keys given
+the name QWERTY. This name reflects the keyboard layout by
+taking the letters of the first six alphabetic characters
+found on the top row of keys displaying letters.
+Keyboards
+reset page 348
+-------------------------------------------- 分页分隔 --------------------------------------------
+There are a wide variety of keyboard designs, from small cell
+phone keyboards designed for short messages to desktop
+keyboards designed for longer computing sessions. There are
+three basic categories of keyboards: virtual, laptop, and
+traditional.
+page 137
+Virtual keyboards—these keyboards are used primarily with
+cell phones and tablets. Unlike other keyboards, virtual
+keyboards do not have physical keys. Rather, the keys are
+displayed on a screen and selected by touching their image
+on the screen. (See Figure 6-1.)
+Laptop keyboards—these keyboards are attached to the
+laptop system unit and designed to fold up with the laptop
+monitor to easily fit in a backpack or briefcase. Many
+high-end tablets offer laptop-like features by including a
+laptop keyboard that can be removed from the tablet or
+double as a protective case for the tablet. Laptop
+keyboards come in a variety of configurations, depending on
+manufacturer and the size of the laptop. These keyboards
+include all the keys found on a typical virtual keyboard,
+as well as extra keys, such as function and navigation
+keys. (See Figure 6-2.)
+Traditional keyboards—these full-size keyboards are
+widely used on desktops and larger computers. The standard
+U.S. traditional keyboard has 101 keys, including extra
+keys, such as a function keys, navigation keys, and a
+numeric keypad. Some traditional keyboards include a few
+additional special keys. For example, the Windows keyboard
+includes a Windows key to directly access the Start menu.
+Some keys, such as the Caps Lock key, are toggle keys.
+These keys turn a feature on or off. Others, such as the
+Ctrl key, are combination keys, which perform an action
+reset page 349
+-------------------------------------------- 分页分隔 --------------------------------------------
+when held down in combination with another key. (See Figure
+6-3.)
+Figure 6-1 Virtual keyboard
+AZHANA BINTI ZAINUDDIN/Shutterstock
+Figure 6-2 Laptop keyboard
+mama_mia/Shutterstock
+Figure 6-3 Traditional keyboard
+reset page 350
+-------------------------------------------- 分页分隔 --------------------------------------------
+Georgios Kollidas/Shutterstock
+Description
+tips
+Do you wish your virtual keyboard had the feel and sound of a
+physical keyboard? Look for these features in your cell phone
+or tablet’s settings to give your virtual keyboard a more
+physical presence.
+1
+The sound of a keyboard—Cell phones can mimic the clicking
+noise of a physical keyboard by playing a clicking sound when you
+type on the virtual keyboard.
+On an iOS device, turn on the system setting “Keyboard
+Clicks.”
+On an Android device, turn on the system setting “Touch
+sounds.”
+2
+The feel of a keyboard—Cell phones can mimic the sense of
+pressing a physical key through a technology called haptics.
+Haptics are the use of sound and vibration to simulate a physical
+sensation.
+On an iOS device, turn on the system setting “System
+Haptics.”
+On an Android device, turn on the system setting “Vibrate on
+touch.”
+concept check
+What is input? What are input devices?
+List and compare the three categories of keyboards.
+What are toggle keys? What are combination keys?
+page 138
+reset page 351
+-------------------------------------------- 分页分隔 --------------------------------------------
+Pointing Devices
+Pointing is one of the most natural of all human gestures.
+Pointing devices provide an intuitive interface with the
+system unit by accepting physical movements or gestures such
+as a finger pointing or moving across a screen and converting
+these movements into machine-readable input. There are a wide
+variety of pointing devices, including the touch screen,
+mouse, and game controller.
+Touch Screens
+A touch screen allows users to select actions or commands by
+touching the screen with a finger or stylus. A stylus is a
+penlike device typically used with tablets and mobile
+devices. (See Figure 6-4.) Often, a stylus interacts with the
+computer through handwriting recognition software.
+Handwriting recognition software translates handwritten
+notes into a form that the system unit can process.
+Figure 6-4 Stylus
+LDprod/Shutterstock
+Multitouch screens can be touched with more than one
+finger, which allows for interactions such as rotating
+graphical objects on the screen with your hand or zooming in
+and out by pinching and stretching your fingers. Multitouch
+reset page 352
+-------------------------------------------- 分页分隔 --------------------------------------------
+screens are commonly used with cell phones, tablets, and
+laptops, as well as some desktops. (See Figure 6-5.)
+Figure 6-5 Multitouch screen
+Bloomicon/Shutterstock
+Mice
+A mouse controls a pointer that is displayed on the monitor.
+The mouse pointer usually appears in the shape of an arrow.
+It frequently changes shape, however, depending on the
+application. A mouse can have one, two, or more buttons,
+which are used to select command options and to control the
+mouse pointer on the monitor. Some mice have a wheel button
+that can be rotated to scroll through information that is
+displayed on the monitor. (See Figure 6-6.)
+Figure 6-6 Cordless mouse with wheel button
+New Africa/Shutterstock
+Traditionally, the detected movements are communicated to
+the system unit through a cord. Alternatively, the cordless
+reset page 353
+-------------------------------------------- 分页分隔 --------------------------------------------
+or wireless mouse uses radio waves or infrared light waves to
+communicate with the system unit. These devices eliminate the
+mouse cord and free up desk space.
+community
+While the standard input devices work well for many of us, not everyone
+has the same physical or motor control abilities. Engineers and
+scientists have developed different pointing devices, keyboards, and
+even gamepads to make sure that everyone in our communities can write
+e-mails, surf the web, and play video games.
+These devices vary. Some are designed to be used without using your
+hands; others are controlled by your mouth or eyes. Others make it
+easier to use your hands with limited mobility, such as gamepads and
+joysticks with large programmable buttons.
+Have you used an input device designed for improved accessibility, or
+seen one used? How can accessible input devices improve someone’s
+quality of life and connection with their community?
+Like a mouse, a touch pad is used to control the mouse
+pointer and to make selections. Unlike a mouse, however, a
+touch pad operates by moving or tapping your finger on the
+surface of a pad. These devices are widely used instead of a
+mouse with laptops and some types of mobile devices. (See
+Figure 6-7.)
+Figure 6-7 Touch pad
+ZikG/Shutterstock
+Game Controllers
+reset page 354
+-------------------------------------------- 分页分隔 --------------------------------------------
+Game controllers are devices that provide input to computer
+games. While keyboards and traditional mice can be used as
+game controllers, the four most popular and specialized game
+controllers are joysticks, gaming mice, gamepads, and motion-
+sensing devices. (See Figure 6-8.)
+page 139
+Joysticks control game actions by users varying the
+pressure, speed, and direction of a control stick.
+Gaming mice are similar to traditional mice with higher
+precision, faster responsiveness, and programmable buttons.
+Gamepads are designed to be held by two hands and provide a
+wide array of inputs, including motion, turning, stopping,
+and firing.
+Motion-sensing devices control games by user movements.
+For example, Nintendo’s Joy-Con controller accepts user
+movements to control games on the Nintendo Switch.
+Figure 6-8 Game controllers
+Emanuele Ravecca/Shutterstock; Dario Lo Presti/Shutterstock;
+Artmospherium/Shutterstock; Rachel Torres/Alamy Stock Photo
+concept check
+What is a pointing device? Describe three pointing devices.
+What is a wheel button? Touch pad? Multitouch screen?
+Describe four game controllers.
+reset page 355
+-------------------------------------------- 分页分隔 --------------------------------------------
+Scanning Devices
+Scanning devices convert scanned text and images into a form
+that the system unit can process. There are five types of
+scanning devices: optical scanners, card readers, bar code
+readers, RFID readers, and character and mark recognition
+devices.
+Optical Scanners
+An optical scanner, also known simply as a scanner, accepts
+documents consisting of text and/or images and converts them
+to machine-readable form. These devices do not recognize
+individual letters or images. Rather, they recognize light,
+dark, and colored areas that make up individual letters or
+images. Typically, scanned documents are saved in files that
+can be further processed, displayed, printed, or stored for
+later use.
+privacy
+Audio inputs have become incredibly common in our devices. With the
+increase in smart devices, it can be easy to overlook all the devices
+that listen to us for voice commands. While it is well recognized that
+cell phones have microphones, many would be surprised to learn that
+smart thermostats and smart refrigerators include microphones. One of
+the ways that our devices improve their voice recognition is to always
+be listening and recording our conversations and to send these
+conversations to researchers and scientists for analysis and study.
+Privacy advocates are concerned that people who own smart devices may
+not realize they are being recorded and studied. Companies and
+researchers point out that for a device to respond to our voice, it
+must be listening to us and that privacy settings allow users to
+customize how much of their information they want to share. How many
+microphones are in your home? Are you concerned about how your
+conversations might be used by the devices that listen to you?
+reset page 356
+-------------------------------------------- 分页分隔 --------------------------------------------
+There are four basic types of optical scanners: flatbed,
+document, portable, and 3D.
+A flatbed scanner is much like a copy machine. The image to
+be scanned is placed on a glass surface, and the scanner
+records the image.
+A document scanner is similar to a flatbed scanner except
+that it can quickly scan multipage documents. It
+automatically feeds one page of a document at a time
+through a scanning surface. (See Figure 6-9.)
+A portable scanner is typically a handheld device that
+slides across the image, making direct contact.
+3D scanners use lasers, cameras, or robotic arms to record
+the shape of an object. Unlike 2D scanners, most 3D
+scanners cannot recognize light, dark, and colored page 140
+areas. Instead, 3D scanners recognize the shape of
+the object they are scanning. (See Figure 6-10.)
+Figure 6-9 Document scanner
+Courtesy of Canon-Europe
+reset page 357
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 6-10 3D scanner
+doomu/Shutterstock
+Optical scanners are powerful tools for a wide variety of end
+users, including graphics and advertising professionals who
+scan images and combine them with text.
+Card Readers
+Nearly everyone uses a credit card, debit card, access
+(parking or building) card, and/or some type of
+identification card. These cards typically have the user’s
+name, some type of identification number, and signature on
+the card. Additionally, encoded information is often stored
+on the card. Card readers interpret this encoded information.
+Although there are several different types, by far the
+most common is the magnetic card reader. The encoded
+information is stored on a thin magnetic strip located on the
+back of the card. When the card is swiped through the
+magnetic card reader, the information is read. Many credit
+cards, known as chip cards, include additional security in
+the form of a microchip embedded in the credit card. This
+chip contains encrypted data that makes it nearly impossible
+for criminals to forge a duplicate card. Some chips require
+that you insert the card into a specialized reader, while
+others feature contactless payment, and only require that you
+hold the card near the reader. (See Figure 6-11.)
+reset page 358
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 6-11 Contactless payment
+vchal/Shutterstock
+Bar Code Readers
+You are probably familiar with bar code readers or scanners
+from grocery stores. These devices are either handheld wand
+readers or platform scanners. They contain photoelectric
+cells that scan or read bar codes, or the vertical zebra-
+striped marks printed on product containers. Bar codes can be
+found many places, from stickers on fruit to labels on
+prescription medicine bottles.
+There are a variety of different codes, including UPC and
+MaxiCode.
+UPCs (Universal Product Codes) are widely used by retail
+stores to automate the processes to check out customers, to
+change product prices, and to maintain inventory records.
+MaxiCode is widely used by the United Parcel Service (UPS)
+and others to automate the process of routing packages,
+tracking in-transit packages, and locating lost packages.
+Cell phones with the appropriate app can also scan codes.
+(See Figure 6-12.) For example, after scanning the bar code
+from a product you are thinking of buying, the app Price
+Check by Amazon will provide in-store and online price
+comparisons as well as provide other customer product
+reviews.
+reset page 359
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 6-12 Cell phone reading a bar code
+Jochen Tack/Alamy Stock Photo
+page 141
+RFID Readers
+RFID (radio-frequency identification) tags are tiny chips
+that can be embedded in almost everything. They can be found
+in consumer products, driver’s licenses, passports, and any
+number of other items. (See Figure 6-13.) These chips contain
+electronically stored information that can be read using an
+RFID reader located several yards away. They are widely used
+to monitor and locate lost pets; to track food from farm to
+table; and to record prices, product descriptions, and
+locations of retail items.
+reset page 360
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 6-13 RFID reader
+Andrey_Popov/Shutterstock
+Character and Mark Recognition Devices
+Character and mark recognition devices are scanners that are
+able to recognize special characters and marks. They are
+specialty devices that are essential tools for certain
+applications. Three types are
+Magnetic-ink character recognition (MICR)—used by banks
+to automatically read those unusual numbers on the bottom
+of checks and deposit slips. A special-purpose machine
+known as a reader/sorter reads these numbers and provides
+input that allows banks to efficiently maintain customer
+account balances.
+Optical-character recognition (OCR)—uses special
+preprinted characters that can be read by a light source
+and changed into machine-readable code. A common OCR device
+is the handheld wand reader. (See Figure 6-14.) These are
+used in department stores to read retail price tags by
+reflecting light on the printed characters.
+Optical-mark recognition (OMR)—senses the presence or
+absence of a mark, such as a pencil mark. OMR is often used
+to score standardized multiple-choice tests.
+reset page 361
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 6-14 Wand reader
+Rido/Shutterstock
+concept check
+What is a scanner? Describe five types of scanning devices.
+What is a UPC? MaxiCode? Chip card?
+Describe three common character and mark recognition devices.
+Image-Capturing Devices
+Optical scanners, like traditional copy machines, can make a
+copy from an original. For example, an optical scanner can
+make a digital copy of a photograph. Image-capturing devices,
+on the other hand, create or capture original images. These
+devices include digital cameras and webcams.
+Digital Cameras
+Digital cameras capture images digitally and store the images
+on a memory card or in the camera’s memory. Most digital
+cameras are also able to record video as well. (See Figure 6-
+15.) Originally, digital cameras were only dedicated devices.
+Today, many digital cameras are embedded in other devices,
+reset page 362
+-------------------------------------------- 分页分隔 --------------------------------------------
+such as cell phones and tablets. Digital cameras provide a
+fast and easy way to create photos to share over social media
+and e-mail.
+page 142
+Figure 6-15 Digital camera
+Stefano Garau/Shutterstock
+Webcams
+Webcams are specialized digital video cameras that capture
+images and send them to a computer for broadcast over the
+Internet. Webcams are built into most cell phones and
+tablets. Desktop and laptop webcams are either built in or
+attached to the computer’s monitor. (See Figure 6-16.)
+Popular videoconferencing apps, such as Zoom, Microsoft
+Teams, and Apple’s FaceTime, use webcams to allow you to
+communicate in real time with friends and family using live
+video.
+reset page 363
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 6-16 Attached webcam
+eleonimages/Shutterstock
+ethics
+You may have heard of instances where webcams were used to broadcast
+the activities of individuals who did not know they were being
+recorded. For example, in a famous court case, a university student was
+prosecuted for using a webcam on an open laptop to secretly record his
+roommate’s intimate activities. In other situations, public webcams
+have recorded embarrassing footage of people who were not aware of the
+camera. It has been argued that capturing and then broadcasting a
+person’s image without his or her knowledge and consent is unethical.
+What do you think?
+Audio-Input Devices
+Audio-input devices convert sounds into a form that can be
+processed by the system unit. By far the most widely used
+audio-input device is the microphone. Audio input can take
+many forms, including the human voice and music.
+Voice Recognition Systems
+Voice recognition systems use a microphone, a sound card,
+and special software. These systems allow users to operate
+reset page 364
+-------------------------------------------- 分页分隔 --------------------------------------------
+computers and other devices, as well as to create documents,
+using voice commands. As discussed in Chapter 4, most cell
+phones include a virtual assistant that uses voice
+recognition to accept voice commands to control operations.
+Apple devices come with Siri, Windows devices come with
+Cortana, Amazon devices come with Alexa, and Android devices
+come with Google Assistant. There are even devices on the
+market that exclusively offer access to virtual assistants
+with voice recognition, such as Amazon’s Echo, Apple’s
+HomePod, and Google’s Home. These voice recognition systems
+can perform any number of operations, including scheduling
+events on your calendar, composing simple text messages, and
+looking up facts on the web. Specialized portable voice
+recorders are widely used by doctors, lawyers, and others to
+record dictation. These devices are able to record for
+several hours before connecting to a computer running voice
+recognition software to edit, store, and print the dictated
+information. Some systems are even able to translate
+dictation from one language to another, such as from English
+to Japanese.
+tips
+Have you ever had trouble communicating with someone who does
+not speak English? If so, Google Translate may be just what you
+need.
+1
+Go to translate.google.com.
+2
+Using the buttons at the top, select the language you will be
+speaking, followed by the language you want your words translated
+to.
+3
+Click the microphone icon in the box on the left, and begin
+speaking clearly into your microphone. In a few seconds, you will
+see the translated text in the box on the right.
+4
+Click the speaker icon in the box on the right to hear the
+translation.
+reset page 365
+-------------------------------------------- 分页分隔 --------------------------------------------
+concept check
+How are image capturing devices different from an optical scanner?
+Describe two image capturing devices.
+What are voice recognition systems? Siri? Cortana? Google Assistant?
+page 143
+What Is Output?
+Output is processed data or information. Output typically
+takes the form of text, graphics, photos, audio, and/or
+video. For example, when you create a presentation using a
+presentation graphics program, you typically input text and
+graphics. You also could include photographs, voice
+narration, and even video. The output would be the completed
+presentation.Output
+devices are any hardware used to provide or to
+create output. They translate information that has been
+processed by the system unit into a form that humans can
+understand. There are a wide range of output devices. The
+most widely used are monitors, printers, and audio-output
+devices.
+Monitors
+The most frequently used output device is the monitor. Also
+known as display screens, monitors present visual images of
+reset page 366
+-------------------------------------------- 分页分隔 --------------------------------------------
+text and graphics. Monitors vary in size, shape, and cost.
+Almost all, however, have some basic distinguishing features.
+Features
+The most important characteristic of a monitor is its
+clarity. Clarity refers to the quality and sharpness of the
+displayed images. It is a function of several monitor
+features, including resolution, dot pitch, contrast ratio,
+active display area, and aspect ratio.
+Resolution is one of the most important features. Images
+are formed on a monitor by a series of dots, or pixels
+(picture elements). (See Figure 6-17.) Resolution is
+expressed as a grid of these dots or pixels. For example,
+many monitors today have a resolution of 1,920 pixel
+columns by 1,080 pixel rows for a total of 2,073,600
+pixels. The higher a monitor’s resolution (the more
+pixels), the clearer the image produced. See Figure 6-18
+for the most common monitor resolutions.
+Dot (pixel) pitch is the distance between each pixel. The
+ideal dot pitch depends on how you use your monitor. Most
+newer desktop monitors have a dot pitch below 0.30 mm
+(30/100th of a millimeter). Cell phones, which are designed
+to be viewed more closely than desktop monitors, can have
+dot pitches below 0.05 mm (5/1,000th of a millimeter). The
+lower the dot pitch (the shorter the distance between
+pixels), the clearer the images.
+Contrast ratios indicate a monitor’s ability to display
+images. It compares the light intensity of the brightest
+white to the darkest black. The higher the ratio, the
+better the monitor. Good monitors typically have contrast
+ratios above 1,000:1.
+Active display area, or size, is measured by the diagonal
+length of a monitor’s viewing area. Common sizes are 15,
+17, 19, 21, and 24 inches.
+reset page 367
+-------------------------------------------- 分页分隔 --------------------------------------------
+Aspect ratio indicates the proportional relationship
+between a display’s width and height. Typically, this
+relationship is expressed by two numbers separated by a
+colon (:). Many older, more square-shaped monitors have a
+4:3 aspect ratio. Almost all newer monitors have a 16:9
+aspect ratio designed to display widescreen content.
+Figure 6-17 Monitor resolution
+Maria Gritsai/Alamy Stock Photo
+Standard Pixels
+HD 720 1,280 × 720
+HD 1080 1,920 × 1,080
+WQXGA 2,560 × 1,600
+UHD 4K 3,840 × 2,160
+UHD 8K 8,192 × 4,608
+Figure 6-18 Resolution standards
+Another important monitor feature is the ability to accept
+touch or gesture input such as finger movements, including
+swiping, sliding, and pinching. Although most older monitors
+do not support touch input, it is becoming a standard feature
+of newer monitors.
+reset page 368
+-------------------------------------------- 分页分隔 --------------------------------------------
+page 144
+tips
+Do your photos and videos look different depending on what
+screen you use? It may be due to different video settings. TV
+and computer monitors come from the factory with standard
+settings. To get the best performance from a monitor, you
+should calibrate the display.
+1
+Before you calibrate. Many factors can change a monitor’s
+response to calibration. To ensure that you have a proper baseline
+before fine-tuning your device, consider these factors before
+calibration:
+Warm up the TV or monitor. Allow the display to warm up for
+half an hour before calibration.
+Set the display resolution to its default (or native)
+resolution.
+Calibrate in a room with ambient light. Direct light on the
+screen can make it difficult to accurately assess your
+display’s picture quality.
+2
+Select your picture mode. Found within the display or monitor’s
+settings, a picture mode is a collection of preset profiles that
+adjusts the display to work well with different types of content.
+With categories like cinema, sports, games, and dynamic, these
+preset configurations change display settings, including color
+temperature, brightness, and contrast, to customize the display to
+the viewer’s preference. For true color representation, look for
+THX or ISF modes; failing that, use cinema or theater mode.
+3
+Use software tools. To truly maximize your display for its
+surrounding environment, you will need to fine-tune its
+calibration. For computer monitors, both Windows and macOS come
+with free monitor calibration tools in the control panel or system
+preferences of your computer. Many TV manufacturers offer free
+setup tools as well—check the manual and software that came with
+your TV. Finally, you can purchase calibration tools, such as the
+THX Tune-up app from THX.
+Flat-Panel Monitors
+reset page 369
+-------------------------------------------- 分页分隔 --------------------------------------------
+Flat-panel monitors are the most widely used type of monitor
+today. Compared to other types, they are thinner, are more
+portable, and require less power to operate. (See Figure 6-
+19.)
+Figure 6-19 Flat-panel monitor
+cobalt88/Shutterstock
+Almost all flat-panel displays are backlit, meaning that a
+common source of light is dispersed over all the pixels on
+the screen. There are three basic types of flat-panel
+monitors: LCD, LED, and OLED.
+LCD (liquid crystal display) is widely used for older
+monitors and is typically less expensive.
+LED (light-emitting diode) monitors use similar technology
+with a more advanced backlighting technology. They produce
+reset page 370
+-------------------------------------------- 分页分隔 --------------------------------------------
+better-quality images, are slimmer, and are more
+environmentally friendly as they require less power and use
+fewer toxic chemicals to manufacture. Most new monitors are
+LED.
+OLED (organic light-emitting diode) monitors replace the
+LED monitor’s backlighting technology with a thin layer of
+organic compound that produces light. By eliminating the
+backlight, OLED monitors can be even thinner with better
+power efficiency and contrast ratios.
+reset page 371
+-------------------------------------------- 分页分隔 --------------------------------------------
+E-book Readers
+E-books (electronic books) are traditional printed books in
+electronic format. These books are available from numerous
+sources, including many public and private libraries,
+bookstore websites, and the cloud. E-book readers (e-
+readers) are dedicated mobile devices for storing and
+displaying e-books and other electronic media, including
+electronic newspapers and magazines.
+E-book readers have displays that are typically 6 inches
+and use a technology known as e-ink. E-ink produces images
+that reflect light like ordinary paper, making the display
+easy to read. Two well-known e-book readers are Amazon’s
+Kindle and Walmart’s Kobo eReaders (See Figure 6-20.)
+Figure 6-20 E-book reader
+Tada Images/Shutterstock
+Tablets can also display e-books. They are larger,
+heavier, and more expensive than e-book readers. They are
+also much more flexible, with displaying e-books being only
+one of their any number of applications. Unlike dedicated e-
+book readers, these tablets use LCD displays that provide
+crisp, colorful images; however, they are difficult to read
+in bright light due to their reflective nature. Two well-
+reset page 372
+-------------------------------------------- 分页分隔 --------------------------------------------
+known traditional tablets are Apple’s iPad and Samsung’s
+Galaxy Tab.
+page 145
+Other Monitors
+There are several other types of monitors. Some are used for
+more specialized applications, such as making presentations
+and watching television.
+Digital or interactive whiteboards are specialized devices
+with a large display connected to a computer or projector.
+The computer’s desktop is displayed on the digital
+whiteboard and controlled using a special pen, a finger, or
+some other device. Digital whiteboards are widely used in
+classrooms and corporate boardrooms. (See Figure 6-21.)
+Flexible screens allow digital devices to display images on
+nonflat surfaces. Early uses of flexible screens included
+cell phones with screens that wrap around the edges of the
+phone and curved monitors whose edges wrap toward the
+viewer. Recent innovations include foldable screens, such
+as the Samsung Galaxy Fold, a cell phone with a screen that
+unfolds to become a tablet. (See Figure 6-22.)
+Digital projectors project the images from a traditional
+monitor onto a screen or wall. This is ideal for
+presentations or meetings when several people need to see
+the screen at the same time. These projectors can be as
+small as a coffee cup and can project images larger than a
+standard computer monitor. Unfortunately, projected images
+can be difficult to see in bright rooms, so they are best
+used in dark rooms with curtains or no windows. (See Figure
+6-23.)
+reset page 373
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 6-21 Digital whiteboard
+Adam Hester/Getty Images
+Figure 6-22 Flexible screen
+Lukmanazis/Shutterstock
+Figure 6-23 Digital projector
+Lukmanazis/Shutterstock
+concept check
+reset page 374
+-------------------------------------------- 分页分隔 --------------------------------------------
+Define these monitor features: clarity, resolution, dot pitch,
+contrast ratios, size, and aspect ratio.
+Describe flat-panel, LCD, LED, and OLED monitors.
+What are e-book readers, digital whiteboards, flexible screens, and
+digital projectors?
+page 146
+Printers
+Even as many individuals, schools, and businesses are trying
+to go paperless, printers remain one of the most used output
+devices. You probably use a printer to print homework
+assignments, photographs, and web pages. Printers translate
+information that has been processed by the system unit and
+present the information on paper.
+Features
+There are many different types of printers. Almost all,
+however, have some basic distinguishing features, including
+resolution, color capability, speed, memory, duplex printing,
+and connectivity.
+Resolution for a printer is similar to monitor resolution.
+It is a measure of the clarity of images produced. Printer
+resolution, however, is measured in dpi (dots per inch).
+(See Figure 6-24.) Most printers designed for personal use
+average 1,200 by 4,800 dpi. The higher the dpi, the better
+the quality of images produced.
+Color capability is provided by most printers today. Users
+typically have the option to print either with just black
+ink or with color. Because it is more expensive to print in
+color, most users select black ink for letters, drafts, and
+reset page 375
+-------------------------------------------- 分页分隔 --------------------------------------------
+homework. The most common black ink selection is grayscale,
+in which images are displayed using many shades of gray.
+Color is used more selectively for final reports containing
+graphics and for photographs.
+Speed is measured in the number of pages printed per
+minute. Typically, printers for personal use average 15 to
+19 pages per minute for single-color (black) output and 5
+to 12 pages per minute for color output.
+Memory within a printer is used to store printing
+instructions and documents waiting to be printed. The more
+memory, the faster it will be able to print large
+documents.
+Duplex printing allows automatic printing on both sides of
+a sheet of paper. Although not currently a standard feature
+for all printers, it will likely become standard in the
+future as a way to reduce paper waste and to protect the
+environment.
+Connectivity is the ability of the printer to connect to a
+network, eliminating the need for a computer to be attached
+by a cable to the printer and making it easier for multiple
+computers to share one printer. Many printers include the
+ability to connect to a network over Wi-Fi or Ethernet.
+reset page 376
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 6-24 DPI comparison
+Description
+page 147
+Inkjet Printers
+Inkjet printers spray ink at high speed onto the surface of
+paper. This process produces high-quality images in a variety
+of colors, making it ideal for printing photos. (See Figure
+6-25.) Inkjet printers are relatively inexpensive and are the
+most widely used printers. In addition, they are reliable and
+quiet. The most costly aspect of inkjet printers is replacing
+the ink cartridges. For this reason, most users specify black
+ink for the majority of print jobs and use the more expensive
+color printing for select applications. Typical inkjet
+printers produce 15 to 19 pages per minute of black-only
+output and 5 to 12 pages of color output.
+Figure 6-25 Inkjet printer
+Science Photo Library/Alamy Stock Photo
+Laser Printers
+The laser printer uses a technology similar to that used in a
+photocopying machine. Laser printers use a laser light beam
+to produce images with excellent letter and graphics quality.
+reset page 377
+-------------------------------------------- 分页分隔 --------------------------------------------
+More expensive than inkjet printers, laser printers are
+faster and are used in applications requiring high-quality
+output.
+There are two categories of laser printers. Personal laser
+printers are less expensive and are used by a single user.
+They typically can print 15 to 17 pages a minute. Shared
+laser printers typically support color, are more expensive,
+and are used (shared) by a group of users. Shared laser
+printers typically print over 50 pages a minute.
+3D Printers
+3D printers, also known as additive manufacturing, create
+three-dimensional shapes by adding very thin layer after
+layer of material until the final shape is fully formed. (See
+Figure 6-26.) A variety of different processes and materials
+can be used to create each layer. One of the most common
+extrudes a liquid plastic or other substance through a nozzle
+similar to an inkjet printer.
+Figure 6-26 3D printer
+Solcan Design/Shutterstock
+3D printers are controlled by data describing the shape of
+the object to be created. This data typically comes from a
+file created by a 3D modeling program or from scanning a
+physical model using a 3D scanner. Specialized programs then
+reset page 378
+-------------------------------------------- 分页分隔 --------------------------------------------
+take this data and further process it to create data
+describing hundreds or thousands of horizontal layers that,
+when placed one on top of another, form the shape of the
+intended object. The printer uses this data by extruding a
+foundation layer to very exact specifications. Successive
+layers are then created and attached to the layer below it
+until the product is finalized. The layers are so thin and so
+precise that they blend together, making a final product that
+shows no sign of the individual layers.
+Commercial 3D printers have been used for decades. Their
+cost, however, limited them to specialized manufacturing and
+research applications. For example, auto manufacturer
+Volkswagen uses 3D printers in its production lines to
+produce gear knobs and custom tailgate lettering. Recently,
+the cost of 3D printers has dropped to as low as $200, making
+them available to individuals.
+Other Printers
+There are several other types of printers. These include
+cloud printers, thermal printers, and plotters:
+Cloud printers are printers connected to the Internet that
+provide printing services to others on the Internet. Google
+Cloud Print is a service that supports cloud printing. Once
+a user activates a printer using the Google Chrome OS, the
+user can access that printer anywhere with a cell phone or
+any other type of computer that is connected to the
+Internet. For example, you could use a cell phone from
+almost anywhere to send documents to be printed on a
+printer located at your home or school.
+Thermal printers use heat elements to produce page 148
+images on heat-sensitive paper. These printers are
+widely used with ATMs and gasoline pumps to print receipts.
+Plotters are special-purpose printers for producing a wide
+range of specialized output. Using output from graphics
+reset page 379
+-------------------------------------------- 分页分隔 --------------------------------------------
+tablets and other graphical input devices, plotters create
+maps, images, and architectural and engineering drawings.
+Plotters are typically used by graphic artists, engineers,
+and architects to print out designs, sketches, and
+drawings.
+concept check
+Discuss these printer features: resolution, color capability, speed,
+memory, connectivity, and duplex printing.
+Compare inkjet, laser, and 3D printers.
+Discuss cloud, thermal, and plotter printers.
+Audio-Output Devices
+Audio-output devices translate audio information from the
+computer into sounds that people can understand. The most
+widely used audio-output devices are speakers and
+headphones. (See Figure 6-27.) These devices connect to a
+sound card within the system unit. This connection can be by
+cable to an audio jack on the system unit, or the connection
+can be wireless. Wireless connections typically use Bluetooth
+technology. This type of connection requires special
+Bluetooth-enabled speakers and/or headphones. Bluetooth will
+be discussed further in Chapter 8. The sound card is used to
+capture as well as play back recorded sounds. Audio-output
+devices are used to play music, vocalize translations from
+one language to another, and communicate information from the
+computer system to users. To learn more about headphones, see
+the Making IT Work for You: Headphones on pages 150 and 151.
+reset page 380
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 6-27 Headphones
+IVAN ROSHCHUPKIN/Shutterstock
+Creating voice output is not anywhere near as difficult as
+recognizing and interpreting voice input. In fact, voice
+output is quite common. It is used with many cell phones,
+cars, and soft drink machines. It is used as a reinforcement
+tool for learning, such as to help students study a foreign
+language. It also is used in many supermarkets at the
+checkout counter to confirm purchases. One of its most
+powerful capabilities is to assist people with disabilities.
+Combination Input and Output
+Devices
+Many devices combine input and output capabilities. Sometimes
+this is done to save space. Other times it is done for very
+specialized applications. Common combination devices include
+headsets, multifunctional devices, virtual reality head-
+mounted displays and controllers, drones, and robots.
+Headsets
+reset page 381
+-------------------------------------------- 分页分隔 --------------------------------------------
+Headsets combine the functionality of microphones and
+headphones. The microphone accepts audible input, and
+headphones provide audio output. Headsets are an integral
+part of multiplayer video game systems. (See Figure 6-28.)
+Figure 6-28 Headset
+Dumitrusphotography/Shutterstock
+page 149
+Multifunctional Devices
+Multifunctional devices (MFD) typically combine the
+capabilities of a scanner, printer, fax, and copy machine.
+These multifunctional devices offer a cost and space
+advantage. Compared to purchasing a scanner, printer, fax,
+and copy machine individually, the MFD is less expensive and
+takes up less space, but the MFD is also more complex and
+more like to break down. Further, a device built for a single
+purpose (such as a scanner) is more likely to have
+professional-level features and perform faster than an MFD.
+The output quality for any one function is often not quite as
+good as that of the separate single-purpose devices. The
+reset page 382
+-------------------------------------------- 分页分隔 --------------------------------------------
+reliability of multifunctional devices suffers because
+problems with one of the functional parts can make the entire
+device inoperable. Even so, multifunctional devices are
+widely used in home and small business offices.
+Virtual Reality Head-Mounted Displays and Controllers
+Virtual reality (VR) is an artificial, or simulated, reality
+created in 3D by computers. It strives to create a virtual or
+immersive experience by using specialized hardware that
+includes a head-mounted display and controller. (See Figure
+6-29.)
+Figure 6-29 Virtual reality head-mounted display and
+controllers
+Gorodenkoff/Shutterstock
+VR head-mounted displays have earphones for immersive
+sound, stereoscopic screens to present 3D images, and
+gyroscopic sensors to interpret head orientation.
+VR controllers have sensors that collect data about your
+hand movements. Coupled with software, this interactive
+sensory equipment lets you immerse yourself in a computer-
+generated world.
+There are any number of applications for virtual reality
+head-mounted displays and controllers. Automobile
+reset page 383
+-------------------------------------------- 分页分隔 --------------------------------------------
+manufacturers use virtual reality to evaluate what it would
+be like to sit in the cars they have designed but not yet
+built. Recently released virtual reality hardware for gaming
+consoles and high-end PCs look to revolutionize the way we
+work and play. Virtual reality promises to become commonplace
+in the near future.
+Drones
+Drones, or unmanned aerial vehicles (UAVs), were once too
+expensive for anything but military budgets. However,
+today’s drones are inexpensive, faster, and smarter, making
+them a valuable tool and fun high-tech toy. (See Figure 6-
+30.) Most drones take input from a controller from either a
+radio joystick or a Wi-Fi-connected tablet or laptop. The
+drones act as an output device, sending back video and sound
+to the user. The resulting combination of video and aerial
+maneuverability has made drones a popular choice for a wide
+variety of activities ranging from amateur cinematography to
+civil engineering. Drone use is on the rise by all types of
+users. Drones are used in agriculture to apply pesticides and
+monitor livestock, in disaster relief to look for people in
+distress, and by the post office to deliver mail.
+Figure 6-30 Drone
+reset page 384
+-------------------------------------------- 分页分隔 --------------------------------------------
+Lamyai/Shutterstock
+page 150
+Making IT work for you
+HEADPHONES
+For many computer users, headphones have become an
+indispensable accessory. From cell phone headsets with
+microphones for phone conversations to high-end ergonomic
+headphones for extended music listening, there are a lot
+of options when choosing the right headphones. Here are
+the main features you need to consider when deciding on
+what headphones are right for you: style, connection, and
+special features.
+Style
+There are three basic styles of headphones: over-ear, in-ear, and
+on-ear.Over-ear
+headphones are the largest headphones, with cups that
+surround the ear and soft linings to block out external sounds.
+The large size of the headphones allows for larger speakers with
+greater sound quality. Additionally, the soft linings are
+comfortable for long sessions listening to music. However, the
+larger size makes them difficult for travel or exercise, and their
+ability to block out external noise can cause you to miss
+important external sounds, such as an alarm or siren.
+Consequently, these headphones are popular with music enthusiasts
+and professionals and are primarily used indoors.
+In-ear headphones are the smallest of the headphones, with tiny
+speakers that insert into the ear canal or rest just outside of
+it. These headphones are ideal for travel and exercise as they are
+small, are easily packed, and stay in place when walking or
+running. However, the smaller size often comes at the cost of
+lower sound quality. Like the over-ear headphones, in-ear
+headphones block many external sounds—which makes them easier to
+reset page 385
+-------------------------------------------- 分页分隔 --------------------------------------------
+hear but can be dangerous, especially for pedestrians and people
+who exercise outside or near traffic.
+On-ear headphones offer a form factor similar to over-ear
+headphones, except they do not have a cup that surrounds the ear,
+the speaker simply presses against the ear. This allows for more
+outside noise to be heard, which (depending on your use) can be
+valuable or dangerous. Compared to in-ear headphones, the larger
+speakers of on-ear headphones allow for greater volume and sound
+quality, at the cost of portability.
+Over-ear headphones
+Alexander Demyanenko/Shutterstock
+page 151
+Connection
+Traditionally, headphones have wires that transmit music from the
+digital device to the headphones, but recently wireless headphones
+have become very popular.
+Wireless headphones use digital compression techniques to send
+music from the digital device to the headphones. This can result
+in a loss of audio quality. Wireless headphones also need their
+own batteries. For small headphones that fit in the ear, the small
+size requires small batteries with shorter battery life.
+reset page 386
+-------------------------------------------- 分页分隔 --------------------------------------------
+Wired in-ear headphones
+Olga Popova/Shutterstock
+Although there are many wireless headphone connection
+technologies, the most common is Bluetooth, which is compatible
+with most laptops, tablets, and cell phones. Finally, wireless
+headphones offer the freedom of not being physically connected to
+your digital device; however, the wireless connection is not
+perfect. There is a limit to how far you can be from the digital
+device, and external factors such as walls and other wireless
+signals can cause wireless connections to be interrupted or
+dropped.
+Special Features
+Microphones. Although a strict definition of headphones would only
+include audio output devices, many manufacturers sell headphones
+with microphones. Even though these are more accurately classified
+as a headset, you will often find them advertised as headphones
+with a microphone. A headset is particularly useful for making
+phone calls, contributing to videoconferences, and playing online
+video games.
+Water resistance. The small, intricate workings of headphones
+are particularly susceptible to water damage. If you expect to be
+using headphones in a damp environment or you expect to sweat
+while using your headphones, you will want headphones that offer
+water resistance. Keep in mind that water-resistant is not
+waterproof. Water-resistant headphones can handle being splashed
+with water but are not designed to be submerged.
+Active noise cancellation. Specialized headphones with unique
+hardware can listen to external sounds and produce sound waves
+that cancel out these external noises. This active noise
+cancellation can make a noisy environment sound quiet. This
+feature is often expensive and requires batteries. Nonetheless,
+active noise cancellation headphones are popular among travelers
+who want to drown out jet engines and road noise. Do not confuse
+this feature with noise isolation, which is simply blocking out
+sound with foam or padding.
+reset page 387
+-------------------------------------------- 分页分隔 --------------------------------------------
+Over-ear headphones with active noise cancellation
+Alluvion Stock/Shutterstock
+page 152
+Robots
+Like drones, robots have become relatively inexpensive with
+expanding capabilities. Robots use cameras, microphones, and
+other sensors as inputs. Based on these inputs, robotic
+outputs can be as complex as exploring damaged nuclear
+reactors to as simple as taking a photo. Recent improvements
+in robotics software and decreases in hardware prices have
+made robots more prevalent in industrial and hobbyist
+workshops. Robots can be found almost everywhere, including
+vacuuming floors in homes, assembling cars in factories, and
+aiding surgeons in hospitals. (See Figure 6-31.)
+reset page 388
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 6-31 Industrial robots assemble automobiles
+Phonlamai Photo/Shutterstock
+concept check
+What are the two most widely used audio-output devices? What is
+Bluetooth?
+What are headsets? Multifunctional devices?
+What is virtual reality? VR head-mounted display? VR controller?
+Robot? Drone?
+Ergonomics
+People use computers to enrich their personal and private
+lives. There are ways, however, that computers can make
+people less productive and even harm their health. Anyone who
+frequently uses a computer can be affected. As a result,
+there has been great interest in a field known as ergonomics.
+Ergonomics (pronounced “er-guh-nom-ix”) is defined as
+the study of human factors related to things people use. It
+is concerned with fitting the task to the user rather than
+reset page 389
+-------------------------------------------- 分页分隔 --------------------------------------------
+forcing the user to contort to do the task. For computer
+users and manufacturers, this means designing input and
+output devices to increase ease of use and to avoid health
+risks.
+Sitting in front of a screen in awkward positions for long
+periods may lead to physical problems such as eyestrain,
+headaches, and back pain. Computer users can alleviate these
+problems by taking frequent rest breaks and by using well-
+designed computer furniture. Some recommendations by
+ergonomics experts are illustrated in Figure 6-32.
+Figure 6-32 Ergonomic recommendations
+elenabsi/Shutterstock
+Description
+reset page 390
+-------------------------------------------- 分页分隔 --------------------------------------------
+Other recommendations to avoid physical discomfort are
+Eyestrain and headache: To make the computer easier on the
+eyes, take a 15-minute break every hour or two. Keep
+everything you’re focusing on at about the same distance.
+For example, the computer screen, keyboard, and a document
+holder containing your work might be positioned about 20
+inches away. Clean the screen of dust from time to time.
+Back and neck pain: To help avoid back and neck problems,
+make sure your equipment is adjustable. You should be able
+to adjust your chair for height and angle, and the chair
+should have good back support. The monitor should be at eye
+level or slightly below eye level. Use a footrest, if
+necessary, to reduce leg fatigue.
+Repetitive strain injury: Repetitive strain
+page 153
+injury (RSI) is any injury that is caused by fast,
+repetitive work that can generate neck, wrist, hand, and
+arm pain. RSI is by far the greatest cause of workplace
+illnesses, resulting in compensation claims totaling
+billions of dollars and lost productivity every year. One
+particular type of RSI, carpal tunnel syndrome, found
+among heavy computer users, consists of damage to nerves
+and tendons in the hands. Some victims report the pain is
+so intense that they cannot open doors or shake hands and
+that they require corrective surgery. Ergonomically correct
+keyboards have been developed to help prevent injury from
+heavy computer use. (See Figure 6-33.) In addition to using
+ergonomic keyboards, you should take frequent short rest
+breaks and gently massage your hands.
+reset page 391
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 6-33 Ergonomic keyboard
+Dmitriy Melnikov/123RF
+page 154
+Portable Computers
+Although these recommendations apply to all personal
+computers, the design of portable computers, including cell
+phones, tablets, and laptops, presents some specific
+ergonomic challenges.
+Cell phones: Today, cell phones are more likely to be used
+for texting than talking. As a result, thumbs are often
+used to type on a tiny keyboard. The result can be a pain
+at the base or in the muscles of the thumb or wrist. This
+problem can be minimized by keeping wrists straight (not
+bent), head up, and shoulders straight and frequently
+resting thumbs by using other fingers.
+Tablets: Almost all tablets use a virtual keyboard and are
+designed to be held in your hands, flat on a table, or
+slightly angled. These design features cause the user to
+improperly align his or her head to the viewing surface,
+often causing neck and back pain. This problem, sometimes
+referred to as tablet hunch, can be minimized by taking
+frequent breaks, moving around while working, using a
+reset page 392
+-------------------------------------------- 分页分隔 --------------------------------------------
+tablet cover or stand that allows the screen to be tipped
+at various angles, and using an external keyboard.
+Laptops: Almost all laptops have attached keyboards and
+screens. Unfortunately, it is impossible to optimally
+position either for safe ergonomic use. When the screen is
+positioned appropriately at eye level, the keyboard is too
+high. When the keyboard is appropriately positioned, the
+screen is too low. To minimize the negative impact, raise
+the level of the screen by using books or reams of paper
+under the laptop and attach an external keyboard to be used
+at waist level.
+By using our devices with our ergonomic needs in mind,
+we can reduce stress and strain on the body and ensure
+our health and comfort into the future.
+concept check
+What is ergonomics? How does it relate to input and output devices?
+What can be done to minimize eyestrain, headache, back pain, and neck
+pain?
+What is RSI? What is carpal tunnel syndrome?
+Careers in IT
+“Now
+that you’ve learned about input and output devices, I’d
+like to tell you about my career as a technical writer.”
+Technical writers prepare instruction manuals, technical
+reports, and other scientific or technical documents. Most
+technical writers work for computer software firms,
+reset page 393
+-------------------------------------------- 分页分隔 --------------------------------------------
+government agencies, or research institutions. They
+translate technical information into easily understandable
+instructions or summaries. As new technology continues to
+develop and expand, the need for technical writers who can
+communicate technical expertise to others is expected to
+increase.
+Technical writing positions typically require an
+associate’s or a bachelor’s degree in communications,
+journalism, or English and a specialization in, or
+familiarity with, a technical field. However, individuals
+with strong writing skills sometimes transfer from jobs in
+the sciences to positions in technical writing.
+Tatiana Frank/Shutterstock
+Technical writers can expect to earn an annual salary in
+the range of $43,000 to $88,000. Advancement opportunities
+can be limited within a firm or company, but there are
+additional opportunities in consulting.
+page 155
+A LOOK TO THE FUTURE
+reset page 394
+-------------------------------------------- 分页分隔 --------------------------------------------
+The Internet of Things
+As we have discussed, the Internet of Things (IoT) promises many exciting
+innovations. Chances are that you are already surrounded by the first wave
+of IoT technology. Your cell phone can monitor and share your location,
+your smartwatch counts and can share how many steps you took today, and
+your web-connected car can track and share your driving habits. Recent
+innovations are just the tip of the iceberg as we grapple with a new world
+where everything has a sensor and every action is recorded. Where will
+these monitoring tools show up next? What information will they record?
+How will that information be used?
+In the future, most items will likely include a chip that uniquely
+identifies that item and shares that data to applications running on the
+Internet. Want to know if that Gucci bag is real or a knock-off? Using the
+embedded chip in the bag and connecting through Gucci’s phone app, you
+will be able to verify that you are buying the genuine article. Were you
+just about to throw that delicate cashmere sweater into the washing
+machine on the hot cycle? Not to worry, your smart washer/dryer will be
+able to read the sweater’s chip and inform you that you could
+accidentally shrink your favorite sweater.
+Your clothes aren’t the only items that will be marked with a chip.
+The food you purchase will also be uniquely identified. Your refrigerator
+will be able to read those chips to tell what food you are eating, how
+frequently, which foods are in danger of spoiling, and which foods need to
+be replenished. Can’t find the mayonnaise? Your fridge will know where it
+is and can guide you to it. Running low on milk? Don’t worry—your fridge
+will recognize when it is time to buy milk and will add it to your grocery
+list.
+Rawpixel.com/Shutterstock
+reset page 395
+-------------------------------------------- 分页分隔 --------------------------------------------
+The IoT will extend beyond the home. As you drive to the grocery store
+to pick up the milk your refrigerator ordered, cameras on billboards along
+the road identify the make and model of your vehicle and tailor their
+advertising to your interests. Throughout your shopping trip, cameras are
+used to identify your race, gender, and age to highlight products and
+information that appeal to your demographic. Your smart grocery cart
+accesses your grocery list and guides you around the store, pointing out
+sale items and deals. As you pick items up and place them into the cart,
+the cart automatically updates your bill. No need to go to the cashier,
+just exit the building and your smart grocery cart will charge your credit
+card automatically.
+Privacy advocates raise concerns related to the IoT. With sensors
+recording your location, shopping habits, diet, activity, and even what
+you are wearing, companies and governments will have an unprecedented
+detailed view of people’s lives. Obviously, this can make shopping
+faster, laundry easier, and cooking less hassle, but it can also let
+companies know what you eat, what you wear, and how much you spend—
+information that you may not want to share. Today, there are concerns
+about cell phones and connected televisions having the capabilities to
+record your activities in your own home. In the future, as more devices
+and products become interconnected, some caution that you may need to
+worry about your dinner spying on you and your socks giving away your
+secrets!
+What do you think? Is the world moments away from Internet-connected
+clothing, or is this more science fiction? Are the losses in privacy worth
+the gains in convenience?
+page 156
+VISUAL SUMMARY
+Input and Output
+KEYBOARDS
+reset page 396
+-------------------------------------------- 分页分隔 --------------------------------------------
+AZHANA BINTI ZAINUDDIN/Shutterstock
+Input is any data or instructions that are used by a
+computer. Input devices translate words, numbers,
+sounds, images, and gestures that people understand into
+a form that the system unit can process. These include
+keyboards and pointing, scanning, image capturing, and
+audio-input devices.
+Keyboards convert numbers, letters, and special
+characters that people understand into electrical
+signals. These signals are sent to, and processed by, the
+system unit.
+Keyboards
+There are three basic categories of keyboards: virtual,
+laptop, and traditional.
+Virtual keyboards are primarily used with cell phones
+and tablets. Does not have a physical keyboard. Keys
+displayed on screen and selected by touching a key’s
+image.
+Laptop keyboards are used on laptop computers. Smaller
+than traditional keyboard with fewer keys. Includes all
+the keys found on virtual keyboard plus extra keys,
+such as function and navigation keys.
+reset page 397
+-------------------------------------------- 分页分隔 --------------------------------------------
+Traditional keyboards are used on desktop and larger
+computers. Standard keyboard has 101 keys. Toggle keys
+turn features on and off. Combination keys perform
+actions when combinations of keys are held down.
+POINTING DEVICES
+Bloomicon/Shutterstock
+Pointing devices provide an intuitive interface with the
+system unit by accepting physical movements or gestures
+and converting them into machine-readable input.
+Touch Screens
+Touch screens allow users to select actions by touching
+the screen with a finger or penlike device. A stylus is
+a penlike device that uses pressure to draw images on a
+screen. Handwriting recognition software translates
+handwritten notes into a form that the system unit can
+process. Multitouch screens accept multiple-finger
+commands.
+Mouse
+A mouse controls a pointer that is displayed on the
+monitor. The mouse pointer usually appears in the shape
+reset page 398
+-------------------------------------------- 分页分隔 --------------------------------------------
+of an arrow. Some mice have a wheel button that rotates
+to scroll through information on the monitor. A cordless
+or wireless mouse uses radio waves or infrared light
+waves. A touch pad operates by touching or tapping a
+surface. It is widely used instead of a mouse with
+laptops and some types of mobile devices.
+Game Controllers
+Game controllers provide input to computer games. Widely
+used controllers include gaming mice, joysticks,
+gamepads, and motion-sensing devices.
+page 157
+To efficiently and effectively use computers, you need
+to be aware of the most commonly used input and output
+devices. These devices are translators for information
+into and out of the system unit. Input devices
+translate words, sounds, and actions into symbols the
+system unit can process. Output devices translate
+symbols from the system unit into words, images, and
+sounds that people can understand.
+SCANNING DEVICES
+reset page 399
+-------------------------------------------- 分页分隔 --------------------------------------------
+Jochen Tack/Alamy Stock Photo
+Scanning devices move across text and images to convert
+them into a form that the system unit can process.
+Optical Scanners
+An optical scanner (scanner) converts documents into
+machine-readable form. The four basic types are flatbed,
+document, portable, and 3D.
+Card Readers
+Card readers interpret encoded information located on a
+variety of cards. The most common is the magnetic card
+reader that reads information from a thin magnetic strip
+on the back of a card. Chip cards contain microchips to
+encrypt data and improve security.
+Bar Code Readers
+Bar code readers or scanners (either handheld wand
+readers or platform scanners) read bar codes on
+products. There are a variety of different codes,
+including the UPC and MaxiCode.
+RFID Readers
+reset page 400
+-------------------------------------------- 分页分隔 --------------------------------------------
+RFID readers read RFID (radio-frequency identification)
+tags. These tags are widely used for tracking lost pets,
+production, and inventory and for recording prices and
+product descriptions.
+Character and Mark Recognition Devices
+Character and mark recognition devices are scanners that
+are able to recognize special characters and marks. Three
+types are magnetic-ink character recognition (MICR),
+optical-character recognition (OCR), and optical-mark
+recognition (OMR).
+IMAGE-CAPTURING DEVICES
+Stefano Garau/Shutterstock
+Image-capturing devices create or capture original
+images. These devices include digital cameras and
+webcams.
+Digital Cameras
+Digital cameras record images digitally and store them
+on a memory card or in the camera’s memory. Most digital
+cameras record video too. Today, many digital cameras are
+reset page 401
+-------------------------------------------- 分页分隔 --------------------------------------------
+embedded in other devices, such as cell phones and
+tablets.
+Webcams
+Webcams are specialized digital video cameras that
+capture images and send them to a computer for broadcast
+over the Internet. Webcams are built into many cell
+phones and tablets, while others are attached to the
+computer monitor.
+AUDIO-INPUT DEVICES
+Audio-input devices convert sounds into a form that can
+be processed by the system unit. By far the most widely
+used audio-input device is the microphone.
+Voice Recognition Systems
+Voice recognition systems use a microphone, a sound
+card, and special software. Siri, Cortana, and Google
+Assistant are digital assistants that use voice
+recognition. Specialized portable voice recorders are
+widely used by doctors, lawyers, and others to record
+dictation. Some systems are able to translate dictation
+from one language to another, such as from English to
+Japanese.
+page 158
+MONITORS
+reset page 402
+-------------------------------------------- 分页分隔 --------------------------------------------
+Adam Hester/Getty Images
+Output is processed data or information. Output devices
+are hardware used to provide or create output. Monitors
+(display screens) are the most-used output device.
+Features
+Monitor clarity is a function of resolution (matrix of
+pixels, or picture elements), dot pitch, contrast
+ratio, active display area, and aspect ratio.
+Flat-Panel Monitors
+Flat-panel monitors are the most widely used monitor.
+Three basic types are LCD (liquid crystal display), LED
+(light-emitting diode), and OLED (organic light-
+emitting diode).
+E-book Readers
+E-books (electronic books) are traditional printed books
+in electronic format. E-book readers (e-readers) store
+and display e-books and other electronic media. They use
+e-ink technology.
+Other Monitors
+reset page 403
+-------------------------------------------- 分页分隔 --------------------------------------------
+Other types of monitors include:
+Digital (interactive) whiteboards are specialized
+devices with a large display connected to a computer or
+projector.
+Flexible screens allow digital devices to display
+images on nonflat surfaces.
+Digital projectors project the images from a
+traditional monitor onto a screen or wall.
+PRINTERS
+Science Photo Library/Alamy Stock Photo
+Printers translate information processed by the system
+unit and present the information on paper.
+Features
+Basic features include resolution measured in dpi (dots
+per inch), color capability (most common black ink
+selection is grayscale), speed, memory, duplex (both
+sides of paper) printing, and connectivity.
+Inkjet Printers
+Inkjet printers spray ink at high speed onto the surface
+of paper. They are the most widely used type of printer,
+reset page 404
+-------------------------------------------- 分页分隔 --------------------------------------------
+reliable, quiet, and inexpensive. The most costly aspect
+of inkjet printers is replacing the ink cartridges.
+Laser Printers
+Laser printers use technology similar to a photocopying
+machine. There are two categories: personal and shared.
+3D Printers
+3D printers (additive manufacturing) create objects by
+adding layers of material onto one another. They have
+been available for decades; however, recent price
+reductions have increased their popularity.
+Other Printers
+There are several other types of printers, including
+cloud printers (Google Cloud Print is a cloud printing
+service), thermal printers (use heat elements to produce
+images on heat-sensitive paper), and plotters (use data
+from graphics tablets and other graphical devices).
+page 159
+AUDIO-OUTPUT DEVICES
+reset page 405
+-------------------------------------------- 分页分隔 --------------------------------------------
+IVAN ROSHCHUPKIN/Shutterstock
+Audio-output devices translate audio information from the
+computer into sounds that people can understand. The most
+widely used are speakers and headphones. These devices
+connect either by cable to an audio jack on the system
+unit or by a wireless connection. Bluetooth technology
+is widely used to connect wireless devices.
+COMBINATION INPUT AND OUTPUT DEVICES
+Combination devices combine input and output
+capabilities. Devices within this category include:
+Headsets combine the functionality of microphones and
+headphones; integral part of serious video game
+systems.
+Multifunctional devices (MFDs) typically combine
+capabilities of scanner, printer, fax, and copy
+machine.
+Virtual reality (VR) creates 3D-simulated immersive
+experiences. VR hardware includes head-mounted
+displays and controllers.
+reset page 406
+-------------------------------------------- 分页分隔 --------------------------------------------
+Drones (unmanned aerial vehicles, UAVs) take input
+from a controller and send output video and sound to
+the user.
+Robots use cameras, microphones, and other sensors as
+inputs; outputs can be as complex as exploring damaged
+nuclear reactors to as simple as taking a photo.
+ERGONOMICS
+Dmitriy Melnikov/123RF
+Ergonomics is the study of human factors related to
+things people use.
+Recommendations
+Some recommendations to avoid physical discomfort
+associated with heavy computer use:
+To avoid eyestrain and headache, take a 15-minute break
+every hour, keep everything you’re focusing on at the
+same distance, and clean the screen periodically.
+To avoid back and neck pain, use adjustable equipment;
+adjust chairs for height, angle, and back support;
+position monitors at eye level or slightly below. Use a
+footrest, if necessary, to reduce leg fatigue.
+To avoid repetitive strain injury (RSI) and carpal
+tunnel syndrome, use ergonomically correct keyboards;
+take frequent, short rest breaks; and gently massage
+hands.
+reset page 407
+-------------------------------------------- 分页分隔 --------------------------------------------
+Portable Computers
+The design of portable computers presents ergonomic
+challenges.
+Laptops do not allow correct positioning of keyboard
+and screen; raise level of laptop and use external
+keyboard.
+Tablets with virtual keyboards cause improper alignment
+of user’s head; take frequent breaks, move while
+working, use cover or stand, use external keyboard.
+Cell phones require extensive use of thumbs; keep
+wrists straight, head up, and shoulders straight and
+use other fingers.
+CAREERS in IT
+Technical writers prepare instruction manuals, technical
+reports, and other documents. An associate’s or a
+bachelor’s degree in communication, journalism, or
+English and a specialization in, or familiarity with, a
+technical field are required. Expected salary range is
+$43,000 to $88,000.
+page 160
+KEY TERMS
+3D printer (147)
+3D scanner (139)
+reset page 408
+-------------------------------------------- 分页分隔 --------------------------------------------
+active display area (143)
+additive manufacturing (147)
+aspect ratio (143)
+bar code (140)
+bar code reader (140)
+bar code scanner (140)
+Bluetooth (148)
+card reader (140)
+carpal tunnel syndrome (153)
+chip card (140)
+clarity (143)
+cloud printer (147)
+combination key (137)
+connectivity (146)
+contrast ratio (143)
+cordless mouse (138)
+digital camera (141)
+digital projector (145)
+digital whiteboard (145)
+display screen (143)
+document scanner (139)
+dot pitch (143)
+dots per inch (dpi) (146)
+drone (149)
+duplex printing (146)
+e-book reader (144)
+e-book (144)
+e-ink (144)
+electronic book (144)
+reset page 409
+-------------------------------------------- 分页分隔 --------------------------------------------
+e-reader (144)
+ergonomics (152)
+flatbed scanner (139)
+flat-panel monitor (144)
+flexible screen (145)
+game controller (138)
+gamepad (139)
+gaming mouse (139)
+Google Cloud Print (147)
+grayscale (146)
+handwriting recognition software (138)
+headphone (148)
+headset (148)
+immersive experience (149)
+inkjet printer (147)
+input (136)
+input device (136)
+interactive whiteboard (145)
+joystick (139)
+keyboard (136)
+laptop keyboard (137)
+laser printer (147)
+light-emitting diode (LED) (144)
+liquid crystal display (LCD) (144)
+magnetic card reader (140)
+magnetic-ink character recognition (MICR) (141)
+MaxiCode (140)
+monitor (143)
+motion-sensing device (139)
+reset page 410
+-------------------------------------------- 分页分隔 --------------------------------------------
+mouse (138)
+mouse pointer (138)
+multifunctional device (MFD) (149)
+multitouch screen (138)
+optical scanner (139)
+optical-character recognition (OCR) (141)
+optical-mark recognition (OMR) (141)
+organic light-emitting diode (OLED) (144)
+output (143)
+output device (143)
+personal laser printer (147)
+picture element (143)
+pixel (143)
+pixel pitch (143)
+platform scanner (140)
+plotter (148)
+pointing device (138)
+portable scanner (139)
+printer (146)
+repetitive strain injury (RSI) (153)
+resolution (monitor) (143)
+resolution (printer) (146)
+RFID reader (141)
+RFID (radio-frequency identification) tag (141)
+robot (152)
+scanner (139)
+scanning device (139)
+shared laser printer (147)
+speaker (148)
+reset page 411
+-------------------------------------------- 分页分隔 --------------------------------------------
+stylus (138)
+technical writer (154)
+thermal printer (148)
+toggle key (137)
+touch pad (138)
+touch screen (138)
+traditional keyboard (137)
+Universal Product Code (UPC) (140)
+unmanned aerial vehicle (UAV) (149)
+virtual keyboard (137)
+virtual reality (VR) (149)
+voice recognition system (142)
+VR controller (149)
+VR head-mounted display (149)
+wand reader (140)
+webcam (142)
+wheel button (138)
+wireless mouse (138)
+page 161
+MULTIPLE CHOICE
+Circle the correct answer.
+1. A bar code system used by many electronic cash
+registers.
+reset page 412
+-------------------------------------------- 分页分隔 --------------------------------------------
+a. RSI
+b. UPC
+c. FDIC
+d. RFID
+2. This device records images digitally on a memory card or
+in its memory.
+a. digital camera
+b. MaxiCode
+c. laser
+d. ergonomics
+3. Pressing this key turns a feature on or off.
+a. QWERTY
+b. liquid crystal
+c. toggle key
+d. MICR
+4. These are special-purpose printers for creating maps,
+images, and architectural and engineering drawings.
+a. plotters
+b. headsets
+c. e-book readers
+d. whiteboards
+5. Another name for an unmanned aerial vehicle (UAV).
+a. OMR
+b. drone
+c. liquid crystal
+d. ergonomics
+6. A penlike device commonly used with tablets, PC, and
+PDAs.
+a. UPC
+reset page 413
+-------------------------------------------- 分页分隔 --------------------------------------------
+b. stylus
+c. handheld wand
+d. monitor
+7. An input device that controls a pointer that is
+displayed on the monitor.
+a. handheld wand
+b. dot pitch
+c. mouse
+d. RFID
+8. A monitor feature that is measured by the diagonal
+length of the viewing area.
+a. MaxiCode
+b. HDTV
+c. resolution
+d. active display area
+9. Bar code readers use either handheld wand readers or
+platform _____.
+a. scanners
+b. resolution rate
+c. OLED
+d. multitouch
+10. The distance between each pixel.
+a. resolution
+b. ergonomics
+c. dot pitch
+d. LCD
+page 162
+reset page 414
+-------------------------------------------- 分页分隔 --------------------------------------------
+MATCHING
+Match each numbered item with the most closely related
+lettered item. Write your answers in the spaces provided.
+a. Q WERTY 1. Flatbed and document are
+b. mouse types of _____.
+c. m ultitouch 2. The most widely used
+audio-input device.
+d. scanners
+3. The monitor feature that
+e. MICR
+indicates the ability to
+f. microphone
+display by comparing the
+g. contrast light intensity of the
+ratio brightest white to the
+h. e-book darkest black.
+r eaders 4. Most keyboards use this
+i. immersive arrangement of keys.
+j. e rgonomics 5. Virtual reality strives
+to create this type of
+experience.
+6. This is the study of
+human factors related to
+the things people use.
+7. The device that controls
+a pointer displayed on
+the monitor.
+8. The type of screen that
+can be touched with more
+than one finger and
+reset page 415
+-------------------------------------------- 分页分隔 --------------------------------------------
+supports zooming in and
+out by pinching and
+stretching your fingers.
+9. Mobile devices able to
+store and display
+electronic media.
+10. Device used by banks to
+automatically read those
+unusual numbers on the
+bottom of checks and
+deposit slips.
+OPEN-ENDED
+On a separate sheet of paper, respond to each question or
+statement.
+1. Define input and input devices.
+2. Describe the different types of keyboard, pointing,
+scanning, image capturing, and audio-input devices.
+3. Define output and output devices.
+4. Describe the features and different types of monitors
+and printers.
+5. Describe audio-output devices, including Bluetooth
+technology.
+6. Discuss combination input and output devices, including
+multifunctional devices, headsets, drones, robots, and
+virtual reality head-mounted display and controllers.
+7. Define ergonomics, describe ways to minimize physical
+discomfort, and discuss design issues with portable
+reset page 416
+-------------------------------------------- 分页分隔 --------------------------------------------
+computers.
+page 163
+DISCUSSION
+Respond to each of the following questions.
+Making IT Work for You: HEADPHONES
+1
+Review the Making IT Work for You: Headphones on pages 150 and 151, and
+then respond to the following: (a) What activities do you do while you
+have headphones on? What type of headphones would best suit those
+activities? (b) Go online and investigate two headphones that interest
+you. How are they different? How are they the same? (c) What is the most
+important feature of a pair of headphones to you, and why?
+Community: INPUT/OUTPUT ACCESSIBILITY
+2
+Review the Community box on page 138 and respond to the following
+questions: (a) Consider the disability of a friend, loved one, or
+acquaintance. How would such a disability make using common inputs and
+outputs difficult? (b) What do you do regularly on your devices that
+would become more difficult if you could not easily and conveniently use
+the input/outputs of that device? (c) Investigate the accessibility
+input/output options for your devices. What options are available to
+people with disabilities?
+Privacy: DEVICES WITH MICROPHONES AND
+3
+CAMERAS
+Review the Privacy box on page 139 and respond to the following
+questions: (a) How many digital devices are in your home with
+microphones and/or cameras? Consider that digital devices include
+laptops, tablets, desktops, TVs, video game consoles, cell phones, and
+reset page 417
+-------------------------------------------- 分页分隔 --------------------------------------------

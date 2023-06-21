@@ -1,0 +1,1754 @@
+
+page 186
+Communications and
+chapter
+8
+Networks
+reset page 469
+-------------------------------------------- 分页分隔 --------------------------------------------
+Blue Planet Studio/Shutterstock
+page 187
+Why should I read this chapter?
+Communication networks are the backbone of nearly every aspect of modern
+digital life. In the future, telepresence (the ability to fully
+experience the reality of a different place without actually being there)
+will be commonplace. For example, doctors will routinely perform surgery
+on patients located halfway around the world!
+Khakimullin Aleksandr/Shutterstock
+This chapter covers the things you need to know to be prepared for
+this ever-changing digital world, including:
+Mobile computing—become a digital road warrior using 4G and 5G data
+networks and GPS.
+Wireless networks—use your digital devices in smarter and safer ways
+by understanding Wi-Fi, satellites, and Bluetooth.
+Wired networks—learn about coaxial and fiber-optic cables so you can
+make smart decisions about home Internet connections.
+Learning Objectives
+After you have read this chapter, you should be able to:
+1. Explain connectivity, the wireless revolution, and
+communication systems.
+reset page 470
+-------------------------------------------- 分页分隔 --------------------------------------------
+2. Describe wireless and physical communication channels.
+3. Differentiate between connection devices and services,
+including cellular, dial-up, DSL, cable, and satellite.
+4. Describe data transmission factors, including bandwidth
+and protocols.
+5. Define networks and key network terminology, including
+network interface cards and network operating systems.
+6. Describe different types of networks, including local,
+home, wireless, personal, metropolitan, and wide area
+networks.
+7. Describe network architectures, including topologies and
+strategies.
+8. Explain the organization issues related to Internet
+technologies and network security.
+page 188
+Introduction
+“Hi,
+I’m Michael, and I’m a network administrator. I’d like
+to talk with you about computer communications and networks. I’d
+also like to talk about technologies that support mobile computing
+including global positioning systems, Wi-Fi, and 4G and 5G
+networks.”
+At one time, network-connected computers were only found at the largest
+businesses and universities. Today, with cell phones, we carry network-
+connected computers in our pockets. Smart appliances in your kitchen mean
+your refrigerator may be connected to the Internet. The Internet of Things
+reset page 471
+-------------------------------------------- 分页分隔 --------------------------------------------
+means your watch or your thermostat may be using networks to communicate.
+The communications and information options we have at our fingertips have
+changed how we react and relate to the world around us.
+Scharfsinn/Shutterstock
+As the power and flexibility of our communication systems have
+expanded, the sophistication of the networks that support these systems
+has become increasingly critical and complex. The network technologies
+that handle our cellular, business, and Internet communications come in
+many different forms. Satellites, broadcast towers, telephone lines, even
+buried cables and fiber optics carry our telephone messages, e-mail, and
+text messages. These different networks must be able to efficiently and
+effectively integrate with one another.
+To efficiently and effectively use computers, you need to understand
+the concept of connectivity, wireless networking, and the elements that
+make up network and communications systems. Additionally, you need to
+understand the basics of communications channels, connection devices, data
+transmission, network types, network architectures, and organizational
+networks.
+Communications
+Computer communications is the process of sharing data,
+programs, and information between two or more computers. We
+have discussed numerous applications that depend on
+communication systems to share data among devices, including
+Texting—provides very efficient direct text communication
+between individuals using short electronic messages.
+reset page 472
+-------------------------------------------- 分页分隔 --------------------------------------------
+E-mail—provides a fast, efficient alternative to
+traditional mail by sending and receiving electronic
+documents.
+Videoconferencing—provides an alternative to meeting in
+person using audio communications (such as a phone call)
+often with video to see the people you talk to.
+Electronic commerce—buying and selling goods
+electronically.
+In this chapter, we will focus on the communication
+systems that support these and many other applications.
+Connectivity, the wireless revolution, and communication
+systems are key concepts and technologies for the 21st
+century.
+Connectivity
+Connectivity is a concept related to using computer networks
+to link people and resources. For example, connectivity means
+that you can connect your cell phone to other devices and
+information sources from almost anywhere. With this
+connection, you are linked to the world of larger computers
+and the Internet. This includes hundreds of thousands of web
+servers and their extensive information resources. Thus,
+being able to efficiently and effectively use computers
+becomes a matter of knowing not only about connectivity
+through networks to cell phones, but also about larger
+computer systems and their information resources.
+page 189
+The Wireless Revolution
+The single most dramatic change in connectivity and
+communications since the development of the Internet has been
+the widespread use of mobile devices like cell phones and
+reset page 473
+-------------------------------------------- 分页分隔 --------------------------------------------
+tablets with fast wireless Internet connectivity. Students,
+parents, teachers, businesspeople, and others routinely talk
+and communicate with these devices. It is estimated that over
+4.6 billion cell phones are in use worldwide. This wireless
+technology allows individuals to stay connected with one
+another from almost anywhere at any time.
+So what’s the revolution? Although wireless technology
+was originally used primarily for voice communications,
+today’s mobile computers support e-mail, web access, social
+networking, and a variety of Internet applications. In
+addition, wireless technology allows a wide variety of nearby
+devices to communicate with one another without any physical
+connection. Wireless communications allows you to share a
+high-speed printer, share data files, and collaborate on
+working documents with a nearby co-worker without having your
+computers connected by cables or telephone. High-speed
+Internet wireless technology allows individuals to connect to
+the Internet and share information from almost anywhere in
+the world. (See Figure 8-1.) The revolution has just begun,
+and where it goes from here will be decided by you and others
+who understand the power of communication systems.
+Figure 8-1 Wireless revolution
+reset page 474
+-------------------------------------------- 分页分隔 --------------------------------------------
+Rawpixel.com/Shutterstock
+Communication Systems
+Communication systems are electronic systems that transmit
+data from one location to another. Whether wired or wireless,
+every communication system has four basic elements. (See
+Figure 8-2.)
+Sending and receiving devices. These are often a computer
+or specialized communication device. They originate (send)
+as well as accept (receive) messages in the form of data,
+information, and/or instructions.
+Connection devices. These devices act as an interface
+between the sending and receiving devices and the
+communication channel. They convert outgoing messages into
+packets that can travel across the communication channel.
+They also reverse the process for incoming messages.
+Data transmission specifications. These are rules page 190
+and procedures that coordinate the sending and
+receiving devices by precisely defining how the message
+will be sent across the communication channel.
+Communication channel. This is the actual connecting or
+transmission medium that carries the message. This medium
+can be a physical wire or cable, or it can be wireless.
+Figure 8-2 Basic elements of a communication system
+Sergey Peterman/Shutterstock
+reset page 475
+-------------------------------------------- 分页分隔 --------------------------------------------
+Description
+For example, if you wanted to send an e-mail to a friend,
+you could create and send the message using your cell phone,
+the sending device. Your modem is on a microchip located
+inside your cell phone. It functions as the connection device
+that would modify and format the message so that it could
+travel efficiently across communication channels, such as
+cell phone towers. The specifics describing how the message
+is modified, reformatted, and sent would be described in the
+data transmission specifications. After your message traveled
+across the channel, a connection device, such as a modem
+connected to a desktop computer, would reformat it so that it
+could be displayed on your friend’s computer, the receiving
+device. (Note: This example presents the basic communication
+system elements involved in sending e-mail. It does not and
+is not intended to demonstrate all the specific steps and
+equipment involved in an e-mail delivery system.)
+ethics
+As eavesdropping tools become more sophisticated, there is concern that
+law enforcement and government agencies will monitor everyone’s
+Internet and cell phone activity. In the private sector, companies are
+increasingly using network tools and software to monitor the activity
+of their employees. Many websites also track your activity, and
+government officials have often requested these records during the
+course of an investigation. Some believe that it is unethical for
+government and businesses to engage in such monitoring and tracking. Do
+you agree?
+concept check
+Define computer communications and connectivity.
+What is the wireless revolution?
+reset page 476
+-------------------------------------------- 分页分隔 --------------------------------------------
+Describe the four elements of every communication system.
+Communication Channels
+Communication channels are an essential element of every
+communication system. These channels actually carry the data
+from one computer to another. There are two categories of
+communciation channels, wireless and wired. Wireless
+communications send information through the air, such as when
+you use a cell phone. Wired communications require a physical
+connection and are more common with desktop computers.
+Wireless Connections
+Wireless connections do not use a solid substance to connect
+sending and receiving devices. Rather, they move data through
+the air.
+Most wireless connections use radio waves to communicate.
+For example, cell phones and many other Internet-enabled
+devices use radio waves to place telephone calls and to
+connect to the Internet. Primary technologies used for
+wireless connections are cellular, Bluetooth, Wi-Fi,
+microwave, WiMax, and satellite connections.
+Cellular communication uses multiple antennae (cell
+towers) to send and receive data within relatively small
+geographic regions (cells). Most cell phones and other
+mobile devices use cellular networks.
+Bluetooth is a short-range radio communication standard
+that transmits data over short distances of up to
+approximately 33 feet. Bluetooth is widely used for
+wireless headsets, printer connections, and handheld
+devices.
+Wi-Fi (wireless fidelity) uses high-frequency radio
+signals to transmit data. A number of standards for Wi-Fi
+reset page 477
+-------------------------------------------- 分页分隔 --------------------------------------------
+exist, and each can send and receive data at a different
+speed. (See Figure 8-3.) Most home and business wireless
+networks use Wi-Fi.
+Microwave communication uses high-frequency radio waves. It
+is sometimes referred to as line-of-sight communication
+because microwaves can only travel in a straight page 191
+line. Because the waves cannot bend with the
+curvature of the earth, they can be transmitted only over
+relatively short distances. Thus, microwave is a good
+medium for sending data between buildings in a city or on a
+large college campus. For longer distances, the waves must
+be relayed by means of microwave stations with microwave
+dishes or antennas. (See Figure 8-4.)
+WiMax (Worldwide Interoperability for Microwave Access)
+is a wireless standard that extends the range of Wi-Fi
+networks using microwave connections. WiMax is commonly
+used by universities and others to extend the capability of
+existing Wi-Fi networks.
+Satellite communication uses satellites orbiting about
+22,000 miles above the earth as microwave relay stations.
+Many of these are offered by Intelsat, the International
+Telecommunications Satellite Consortium, which is owned by
+114 governments and forms a worldwide communication system.
+Satellites orbit at a precise point and speed above the
+earth. They can amplify and relay microwave signals from
+one transmitter on the ground to another. Satellites can be
+used to send and receive large volumes of data. Uplink is a
+term relating to sending data to a satellite. Downlink
+refers to receiving data from a satellite. The major
+drawback to satellite communication is that bad weather can
+sometimes interrupt the flow of data.
+One of the most interesting applications of satellite
+communications is for global positioning. A network of
+satellites owned and managed by the Department of Defense
+continuously sends location information to earth. Global
+reset page 478
+-------------------------------------------- 分页分隔 --------------------------------------------
+positioning system (GPS) devices use that information to
+uniquely determine the geographic location of the device.
+Available in many automobiles to provide navigational
+support, these systems are often mounted into the dash with
+a monitor to display maps and speakers to provide spoken
+directions. Most of today’s cell phones and tablets use
+GPS technology for handheld navigation. (See Figure 8-5.)
+Standard Maximum speed
+802.11g 54 Mbps
+802.11n 600 Mbps
+802.11ac 2.6 Gbps
+802.11ax 10.5 Gbps
+Figure 8-3 Wi-Fi standards
+Figure 8-4 Microwave dish
+Olgaviare/Getty Images
+reset page 479
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 8-5 GPS navigation
+DenPhotos/Shutterstock
+Unlike radio waves, infrared uses infrared light waves to
+communicate over short distances. Like microwave
+transmissions, infrared is a line-of-sight communication.
+Because light waves can only travel in a straight line,
+sending and receiving devices must be in clear view of one
+another without any obstructions blocking that view. One of
+the most common infrared devices is the TV remote control.
+community
+Much of the developing world does not have access to the Internet.
+Amazon’s Project Kuiper looks to change that by launching a network of
+over 3,000 low-orbit satellites to provide Internet to the unserved and
+underserved communities of the world. Proponents of the network suggest
+that the citizens of developing nations will be greatly benefited by
+the essential services that the Internet can provide, such as education
+and health care. Opponents point out that the majority of developing
+nation citizens cannot afford the devices necessary to connect to the
+Internet. What do you think? Will bringing the Internet to developing
+countries help the average citizen, or will this only benefit the
+wealthiest in these countries?
+Physical Connections
+Physical connections use a solid medium to connect sending
+and receiving devices. These connections include twisted-
+pair, coaxial, and fiber-optic cables.
+Fiber-optic cable transmits data as pulses of light through
+tiny tubes of glass. (See Figure 8-6.) The data
+transmission speeds of fiber-optic cables are incredible;
+recently, speeds of 1 petabit per second were measured (a
+petabit is 1 million gigabits). Compared to coaxial cable,
+it is lighter, faster, and more reliable at transmitting
+reset page 480
+-------------------------------------------- 分页分隔 --------------------------------------------
+data. Fiber-optic cable is rapidly replacing twisted-pair
+cable telephone lines.
+Coaxial cable, a high-frequency transmission cable,
+replaces the multiple wires of telephone lines with a
+single solid-copper core. (See Figure 8-7.) In terms of the
+number of telephone connections, a coaxial cable has over
+80 times the transmission capacity of twisted pair. Coaxial
+cable is used to deliver television signals as well as to
+connect computers in a network.
+Twisted-pair cable consists of pairs of copper wire that
+are twisted together. Both landline telephone lines and
+Ethernet cables use twisted pair. (See Figure 8-8.)
+Ethernet cables are often used in networks and to connect a
+variety of components to the system unit.
+page 192
+Figure 8-6 Fiber-optic cable
+cigdem/Shutterstock
+Figure 8-7 Coaxial cable
+ericlefrancais/Shutterstock
+reset page 481
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 8-8 Ethernet cable
+cybrain/Shutterstock
+concept check
+What are communication channels? List three physical connections.
+What is cellular communication? WiFi? Microwave communication? WiMax?
+What is satellite communication? GPS? Infrared?
+Connection Devices
+At one time nearly all computer communication used telephone
+lines. However, because the telephone was originally designed
+for voice transmission, telephone lines were designed to
+carry analog signals, which are continuous electronic waves.
+Computers, in contrast, send and receive digital signals.
+(See Figure 8-9.) These represent the presence or absence of
+an electronic pulse—the binary signals of 1s and 0s we
+mentioned in Chapter 5. To convert the digital signals to
+analog signals and vice versa, you need a modem.
+Figure 8-9 Analog and digital signals
+reset page 482
+-------------------------------------------- 分页分隔 --------------------------------------------
+Designua/Shutterstock
+Modems
+The word modem is short for modulator-demodulator. Modulation
+is the name of the process of converting from digital to
+analog. Demodulation is the process of converting from analog
+to digital. The modem enables digital personal computers to
+communicate across different media, including telephone
+wires, cable lines, and radio waves.
+The speed with which modems transmit data varies. This
+speed, called transfer rate, is typically measured in
+millions of bits (megabits) per second (Mbps). (See Figure
+8-10.) The higher the speed, the faster you can send and
+receive information. For example, to download a complete
+full-length motion picture (700 MB) on a 1.5-Mbps modem would
+take about 1 hour. Using a 10.0-Mbps modem would take about 9
+minutes.
+Unit Speed
+Mbps Million bits per second
+Gbps Billion bits per second
+Tbps Trillion bits per second
+Figure 8-10 Typical transfer rates
+There are three commonly used types of modems: DSL, cable,
+and wireless. (See Figure 8-11.)
+A DSL (digital subscriber line) modem uses standard phone
+lines to create a high-speed connection directly to your
+phone company’s offices. These devices are usually
+external and connect to the system unit using either a USB
+or an Ethernet port.
+A cable modem uses the same coaxial cable as your
+television. Like a DSL modem, a cable modem creates high-
+reset page 483
+-------------------------------------------- 分页分隔 --------------------------------------------
+speed connections using the system unit’s USB or Ethernet
+port.
+A wireless modem is also known as a WWAN (wireless wide
+area network) modem. Almost all computers today have built-
+in wireless modems. For those that do not, wireless adapter
+cards are available that plug into USB or special card
+ports.
+page 193
+Figure 8-11 Basic types of modems
+(left): Pakpoom Phummee/Shutterstock; (middle): pryzmat/Shutterstock;
+(right): Alex Melnick/Shutterstock
+tips
+Is 5G right for you? What are the reasons to upgrade? There are
+a few factors to consider.
+1
+Is 5G available in your area? If you live and work in an area
+where a 5G network is unavailable, a 5G phone will not improve
+your cell phone experience. On the other hand, if your area has
+strong 5G coverage, you may want to upgrade to a 5G phone to take
+advantage of faster network speeds. Check with your cell phone
+provider to find out what is available in your area.
+reset page 484
+-------------------------------------------- 分页分隔 --------------------------------------------
+2
+How do you use the Internet on your phone? If you are using
+your cell phone Internet connection mostly for browsing the web
+and answering e-mails, a faster Internet connection may not offer
+much of an improvement. However, if you are doing data-intensive
+tasks—like streaming videos, videoconferencing, and playing games
+over the Internet—you may want to consider upgrading to 5G.
+3
+Does your cellular service provider offer home Internet? 5G
+networks have Internet speeds that rival the speeds of traditional
+Internet service providers (ISPs). Some cellular service providers
+are offering 5G services that will replace your home ISP with
+competitive rates and bundling options. Contact your cellular
+service provider to see if this is an option for you!
+Connection Service
+For years, large corporations have been leasing special high-
+speed lines from telephone companies. Originally, these were
+copper lines, known as T1 lines, that could be combined to
+form higher-capacity options known as T3 or DS3 lines. These
+lines have largely been replaced by faster optical carrier
+(OC) lines.
+Although the special high-speed lines are too costly for
+most individuals, Internet service providers (as discussed in
+Chapter 2) do provide affordable connections. For years,
+individuals relied on dial-up services using existing
+telephones and telephone modems to connect to the Internet.
+This type of service has been replaced by higher-speed
+connection services, including cellular, DSL, cable, and
+satellite services.
+Cellular service providers, including Verizon, AT&T,
+Sprint, and T-Mobile, support voice and data transmission
+to wireless devices using cellular networks. The progress
+of mobile telecommunication is measured in generations. The
+first generation (1G) started in the 1980s and has
+progressed to today’s fifth generation (5G):
+First generation (1G) could only transmit analog signals
+used for voice communications.
+reset page 485
+-------------------------------------------- 分页分隔 --------------------------------------------
+Second generation (2G) used radio signals for cellular
+calls and introduced texting.
+Third generation (3G) improved data speeds and
+introduced widespread use of the Internet on cell phones.
+Fourth generation (4G) uses Long Term Evolution (LTE)
+connections for increased Internet speeds, making
+streaming videos and music popular on cell phones.
+Fifth generation (5G) is the newest and fastest network,
+with speeds rivaling home Internet connections. The 5G
+network is a new technology and may not be available yet
+in your area as service providers update old antennae and
+add new antennae to the network.
+Digital subscriber line (DSL) service is provided by
+telephone companies using existing telephone lines to
+provide high-speed connections. ADSL (asymmetric digital
+subscriber line) is one of the most widely used types of
+DSL. DSL is much faster than dial-up.
+Cable service is provided by cable television companies
+using their existing television cables. These connections
+are usually faster than DSL.
+Fiber-optic service (FiOS) is showing up in some areas,
+but it is a new technology and not widely available.
+Current providers of FiOS include Google and Verizon with
+speeds faster than cable or DSL connections.
+Satellite connection services use satellites to provide
+wireless connections. Although slower than DSL and cable
+modem, satellite connections are available almost anywhere
+using a satellite-receiving disk.
+To learn more about how you can use mobile communications,
+see Making IT Work for You: The Mobile Office on pages 194
+and 195.
+page 194
+reset page 486
+-------------------------------------------- 分页分隔 --------------------------------------------
+Making IT work for you
+THE MOBILE OFFICE
+With the proper devices and software, you can take your
+work away from the office and move your studies outside
+the classroom. Mobile tools can allow you to set up an
+effective workspace at a coffee shop, in an airport, or at
+the kitchen table. A mobile office gives you the
+flexibility to get work done whenever you have a spare
+moment, wherever you may be.
+Two of the most important features of the mobile office
+are your Internet connection when on the go and the tools
+to replicate the resources of working in person. For
+accessing the Internet, there are three popular options:
+mobile hotspot devices, personal hotspots, and public Wi-
+Fi.
+Mobile Hotspot Device
+Many cell phone service providers offer stand-alone devices that
+connect to a 4G or 5G network and allow multiple devices near it
+to access the Internet via Wi-Fi connection. Most home office
+setups use a lot of data on your data connection. When choosing a
+hotspot device from a cell phone service provider, consider the
+provider’s data options and pricing.
+reset page 487
+-------------------------------------------- 分页分隔 --------------------------------------------
+Mobile hotspot devices, such as the Nighthawk LTE Mobile Hotspot Router,
+create an Internet-connected Wi-Fi network on the go.
+Virrage Images/Shutterstock
+Personal Hotspot
+Many cell phones can act as mobile hotspot devices, allowing
+nearby tablets and laptops to connect to the Internet. Sometimes
+called tethering, devices can connect to the cell phone via
+Bluetooth, Wi-Fi, or USB cable and, through that connection,
+access the Internet. Personal hotspots offer a simple mobile
+Internet solution without the additional cost of purchasing a
+mobile hotspot device. Unfortunately, using a personal hotspot
+will drain your cell phone’s battery more quickly, will increase
+your phone’s data plan usage, and may require some extra effort
+to set up. Contact your cell phone provider to learn about the
+costs and processes associated with setting up a personal hotspot.
+reset page 488
+-------------------------------------------- 分页分隔 --------------------------------------------
+A personal hotspot allows devices to connect to the Internet over your
+phone’s data plan.
+Aleksey Khilko/Shutterstock
+Public Wi-Fi
+Even if you can’t use the Internet on the go—you can probably get
+online when you arrive. Many public locations, especially
+airports, hotels, and coffee shops, offer free or low-cost
+Internet connections. Not all pubic Wi-Fi Internet connections are
+safe. Only connect to networks that are offered from locations you
+trust.
+page 195
+An Internet connection is valueless if you do’t have the right software
+to take advantage of it. The two most common mobile office tools are
+cloud storage to have access to your files from anywhere and
+videoconferencing software to communicate and collaborate with your
+teammates.
+Cloud Storage
+When on the go, you want your documents to be available, up to
+date, and secure. With an Internet connection, you can connect to
+cloud storage services that will hold your important documents.
+Through cloud storage, you can collaborate with co-workers and
+always be confident you have the most up-to-date version of the
+document. Further, if you lose or damage your laptop, your
+documents are stored in the cloud and will not be lost. Finally,
+cloud storage synchs across multiple devices, so you can review a
+spreadsheet on your cell phones, make changes on your laptop, and
+then share it with co-workers on your tablet. Popular cloud
+services are Google Drive, Microsoft OneDrive, and Dropbox.
+reset page 489
+-------------------------------------------- 分页分隔 --------------------------------------------
+Dropbox is a cloud storage service that works easily with multiple
+operating systems.
+Cyberstock/Alamy Stock Photo
+Videoconferencing
+Videoconferencing can allow you to have a face-to-face meeting
+without being in the same room—or even the same country. A
+camera, microphone, and speakers will be needed to videoconference
+—most cell phones, tablets, and laptops come with these
+accessories.
+Here are the most popular videoconferencing apps:
+Skype and Teams are two videoconferencing applications from
+Microsoft. Skype is a straightforward videoconferencing tool that
+is easy to set up and use. Teams is a more complex tool that works
+seamlessly with other Microsoft products such as OneDrive and
+Microsoft Office 365.
+FaceTime is a videoconferencing application from Apple that has
+a simple interface and is integrated into all Apple devices.
+Zoom is a popular videoconferencing app that offers many
+features valuable to large meetings and online classrooms.
+Meet is Google’s solution to videoconferencing. It includes
+many features to organize and effectively run a meeting with
+several participants, including extensive integration with other
+Google apps, such as Gmail, Google Calendar, Google Drive, and
+Google Workspace.
+reset page 490
+-------------------------------------------- 分页分隔 --------------------------------------------
+The Microsoft videoconferencing tool, Skype, is a popular way to
+communicate with friends, family, and co-workers.
+Andrey_Popov/Shutterstock
+page 196
+concept check
+What is the function of a modem? Compare the three types of modems.
+What is a connection service? Compare the five high-speed connection
+services.
+Describe the five generations of mobile telecommunications.
+Data Transmission
+Several factors affect how data is transmitted. These factors
+include bandwidth and protocols.
+Bandwidth
+reset page 491
+-------------------------------------------- 分页分隔 --------------------------------------------
+Bandwidth is a measurement of the width or capacity of the
+communication channel. Effectively, it means how much
+information can move across the communication channel in a
+given amount of time. For example, to transmit text
+documents, a slow bandwidth would be acceptable. However, to
+effectively transmit video and audio, a wider bandwidth is
+required. There are four categories of bandwidth:
+Voiceband, also known as low bandwidth, is used for
+landline telephone communication. At one time, personal
+computers with telephone modems and dial-up service used
+this bandwidth. Although effective for transmitting text
+documents, it is too slow for many types of transmission,
+including high-quality audio and video.
+Medium band is used in special leased lines to connect
+midrange computers and mainframes, as well as to transmit
+data over long distances. This bandwidth is capable of
+very-high-speed data transfer.
+Broadband is widely used for DSL, cable, and satellite
+connections to the Internet. Several users can
+simultaneously use a single broadband connection for high-
+speed data transfer.
+Baseband is widely used to connect individual computers
+that are located close to one another, such as the
+computers in an office building. Like broadband, it is able
+to support high-speed transmission. Unlike broadband,
+however, baseband can only carry a single signal at a time.
+tips
+One of the best things about a cell phone is its network
+connection. However, always being connected can be stressful.
+To customize your cell phone’s notifications and take a break
+from your connectivity, consider the following:
+reset page 492
+-------------------------------------------- 分页分隔 --------------------------------------------
+1
+Mute notifications. When giving a presentation or trying to spend
+some time away from your phone, it can be nice to mute your
+phone’s notifications for awhile. Here’s how to do it.
+For Android cell phones: Swipe down from the top of the screen
+to display the notification shade and turn on the Do Not
+Disturb button.
+For iOS cell phones: Swipe down from the top right corner of
+the screen to display the control center and tap the crescent
+moon button.
+2
+Disable an app’s notifications. If you have an app that is
+annoying you with notifications, you can limit or disable its
+ability to send notifications.
+For Android cell phones: Click on the Settings icon from the
+home screen, then choose Apps & Notifications. Tap on
+Notifications and App Notifications. From here, you can click
+on an app to customize its notification settings.
+For iOS cell phones: Tap on the Settings icon from the home
+screen, then select Notifications. A list of your apps, with a
+toggle switch next to each app, will be displayed. Switch the
+toggle switch to off to disable that app’s notifications.
+Protocols
+For data transmission to be successful, sending and receiving
+devices must follow a set of communication rules for the
+exchange of information. These rules for exchanging data
+between computers are known as protocols.
+As discussed in Chapter 2, https, or hypertext transfer
+protocol secure, is widely used to protect the transfer of
+sensitive information. Another widely used Internet protocol
+is TCP/IP (transmission control protocol/Internet
+protocol). The essential features of this protocol involve
+(1) identifying sending and receiving devices and (2)
+breaking information into small parts, or packets, for
+transmission across the Internet.
+Identification: Every computer on the Internet has a unique
+numeric address called an IP address (Internet protocol
+reset page 493
+-------------------------------------------- 分页分隔 --------------------------------------------
+address). Similar to the way a postal service uses page 197
+addresses to deliver mail, the Internet uses IP
+addresses to deliver e-mail and to locate websites. Because
+these numeric addresses are difficult for people to
+remember and use, a system was developed to automatically
+convert text-based addresses to numeric IP addresses. This
+system uses a domain name server (DNS) that converts text-
+based addresses to IP addresses. For example, the URL
+www.mhhe.com is easy for a person to remember and enter,
+but before a connection can be made, a DNS converts this to
+an IP address, such as 65.39.69.50, that computers can use
+to locate that website on the Internet. (See Figure 8-12.)
+Packetization: Information sent or transmitted across the
+Internet usually travels through numerous interconnected
+networks. Before the message is sent, it is reformatted or
+broken down into small parts called packets. Each packet is
+then sent separately over the Internet, possibly traveling
+different routes to one common destination. At the
+receiving end, the packets are reassembled into the correct
+order.
+Figure 8-12 DNS converts text-based addresses to numeric IP
+addresses
+Gravvi/Shutterstock
+concept check
+reset page 494
+-------------------------------------------- 分页分隔 --------------------------------------------
+What is bandwidth? Describe the four categories.
+What are protocols? What is the standard protocol for the Internet?
+Define TCP/IP, IP address, and packets.
+Networks
+A computer network is a communication system that connects
+two or more computing devices so that they can exchange
+information and share resources. Networks can be set up in
+different arrangements to suit users’ needs. (See Figure 8-
+13.)
+reset page 495
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 8-13 Computer network
+Gravvi/Shutterstock
+Description
+Terms
+There are a number of specialized terms that describe
+computer networks. These terms include
+Node—any device that is connected to a network. It could
+be a computer, printer, or data storage device.
+Client—a node that requests and uses resources available
+from other nodes. Typically, a client is a user’s personal
+reset page 496
+-------------------------------------------- 分页分隔 --------------------------------------------
+computing device.
+Server—a node that shares resources with other page 198
+nodes. Dedicated servers specialize in performing
+specific tasks. Depending on the specific task, they may be
+called an application server, communication server,
+database server, file server, printer server, or web
+server.
+Directory server—a specialized server that manages
+resources, such as user accounts, for an entire network.
+Host—any computer system connected to a network that
+provides access to its resources.
+Router—a node that forwards or routes data packets from
+one network to their destination in another network.
+Switch—central node that coordinates the flow of data by
+sending messages directly between sender and receiver
+nodes. A hub previously filled this purpose by sending a
+received message to all connected nodes, rather than just
+the intended node.
+Network interface cards (NICs)—as discussed in Chapter 5,
+these are expansion cards located within the system unit
+that connect the computer to a network. Sometimes referred
+to as a LAN adapter.
+Network operating systems (NOSs)—control and page 199
+coordinate the activities of all computers and
+other devices on a network. These activities include
+electronic communication and the sharing of information and
+resources.
+Network administrator—a computer specialist responsible
+for efficient network operations and implementation of new
+networks.
+A network may consist only of personal computers, or it
+may integrate personal computers or other devices with larger
+computers. Networks can be controlled by all nodes working
+reset page 497
+-------------------------------------------- 分页分隔 --------------------------------------------
+together equally or by specialized nodes coordinating and
+supplying all resources. Networks may be simple or complex,
+self-contained, or dispersed over a large geographic area.
+concept check
+What is a computer network? What are nodes, clients, servers,
+directory servers, hosts, routers, and switches?
+What is the function of an NIC and an NOS?
+What is a network administrator?
+Network Types
+Clearly, different types of channels—wired or wireless—
+allow different kinds of networks to be formed. Telephone
+lines, for instance, may connect communications equipment
+within the same building or within a home. Networks also may
+be citywide and even international, using both cable and
+wireless connections. Local area, metropolitan area, and wide
+area networks are distinguished by the size of the geographic
+area they serve.
+Local Area Networks
+Networks with nodes that are in close physical proximity—
+within the same building, for instance—are called local area
+networks (LANs). Typically, LANs span distances less than a
+mile and are owned and operated by individual organizations.
+LANs are widely used by colleges, universities, and other
+types of organizations to link personal computers and to
+share printers and other resources. For a simple LAN, see
+Figure 8-14.
+reset page 498
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 8-14 Local area network
+Gravvi/Shutterstock
+Description
+The LAN represented in Figure 8-14 is a typical
+arrangement and provides two benefits: economy and
+flexibility. People can share costly equipment. For instance,
+the four personal computers share the high-speed laser
+printer and the file server, which are expensive pieces of
+hardware. Other equipment or nodes also may be added to the
+LAN—for instance, more personal computers, a mainframe
+computer, or optical disc storage devices. Additionally, the
+network gateway is a device that allows one LAN to be linked
+to other LANs or to larger networks. For example, the LAN of
+one office group may be connected to the LAN of another
+office group.
+There are a variety of different standards or ways in
+which nodes can be connected to one another and ways in which
+reset page 499
+-------------------------------------------- 分页分隔 --------------------------------------------
+their communications are controlled in a LAN. The most common
+standard is known as Ethernet. LANs using this standard are
+sometimes referred to as Ethernet LANs.
+Home Networks
+Although LANs have been widely used within organizations for
+years, they are now being commonly used by individuals in
+their homes and apartments. These LANs, called home networks,
+allow different computers to share resources, including a
+common Internet connection. Computers can be connected in a
+variety of ways, including electrical wiring, telephone
+wiring, and special cables. One of the simplest ways,
+however, is without cables, or wireless.
+page 200
+Wireless LAN
+A wireless local area network is typically referred to as a
+wireless LAN (WLAN). It uses radio frequencies to connect
+computers and other devices. All communications pass through
+the network’s centrally located wireless access point or
+base station. This access point interprets incoming radio
+frequencies and routes communications to the appropriate
+devices.
+Wireless access points that provide Internet access are
+widely available in public places such as coffee shops,
+libraries, bookstores, colleges, and universities. These
+access points are known as hotspots and typically use Wi-Fi
+technology. Most mobile computing devices have an internal
+wireless network card to connect to hotspots. If your mobile
+device does not have an internal wireless network card, you
+can use an external wireless adapter (see Figure 8-15) that
+plugs into your computer’s USB port or PC card slot.
+reset page 500
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 8-15 Wireless adapter
+HaraldBiebel/Getty Images
+Personal Area Networks
+A personal area network (PAN) is a type of wireless network
+that works within a very small area—your immediate
+surroundings. PANs connect cell phones to headsets, keyboards
+to cell phones, and so on. These networks make it possible
+for wireless devices to interact with each other. The most
+popular PAN technology is Bluetooth, with a maximum range of
+around 33 feet. Virtually all wireless peripheral devices
+available today use Bluetooth, including the controllers on
+popular game systems like the PlayStation and Wii.
+Metropolitan Area Networks
+Metropolitan area networks (MANs) span distances up to 100
+miles. These networks are frequently used as links between
+office buildings that are located throughout a city.
+page 201
+Unlike a LAN, a MAN is typically not owned by a single
+organization. Rather, it is owned either by a group of
+organizations or by a single network service provider that
+provides network services for a fee.
+tips
+reset page 501
+-------------------------------------------- 分页分隔 --------------------------------------------
+Do you use your laptop to connect to wireless networks at
+school or in public places such as coffee shops, airports, or
+hotels? If so, it is important to use caution to protect your
+computer and your privacy. Here are a few suggestions:
+1
+Use a firewall. A personal firewall is essential when connecting
+your computer directly to public networks. Some firewalls, such as
+the one built into Windows 8 and Windows 10, will ask whether a
+new network should be treated as home, work, or a public network.
+2
+Avoid fake hotspots. Thieves are known to set up rogue (or fake)
+hotspots in popular areas where users expect free Wi-Fi, such as
+coffee shops and airports. Because many operating systems
+automatically connect to the access point with the strongest
+signal, you could be connecting to the one set up by the thief.
+Always confirm that you are connecting to the access point of that
+establishment. Ask an employee if you are unsure.
+3
+Turn off file sharing. Turning off file-sharing features in your
+operating system will ensure that no one can access or modify your
+files.
+4
+Check if connection is encrypted. If the hotspot you are using
+is protected with a password, then it is likely encrypted. If it
+is not, then be very careful with websites you visit and the
+information you provide.
+Wide Area Networks
+Wide area networks (WANs) are countrywide and worldwide
+networks. These networks provide access to regional service
+(MAN) providers and typically span distances greater than 100
+miles. They use microwave relays and satellites to reach
+users over long distances—for example, from Los Angeles to
+Paris. Of course, the widest of all WANs is the Internet,
+which spans the entire globe.
+The primary difference between a PAN, LAN, MAN, and WAN is
+the geographic range. Each may have various combinations of
+hardware, such as personal computers, midrange computers,
+mainframes, and various peripheral devices.
+For a summary of network types, see Figure 8-16.
+reset page 502
+-------------------------------------------- 分页分隔 --------------------------------------------
+Type Description
+LAN Local area network; located within close proximity
+Home Local area network for home and apartment use;
+typically wireless
+WLAN Wireless local area network; all communication passes
+through access point
+PAN Personal area network; connects digital devices, such
+as Bluetooth headphones
+MAN Metropolitan area network; typically spans cities with
+coverage up to 100 miles
+WAN Wide area network for countrywide or worldwide
+coverage
+Figure 8-16 Types of networks
+concept check
+What is a LAN? Network gateway? Ethernet? Home network?
+What is a wireless network? Wireless access point? Hotspot?
+What is a PAN? MAN? WAN?
+Network Architecture
+Network architecture describes how a network is arranged and
+how resources are coordinated and shared. It encompasses a
+variety of different network specifics, including network
+topologies and strategies. Network topology describes the
+physical arrangement of the network. Network strategies
+define how information and resources are shared.
+page 202
+reset page 503
+-------------------------------------------- 分页分隔 --------------------------------------------
+Topologies
+A network can be arranged or configured in several different
+ways. This arrangement is called the network’s topology. The
+most common topologies are
+Bus network—each device is connected to a common cable
+called a bus or backbone, and all communications travel
+along this bus.
+Ring network—each device is connected to two other
+devices, forming a ring. (See Figure 8-17.) When a message
+is sent, it is passed around the ring until it reaches the
+intended destination.
+Star network—each device is connected directly to a
+central network switch. (See Figure 8-18.) Whenever a node
+sends a message, it is routed to the switch, which then
+passes the message along to the intended recipient. The
+star network is the most widely used network topology
+today. It is applied to a broad range of applications from
+small networks in the home to very large networks in major
+corporations.
+Tree network—each device is connected to a central node,
+either directly or through one or more other devices. The
+central node is connected to two or more subordinate nodes
+that in turn are connected to other subordinate nodes, and
+so forth, forming a treelike structure. (See Figure 8-19.)
+This network, also known as a hierarchical network, is
+often used to share corporate-wide data.
+Mesh network—this topology is the newest type and does not
+use a specific physical layout (such as a star or a tree).
+Rather, the mesh network requires that each node have more
+than one connection to the other nodes. (See Figure 8-20.)
+The resulting pattern forms the appearance of a mesh. If a
+path between two nodes is somehow disrupted, data can be
+automatically rerouted around the failure using another
+reset page 504
+-------------------------------------------- 分页分隔 --------------------------------------------
+path. Wireless technologies are frequently used to build
+mesh networks.
+Figure 8-17 Ring network
+Figure 8-18 Star network
+reset page 505
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 8-19 Tree network
+Description
+Figure 8-20 Mesh network
+Description
+page 203
+Strategies
+reset page 506
+-------------------------------------------- 分页分隔 --------------------------------------------
+Every network has a strategy, or way of coordinating the
+sharing of information and resources. Two of the most common
+network strategies are client/server and peer-to-peer.
+Client/server networks use central servers to coordinate
+and supply services to other nodes on the network. The server
+provides access to resources such as web pages, databases,
+application software, and hardware. (See Figure 8-21.) This
+strategy is based on specialization. Server nodes coordinate
+and supply specialized services, and client nodes request the
+services. Commonly used server operating systems are Windows
+Server, macOS X Server, Linux, and Solaris.
+Figure 8-21 Client/server network
+Gravvi/Shutterstock
+Client/server networks are widely used on the Internet.
+For example, each time you open a web browser, your computer
+(the client) sends out a request for a specific web page.
+This request is routed over the Internet to a server. This
+server locates and sends the requested material back to your
+computer.
+One advantage of the client/server network strategy is the
+ability to handle very large networks efficiently. Another
+advantage is the availability of powerful network management
+reset page 507
+-------------------------------------------- 分页分隔 --------------------------------------------
+software to monitor and control network activities. The major
+disadvantages are the cost of installation and maintenance.
+In a peer-to-peer (P2P) network, nodes have equal
+authority and can act as both clients and servers. The most
+common way to share games, movies, and music over the
+Internet is to use a P2P network. For example, special file-
+sharing software such as BitTorrent can be used to obtain
+files located on another personal computer and can provide
+files to other personal computers.
+P2P networks are rapidly growing in popularity as people
+continue to share information with others around the world.
+The primary advantage is that they are easy and inexpensive
+(often free) to set up and use. One disadvantage of P2P
+networks is the lack of security controls or other common
+management functions. For this reason, few businesses use
+this type of network to communicate sensitive information.
+concept check
+What is a network topology?
+Compare bus, ring, star, tree, and mesh topologies.
+What is a network strategy?
+Compare client/server and peer-to-peer strategies.
+Organizational Networks
+Computer networks in organizations have evolved over time.
+Most large organizations have a complex and wide range of
+different network configurations, operating systems, and
+strategies. These organizations face the challenge of making
+these networks work together effectively and securely.
+Internet Technologies
+reset page 508
+-------------------------------------------- 分页分隔 --------------------------------------------
+Many organizations today employ Internet technologies to
+support effective communication within and between
+organizations using intranets and extranets.
+An intranet is a private network within an organization
+that resembles the Internet. Like the public Internet,
+intranets use browsers, websites, and web pages. Typical
+applications include electronic telephone directories, e-
+mail addresses, employee benefit information, page 204
+internal job openings, and much more. Employees
+find surfing their organizational intranets to be as easy
+and as intuitive as surfing the Internet.
+An extranet is a private network that connects more than
+one organization. Many organizations use Internet
+technologies to allow suppliers and others limited access
+to their networks. The purpose is to increase efficiency
+and reduce costs. For example, an automobile manufacturer
+has hundreds of suppliers for the parts that go into making
+a car. By having access to the car production schedules,
+suppliers can schedule and deliver parts as they are needed
+at the assembly plants. In this way, operational efficiency
+is maintained by both the manufacturer and the suppliers.
+Network Security
+Large organizations face the challenge of ensuring that only
+authorized users have access to network resources, sometimes
+from multiple geographic locations or across the Internet.
+Securing large computer networks requires specialized
+technology. Three technologies commonly used to ensure
+network security are firewalls, intrusion detection systems,
+and virtual private networks.
+A firewall consists of hardware and software that control
+access to a company’s intranet and other internal
+networks. Most use software or a special computer called a
+proxy server. All communications between the company’s
+reset page 509
+-------------------------------------------- 分页分隔 --------------------------------------------
+internal networks and the outside world pass through this
+server. By evaluating the source and the content of each
+communication, the proxy server decides whether it is safe
+to let a particular message or file pass into or out of the
+organization’s network. (See Figure 8-22.)
+Intrusion detection systems (IDSs) work with page 205
+firewalls to protect an organization’s network.
+These systems use sophisticated statistical techniques to
+analyze all incoming and outgoing network traffic. Using
+advanced pattern matching and heuristics, an IDS can
+recognize signs of a network attack and disable access
+before an intruder can do damage.
+Virtual private networks (VPNs) create a secure private
+connection between a remote user and an organization’s
+internal network. Special VPN protocols create the
+equivalent of a dedicated line between a user’s home or
+laptop computer and a company server. The connection is
+heavily encrypted, and, from the perspective of the user,
+it appears that the workstation is actually located on the
+corporate network.
+reset page 510
+-------------------------------------------- 分页分隔 --------------------------------------------
+Figure 8-22 Intranets, extranets, firewalls, and proxy
+servers
+Description
+Like organizations, end users have security challenges and
+concerns. We need to be concerned about the privacy of our
+personal information. In the next chapter, we will discuss
+personal firewalls and other ways to protect personal privacy
+and security.
+privacy
+reset page 511
+-------------------------------------------- 分页分隔 --------------------------------------------
+In this age of social media and cell phones, it can be difficult to
+maintain your privacy on the Internet—but have you considered how to
+maintain the privacy of your Internet connection? When traveling it is
+common to use unfamiliar Wi-Fi connections—at a hotel, airport, or
+coffee shop—but what confidence do you have that your Internet
+activities won’t be monitored? Proponents of monitoring point out that
+public spaces offer no guarantee of privacy and a business has the
+right to monitor Internet traffic to deny inappropriate web pages.
+Privacy advocates counter that many of the most common Internet
+activities include private data—such as sharing photos and receiving
+e-mails—and that in offering public Wi-Fi to perform common Internet
+tasks, it is reasonable for a person to have an expectation of privacy.
+What do you think?
+concept check
+What are Internet technologies? Compare intranets and extranets.
+What is a firewall? What is a proxy server?
+What are intrusion detection systems?
+What are virtual private networks?
+Careers in IT
+“Now
+that you have learned about computer communications and
+networks, let me tell you about my career as a network
+administrator.”
+Network administrators manage a company’s LAN and WAN
+networks. They may be responsible for design,
+implementation, and maintenance of networks. Duties usually
+include maintenance of both hardware and software related
+to a company’s intranet and Internet networks. Network
+administrators are typically responsible for diagnosing and
+repairing problems with these networks. Some network
+reset page 512
+-------------------------------------------- 分页分隔 --------------------------------------------
+administrators’ duties include planning and implementation
+of network security as well.
+Scharfsinn/Shutterstock
+Employers typically look for candidates with a
+bachelor’s or an associate’s degree in computer science,
+computer technology, or information systems, as well as
+practical networking experience. Experience with network
+security and maintenance is preferred. Also, technical
+certification may be helpful in obtaining this position.
+Because network administrators are involved directly with
+people in many departments, good communication skills are
+essential.
+Network administrators can expect to earn an annual
+salary of $43,000 to $84,000. Opportunities for advancement
+typically include upper-management positions. This position
+is expected to be among the fastest-growing jobs in the
+near future.
+page 206
+A LOOK TO THE FUTURE
+reset page 513
+-------------------------------------------- 分页分隔 --------------------------------------------
+Telepresence Lets You Be There without Actually
+Being There
+Originally, a cell phone was just a device for making a phone call. But
+with improved networks and the development of the smartphone, cell phones
+have become capable of much more. Today, many people don’t communicate on
+a cell phone as a phone, but as a camera, through videoconferences, videos
+recorded to social media, or texting photos. It is easy to see why—photos
+and videos help us communicate better. These visual ways to communicate
+have become common because cell phones have become more powerful, cameras
+have become smaller, and networks have become faster. How will our
+communications improve as technology and networks continue to grow in
+power and availability? The future of communication is a world with
+seamless telepresence.
+Telepresence is the use of technology to create the illusion that you
+are actually somewhere else. Unlike a videoconference, where a small
+screen conveys the images and sounds of another location, telepresence
+attempts to replicate the foreign location entirely. These technologies
+include improved video and audio with immersive screens and multiple
+directional speakers. But it goes further than that: Telepresence will
+allow you to touch things in this other location—to interact with the
+world there through robotics and even feel this other location. In the
+future, telepresence will likely include robots that will allow you to
+walk the halls of your office or other remote locations from the comfort
+of your home. Technology will continue to evolve to improve our lives as
+we look to the future.
+Khakimullin Aleksandr/Shutterstock
+Today’s early implementations, such as Cisco TelePresence, use very-
+high-definition video, acoustically tuned audio systems, and high-speed
+networks to create a very convincing videoconferencing experience.
+reset page 514
+-------------------------------------------- 分页分隔 --------------------------------------------
+However, tele- presence could someday go beyond the simple voice and
+videoconferencing available today, with robotics allowing the telecommuter
+to change location and pick up objects. The ability to manipulate things
+through robotic arms is only part of the illusion of being in another
+place—you must also feel and touch the distant objects. Called haptic
+technology, specialized gloves and surfaces can give the user touch
+sensations that mimic holding or touching a distant object.
+One of the areas where telepresence robotics are already being used is
+in hospitals. Ava Robotics has developed the RP-VITA, a telepresence robot
+that has multiple cameras, high-resolution screens, and complex robotics
+to allow a doctor to care for and consult with patients and doctors from
+around the world. Scientists at the National Institutes of Health are
+investigating the use of augmented reality videoconferencing to assist in
+the triage and care of patients entering a hospital. Future technologies
+include specialized cameras that monitor temperature, heart rate, and
+respiration and haptic robotics that can assist in diagnostic testing.
+Telepresence robots will also play a roll in the home. Futurists
+imagine a day when a telepresence robot is as common as the vacuum
+cleaner. The home telepresence robot might be taken over by skilled
+technicians, such as a plumber or electrician. The telepresence robot
+would maneuver around the home, reviewing your pipes or wiring, and
+perform simple tests, make recommendations, and offer quotes on work to be
+done. A mechanic might use a telepresence robot to perform standard
+vehicle tune-ups or repairs. What do you think—could telepresence
+technology improve enough to convince you that you are somewhere else, or
+would the gloves and headset be too distracting?
+page 207
+Communications and
+VISUAL SUMMARY
+Networks
+COMMUNICATIONS
+reset page 515
+-------------------------------------------- 分页分隔 --------------------------------------------
+Rawpixel.com/Shutterstock
+Communications is the process of sharing data, programs,
+and information between two or more computers.
+Applications include texting, e-mail, videoconferencing,
+and electronic commerce.
+Connectivity
+Connectivity is a concept related to using computer
+networks to link people and resources. You can link or
+connect to large computers and the Internet, providing
+access to extensive information resources.
+The Wireless Revolution
+Mobile devices like cell phones and tablets have brought
+dramatic changes in connectivity and communications.
+These wireless devices are becoming widely used for
+computer communication.
+Communication Systems
+Communication systems transmit data from one location to
+another. There are four basic elements:
+Sending and receiving devices originate or accept
+messages.
+reset page 516
+-------------------------------------------- 分页分隔 --------------------------------------------
+Connection devices act as an interface between sending
+and receiving devices and the communication channel.
+Data transmission specifications are rules and
+procedures for sending and receiving data.
+Communication channel is the actual connecting or
+transmission medium for messages.
+COMMUNICATION CHANNELS
+Olgaviare/Getty Images
+Communication channels carry data from one computer to
+another.
+Wireless Connections
+Wireless connections do not use a solid substance to
+connect devices. Most use radio waves.
+WiMax (Worldwide Interoperability for Microwave
+Access)—extends the range of Wi-Fi networks using
+microwave connections.
+Bluetooth—transmits data over short distances; widely
+used for a variety of wireless devices.
+Wi-Fi (wireless fidelity)—uses high-frequency radio
+signals; most home and business wireless networks use
+Wi-Fi.
+Microwave—line-of-sight communication; used to send
+data between buildings; longer distances require
+microwave stations.
+reset page 517
+-------------------------------------------- 分页分隔 --------------------------------------------
+Cellular—uses cell towers to send and receive data
+within relatively small geographic regions or cells.
+Satellite—uses microwave relay stations; GPS (global
+positioning system) tracks geographic locations.
+Infrared—uses light waves over a short distance;
+line-of-sight communication.
+Physical Connections
+Physical connections use a solid medium to connect
+sending and receiving devices. Connections include
+twisted-pair cable (telephone lines and Ethernet
+cables), coaxial cable, and fiber-optic cable.
+page 208
+To efficiently and effectively use computers, you need
+to understand the concepts of connectivity, the
+wireless revolution, and communication systems.
+Additionally, you need to know the essential parts of
+communication technology, including channels,
+connection devices, data transmission, networks,
+network architectures, and network types.
+CONNECTION DEVICES
+(left): Pakpoom Phummee/Shutterstock; (middle): pryzmat/Shutterstock;
+(right): Alex Melnick/Shutterstock
+reset page 518
+-------------------------------------------- 分页分隔 --------------------------------------------
+Many communication systems use standard telephone lines
+and analog signals. Computers use digital signals.
+Modems
+Modems modulate and demodulate. Transfer rate is
+measured in megabits per second. Three types are
+wireless (wireless wide area network, WWAN), DSL, and
+cable.
+Connection Services
+T1, T3 (DS3), and OC (optical carrier) lines provide
+support for very-high-speed, all-digital transmission for
+large corporations. Cellular service providers support
+voice and data transmission using cellular networks.
+These mobile telecommunications networks have gone
+through different generations—1G, using analog radio
+signals; 2G, using digital radio signals; 3G, beginning
+of cell phones; 4G, using LTE (Long Term Evolution); and
+5G, the newest and fastest network.
+Other more affordable technologies include dial-up,
+DSL (digital subscriber line), ADSL (widely used),
+cable, fiber-optic service (FiOS), and satellite.
+DATA TRANSMISSION
+Bandwidth measures a communication channel’s width or
+capacity. Four bandwidths are voiceband, medium band,
+broadband, and baseband. Protocols are rules for
+exchanging data. Internet protocols include https and
+TCP/IP. IP addresses (Internet protocol addresses) are
+unique numeric Internet addresses. DNS (domain name
+server) converts text-based addresses to and from
+numeric IP addresses. Packets are small parts of
+messages.
+reset page 519
+-------------------------------------------- 分页分隔 --------------------------------------------
+NETWORKS
+Computer networks connect two or more computers. Some
+specialized network terms include
+Node—any device connected to a network.
+Client—node requesting resources.
+Server—node providing resources.
+Directory server—specialized node that manages
+resources.
+Host—any computer system that provides access to its
+resources over a network.
+Router—a node that forwards data packets from one
+network to another network.
+Switch—node that coordinates direct flow of data
+between other nodes. Hub is an older device that
+directed flow to all nodes.
+NIC (network interface card)—LAN adapter card for
+connecting to a network.
+NOS (network operating system)—controls and
+coordinates network operations.
+Network administrator—network specialist responsible
+for network operations.
+NETWORK TYPES
+Networks can be citywide or even international, using
+both wired and wireless connections.
+Local area networks (LANs) connect nearby devices.
+Network gateways connect networks to one another.
+Ethernet is a LAN standard. These LANs are called
+Ethernet LANs.
+Home networks are LANs used in homes.
+reset page 520
+-------------------------------------------- 分页分隔 --------------------------------------------
+Wireless LANs (WLANs) use a wireless access point
+(base station) as a hub. Hotspots provide Internet
+access in public places.
+Personal area networks (PANs) are wireless networks
+for Bluetooth headphones, cell phones, and other
+wireless devices.
+Metropolitan area networks (MANs) link office
+buildings within a city, spanning up to 100 miles.
+Wide area networks (WANs) are the largest type. They
+span states and countries or form worldwide networks.
+The Internet is the largest wide area network in the
+world.
+page 209
+NETWORK ARCHITECTURE
+Network architecture describes how networks are arranged
+and resources are shared.
+reset page 521
+-------------------------------------------- 分页分隔 --------------------------------------------
+Topologies
+A network’s topology describes the physical arrangement
+of a network.
+Bus network—each device is connected to a common
+cable called a bus or backbone.
+Ring network—each device is connected to two other
+devices, forming a ring.
+Star network—each device is connected directly to a
+central network switch; most common type today.
+Tree (hierarchical) network—a central node is
+connected to subordinate nodes forming a treelike
+structure.
+Mesh network—newest; each node has two or more
+connecting nodes.
+Strategies
+Every network has a strategy, or way of sharing
+information and resources. Common network strategies
+include client/server and peer-to-peer.
+Client/server (hierarchical) network—central
+computers coordinate and supply services to other
+nodes; based on specialization of nodes; widely used on
+the Internet; able to handle very large networks
+efficiently; powerful network management software
+available.
+Peer-to-peer network—nodes have equal authority and
+act as both clients and servers; widely used to share
+games, movies, and music over the Internet; easy to set
+up and use; lacks security controls.
+ORGANIZATIONAL NETWORKS
+reset page 522
+-------------------------------------------- 分页分隔 --------------------------------------------
+Internet Technologies
+Internet technologies support effective communication
+using intranets and extranets.
+Intranet—private network within an organization; uses
+browsers, websites, and web pages. Typical applications
+include electronic telephone directories, e-mail
+addresses, employee benefit information, internal job
+openings, and much more.
+Extranet—like intranet except connects more than one
+organization; typically allows suppliers and others
+limited access to their networks.
+Network Security
+Three technologies commonly used to ensure network
+security are firewalls, intrusion detection systems, and
+virtual private networks.
+Firewall—controls access; all communications pass
+through a proxy server.
+reset page 523
+-------------------------------------------- 分页分隔 --------------------------------------------
+Intrusion detection systems (IDSs)—work with
+firewalls; use sophisticated statistical techniques to
+recognize and disable network attacks.
+Virtual private network (VPN)—creates secure private
+connection between remote user and organization’s
+internal network.
+CAREERS in IT
+Network administrators manage a company’s LAN and WAN
+networks. Bachelor’s or associate’s degree in computer
+science, computer technology, or information systems and
+practical networking experience required. Expected salary
+range is $43,000 to $84,000.
+page 210
+KEY TERMS
+1G (first-generation mobile telecommunications) (193)
+2G (second-generation mobile telecommunications) (193)
+3G (third-generation mobile telecommunications) (193)
+4G (fourth-generation mobile telecommunications) (193)
+5G (fifth-generation mobile telecommunications) (193)
+analog signal (192)
+asymmetric digital subscriber line (ADSL) (193)
+backbone (202)
+bandwidth (196)
+reset page 524
+-------------------------------------------- 分页分隔 --------------------------------------------
+base station (200)
+baseband (196)
+Bluetooth (190)
+broadband (196)
+bus (202)
+bus network (202)
+cable modem (192)
+cable service (193)
+cell (190)
+cell tower (190)
+cellular (190)
+cellular service provider (193)
+client (197)
+client/server network (203)
+coaxial cable (191)
+communication channel (190)
+communication system (189)
+computer network (197)
+connectivity (188)
+demodulation (192)
+dial-up service (193)
+digital signal (192)
+digital subscriber line (DSL) (192)
+digital subscriber line (DSL) service (193)
+directory server (198)
+domain name server (DNS) (197)
+downlink (191)
+DS3 (193)
+Ethernet (199)
+reset page 525
+-------------------------------------------- 分页分隔 --------------------------------------------
+Ethernet cable (191)
+extranet (204)
+fiber-optic cable (191)
+fiber-optic service (FiOS) (193)
+firewall (204)
+global positioning system (GPS) (191)
+hierarchical network (202)
+home network (199)
+host (198)
+hotspot (200)
+https (hypertext transfer protocol secure) (196)
+hub (198)
+infrared (191)
+intranet (203)
+intrusion detection system (IDS) (205)
+IP address (Internet protocol address) (196)
+local area network (LAN) (199)
+low bandwidth (196)
+LTE (Long Term Evolution) (193)
+medium band (196)
+megabits per second (Mbps) (192)
+mesh network (202)
+metropolitan area network (MAN) (200)
+microwave (190)
+modem (192)
+modulation (192)
+network administrator (199, 205)
+network architecture (201)
+network gateway (199)
+reset page 526
+-------------------------------------------- 分页分隔 --------------------------------------------
+network interface card (NIC) (198)
+network operating system (NOS) (199)
+node (197)
+optical carrier (OC) (193)
+packet (197)
+peer-to-peer (P2P) network (203)
+personal area network (PAN) (200)
+protocol (196)
+proxy server (204)
+ring network (202)
+router (198)
+satellite (191)
+satellite connection service (193)
+server (198)
+star network (202)
+strategy (203)
+switch (198)
+T1 (193)
+T3 (193)
+telephone line (191)
+topology (202)
+transfer rate (192)
+transmission control protocol/Internet protocol (TCP/IP)
+(196)
+tree network (202)
+twisted-pair cable (191)
+uplink (191)
+virtual private network (VPN) (205)
+voiceband (196)
+reset page 527
+-------------------------------------------- 分页分隔 --------------------------------------------
+wide area network (WAN) (201)
+Wi-Fi (wireless fidelity) (190)
+WiMax (Worldwide Interoperability for Microwave Access)
+(191)
+wireless access point (200)
+wireless LAN (WLAN) (200)
+wireless modem (192)
+wireless wide area network (WWAN) modem (192)
+page 211
+MULTIPLE CHOICE
+Circle the correct answer.
+1. Type of network topology in which each device is
+connected to a common cable called a backbone.
+a. star
+b. bus
+c. peer-to-peer
+d. ring
+2. A widely used Internet protocol.
+a. TCP/IP
+b. WAN
+c. LAN
+d. WiMax
+3. Uses high-frequency radio waves.
+reset page 528
+-------------------------------------------- 分页分隔 --------------------------------------------
+a. NIC
+b. mesh
+c. VPN
+d. Wi-Fi
+4. Signals that are continuous electronic waves.
+a. analog
+b. digital
+c. backbone
+d. mesh
+5. Rules for exchanging data between computers.
+a. modem
+b. https
+c. extranet
+d. protocols
+6. Any device that is connected to a network.
+a. ADSL
+b. node
+c. optical carrier
+d. hotspot
+7. A computer specialist responsible for efficient network
+operations and implementation of new networks.
+a. network administrator
+b. wireless access point
+c. cellular service provider
+d. hub
+8. This network, also known as a hierarchical network, is
+often used to share corporatewide data.
+a. bus
+b. tree
+reset page 529
+-------------------------------------------- 分页分隔 --------------------------------------------
+c. mesh
+d. ring
+9. In this network, nodes have equal authority and can act
+as both clients and servers.
+a. bus
+b. tree
+c. peer-to-peer
+d. mesh
+10. This works with firewalls to protect an organization’s
+network.
+a. uplink
+b. FiOS
+c. intrusion detection system
+d. DSL
+page 212
+MATCHING
+Match each numbered item with the most closely related
+lettered item. Write your answers in the spaces provided.
+a. con nectivity 1. The bandwidth
+b. coaxial typically used for DSL,
+cable, and satellite
+c. Bluetooth
+connections to the
+d. transfer
+Internet.
+rate
+reset page 530
+-------------------------------------------- 分页分隔 --------------------------------------------
+e. bro adband 2. Sometimes referred to
+f. IP address as a LAN adapter, these
+expansion cards connect
+g. NIC
+a computer to a
+h. network
+network.
+gateway
+3. The speed with which a
+i. hotspots
+modem transmits data is
+j. topologies c alled its .
+4. A device that allows
+one LAN to be linked to
+other LANs or to larger
+networks.
+5. The concept related to
+using computer networks
+to link people and
+resources.
+6. A high-frequency
+transmission cable that
+delivers television
+signals as well as
+connects computers in a
+network.
+7. Every computer on the
+Internet has a unique
+numeric address called
+a(n) .
+8. Typically using Wi-Fi
+technology, these
+wireless access points
+are available from
+reset page 531
+-------------------------------------------- 分页分隔 --------------------------------------------
+public places such as
+coffee shops,
+libraries, bookstores,
+colleges, and
+universities.
+9. A short-range radio
+communication standard
+that transmits data
+over short distances of
+up to approximately 33
+feet.
+10. Bus, ring, star, tree,
+and mesh are five types
+o f network .
+OPEN-ENDED
+On a separate sheet of paper, respond to each question or
+statement.
+1. Define communications, including connectivity, the
+wireless revolution, and communication systems.
+2. Discuss communication channels, including wireless
+connections and physical connections.
+3. Discuss connection devices, including modems (DSL,
+cable, and wireless modems) and connection services
+(cellular, DSL, ADSL, cable, and satellite).
+4. Discuss data transmission, including bandwidths (voice
+band, medium band, broadband, and baseband) as well as
+reset page 532
+-------------------------------------------- 分页分隔 --------------------------------------------
+protocols (IP addresses, domain name servers, and
+packetization).
+5. Discuss networks by identifying and defining specialized
+terms that describe computer networks.
+6. Discuss network types, including local area, home,
+wireless, personal, metropolitan, and wide area
+networks.
+7. Define network architecture, including topologies (bus,
+ring, star, tree, and mesh) and strategies
+(client/server and peer-to-peer).
+8. Discuss organization networks, including Internet
+technologies (intranets and extranets) and network
+security (firewalls, proxy servers, intrusion detection
+systems, and virtual private networks).
+page 213
+DISCUSSION
+Respond to each of the following questions.
+Making IT Work for You: THE MOBILE
+1
+OFFICE
+Review the Making IT Work for You: The Mobile Office on pages 194 and
+195 and then respond to the following: (a) What types of professions
+would get the most out of a mobile office? Why? What type of office work
+is best done at work? What office work can be handled while driving? Or
+on an airplane? (b) Do you have a mobile Internet device, such as a cell
+phone or tablet? (If you do not own any, research a device on the
+Internet that you feel would be most beneficial to you.) Can your mobile
+Internet device be used as a hotspot? Does your service provider allow
+reset page 533
+-------------------------------------------- 分页分隔 --------------------------------------------
+you to use that feature? (c) Have you ever connected to a public Wi-Fi?
+Did you share any private information, including videos, e-mails, credit
+card numbers, or passwords, over a public Wi-Fi? How would you protect
+your data in the future when on a public Wi-Fi?
+Privacy: UNAUTHORIZED NETWORK
+2
+INTRUSION
+Review the Privacy box on page 205 and then respond to the following:
+(a) Does a company offering public Wi-Fi have the right to monitor the
+traffic on its own network? Does it have the right to read the e-mails
+that are downloaded on that network? Does it have the right to record
+the passwords that are sent over that network? Where would you draw the
+line, and why? (b) Does the government have the right to monitor the
+Internet activities of its citizens? What data should the government
+collect about its citizens’ Internet use, and how long should the
+government hold on to that data? Would your opinion change if you knew
+terrorists were using the Internet to plan crimes? Would your opinion
+change if you knew politicians were using collected data to influence
+election outcomes?
+Ethics: ELECTRONIC MONITORING
+3
+Review the Ethics box on page 190 and respond to the following: (a) Is
+it unethical for an organization or corporation to use programs to
+monitor communications on its network? Why or why not? (b) Is it
+unethical for a government agency (such as the FBI) to monitor
+communications on the Internet or gather your records from the websites
+you visit? Why or why not? (c) Do you feel that new laws are needed to
+handle these issues? How would you balance the needs of companies and
+the government with the needs of individuals? Explain your answers.
+Community: INTERNET FOR THE DEVELOPING
+4
+WORLD
+Review the Community box on page 191 and then respond to the following:
+(a) What daily challenges face the citizens of developing countries? How
+could an Internet connection assist in overcoming these challenges? (b)
+Many individuals in developing countries cannot afford the devices that
+connect to the Internet. How can a community work together to make such
+devices available? (c) Within your own community, are there any
+community programs that provide Internet-accessible devices to those who
+reset page 534
+-------------------------------------------- 分页分隔 --------------------------------------------
