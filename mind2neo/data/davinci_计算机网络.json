@@ -1,0 +1,2114 @@
+{
+  "title": "计算机网络",
+  "reply": "{'node_type': 'Topic', 'name': '计算机网络', 'enName': 'Computer Network', 'definition': 'None', 'features': 'None'}",
+"topics":[
+  {
+    "title": "计算机网络的概述",
+    "topics": [
+      {
+        "title": "计算机网络的性能",
+        "topics": [
+          {
+            "title": "计算机网络的性能指标",
+            "topics": [
+              {
+                "title": "网络速率",
+                "reply": "{'node_type': 'Concept', 'name': '网络速率', 'enName': 'Network Speed', 'definition': '指网络传输数据的速度，单位为bps(比特/秒)', 'features': '受网络状态和网络类型等因素影响'}",
+                "time": "Tue Jun 20 11:04:12 2023"
+              },
+              {
+                "title": " 带宽 ",
+                "topics": [
+                  {
+                    "title": "带宽定义",
+                    "reply": "{'node_type': 'Concept', 'name': '带宽定义', 'enName': 'Bandwidth Definition', 'definition': '带宽是指传输信号的速率，是指在特定时间内能够传输的最大数据量。', 'features': '带宽是传输信号的速率，是指在特定时间内能够传输的最大数据量。'}",
+                    "time": "Tue Jun 20 11:04:33 2023"
+                  },
+                  {
+                    "title": "常用的带宽单位",
+                    "topics": [
+                      {
+                        "title": "千比每秒kb/s （103 b/s）",
+                        "reply": "{'node_type': 'Concept', 'name': '千比每秒kb/s', 'enName': '103 b/s', 'definition': '千比每秒kb/s是指每秒传输1000字节的数据量，也就是每秒传输103个字节的数据量。', 'features': '千比每秒kb/s是一种常用的数据传输速率单位。'}",
+                        "time": "Tue Jun 20 11:04:51 2023"
+                      },
+                      {
+                        "title": "兆比每秒 Mb/s（106 b/s）",
+                        "reply": "{'node_type': 'Concept', 'name': '兆比每秒', 'enName': 'Mb/s (106 b/s)', 'definition': '每秒传输的字节数，1兆比每秒等于1,000,000字节每秒', 'features': '衡量网络传输速度的单位'}",
+                        "time": "Tue Jun 20 11:04:58 2023"
+                      },
+                      {
+                        "title": "吉比每秒 Gb/s（109 b/s）",
+                        "reply": "{'node_type': 'Concept', 'name': '吉比每秒', 'enName': 'Gb/s (109 b/s)', 'definition': '每秒传输的数据量，单位为吉比字节（即十亿字节）', 'features': '表示网络传输速度的单位'}",
+                        "time": "Tue Jun 20 11:05:10 2023"
+                      },
+                      {
+                        "title": "太比每秒 Tb/s（1012 b/s）",
+                        "reply": "{'node_type': 'Concept', 'name': '太比每秒', 'enName': 'Tb/s (1012 b/s)', 'definition': '太比每秒是每秒传输的数据量，单位为1012字节（比特）。', 'features': '太比每秒是比特每秒的十倍，是传输速度的常用单位。'}",
+                        "time": "Tue Jun 20 11:05:23 2023"
+                      }
+                    ],
+                    "reply": "{'node_type': 'Concept', 'name': '常用的带宽单位', 'enName': 'Common Bandwidth Units', 'definition': '指用于衡量网络传输速率的单位。', 'features': '常用的带宽单位有bps、Kbps、Mbps、Gbps等。'}",
+                    "time": "Tue Jun 20 11:04:42 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '带宽', 'enName': 'Bandwidth', 'definition': '指传输介质的最大数据传输率，单位为bps(比特/秒)。', 'features': '带宽越大，传输速度越快。'}",
+                "time": "Tue Jun 20 11:04:23 2023"
+              },
+              {
+                "title": "吞吐量",
+                "reply": "{'node_type': 'Concept', 'name': '吞吐量', 'enName': 'Throughput', 'definition': '指系统在单位时间内处理的任务数量', 'features': '衡量系统的性能，可以用来比较不同系统的性能'},",
+                "time": "Tue Jun 20 11:05:33 2023"
+              },
+              {
+                "title": "时延(delay 或 latency)",
+                "reply": "{'node_type': 'Concept', 'name': '时延', 'enName': 'Delay/Latency', 'definition': '指从发出信号到接收到信号之间的时间差', 'features': '时延可以用来衡量网络的性能，越小越好。'}",
+                "time": "Tue Jun 20 11:05:39 2023"
+              },
+              {
+                "title": "时延带宽积",
+                "reply": "{'node_type': 'Concept', 'name': '时延带宽积', 'enName': 'Delay-Bandwidth Product', 'definition': '衡量网络传输性能的指标，它是指网络中每个数据包的大小乘以其在网络中的传输时延。', 'features': '可以用来衡量网络传输性能，可以用来比较不同网络的传输性能。'}",
+                "time": "Tue Jun 20 11:05:53 2023"
+              },
+              {
+                "title": "网络利用率",
+                "reply": "{'node_type': 'Concept', 'name': '网络利用率', 'enName': 'Network Utilization', 'definition': '网络利用率是指网络中传输的数据量与网络的总容量的比率。', 'features': '可以用来衡量网络的效率和性能。'}",
+                "time": "Tue Jun 20 11:06:04 2023"
+              },
+              {
+                "title": "时延与网络利用率的关系",
+                "reply": "{'node_type': 'Concept', 'name': '时延与网络利用率的关系', 'enName': 'Relationship between Delay and Network Utilization', 'definition': '时延与网络利用率之间的关系是指网络利用率越高，时延就越高。', 'features': '时延与网络利用率之间存在正相关关系，即网络利用率越高，时延就越高。'}",
+                "time": "Tue Jun 20 11:06:27 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '计算机网络的性能指标', 'enName': 'Performance Indicators of Computer Networks', 'definition': '计算机网络性能指标是用来衡量网络性能的指标，包括带宽、延迟、丢包率等。', 'features': '可以用来衡量网络的可靠性、吞吐量、延迟等性能。'}",
+            "time": "Tue Jun 20 11:04:00 2023"
+          },
+          {
+            "title": "计算机网络的非性能特征",
+            "reply": "{'node_type': 'Concept', 'name': '计算机网络的非性能特征', 'enName': 'Non-Performance Characteristics of Computer Networks', 'definition': '计算机网络的非性能特征是指网络的可靠性、安全性、可维护性、可扩展性等特性。', 'features': '可靠性、安全性、可维护性、可扩展性。'}",
+            "time": "Tue Jun 20 11:06:41 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '计算机网络的性能', 'enName': 'Computer Network Performance', 'definition': '计算机网络性能是指网络系统的能力，它可以提供可靠的服务，以满足用户的要求。', 'features': '可以通过测量网络的吞吐量、延迟和丢包率来衡量网络性能。'}",
+        "time": "Tue Jun 20 11:03:48 2023"
+      },
+      {
+        "title": "因特网",
+        "topics": [
+          {
+            "title": "因特网概述",
+            "topics": [
+              {
+                "title": "因特网发展的三个阶段",
+                "reply": "{'node_type': 'Concept', 'name': '因特网发展的三个阶段', 'enName': 'Three Stages of Internet Development', 'definition': '因特网发展历经了三个阶段：网络基础设施阶段、网络应用阶段和网络服务阶段。', 'features': '网络基础设施阶段：建立网络基础设施；网络应用阶段：开发网络应用；网络服务阶段：提供网络服务。'}",
+                "time": "Tue Jun 20 11:07:29 2023"
+              },
+              {
+                "title": "因特网的标准化工作",
+                "topics": [
+                  {
+                    "title": "四个阶段 ",
+                    "topics": [
+                      {
+                        "title": "因特网草案(Internet Draft) ",
+                        "reply": "{'node_type': 'Concept', 'name': '因特网草案', 'enName': 'Internet Draft', 'definition': '由互联网工程任务组(IETF)发布的文档，用于描述新的互联网技术或改进现有技术的草案。', 'features': '由IETF发布，描述新的或改进现有技术。'}",
+                        "time": "Tue Jun 20 11:08:15 2023"
+                      },
+                      {
+                        "title": "建议标准(Proposed Standard) ",
+                        "reply": "{'node_type': 'Concept', 'name': '建议标准', 'enName': 'Proposed Standard', 'definition': '指技术性文件，其中包含了一组技术要求，用于指导设计、制造、安装、使用和维护产品的技术标准。', 'features': '比正式标准更宽松，可以更快地满足市场需求。'}",
+                        "time": "Tue Jun 20 11:08:31 2023"
+                      },
+                      {
+                        "title": "草案标准(Draft Standard)",
+                        "reply": "{'node_type': 'Concept', 'name': '草案标准', 'enName': 'Draft Standard', 'definition': '一种尚未正式发布的标准，它可能会经过修改后正式发布。', 'features': '可以提供技术上的指导，但不具有法律约束力。'}",
+                        "time": "Tue Jun 20 11:08:42 2023"
+                      },
+                      {
+                        "title": "因特网标准(Internet Standard) ",
+                        "reply": "{'node_type': 'Concept', 'name': '因特网标准', 'enName': 'Internet Standard', 'definition': '因特网标准是一组由因特网工程任务组(IETF)制定的网络协议标准，它们构成了因特网的基础架构。', 'features': '因特网标准是一组由因特网工程任务组(IETF)制定的网络协议标准，它们构成了因特网的基础架构。'}",
+                        "time": "Tue Jun 20 11:08:58 2023"
+                      }
+                    ],
+                    "reply": "{'node_type': 'Concept', 'name': '四个阶段', 'enName': 'Four Stages', 'definition': '程序设计的过程中，将问题分解为四个阶段：分析、设计、实现和测试。', 'features': '每个阶段都有其独特的特点，并且每个阶段都是程序设计过程中不可或缺的一部分。'}",
+                    "time": "Tue Jun 20 11:08:02 2023"
+                  },
+                  {
+                    "title": "各种RFC之间的关系",
+                    "reply": "{'node_type': 'Concept', 'name': '各种RFC之间的关系', 'enName': 'Relationship between RFCs', 'definition': 'RFC是一种文档格式，用于描述互联网标准，它们之间存在着复杂的关系。', 'features': 'RFC之间可以相互引用，也可以互相参考。'}",
+                    "time": "Tue Jun 20 11:09:07 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '因特网的标准化工作', 'enName': 'Internet Standardization', 'definition': '因特网的标准化工作是指为了维护因特网的稳定性和可靠性，制定和实施因特网的标准的过程。', 'features': '因特网标准化工作包括制定协议标准、网络管理标准、安全标准等。'}",
+                "time": "Tue Jun 20 11:07:45 2023"
+              },
+              {
+                "title": "计算机网络在我国的发展",
+                "topics": [
+                  {
+                    "title": "中国公用计算机互联网 CHINANET",
+                    "reply": "{'node_type': 'Concept', 'name': '中国公用计算机互联网', 'enName': 'CHINANET', 'definition': '中国公用计算机互联网是中国最大的国家级互联网网络，由中国科学院计算技术研究所、中国电子科技集团公司和中国移动共同管理。', 'features': '拥有最大的国家级互联网网络，由中国科学院计算技术研究所、中国电子科技集团公司和中国移动共同管理。'}",
+                    "time": "Tue Jun 20 11:09:35 2023"
+                  },
+                  {
+                    "title": " 中国教育和科研计算机网 CERNET",
+                    "reply": "{'node_type': 'Concept', 'name': 'CERNET', 'enName': 'China Education and Research Network', 'definition': '中国教育和科研计算机网，是中国最大的国家级网络，由教育部和科技部共同建设和管理。', 'features': '拥有最大的国家级网络，支持教育和科研活动。'}",
+                    "time": "Tue Jun 20 11:09:45 2023"
+                  },
+                  {
+                    "title": " 中国科学技术网 CSTNET",
+                    "reply": "{'node_type': 'Concept', 'name': 'CSTNET', 'enName': 'China Science and Technology Network', 'definition': '中国科学技术网，是中国科学技术信息研究所主办的国家级科技信息网络。', 'features': '提供科技资源检索、科技文献检索、科技服务等功能。'}",
+                    "time": "Tue Jun 20 11:09:54 2023"
+                  },
+                  {
+                    "title": "中国联通互联网 UNINET",
+                    "reply": "{'node_type': 'Concept', 'name': '中国联通互联网', 'enName': 'UNINET', 'definition': '中国联通互联网是中国联通推出的一种宽带互联网服务，支持宽带接入、移动宽带接入和光纤接入。', 'features': '支持宽带接入、移动宽带接入和光纤接入；支持宽带账号绑定；支持多种支付方式；支持宽带设备管理。'}",
+                    "time": "Tue Jun 20 11:10:13 2023"
+                  },
+                  {
+                    "title": "中国网通公用互联网 CNCNET",
+                    "reply": "{'node_type': 'Concept', 'name': '中国网通公用互联网', 'enName': 'CNCNET', 'definition': '中国网通公用互联网是中国网通提供的全国性的公用互联网服务，支持多种应用服务。', 'features': '支持多种应用服务，拥有全国性的覆盖范围，提供高速稳定的网络连接。'}",
+                    "time": "Tue Jun 20 11:10:27 2023"
+                  },
+                  {
+                    "title": "中国国际经济贸易互联网 CIETNET",
+                    "reply": "{'node_type': 'Concept', 'name': '中国国际经济贸易互联网', 'enName': 'CIETNET', 'definition': '一个由中国国家发展改革委员会主办的国际经济贸易互联网，旨在促进中国国际经济贸易的发展。', 'features': '提供了一个全球性的互联网平台，可以实现中国国际经济贸易的多方交流与合作。'}",
+                    "time": "Tue Jun 20 11:10:46 2023"
+                  },
+                  {
+                    "title": "中国移动互联网 CMNET",
+                    "reply": "{'node_type': 'Concept', 'name': '中国移动互联网 CMNET', 'enName': 'China Mobile Internet CMNET', 'definition': '中国移动互联网（CMNET）是中国移动提供的一种互联网接入服务，支持GPRS、EDGE、WCDMA、TD-SCDMA等多种技术。', 'features': '支持多种技术，提供高速、稳定的网络服务。'}",
+                    "time": "Tue Jun 20 11:10:57 2023"
+                  },
+                  {
+                    "title": "中国长城互联网 CGWNET（建设中）",
+                    "reply": "{'node_type': 'Concept', 'name': '中国长城互联网', 'enName': 'CGWNET (under construction)', 'definition': '中国长城互联网是一种由中国科学院计算机网络信息中心设计和建设的国家级高速网络。', 'features': '支持多种网络技术，支持多种应用服务，支持多种网络设备。'}",
+                    "time": "Tue Jun 20 11:11:15 2023"
+                  },
+                  {
+                    "title": " 中国卫星集团互联网 CSNET（建设中） ",
+                    "reply": "{'node_type': 'Concept', 'name': '中国卫星集团互联网CSNET（建设中）', 'enName': 'China Satellite Group Internet CSNET (Under Construction)', 'definition': '中国卫星集团互联网CSNET是一个利用卫星技术建立的国家级互联网网络，旨在支持中国的科研、教育、经济发展和社会服务。', 'features': '利用卫星技术建立的国家级互联网网络，支持中国的科研、教育、经济发展和社会服务。'}",
+                    "time": "Tue Jun 20 11:11:33 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '计算机网络在我国的发展', 'enName': 'Development of Computer Networks in China', 'definition': '计算机网络在我国的发展是指在中国大陆境内计算机网络的发展历程。', 'features': '从早期的局域网到现在的互联网，计算机网络在我国的发展可以分为几个阶段。'}",
+                "time": "Tue Jun 20 11:09:21 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '因特网概述', 'enName': 'Internet Overview', 'definition': '因特网是一个全球性的、分布式的计算机网络，由许多私人、公共、学术、商业网络组成。', 'features': '支持多种协议，可以实现跨越地域的信息传输。'}",
+            "time": "Tue Jun 20 11:07:07 2023"
+          },
+          {
+            "title": "因特网的组成",
+            "topics": [
+              {
+                "title": "因特网的边缘部分",
+                "topics": [
+                  {
+                    "title": "因特网边缘部分的组成",
+                    "reply": "{'node_type': 'Concept', 'name': '因特网边缘部分的组成', 'enName': 'Components of the Edge of the Internet', 'definition': '因特网边缘部分由计算机、网络、存储和应用组成。', 'features': '计算机提供计算能力，网络提供连接，存储提供数据存储，应用提供服务。'}",
+                    "time": "Tue Jun 20 11:12:02 2023"
+                  },
+                  {
+                    "title": "因特网边缘部分的功能",
+                    "topics": [
+                      {
+                        "title": "通信",
+                        "topics": [
+                          {
+                            "title": "客户服务器方式（C/S 方式）  ",
+                            "reply": "{'node_type': 'Concept', 'name': '客户服务器方式（C/S 方式）', 'enName': 'Client-Server Mode', 'definition': '一种计算机网络架构，客户端发出请求，服务器端接收请求并返回响应。', 'features': '客户端和服务器端分离，客户端只负责发出请求，服务器端负责处理请求并返回响应。'}",
+                            "time": "Tue Jun 20 11:12:37 2023"
+                          },
+                          {
+                            "title": "对等方式（P2P 方式）  ",
+                            "reply": "{'node_type': 'Concept', 'name': '对等方式（P2P 方式）', 'enName': 'Peer-to-Peer (P2P)', 'definition': '一种网络架构，其中每个节点都可以作为客户端和服务器，互相之间可以直接进行通信。', 'features': '无需中心服务器，每个节点都可以直接与其他节点进行通信。'}",
+                            "time": "Tue Jun 20 11:12:52 2023"
+                          }
+                        ],
+                        "reply": "{'node_type': 'Concept', 'name': '通信', 'enName': 'Communication', 'definition': '交换信息的过程。', 'features': '可以是双向或单向，可以是同步或异步。'}",
+                        "time": "Tue Jun 20 11:12:24 2023"
+                      },
+                      {
+                        "title": "资源共享",
+                        "reply": "{'node_type': 'Concept', 'name': '资源共享', 'enName': 'Resource Sharing', 'definition': '指不同的计算机系统之间共享资源的能力。', 'features': '可以提高系统的效率和可靠性，减少系统的成本。'}",
+                        "time": "Tue Jun 20 11:12:59 2023"
+                      }
+                    ],
+                    "reply": "{'node_type': 'Concept', 'name': '因特网边缘部分的功能', 'enName': 'Edge Computing', 'definition': '将计算和数据处理从中心位置移动到网络边缘的技术。', 'features': '提供更快的响应时间，更低的延迟，更高的安全性和可靠性。'}",
+                    "time": "Tue Jun 20 11:12:19 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '因特网的边缘部分', 'enName': 'Edge of the Internet', 'definition': '指的是因特网的最外层，由用户设备、网络服务器和应用程序组成的部分。', 'features': '提供了更快、更安全的网络服务，并且可以更好地支持移动应用。'}",
+                "time": "Tue Jun 20 11:11:53 2023"
+              },
+              {
+                "title": "因特网的核心部分",
+                "topics": [
+                  {
+                    "title": "因特网核心部分的组成",
+                    "reply": "{'node_type': 'Concept', 'name': '因特网核心部分的组成', 'enName': 'Components of the Internet Core', 'definition': '因特网核心部分由路由器、交换机、网络协议、网络拓扑结构等组成。', 'features': '路由器用于转发数据包，交换机用于连接网络，网络协议用于控制网络通信，网络拓扑结构用于描述网络的结构。'}",
+                    "time": "Tue Jun 20 11:13:28 2023"
+                  },
+                  {
+                    "title": "因特网核心部分的功能",
+                    "reply": "{'node_type': 'Concept', 'name': '因特网核心部分的功能', 'enName': 'Internet Core Functionality', 'definition': '因特网核心部分的功能是指因特网的基本功能，包括网络路由、网络安全、网络服务等。', 'features': '提供网络路由、网络安全、网络服务等基本功能。'}",
+                    "time": "Tue Jun 20 11:13:39 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '因特网的核心部分', 'enName': 'Core of the Internet', 'definition': '由路由器、交换机、网络协议和网络拓扑组成的网络系统', 'features': '支持多种网络协议，可以实现跨网络的数据传输'}",
+                "time": "Tue Jun 20 11:13:10 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '因特网的组成', 'enName': 'Components of the Internet', 'definition': '因特网是由计算机网络、软件、协议和硬件组成的全球性网络。', 'features': '由计算机网络、软件、协议和硬件组成，支持全球性的信息交换。'}",
+            "time": "Tue Jun 20 11:11:45 2023"
+          },
+          {
+            "title": "因特网分类",
+            "topics": [
+              {
+                "title": "不同作用范围的网络 ",
+                "topics": [
+                  {
+                    "title": "广域网 WAN (Wide Area Network)",
+                    "reply": "{'node_type': 'Concept', 'name': '广域网', 'enName': 'WAN (Wide Area Network)', 'definition': '由多个局域网组成的大型网络', 'features': '可以跨越距离较远的地理范围，覆盖范围更大，可以连接多个局域网'}",
+                    "time": "Tue Jun 20 11:14:16 2023"
+                  },
+                  {
+                    "title": "局域网 LAN (Local Area Network) ",
+                    "reply": "{'node_type': 'Concept', 'name': '局域网', 'enName': 'LAN (Local Area Network)', 'definition': '由计算机、网络设备和通信线缆组成的局部网络', 'features': '覆盖范围小，通信速度快，安全性高，易于管理'}",
+                    "time": "Tue Jun 20 11:14:25 2023"
+                  },
+                  {
+                    "title": "城域网 MAN (Metropolitan Area Network)",
+                    "reply": "{'node_type': 'Concept', 'name': '城域网', 'enName': 'Metropolitan Area Network', 'definition': '由计算机和其他网络设备组成的网络，覆盖范围在数公里到数十公里之间。', 'features': '覆盖范围比局域网更大，比广域网更小，可以连接多个局域网。'}",
+                    "time": "Tue Jun 20 11:14:34 2023"
+                  },
+                  {
+                    "title": "个人区域网 PAN (Personal Area Network) ",
+                    "reply": "{'node_type': 'Concept', 'name': '个人区域网', 'enName': 'PAN (Personal Area Network)', 'definition': '一种局域网，用于连接个人设备，如手机、笔记本电脑、智能手表等。', 'features': '范围较小，可以实现设备之间的无线连接。'}",
+                    "time": "Tue Jun 20 11:14:42 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '不同作用范围的网络', 'enName': 'Networks with Different Scopes', 'definition': '根据网络的作用范围不同，可以将网络分为局域网、广域网和互联网。', 'features': '局域网范围小，可以实现资源共享；广域网范围大，可以实现信息交换；互联网范围最大，可以实现信息共享。'}",
+                "time": "Tue Jun 20 11:14:06 2023"
+              },
+              {
+                "title": "从网络的使用者对因特网进行分类 ",
+                "topics": [
+                  {
+                    "title": "公用网 (public network) ",
+                    "reply": "{'node_type': 'Concept', 'name': '公用网', 'enName': 'Public Network', 'definition': '由多个计算机组成的网络，它们可以通过公共的通信设备和软件连接起来。', 'features': '可以实现资源共享，信息交换，远程控制等功能。'}",
+                    "time": "Tue Jun 20 11:15:07 2023"
+                  },
+                  {
+                    "title": "专用网 (private network) ",
+                    "reply": "{'node_type': 'Concept', 'name': '专用网', 'enName': 'Private Network', 'definition': '由一组计算机和网络设备组成的私有网络，只有授权的用户才能访问', 'features': '只有授权的用户才能访问，更高的安全性和隐私性'}",
+                    "time": "Tue Jun 20 11:15:18 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '从网络的使用者对因特网进行分类', 'enName': 'Internet User Classification', 'definition': '根据网络使用者的特征，将其分为不同的类别。', 'features': '根据网络使用者的特征，可以将其分为普通用户、专家用户和超级用户。'}",
+                "time": "Tue Jun 20 11:14:54 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '因特网分类', 'enName': 'Internet Classification', 'definition': '因特网分类是一种将网络资源划分为不同类别的方法。', 'features': '根据网络资源的特征，将其划分为不同的类别，以便更好地管理和搜索。'}",
+            "time": "Tue Jun 20 11:13:50 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '因特网', 'enName': 'Internet', 'definition': '一个由许多计算机网络组成的全球性网络。', 'features': '可以实现跨越地域的信息传输，支持多种协议，提供多种服务。'}",
+        "time": "Tue Jun 20 11:06:51 2023"
+      },
+      {
+        "title": "计算机网络的体系结构",
+        "topics": [
+          {
+            "title": "计算机网络体系结构的国际标准",
+            "topics": [
+              {
+                "title": " OSI ",
+                "reply": "{'node_type': 'Concept', 'name': 'OSI', 'enName': 'Open System Interconnection', 'definition': 'OSI是一种用于计算机网络通信的开放系统互联模型。', 'features': '分为7层，每层定义了不同的功能，以实现网络通信。'}",
+                "time": "Tue Jun 20 11:15:49 2023"
+              },
+              {
+                "title": " TCP/IP",
+                "reply": "{'node_type': 'Concept', 'name': 'TCP/IP', 'enName': 'Transmission Control Protocol/Internet Protocol', 'definition': '一种通信协议，用于在计算机网络中传输数据。', 'features': '可靠的数据传输，分层结构，可扩展性。'}",
+                "time": "Tue Jun 20 11:15:57 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '计算机网络体系结构的国际标准', 'enName': 'International Standard for Network Architecture', 'definition': '国际标准化组织(ISO)制定的一系列标准，用于确定计算机网络体系结构的技术要求。', 'features': '定义了网络体系结构的层次结构，每一层定义了特定的功能和服务。'}",
+            "time": "Tue Jun 20 11:15:40 2023"
+          },
+          {
+            "title": "实体",
+            "reply": "{'node_type': 'Concept', 'name': '实体', 'enName': 'Entity', 'definition': '抽象概念的具体实现，可以是一个对象、一个类或者一个模块。', 'features': '实体可以有属性和行为，可以被抽象成类，也可以被实例化成对象。'},",
+            "time": "Tue Jun 20 11:16:09 2023"
+          },
+          {
+            "title": "协议",
+            "topics": [
+              {
+                "title": "网络协议的组成要素",
+                "topics": [
+                  {
+                    "title": "语法",
+                    "reply": "{'node_type': 'Concept', 'name': '语法', 'enName': 'Grammar', 'definition': '语法是指语言中的句子结构和单词的构成规则。', 'features': '语法涉及句子的语序，词性，以及句子的结构。'}",
+                    "time": "Tue Jun 20 11:16:42 2023"
+                  },
+                  {
+                    "title": "语义",
+                    "reply": "{'node_type': 'Concept', 'name': '语义', 'enName': 'Semantics', 'definition': '语义是语言的意义，是指语言表达的内容和含义。', 'features': '语义是语言的重要组成部分，它涉及到语言的表达能力和理解能力。'}",
+                    "time": "Tue Jun 20 11:16:54 2023"
+                  },
+                  {
+                    "title": "同步",
+                    "reply": "{'node_type': 'Concept', 'name': '同步', 'enName': 'Synchronization', 'definition': '指多个进程或线程之间的协调和控制，以保证它们之间的一致性。', 'features': '使用信号量、互斥量、条件变量等机制实现。'}",
+                    "time": "Tue Jun 20 11:17:04 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '网络协议的组成要素', 'enName': 'Components of Network Protocols', 'definition': '网络协议是由一系列组成要素组成的，包括报文格式、数据传输方式、网络拓扑结构、网络控制协议等。', 'features': '网络协议的组成要素可以分为物理层、数据链路层、网络层、传输层、会话层、表示层和应用层。'}",
+                "time": "Tue Jun 20 11:16:30 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '协议', 'enName': 'Protocol', 'definition': '用于定义两个或多个系统之间通信的规则和标准。', 'features': '可以定义数据传输的格式，传输过程中的控制信息，以及错误处理机制。'}",
+            "time": "Tue Jun 20 11:16:16 2023"
+          },
+          {
+            "title": "服务",
+            "reply": "{'node_type': 'Concept', 'name': '服务', 'enName': 'Service', 'definition': '指一种提供给用户的功能性资源，它是一种由软件实现的功能性抽象。', 'features': '可以提供给用户的功能性资源，比如网络服务、数据库服务等。'}",
+            "time": "Tue Jun 20 11:17:15 2023"
+          },
+          {
+            "title": "服务访问点",
+            "reply": "{'node_type': 'Concept', 'name': '服务访问点', 'enName': 'Service Access Point', 'definition': '提供网络服务的点，用于接收和发送数据', 'features': '提供网络服务的接口，可以实现网络设备间的数据传输'}",
+            "time": "Tue Jun 20 11:17:23 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '计算机网络的体系结构', 'enName': 'Computer Network Architecture', 'definition': '计算机网络体系结构是指网络组件的组织方式，它定义了网络的功能、结构和行为。', 'features': '分层结构，每一层都有自己的功能，以及与其他层之间的交互。'}",
+        "time": "Tue Jun 20 11:15:29 2023"
+      }
+    ],
+    "reply": "{'node_type': 'Concept', 'name': '计算机网络的概述', 'enName': 'Overview of Computer Networks', 'definition': '计算机网络是由计算机和其他设备连接在一起的系统，它们可以交换数据和信息。', 'features': '计算机网络可以分为局域网、广域网和互联网，它们的特点是可以实现跨越地域的数据传输。'}",
+    "time": "Tue Jun 20 11:03:35 2023"
+  },
+  {
+    "title": "运输层",
+    "topics": [
+      {
+        "title": "运输层协议",
+        "topics": [
+          {
+            "title": "进程之间的通信",
+            "reply": "{'node_type': 'Concept', 'name': '进程之间的通信', 'enName': 'Inter-Process Communication', 'definition': '进程之间通过消息传递或共享内存来实现数据交换的技术。', 'features': '可以实现多个进程之间的协作，实现多任务处理。'}",
+            "time": "Tue Jun 20 11:17:57 2023"
+          },
+          {
+            "title": "运输层的两个主要协议",
+            "topics": [
+              {
+                "title": "用户数据报协议 UDP(User Datagram Protocol)",
+                "topics": [
+                  {
+                    "title": "UDP 概述",
+                    "reply": "{'node_type': 'Concept', 'name': 'UDP 概述', 'enName': 'UDP Overview', 'definition': 'UDP是一种无连接的、面向报文的传输层协议，可以为应用程序提供可靠的数据传输服务。', 'features': '无连接，不可靠，不提供流量控制，不提供拥塞控制。'}",
+                    "time": "Tue Jun 20 11:18:43 2023"
+                  },
+                  {
+                    "title": "UDP 传送的数据单位协议是 UDP 报文或用户数据报。 ",
+                    "reply": "{'node_type': 'Concept', 'name': 'UDP传送的数据单位协议', 'enName': 'UDP Datagram Protocol', 'definition': 'UDP报文或用户数据报，是一种无连接的、面向报文的传输层协议。', 'features': '无连接，不保证可靠性，数据传输速度快。'}",
+                    "time": "Tue Jun 20 11:18:56 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '用户数据报协议', 'enName': 'User Datagram Protocol', 'definition': '无连接的传输层协议，可以在不需要建立连接的情况下传输数据报文。', 'features': '无连接，不可靠，不保证数据报文的顺序到达，但是可以提供最快的传输速度。'}",
+                "time": "Tue Jun 20 11:18:32 2023"
+              },
+              {
+                "title": "传输控制协议 TCP(Transmission Control Protocol)",
+                "topics": [
+                  {
+                    "title": "TCP 最主要的特点",
+                    "reply": "{'node_type': 'Concept', 'name': 'TCP 最主要的特点', 'enName': 'Main Features of TCP', 'definition': 'TCP是一种面向连接的、可靠的、基于字节流的传输层协议，其最主要的特点是可靠性和流量控制。', 'features': '可靠性：TCP协议提供可靠的数据传输服务，可以保证数据的完整性和正确性。流量控制：TCP协议可以控制发送端发送数据的速率，以免接收端接收不过来。'}",
+                    "time": "Tue Jun 20 11:19:31 2023"
+                  },
+                  {
+                    "title": "TCP 报文段的首部格式",
+                    "reply": "{'node_type': 'Concept', 'name': 'TCP 报文段的首部格式', 'enName': 'TCP Segment Header Format', 'definition': 'TCP 报文段的首部格式是一种用于描述TCP报文段的格式，它由20个字节组成，包括源端口号、目的端口号、序号、确认号、控制位和窗口大小等字段。', 'features': 'TCP报文段的首部格式是一种固定的格式，用于描述TCP报文段的信息，包括源端口号、目的端口号、序号、确认号、控制位和窗口大小等字段。'}",
+                    "time": "Tue Jun 20 11:19:51 2023"
+                  },
+                  {
+                    "title": "TCP 可靠传输的实现",
+                    "topics": [
+                      {
+                        "title": " 以字节为单位的滑动窗口     ",
+                        "reply": "{'node_type': 'Concept', 'name': '以字节为单位的滑动窗口', 'enName': 'Byte-oriented Sliding Window', 'definition': '一种数据传输技术，发送方可以控制接收方接收数据的速度，以免发送方发送的数据超过接收方的处理能力。', 'features': '发送方可以控制接收方接收数据的速度，以免发送方发送的数据超过接收方的处理能力。'}",
+                        "time": "Tue Jun 20 11:20:21 2023"
+                      },
+                      {
+                        "title": "超时重传时间的选择",
+                        "reply": "{'node_type': 'Concept', 'name': '超时重传时间的选择', 'enName': 'Timeout Retransmission Time Selection', 'definition': '超时重传时间的选择是指在网络传输中，根据网络状态选择合适的超时重传时间。', 'features': '超时重传时间的选择可以有效提高网络传输的效率。'}",
+                        "time": "Tue Jun 20 11:20:32 2023"
+                      },
+                      {
+                        "title": "选择确认 SACK",
+                        "reply": "{'node_type': 'Concept', 'name': '选择确认 SACK', 'enName': 'Selective Acknowledgement SACK', 'definition': '一种TCP拥塞控制算法，它允许接收方确认收到的TCP数据包，而不是确认每个数据包。', 'features': '可以更快地恢复丢失的数据包，提高了TCP的性能。'}",
+                        "time": "Tue Jun 20 11:20:49 2023"
+                      }
+                    ],
+                    "reply": "{'node_type': 'Concept', 'name': 'TCP 可靠传输的实现', 'enName': 'TCP Reliable Transmission Implementation', 'definition': 'TCP 可靠传输的实现是一种网络协议，它可以确保数据在网络上传输时不会丢失或损坏。', 'features': '使用确认机制和重传机制，确保数据的可靠传输。'}",
+                    "time": "Tue Jun 20 11:20:04 2023"
+                  },
+                  {
+                    "title": "TCP的流量控制",
+                    "reply": "{'node_type': 'Concept', 'name': 'TCP的流量控制', 'enName': 'TCP Flow Control', 'definition': 'TCP的流量控制是一种网络协议，用于控制发送方发送数据的速率，以确保接收方不会收到超出其处理能力的数据量。', 'features': '使用滑动窗口协议来实现流量控制，以确保发送方不会发送超出接收方处理能力的数据量。'}",
+                    "time": "Tue Jun 20 11:21:11 2023"
+                  },
+                  {
+                    "title": "TCP 的拥塞控制",
+                    "topics": [
+                      {
+                        "title": "拥塞控制的一般原理",
+                        "reply": "{'node_type': 'Concept', 'name': '拥塞控制的一般原理', 'enName': 'General Principles of Congestion Control', 'definition': '拥塞控制是指网络中的一种机制，用于限制网络中的流量，以避免网络拥塞。', 'features': '拥塞控制可以通过调整发送端发送速率，减少网络中的流量，以避免网络拥塞。'}",
+                        "time": "Tue Jun 20 11:21:45 2023"
+                      },
+                      {
+                        "title": "TCP拥塞控制方法",
+                        "topics": [
+                          {
+                            "title": "慢开始",
+                            "reply": "{'node_type': 'Concept', 'name': '慢开始', 'enName': 'Slow Start', 'definition': '一种TCP拥塞控制算法，用于控制发送方发送数据的速率，以避免网络拥塞。', 'features': '慢开始阶段，每次发送的数据量会翻倍，直到达到一个阈值，然后进入拥塞避免阶段。'}",
+                            "time": "Tue Jun 20 11:22:14 2023"
+                          },
+                          {
+                            "title": "拥塞避免",
+                            "reply": "{'node_type': 'Concept', 'name': '拥塞避免', 'enName': 'Congestion Avoidance', 'definition': '拥塞避免是一种网络流量控制算法，用于限制网络拥塞，以提高网络性能。', 'features': '通过调整窗口大小来控制流量，以避免网络拥塞。'}",
+                            "time": "Tue Jun 20 11:22:27 2023"
+                          },
+                          {
+                            "title": "快重传",
+                            "reply": "{'node_type': 'Concept', 'name': '快重传', 'enName': 'Fast Retransmission', 'definition': '快重传是一种网络协议，它可以检测丢失的数据包，并重新发送它们以提高数据传输效率。', 'features': '快重传可以检测丢失的数据包，并重新发送它们，以提高数据传输效率。'}",
+                            "time": "Tue Jun 20 11:22:40 2023"
+                          },
+                          {
+                            "title": "快恢复",
+                            "reply": "{'node_type': 'Concept', 'name': '快恢复', 'enName': 'Fast Recovery', 'definition': '快恢复是一种数据库恢复技术，它可以在最短的时间内恢复数据库到最近一次正常状态。', 'features': '快恢复可以最大限度地减少数据库恢复时间，并且可以恢复到最近一次正常状态。'}",
+                            "time": "Tue Jun 20 11:22:51 2023"
+                          }
+                        ],
+                        "reply": "{'node_type': 'Concept', 'name': 'TCP拥塞控制方法', 'enName': 'TCP Congestion Control Method', 'definition': 'TCP拥塞控制是一种网络流量控制机制，用于控制网络中的数据流量，以避免网络拥塞。', 'features': '采用慢启动、拥塞避免和快速重传等算法，以调整网络中的数据流量。'}",
+                        "time": "Tue Jun 20 11:21:57 2023"
+                      },
+                      {
+                        "title": " 随机早期检测 RED",
+                        "reply": "{'node_type': 'Concept', 'name': '随机早期检测', 'enName': 'Random Early Detection', 'definition': '一种网络拥塞控制算法，它可以检测拥塞的可能性，并在拥塞发生之前采取措施来防止拥塞的发生。', 'features': '可以有效地降低网络拥塞，提高网络的吞吐量。'}",
+                        "time": "Tue Jun 20 11:23:09 2023"
+                      }
+                    ],
+                    "reply": "{'node_type': 'Concept', 'name': 'TCP 的拥塞控制', 'enName': 'TCP Congestion Control', 'definition': 'TCP 拥塞控制是一种网络流量控制机制，用于管理网络中的流量，以避免网络拥塞。', 'features': '采用慢启动、拥塞避免和快速恢复等算法，以确保网络的有效性和可靠性。'}",
+                    "time": "Tue Jun 20 11:21:28 2023"
+                  },
+                  {
+                    "title": "TCP 的运输连接管理",
+                    "topics": [
+                      {
+                        "title": "TCP 的连接建立",
+                        "topics": [
+                          {
+                            "title": "三次握手",
+                            "reply": "{'node_type': 'Concept', 'name': '三次握手', 'enName': 'Three-way Handshake', 'definition': '一种网络协议，用于建立一个TCP连接，它需要客户端和服务器之间进行三次消息交换。', 'features': '客户端和服务器之间的双向通信，确保双方都准备好建立连接。'}",
+                            "time": "Tue Jun 20 11:23:49 2023"
+                          }
+                        ],
+                        "reply": "{'node_type': 'Concept', 'name': 'TCP 的连接建立', 'enName': 'TCP Connection Establishment', 'definition': 'TCP 连接建立是指两台主机之间建立可靠的连接，以便进行数据传输。', 'features': '使用三次握手确认连接，保证数据传输的可靠性。'}",
+                        "time": "Tue Jun 20 11:23:33 2023"
+                      },
+                      {
+                        "title": "TCP 的连接释放",
+                        "topics": [
+                          {
+                            "title": "四次挥手",
+                            "reply": "{'node_type': 'Concept', 'name': '四次挥手', 'enName': 'Four-way Handshake', 'definition': 'TCP连接建立的过程，由客户端和服务器之间的四个报文构成。', 'features': '每个报文都有特定的含义，用于确认连接的建立和终止。'}",
+                            "time": "Tue Jun 20 11:24:16 2023"
+                          }
+                        ],
+                        "reply": "{'node_type': 'Concept', 'name': 'TCP 的连接释放', 'enName': 'TCP Connection Release', 'definition': 'TCP 连接释放是指在 TCP 传输过程中，两端的连接释放过程。', 'features': 'TCP 连接释放是一个双向的过程，两端都必须发送 FIN 报文，并且收到对方的 ACK 报文，才能结束连接。'}",
+                        "time": "Tue Jun 20 11:24:02 2023"
+                      },
+                      {
+                        "title": "TCP 的有限状态机 ",
+                        "reply": "{'node_type': 'Concept', 'name': 'TCP 的有限状态机', 'enName': 'Finite State Machine of TCP', 'definition': 'TCP 的有限状态机是一种模型，用来描述网络协议的状态变化，以及状态变化之间的触发条件。', 'features': '可以用来描述TCP协议的状态变化，以及状态变化之间的触发条件。'}",
+                        "time": "Tue Jun 20 11:24:27 2023"
+                      }
+                    ],
+                    "reply": "{'node_type': 'Concept', 'name': 'TCP 的运输连接管理', 'enName': 'Transport Connection Management of TCP', 'definition': 'TCP 的运输连接管理是一种网络协议，用于建立、维护和终止可靠的端到端连接。', 'features': '提供可靠的端到端连接，支持双向数据流，支持流量控制和拥塞控制。'},",
+                    "time": "Tue Jun 20 11:23:21 2023"
+                  },
+                  {
+                    "title": "可靠传输的工作原理",
+                    "topics": [
+                      {
+                        "title": "停止等待协议",
+                        "reply": "{'node_type': 'Concept', 'name': '停止等待协议', 'enName': 'Stop-and-Wait Protocol', 'definition': '一种简单的可靠数据传输协议，发送端发送一个数据报文，然后等待接收端的确认，收到确认后再发送下一个数据报文。', 'features': '发送端只有在收到确认信息后才发送下一个数据报文，从而保证了数据的可靠性。'}",
+                        "time": "Tue Jun 20 11:25:10 2023"
+                      },
+                      {
+                        "title": "连续 ARQ 协议",
+                        "reply": "{'node_type': 'Concept', 'name': '连续 ARQ 协议', 'enName': 'Continuous ARQ Protocol', 'definition': '一种无连接的可靠数据传输协议，它使用确认和重传机制来确保数据的可靠传输。', 'features': '可以检测和纠正传输过程中的错误，并且可以控制发送速率。'}",
+                        "time": "Tue Jun 20 11:25:21 2023"
+                      }
+                    ],
+                    "reply": "{'node_type': 'Concept', 'name': '可靠传输的工作原理', 'enName': 'Reliable Transmission Principle', 'definition': '可靠传输是指网络中的数据传输过程中，发送端和接收端之间能够确保数据的完整性和可靠性。', 'features': '可靠传输的工作原理通常包括确认机制、重传机制、流量控制机制和拥塞控制机制。'}",
+                    "time": "Tue Jun 20 11:24:50 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '传输控制协议 TCP', 'enName': 'Transmission Control Protocol', 'definition': 'TCP是一种面向连接的、可靠的、基于字节流的传输层协议', 'features': 'TCP提供可靠的字节流服务，可以保证数据正确无误地传输到目的地，并且可以恢复传输中出现的错误。'}",
+                "time": "Tue Jun 20 11:19:12 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '运输层的两个主要协议', 'enName': 'Two Main Protocols of Transport Layer', 'definition': '运输层的两个主要协议是传输控制协议(TCP)和用户数据报协议(UDP)，它们负责在两台计算机之间传输数据。', 'features': 'TCP提供可靠的数据传输，UDP提供不可靠的数据传输。'}",
+            "time": "Tue Jun 20 11:18:16 2023"
+          },
+          {
+            "title": "运输层的端口",
+            "topics": [
+              {
+                "title": "传输层软件端口",
+                "reply": "{'node_type': 'Concept', 'name': '传输层软件端口', 'enName': 'Transport Layer Software Port', 'definition': '传输层软件端口是一种用于标识网络应用程序的编号。', 'features': '可以用来区分不同的应用程序，以便进行数据传输。'}",
+                "time": "Tue Jun 20 11:25:49 2023"
+              },
+              {
+                "title": "传输层硬件端口",
+                "reply": "{'node_type': 'Concept', 'name': '传输层硬件端口', 'enName': 'Transport Layer Hardware Port', 'definition': '传输层硬件端口是一种用于传输层协议的硬件设备，它可以接收和发送数据包，并且可以根据传输层协议进行数据包的处理。', 'features': '可以根据传输层协议进行数据包的处理，可以接收和发送数据包。'}",
+                "time": "Tue Jun 20 11:26:04 2023"
+              },
+              {
+                "title": "三类端口",
+                "topics": [
+                  {
+                    "title": "熟知端口",
+                    "reply": "{'node_type': 'Concept', 'name': '熟知端口', 'enName': 'Well-Known Ports', 'definition': '用于确定特定应用程序的端口号。', 'features': '端口号范围从0到65535，其中0-1023为熟知端口，1024-49151为注册端口，49152-65535为动态/私有端口。'}",
+                    "time": "Tue Jun 20 11:26:26 2023"
+                  },
+                  {
+                    "title": "登记端口号",
+                    "reply": "{'node_type': 'Concept', 'name': '登记端口号', 'enName': 'Port Number Registration', 'definition': '登记端口号是一种网络协议，用于将网络上的应用程序与特定的端口号相关联。', 'features': '可以将不同的应用程序与不同的端口号相关联，以便确定网络上的数据流量。'}",
+                    "time": "Tue Jun 20 11:26:36 2023"
+                  },
+                  {
+                    "title": "客户端口号或短暂端口号",
+                    "reply": "{'node_type': 'Concept', 'name': '客户端口号或短暂端口号', 'enName': 'Client Port Number or Ephemeral Port Number', 'definition': '用于标识客户端的网络连接的端口号。', 'features': '客户端口号由客户端计算机自动分配，短暂端口号由服务器计算机自动分配。'}",
+                    "time": "Tue Jun 20 11:26:47 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '三类端口', 'enName': 'Three Types of Ports', 'definition': '用于连接计算机外部设备的接口，分为输入端口、输出端口和通用端口。', 'features': '输入端口用于接收外部设备传输的数据；输出端口用于将计算机处理的数据发送到外部设备；通用端口可以实现输入和输出功能。'}",
+                "time": "Tue Jun 20 11:26:18 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '运输层的端口', 'enName': 'Transport Layer Port', 'definition': '运输层的端口是用于标识网络上的应用程序的一种编号。', 'features': '每个应用程序都有一个唯一的端口号，用于标识该应用程序。'}",
+            "time": "Tue Jun 20 11:25:31 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '运输层协议', 'enName': 'Transport Layer Protocols', 'definition': '运输层协议是指用于在网络中传输数据的协议，它们负责确保数据在网络中的可靠传输。', 'features': '提供可靠的端到端传输，支持多种应用程序，支持端口号和流量控制。'}",
+        "time": "Tue Jun 20 11:17:46 2023"
+      }
+    ],
+    "reply": "{'node_type': 'Concept', 'name': '运输层', 'enName': 'Transport Layer', 'definition': '运输层是OSI参考模型中的第四层，负责提供端到端的可靠的数据传输服务。', 'features': '提供端到端的可靠的数据传输服务，支持多种传输协议，如TCP和UDP。'}",
+    "time": "Tue Jun 20 11:17:35 2023"
+  },
+  {
+    "title": "数据链路层",
+    "topics": [
+      {
+        "title": "数据链路层基本概念",
+        "topics": [
+          {
+            "title": "链路(link)",
+            "reply": "{'node_type': 'Concept', 'name': '链路', 'enName': 'Link', 'definition': '用于连接两个或多个节点的通信路径。', 'features': '可以是物理链路或者逻辑链路。'}",
+            "time": "Tue Jun 20 11:27:24 2023"
+          },
+          {
+            "title": "数据链路(data link) ",
+            "reply": "{'node_type': 'Concept', 'name': '数据链路', 'enName': 'Data Link', 'definition': '数据链路层是网络层的第二层，它负责在网络中传输数据帧，并且提供可靠的数据传输服务。', 'features': '提供可靠的数据传输服务，检测和纠正错误，控制帧流量。'}",
+            "time": "Tue Jun 20 11:27:38 2023"
+          },
+          {
+            "title": "帧",
+            "reply": "{'node_type': 'Concept', 'name': '帧', 'enName': 'Frame', 'definition': '一组相关的数据，用于在网络中传输和接收信息。', 'features': '帧可以包含数据，控制信息和错误检查信息。'}",
+            "time": "Tue Jun 20 11:27:49 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '数据链路层基本概念', 'enName': 'Data Link Layer Basic Concepts', 'definition': '数据链路层是计算机网络中的第二层，负责在网络中的两台计算机之间传输数据帧的传输。', 'features': '提供物理地址，检测错误，流量控制和流量分组等功能。'}",
+        "time": "Tue Jun 20 11:27:14 2023"
+      },
+      {
+        "title": "数据链路层信道",
+        "topics": [
+          {
+            "title": "信道类型",
+            "topics": [
+              {
+                "title": "点对点信道",
+                "reply": "{'node_type': 'Concept', 'name': '点对点信道', 'enName': 'Point-to-Point Channel', 'definition': '一种只有两个端点的信道，可以用来传输数据。', 'features': '只有两个端点，数据只能在两个端点之间传输。'}",
+                "time": "Tue Jun 20 11:28:24 2023"
+              },
+              {
+                "title": "广播信道",
+                "reply": "{'node_type': 'Concept', 'name': '广播信道', 'enName': 'Broadcast Channel', 'definition': '一种信息传播方式，发送者可以同时向多个接收者发送信息，而接收者无需发出响应。', 'features': '发送者和接收者之间没有反馈机制，发送者无法确定消息是否被接收。'}",
+                "time": "Tue Jun 20 11:28:33 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '信道类型', 'enName': 'Channel Type', 'definition': '信道类型是指用于传输信息的物理媒介的类型。', 'features': '信道类型可以分为有线信道和无线信道，有线信道又可分为电缆信道和光缆信道。'}",
+            "time": "Tue Jun 20 11:28:14 2023"
+          },
+          {
+            "title": "使用点对点信道的数据链路层",
+            "topics": [
+              {
+                "title": "点对点协议 PPP",
+                "topics": [
+                  {
+                    "title": "PPP 协议的特点",
+                    "reply": "{'node_type': 'Concept', 'name': 'PPP协议的特点', 'enName': 'Features of PPP Protocol', 'definition': 'PPP协议是一种网络协议，它可以在不同网络之间建立点对点的连接。', 'features': '可以支持多种网络协议，支持动态IP地址分配，可以支持多种认证方式，可以支持多种数据压缩方式。'}",
+                    "time": "Tue Jun 20 11:29:04 2023"
+                  },
+                  {
+                    "title": "PPP 协议的帧格式",
+                    "reply": "{'node_type': 'Concept', 'name': 'PPP 协议的帧格式', 'enName': 'PPP Frame Format', 'definition': 'PPP协议的帧格式是一种用于在网络中传输数据的标准格式，它包含一个头部和一个数据部分。', 'features': '头部包含一个标识符，用于识别帧的类型，以及一个校验和，用于检查帧的完整性。'}",
+                    "time": "Tue Jun 20 11:29:16 2023"
+                  },
+                  {
+                    "title": "PPP 协议的工作状态",
+                    "reply": "{'node_type': 'Concept', 'name': 'PPP 协议的工作状态', 'enName': 'PPP Protocol Working State', 'definition': 'PPP协议由三个状态组成：等待连接，连接建立和连接断开。', 'features': '每个状态都有不同的功能，以确保正确的数据传输。'}",
+                    "time": "Tue Jun 20 11:29:23 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '点对点协议', 'enName': 'PPP', 'definition': '一种用于在两台计算机之间建立网络连接的协议', 'features': '可以在不同网络之间建立连接，支持多种网络协议，可以提供加密和认证服务。'}",
+                "time": "Tue Jun 20 11:28:52 2023"
+              },
+              {
+                "title": "三个基本问题",
+                "topics": [
+                  {
+                    "title": "封装成帧",
+                    "reply": "{'node_type': 'Concept', 'name': '封装成帧', 'enName': 'Frame Encapsulation', 'definition': '将数据和控制信息封装成帧的过程', 'features': '将数据分割成帧，并在每一帧中添加首部和尾部，以提供控制信息'}",
+                    "time": "Tue Jun 20 11:29:42 2023"
+                  },
+                  {
+                    "title": " 透明传输",
+                    "reply": "{'node_type': 'Concept', 'name': '透明传输', 'enName': 'Transparent Transmission', 'definition': '指的是数据在传输过程中不受任何影响的传输方式', 'features': '无需经过特定的转换，可以直接传输'}",
+                    "time": "Tue Jun 20 11:29:55 2023"
+                  },
+                  {
+                    "title": "差错控制 ",
+                    "topics": [
+                      {
+                        "title": "循环冗余检验 CRC\n",
+                        "reply": "{'node_type': 'Concept', 'name': '循环冗余检验', 'enName': 'CRC', 'definition': '一种数据校验技术，用于检测数据传输中的错误。', 'features': '使用多项式进行计算，可以检测出多位错误，并可以纠正少量错误。'}",
+                        "time": "Tue Jun 20 11:30:16 2023"
+                      },
+                      {
+                        "title": "帧检验序列 FCS\n",
+                        "reply": "{'node_type': 'Concept', 'name': '帧检验序列', 'enName': 'FCS', 'definition': '一种用于检测数据帧中可能出现的错误的算法', 'features': '使用校验和算法，可以检测出传输中的位错误'}",
+                        "time": "Tue Jun 20 11:30:24 2023"
+                      },
+                      {
+                        "title": "冗余码",
+                        "reply": "{'node_type': 'Concept', 'name': '冗余码', 'enName': 'Redundancy Code', 'definition': '一种用于检测和纠正错误的编码方式。', 'features': '可以检测和纠正错误，提高数据传输的可靠性。'}",
+                        "time": "Tue Jun 20 11:30:37 2023"
+                      }
+                    ],
+                    "reply": "{'node_type': 'Concept', 'name': '差错控制', 'enName': 'Error Control', 'definition': '差错控制是指在数据传输过程中，通过检测和纠正错误来确保数据的正确性的技术。', 'features': '采用编码技术，校验技术，确认技术和重传技术等方法来实现。'}",
+                    "time": "Tue Jun 20 11:30:05 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '三个基本问题', 'enName': 'Three Basic Problems', 'definition': '指计算机科学中的三个基本问题：输入、输出、存储和处理。', 'features': '每个问题都是计算机系统的基本组成部分。'}",
+                "time": "Tue Jun 20 11:29:35 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '使用点对点信道的数据链路层', 'enName': 'Point-to-Point Data Link Layer', 'definition': '数据链路层的一种，使用点对点信道来传输数据帧。', 'features': '可以检测和纠正错误，提供可靠的数据传输。'}",
+            "time": "Tue Jun 20 11:28:41 2023"
+          },
+          {
+            "title": "使用广播信道的数据链路层",
+            "topics": [
+              {
+                "title": "局域网的数据链路层",
+                "topics": [
+                  {
+                    "title": "局域网技术",
+                    "topics": [
+                      {
+                        "title": "以太网",
+                        "topics": [
+                          {
+                            "title": "使用广播信道的以太网",
+                            "topics": [
+                              {
+                                "title": "使用集线器的星形拓扑",
+                                "reply": "{'node_type': 'Concept', 'name': '使用集线器的星形拓扑', 'enName': 'Star Topology with Hub', 'definition': '一种网络拓扑，所有节点都连接到一个中心节点，中心节点可以是集线器或交换机。', 'features': '所有节点都连接到一个中心节点，简单易操作，但是中心节点故障会导致整个网络故障。'}",
+                                "time": "Tue Jun 20 11:31:55 2023"
+                              },
+                              {
+                                "title": "以太网的信道利用率",
+                                "reply": "{'node_type': 'Concept', 'name': '以太网的信道利用率', 'enName': 'Ethernet Channel Utilization', 'definition': '以太网信道利用率是指以太网网络中信道的实际利用率，即在特定时间段内，信道的实际传输速率与信道的最大传输速率之比。', 'features': '可以用来衡量网络的效率，以及网络的负载状况。'}",
+                                "time": "Tue Jun 20 11:32:06 2023"
+                              },
+                              {
+                                "title": " 以太网的 MAC 层",
+                                "reply": "{'node_type': 'Concept', 'name': '以太网的MAC层', 'enName': 'Ethernet MAC Layer', 'definition': '以太网的MAC层是一种网络层，用于控制以太网网络中的数据流，它负责确保数据包在网络中的可靠传输。', 'features': '提供网络访问控制，以及地址解析和流量控制功能。'}",
+                                "time": "Tue Jun 20 11:32:20 2023"
+                              },
+                              {
+                                "title": "以太网帧格式",
+                                "reply": "{'node_type': 'Concept', 'name': '以太网帧格式', 'enName': 'Ethernet Frame Format', 'definition': '以太网帧格式是一种用于以太网网络中的数据传输的格式，它定义了数据帧的结构和格式。', 'features': '以太网帧格式由源和目的MAC地址、帧类型、数据和校验和组成。'}",
+                                "time": "Tue Jun 20 11:32:30 2023"
+                              }
+                            ],
+                            "reply": "{'node_type': 'Concept', 'name': '使用广播信道的以太网', 'enName': 'Ethernet with Broadcast Channel', 'definition': '使用广播信道的以太网是一种局域网技术，它使用广播信道来传输数据，以便所有节点都可以接收到数据。', 'features': '支持多种网络协议，可以支持多台计算机同时连接到网络。'}",
+                            "time": "Tue Jun 20 11:31:41 2023"
+                          },
+                          {
+                            "title": "扩展的以太网",
+                            "topics": [
+                              {
+                                "title": "在物理层扩展以太网",
+                                "topics": [
+                                  {
+                                    "title": "在物理层扩展以太网的优点",
+                                    "reply": "{'node_type': 'Concept', 'name': '在物理层扩展以太网的优点', 'enName': 'Advantages of Extending Ethernet at the Physical Layer', 'definition': '在物理层扩展以太网可以提高网络的可靠性、安全性和可扩展性。', 'features': '可以支持更高的带宽，更长的传输距离，更高的安全性和可靠性，更好的可扩展性。'}",
+                                    "time": "Tue Jun 20 11:33:07 2023"
+                                  },
+                                  {
+                                    "title": "在物理层扩展以太网的缺点",
+                                    "reply": "{'node_type': 'Concept', 'name': '在物理层扩展以太网的缺点', 'enName': 'Disadvantages of Extending Ethernet at the Physical Layer', 'definition': '在物理层扩展以太网会带来更多的复杂性和成本，并且可能会影响网络的性能。', 'features': '需要更多的硬件设备，更多的网络管理，更多的维护和支持。'}",
+                                    "time": "Tue Jun 20 11:33:23 2023"
+                                  }
+                                ],
+                                "reply": "{'node_type': 'Concept', 'name': '在物理层扩展以太网', 'enName': 'Extending Ethernet at the Physical Layer', 'definition': '在物理层扩展以太网是一种技术，可以通过使用多种物理层技术来扩展以太网的覆盖范围。', 'features': '可以使用多种物理层技术，如光纤、无线、蜂窝等，来扩展以太网的覆盖范围。'}",
+                                "time": "Tue Jun 20 11:32:52 2023"
+                              },
+                              {
+                                "title": "在数据链路层扩展以太网",
+                                "reply": "{'node_type': 'Concept', 'name': '在数据链路层扩展以太网', 'enName': 'Extended Ethernet at Data Link Layer', 'definition': '一种以太网技术，可以将多个物理网络连接到一个逻辑网络中。', 'features': '可以支持多种网络协议，可以支持大量的网络设备，可以支持多种网络拓扑结构。'}",
+                                "time": "Tue Jun 20 11:33:38 2023"
+                              },
+                              {
+                                "title": "虚拟局域网",
+                                "reply": "{'node_type': 'Concept', 'name': '虚拟局域网', 'enName': 'Virtual Local Area Network', 'definition': '使用软件实现的网络，可以连接不同的物理网络。', 'features': '可以跨越物理网络，提供安全性和隔离性。'}",
+                                "time": "Tue Jun 20 11:33:48 2023"
+                              }
+                            ],
+                            "reply": "{'node_type': 'Concept', 'name': '扩展的以太网', 'enName': 'Extended Ethernet', 'definition': '一种用于连接局域网的技术，可以提供更大的带宽和更高的性能。', 'features': '支持多种协议，可以支持更大的网络范围，可以支持更多的用户。'}",
+                            "time": "Tue Jun 20 11:32:40 2023"
+                          },
+                          {
+                            "title": "高速以太网",
+                            "topics": [
+                              {
+                                "title": " 100BASE-T 以太网",
+                                "reply": "{'node_type': 'Concept', 'name': '100BASE-T 以太网', 'enName': '100BASE-T Ethernet', 'definition': '一种基于双绞线的以太网技术，支持最高传输速率为100 Mbps。', 'features': '支持100 Mbps的高速传输，支持网络节点数量最多可达1024个。'}",
+                                "time": "Tue Jun 20 11:34:10 2023"
+                              },
+                              {
+                                "title": "吉比特以太网",
+                                "reply": "{'node_type': 'Concept', 'name': '吉比特以太网', 'enName': 'Gigabit Ethernet', 'definition': '一种高速的局域网技术，可以支持最高速率为1000 Mbps的数据传输。', 'features': '支持高速数据传输，可以支持多种网络协议，可以实现跨越大距离的网络连接。'}",
+                                "time": "Tue Jun 20 11:34:21 2023"
+                              },
+                              {
+                                "title": "10 吉比特以太网",
+                                "reply": "{'node_type': 'Concept', 'name': '10 吉比特以太网', 'enName': '10 Gigabit Ethernet', 'definition': '一种高速的局域网技术，可以支持最高速率为10Gbps的数据传输。', 'features': '支持最高速率为10Gbps的数据传输，比传统以太网技术的速率更快。'}",
+                                "time": "Tue Jun 20 11:34:30 2023"
+                              },
+                              {
+                                "title": "使用高速以太网进行宽带接入",
+                                "reply": "{'node_type': 'Concept', 'name': '使用高速以太网进行宽带接入', 'enName': 'Broadband Access with High-Speed Ethernet', 'definition': '使用以太网技术实现宽带接入，可以提供高速、可靠的数据传输服务。', 'features': '可以支持多种协议，支持大容量数据传输，支持实时性要求较高的应用。'}",
+                                "time": "Tue Jun 20 11:34:41 2023"
+                              }
+                            ],
+                            "reply": "{'node_type': 'Concept', 'name': '高速以太网', 'enName': 'Gigabit Ethernet', 'definition': '一种基于以太网技术的高速网络技术，支持最高传输速率为1000 Mbps的网络。', 'features': '支持1000 Mbps的最高传输速率，比传统以太网技术的最高传输速率快10倍。'}",
+                            "time": "Tue Jun 20 11:34:00 2023"
+                          }
+                        ],
+                        "reply": "{'node_type': 'Concept', 'name': '以太网', 'enName': 'Ethernet', 'definition': '局域网中最常用的网络协议，它提供了一种简单、可靠的方式来传输数据。', 'features': '采用CSMA/CD机制，支持多种传输速率，支持多种网络拓扑结构。'}",
+                        "time": "Tue Jun 20 11:31:30 2023"
+                      },
+                      {
+                        "title": "令牌环网",
+                        "reply": "{'node_type': 'Concept', 'name': '令牌环网', 'enName': 'Token Ring Network', 'definition': '一种网络拓扑，它使用一个特殊的令牌来控制访问权限，以确保每个节点都有机会发送数据。', 'features': '令牌环网是一种有序的网络，每个节点都有机会发送数据，令牌环网的安全性较高。'}",
+                        "time": "Tue Jun 20 11:34:49 2023"
+                      },
+                      {
+                        "title": "FDDI",
+                        "reply": "{'node_type': 'Concept', 'name': 'FDDI', 'enName': 'Fiber Distributed Data Interface', 'definition': '光纤分布式数据接口，是一种用于在局域网中传输数据的标准。', 'features': '支持100 Mbps的数据传输速率，支持双环结构，支持距离最长可达200公里。'}",
+                        "time": "Tue Jun 20 11:34:59 2023"
+                      },
+                      {
+                        "title": "ATM",
+                        "reply": "{'node_type': 'Concept', 'name': 'ATM', 'enName': 'Automatic Teller Machine', 'definition': '自动取款机，是一种可以让用户自助取款、存款、查询余额等服务的设备。', 'features': '可以实现24小时自助式金融服务，提供快捷、安全的金融交易。'}",
+                        "time": "Tue Jun 20 11:35:09 2023"
+                      }
+                    ],
+                    "reply": "{'node_type': 'Concept', 'name': '局域网技术', 'enName': 'Local Area Network Technology', 'definition': '局域网技术是指在较小的范围内，将计算机和其他网络设备连接在一起的技术。', 'features': '可以提供高速的数据传输，可以支持多种网络协议，可以支持多种网络服务。'}",
+                    "time": "Tue Jun 20 11:31:19 2023"
+                  },
+                  {
+                    "title": "按照网络拓扑结构分类",
+                    "topics": [
+                      {
+                        "title": "星形网",
+                        "reply": "{'node_type': 'Concept', 'name': '星形网', 'enName': 'Star Network', 'definition': '由中心节点与多个外围节点相连接的网络拓扑结构。', 'features': '中心节点与外围节点之间的连接是点对点的，外围节点之间不相连接。'}",
+                        "time": "Tue Jun 20 11:35:29 2023"
+                      },
+                      {
+                        "title": "环形网",
+                        "reply": "{'node_type': 'Concept', 'name': '环形网', 'enName': 'Ring Network', 'definition': '一种由节点组成的网络，节点之间的连接形成一个环状结构。', 'features': '每个节点都与其他节点相连，消息从一个节点传递到另一个节点时，必须经过环形网中的所有节点。'}",
+                        "time": "Tue Jun 20 11:35:42 2023"
+                      },
+                      {
+                        "title": "总线网",
+                        "reply": "{'node_type': 'Concept', 'name': '总线网', 'enName': 'Bus Network', 'definition': '由一条总线线路连接多台计算机的网络结构。', 'features': '总线网络中的计算机可以共享总线线路，但是总线线路的带宽有限，当网络中的计算机数量增加时，网络性能会受到影响。'}",
+                        "time": "Tue Jun 20 11:35:52 2023"
+                      },
+                      {
+                        "title": "树形网 ",
+                        "reply": "{'node_type': 'Concept', 'name': '树形网', 'enName': 'Tree Network', 'definition': '一种由根节点和子节点组成的网络结构，其中根节点是网络的中心，子节点分布在根节点的周围。', 'features': '树形网的特点是每个节点只有一个父节点，但可以有多个子节点。'}",
+                        "time": "Tue Jun 20 11:36:04 2023"
+                      }
+                    ],
+                    "reply": "{'node_type': 'Concept', 'name': '按照网络拓扑结构分类', 'enName': 'Classification by Network Topology', 'definition': '根据网络节点之间的物理连接方式和逻辑拓扑结构来分类网络。', 'features': '拓扑结构可以分为星型网络、环型网络、总线型网络和网状网络等。'}",
+                    "time": "Tue Jun 20 11:35:20 2023"
+                  },
+                  {
+                    "title": "数据链路层的子层 ",
+                    "topics": [
+                      {
+                        "title": "逻辑链路控制 LLC (Logical Link Control)子层",
+                        "reply": "{'node_type': 'Concept', 'name': '逻辑链路控制 LLC (Logical Link Control)子层', 'enName': 'Logical Link Control Sublayer', 'definition': 'LLC子层是一个可选的子层，它提供了一种机制来管理网络连接，以及在网络中传输数据。', 'features': '提供了一种机制来管理网络连接，以及在网络中传输数据。'}",
+                        "time": "Tue Jun 20 11:36:30 2023"
+                      },
+                      {
+                        "title": "媒体接入控制 MAC (Medium Access Control)子层。",
+                        "reply": "{'node_type': 'Concept', 'name': '媒体接入控制 MAC (Medium Access Control)子层', 'enName': 'Medium Access Control Sublayer', 'definition': 'MAC 子层是一个协议，用于控制网络中的节点如何访问介质，以及如何共享介质资源。', 'features': '提供了有效的介质访问控制，可以控制节点的访问权限，以及节点之间的介质资源共享。'}",
+                        "time": "Tue Jun 20 11:36:48 2023"
+                      }
+                    ],
+                    "reply": "{'node_type': 'Concept', 'name': '数据链路层的子层', 'enName': 'Sublayers of the Data Link Layer', 'definition': '数据链路层的子层是指在数据链路层中的两个子层，它们分别是逻辑链路控制层和媒体访问控制层。', 'features': '逻辑链路控制层负责管理数据的传输，媒体访问控制层负责处理物理层的信号。'}",
+                    "time": "Tue Jun 20 11:36:17 2023"
+                  },
+                  {
+                    "title": "适配器",
+                    "topics": [
+                      {
+                        "title": "适配器的定义",
+                        "reply": "{'node_type': 'Concept', 'name': '适配器', 'enName': 'Adapter', 'definition': '一种软件设计模式，用于将一个接口转换成另一个接口，以便不同的类之间可以交互。', 'features': '可以将不兼容的接口转换成兼容的接口，以便不同的类之间可以交互。'}",
+                        "time": "Tue Jun 20 11:37:08 2023"
+                      },
+                      {
+                        "title": "功能",
+                        "topics": [
+                          {
+                            "title": "进行串行/并行转换",
+                            "reply": "{'node_type': 'Concept', 'name': '进行串行/并行转换', 'enName': 'Serial/Parallel Conversion', 'definition': '将串行信号转换为并行信号，或将并行信号转换为串行信号的过程。', 'features': '串行转换可以提高传输速度，而并行转换可以提高传输容量。'}",
+                            "time": "Tue Jun 20 11:37:31 2023"
+                          },
+                          {
+                            "title": "对数据进行缓存",
+                            "reply": "{'node_type': 'Concept', 'name': '对数据进行缓存', 'enName': 'Data Caching', 'definition': '将数据存储在高速缓存中，以便更快地访问和操作数据。', 'features': '可以提高系统的性能和响应速度。'}",
+                            "time": "Tue Jun 20 11:37:41 2023"
+                          },
+                          {
+                            "title": "在计算机的操作系统安装设备驱动程序",
+                            "reply": "{'node_type': 'Concept', 'name': '安装设备驱动程序', 'enName': 'Installing Device Drivers', 'definition': '在计算机操作系统中安装设备驱动程序，以使设备能够正常工作。', 'features': '安装设备驱动程序可以使设备能够正常工作，并且可以提高设备的性能。'}",
+                            "time": "Tue Jun 20 11:37:53 2023"
+                          },
+                          {
+                            "title": "实现以太网协议 ",
+                            "reply": "{'node_type': 'Concept', 'name': '实现以太网协议', 'enName': 'Implementing Ethernet Protocol', 'definition': '实现以太网协议是指使用以太网协议来传输数据的过程。', 'features': '使用以太网协议可以实现高速数据传输，并且可以支持多种网络设备。'}",
+                            "time": "Tue Jun 20 11:38:01 2023"
+                          }
+                        ],
+                        "reply": "{'node_type': 'Concept', 'name': '功能', 'enName': 'Function', 'definition': '一组特定的输入和输出之间的关系，它将一个或多个输入映射到一个或多个输出。', 'features': '功能可以用来描述程序的行为，它们可以被重复使用，并且可以被组合在一起来创建更复杂的程序。'}",
+                        "time": "Tue Jun 20 11:37:19 2023"
+                      }
+                    ],
+                    "reply": "{'node_type': 'Concept', 'name': '适配器', 'enName': 'Adapter', 'definition': '一种设计模式，用于将一个接口转换成另一个接口，以便不兼容的对象可以一起工作。', 'features': '可以将不兼容的接口转换成兼容的接口，以便实现软件的重用。'}",
+                    "time": "Tue Jun 20 11:37:00 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '局域网的数据链路层', 'enName': 'Local Area Network Data Link Layer', 'definition': '提供物理连接和数据传输的服务，它把网络层的数据包封装成帧，并在物理层传输。', 'features': '提供物理地址，检测错误，流量控制和访问控制。'}",
+                "time": "Tue Jun 20 11:31:05 2023"
+              },
+              {
+                "title": "    CSMA/CD 协议",
+                "topics": [
+                  {
+                    "title": "多点接入",
+                    "reply": "{'node_type': 'Concept', 'name': '多点接入', 'enName': 'Multi-Point Access', 'definition': '一种技术，允许多个用户同时连接到一个网络。', 'features': '可以提高网络的效率，减少网络的延迟，改善网络的可靠性。'}",
+                    "time": "Tue Jun 20 11:38:28 2023"
+                  },
+                  {
+                    "title": "载波监听 ",
+                    "reply": "{'node_type': 'Concept', 'name': '载波监听', 'enName': 'Carrier Wave Monitoring', 'definition': '一种无线电技术，可以检测和跟踪无线电信号的强度和频率。', 'features': '可以检测和跟踪无线电信号的强度和频率，可以用来定位无线电信号源。'}",
+                    "time": "Tue Jun 20 11:38:37 2023"
+                  },
+                  {
+                    "title": "碰撞检测",
+                    "reply": "{'node_type': 'Concept', 'name': '碰撞检测', 'enName': 'Collision Detection', 'definition': '检测两个或多个物体之间是否发生碰撞的技术。', 'features': '通过检测物体的位置、形状和速度来判断是否发生碰撞。'}",
+                    "time": "Tue Jun 20 11:38:46 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': 'CSMA/CD 协议', 'enName': 'CSMA/CD Protocol', 'definition': '一种以太网协议，允许多个节点同时发送数据，但当发生冲突时，它会自动检测并解决冲突。', 'features': '允许多个节点同时发送数据，自动检测并解决冲突。'}",
+                "time": "Tue Jun 20 11:38:17 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '使用广播信道的数据链路层', 'enName': 'Data Link Layer Using Broadcast Channel', 'definition': '数据链路层使用广播信道来传输数据，可以同时传输给多个接收者。', 'features': '可以实现点对多的数据传输，可以提高网络的传输效率。'}",
+            "time": "Tue Jun 20 11:30:53 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '数据链路层信道', 'enName': 'Data Link Layer Channel', 'definition': '数据链路层信道是指在物理层和网络层之间，用于传输数据的信道。', 'features': '可以提供可靠的数据传输，支持多种协议，可以提供多种服务。'}",
+        "time": "Tue Jun 20 11:27:59 2023"
+      },
+      {
+        "title": "其他类型的高速局域网接口",
+        "reply": "{'node_type': 'Concept', 'name': '其他类型的高速局域网接口', 'enName': 'Other Types of High-Speed Local Area Network Interfaces', 'definition': '用于连接计算机网络的特定类型的硬件接口，具有比传统局域网接口更高的数据传输速率。', 'features': '支持高速数据传输，支持多种网络协议，支持多种网络设备。'}",
+        "time": "Tue Jun 20 11:39:04 2023"
+      }
+    ],
+    "reply": "{'node_type': 'Concept', 'name': '数据链路层', 'enName': 'Data Link Layer', 'definition': '数据链路层是OSI参考模型中的第二层，主要负责把网络中的物理链路建立起来，并且提供网络设备之间的数据传输服务。', 'features': '提供网络设备之间的数据传输服务，支持网络设备之间的数据传输，提供硬件地址的识别服务。'}",
+    "time": "Tue Jun 20 11:27:00 2023"
+  },
+  {
+    "title": " 应用层",
+    "topics": [
+      {
+        "title": "域名系统 DNS",
+        "topics": [
+          {
+            "title": "域名系统概述",
+            "reply": "{'node_type': 'Concept', 'name': '域名系统概述', 'enName': 'Domain Name System Overview', 'definition': '域名系统(DNS)是一种分布式数据库，用于将域名和IP地址相互映射。', 'features': '可以将域名解析为IP地址，提供分布式的域名解析服务。'}",
+            "time": "Tue Jun 20 11:39:35 2023"
+          },
+          {
+            "title": "因特网的域名结构",
+            "topics": [
+              {
+                "title": "根域名",
+                "reply": "{'node_type': 'Concept', 'name': '根域名', 'enName': 'Root Domain', 'definition': '指的是顶级域名，是一级域名的父域名，是指顶级域名的最高级别。', 'features': '根域名是域名系统的最高级别，它下面可以有二级域名、三级域名等。'}",
+                "time": "Tue Jun 20 11:39:58 2023"
+              },
+              {
+                "title": "顶级域名",
+                "reply": "{'node_type': 'Concept', 'name': '顶级域名', 'enName': 'Top Level Domain', 'definition': '顶级域名是指在互联网上的顶级域名，它是一个独立的域名系统，用于标识网络上的组织和个人。', 'features': '顶级域名一般由两部分组成，一部分是国家或地区的代码，另一部分是具体的域名。'}",
+                "time": "Tue Jun 20 11:40:12 2023"
+              },
+              {
+                "title": "二级域名",
+                "reply": "{'node_type': 'Concept', 'name': '二级域名', 'enName': 'Second-Level Domain', 'definition': '域名的一部分，位于顶级域名之后，用于更精确地定位网络上的某一个服务。', 'features': '可以更精确地定位网络上的某一个服务，比如www.example.com中的example。'}",
+                "time": "Tue Jun 20 11:40:21 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '因特网的域名结构', 'enName': 'Domain Name Structure of the Internet', 'definition': '因特网的域名结构是一种用于标识网络上的计算机和网络资源的系统。', 'features': '域名结构由域名服务器组成，可以将域名解析为IP地址。'}",
+            "time": "Tue Jun 20 11:39:45 2023"
+          },
+          {
+            "title": "域名服务器",
+            "reply": "{'node_type': 'Concept', 'name': '域名服务器', 'enName': 'Domain Name Server', 'definition': '用于将域名解析为IP地址的服务器', 'features': '提供域名解析服务，将域名转换为IP地址'}",
+            "time": "Tue Jun 20 11:40:27 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '域名系统', 'enName': 'DNS', 'definition': '一种分布式数据库，用于将域名映射到IP地址，以实现域名解析。', 'features': '可以将域名解析为IP地址，提供了一种可靠的域名解析服务。'}",
+        "time": "Tue Jun 20 11:39:26 2023"
+      },
+      {
+        "title": "文件传送协议",
+        "topics": [
+          {
+            "title": "FTP 概述",
+            "reply": "{'node_type': 'Concept', 'name': 'FTP概述', 'enName': 'FTP Overview', 'definition': '文件传输协议（FTP）是一种用于在网络上传输文件的协议。', 'features': '支持多种文件传输模式，支持文件的上传和下载，支持文件的多种操作。'}",
+            "time": "Tue Jun 20 11:40:46 2023"
+          },
+          {
+            "title": "FTP 的基本工作原理",
+            "topics": [
+              {
+                "title": "FTP 使用 TCP 进行连接",
+                "topics": [
+                  {
+                    "title": "控制连接",
+                    "reply": "{'node_type': 'Concept', 'name': '控制连接', 'enName': 'Control Connection', 'definition': '控制连接是一种用于管理数据传输的连接，它可以控制发送和接收端的数据传输。', 'features': '可以控制数据传输的方向，可以控制发送和接收端的数据传输。'}",
+                    "time": "Tue Jun 20 11:41:29 2023"
+                  },
+                  {
+                    "title": "数据连接",
+                    "reply": "{'node_type': 'Concept', 'name': '数据连接', 'enName': 'Data Link', 'definition': '数据连接是指在两台计算机之间建立通信连接的技术。', 'features': '可以实现网络设备之间的数据传输，支持多种协议，如TCP/IP、HTTP等。'}",
+                    "time": "Tue Jun 20 11:41:40 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': 'FTP 使用 TCP 进行连接', 'enName': 'FTP Using TCP Connection', 'definition': 'FTP是一种文件传输协议，它使用TCP协议进行连接，以便在两台计算机之间传输文件。', 'features': '支持文件的上传和下载，支持多种文件传输格式，支持多种文件系统。'}",
+                "time": "Tue Jun 20 11:41:16 2023"
+              },
+              {
+                "title": "FTP连接模式",
+                "topics": [
+                  {
+                    "title": "主动模式",
+                    "reply": "{'node_type': 'Concept', 'name': '主动模式', 'enName': 'Active Mode', 'definition': '一种计算机操作模式，用户可以主动发起操作，而不是等待系统调用。', 'features': '用户可以主动发起操作，而不是等待系统调用。'}",
+                    "time": "Tue Jun 20 11:42:00 2023"
+                  },
+                  {
+                    "title": "被动模式",
+                    "reply": "{'node_type': 'Concept', 'name': '被动模式', 'enName': 'Passive Mode', 'definition': '一种数据传输模式，由客户端发起连接，服务器只负责接受连接请求，不主动发起连接。', 'features': '客户端发起连接，服务器只负责接受连接请求，不主动发起连接。'}",
+                    "time": "Tue Jun 20 11:42:18 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': 'FTP连接模式', 'enName': 'FTP Connection Mode', 'definition': 'FTP连接模式是一种用于在客户端和服务器之间传输文件的协议。', 'features': '支持两种连接模式：主动模式和被动模式。'}",
+                "time": "Tue Jun 20 11:41:51 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': 'FTP 的基本工作原理', 'enName': 'Basic Working Principle of FTP', 'definition': 'FTP是一种文件传输协议，它使用TCP/IP协议来传输文件，允许用户从一台计算机上传输文件到另一台计算机。', 'features': '使用客户端/服务器模型，客户端发出请求，服务器响应请求。'}",
+            "time": "Tue Jun 20 11:41:01 2023"
+          },
+          {
+            "title": "简单文件传送协议 TFTP",
+            "topics": [
+              {
+                "title": "TFTP概念",
+                "reply": "{'node_type': 'Concept', 'name': 'TFTP概念', 'enName': 'Trivial File Transfer Protocol', 'definition': 'TFTP是一种简单的文件传输协议，用于在网络上传输文件。', 'features': '只支持文件的读取和写入，不支持目录操作，传输速度较慢。'}",
+                "time": "Tue Jun 20 11:42:36 2023"
+              },
+              {
+                "title": "TFTP 的主要特点",
+                "reply": "{'node_type': 'Concept', 'name': 'TFTP 的主要特点', 'enName': 'Main Features of TFTP', 'definition': 'TFTP（Trivial File Transfer Protocol）是一种简单的文件传输协议，它只支持文件的读取和写入，不支持文件的删除和更新操作。', 'features': '只支持文件的读取和写入，不支持文件的删除和更新操作；传输速度快；不需要安全认证。'}",
+                "time": "Tue Jun 20 11:42:51 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '简单文件传送协议 TFTP', 'enName': 'Trivial File Transfer Protocol', 'definition': '一种简单的文件传输协议，用于在网络上传输文件。', 'features': '无需认证，只支持UDP协议，只支持读取和写入操作。'}",
+            "time": "Tue Jun 20 11:42:30 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '文件传送协议', 'enName': 'File Transfer Protocol', 'definition': '用于在计算机网络中传输文件的协议', 'features': '可以实现文件的上传和下载，支持多种文件格式。'}",
+        "time": "Tue Jun 20 11:40:34 2023"
+      },
+      {
+        "title": "远程终端协议 TELNET ",
+        "reply": "{'node_type': 'Concept', 'name': '远程终端协议 TELNET', 'enName': 'TELNET', 'definition': '一种用于远程登录的网络协议，可以使用它在远程计算机上运行程序和操作系统。', 'features': '可以在不同的计算机之间进行远程登录，可以使用它来访问远程计算机上的文件和程序。'}",
+        "time": "Tue Jun 20 11:43:02 2023"
+      },
+      {
+        "title": "万维网 WWW",
+        "topics": [
+          {
+            "title": "万维网概述",
+            "topics": [
+              {
+                "title": "万维网 WWW (World Wide Web)并非某种特殊的计算机网络。",
+                "reply": "{'node_type': 'Concept', 'name': '万维网', 'enName': 'WWW (World Wide Web)', 'definition': '一种基于互联网的分布式文档系统。', 'features': '使用超文本传输协议(HTTP)，提供跨平台的信息浏览和交互功能。'}",
+                "time": "Tue Jun 20 11:43:37 2023"
+              },
+              {
+                "title": "万维网是一个大规模的、联机式的信息储藏所。",
+                "reply": "{'node_type': 'Concept', 'name': '万维网', 'enName': 'World Wide Web', 'definition': '一个大规模的、联机式的信息储藏所。', 'features': '可以访问全球范围内的资源，并且可以通过超文本传输协议(HTTP)来访问这些资源。'}",
+                "time": "Tue Jun 20 11:43:48 2023"
+              },
+              {
+                "title": "万维网用链接的方法能非常方便地从因特网上的一个站点访问另一个站点，从而主动地按需获取丰富的信息。",
+                "reply": "{'node_type': 'Concept', 'name': '万维网', 'enName': 'World Wide Web', 'definition': '一种基于超文本的全球信息系统，可以通过链接方便地访问因特网上的信息。', 'features': '可以按需获取丰富的信息，具有跨越网络的功能。'}",
+                "time": "Tue Jun 20 11:44:05 2023"
+              },
+              {
+                "title": "这种访问方式称为“链接”。",
+                "reply": "{'node_type': 'Concept', 'name': '链接', 'enName': 'Link', 'definition': '指把一个文件或者一个文件夹的位置信息存储在另一个文件或文件夹中的一种访问方式。', 'features': '可以快速访问另一个文件或文件夹，不需要重新定位。'}",
+                "time": "Tue Jun 20 11:44:16 2023"
+              },
+              {
+                "title": "万维网是分布式超媒体(hypermedia)系统，它是超文本(hypertext)系统的扩充。",
+                "reply": "{'node_type': 'Concept', 'name': '万维网', 'enName': 'World Wide Web', 'definition': '分布式超媒体系统，扩充超文本系统', 'features': '支持多种文件格式，可以在不同的计算机之间传输数据'}",
+                "time": "Tue Jun 20 11:44:25 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '万维网概述', 'enName': 'World Wide Web Overview', 'definition': '由互联网上的文本、图像、音频、视频等超文本文档组成的全球性信息系统。', 'features': '支持超文本链接，可以在不同的文档之间跳转。'}",
+            "time": "Tue Jun 20 11:43:26 2023"
+          },
+          {
+            "title": "万维网的工作方式 ",
+            "reply": "{'node_type': 'Concept', 'name': '万维网的工作方式', 'enName': 'Working of the World Wide Web', 'definition': '万维网是一个分布式的系统，它使用HTTP协议来传输文件，使用HTML来标记文件，以及使用URL来定位文件。', 'features': '使用HTTP协议传输文件，使用HTML标记文件，使用URL定位文件。'}",
+            "time": "Tue Jun 20 11:44:37 2023"
+          },
+          {
+            "title": "万维网必须解决的问题",
+            "reply": "{'node_type': 'Concept', 'name': '万维网必须解决的问题', 'enName': 'Problems the WWW Must Solve', 'definition': '万维网必须解决的问题包括安全性、可靠性、可扩展性、可移植性和可搜索性。', 'features': '安全性、可靠性、可扩展性、可移植性和可搜索性。'}",
+            "time": "Tue Jun 20 11:44:51 2023"
+          },
+          {
+            "title": "统一资源定位符 URL",
+            "topics": [
+              {
+                "title": "统一资源定位符 URL 概念",
+                "reply": "{'node_type': 'Concept', 'name': '统一资源定位符', 'enName': 'URL', 'definition': '用于描述网络上资源的一种标准格式', 'features': '由协议、主机名、端口号、路径等组成'}",
+                "time": "Tue Jun 20 11:45:10 2023"
+              },
+              {
+                "title": "URL 的一般形式",
+                "reply": "{'node_type': 'Concept', 'name': 'URL的一般形式', 'enName': 'General Form of URL', 'definition': '统一资源定位符，用于指定网络上的资源位置。', 'features': '由协议、主机名、端口号、路径、参数等组成。'}",
+                "time": "Tue Jun 20 11:45:18 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '统一资源定位符', 'enName': 'URL', 'definition': '用于标识互联网上的资源的字符串', 'features': '由协议、主机名、端口号、路径、查询参数等组成'}",
+            "time": "Tue Jun 20 11:45:01 2023"
+          },
+          {
+            "title": "超文本传送协议 HTTP",
+            "reply": "{'node_type': 'Concept', 'name': '超文本传送协议 HTTP', 'enName': 'Hypertext Transfer Protocol', 'definition': '一种用于从网络上传输超文本文档的协议。', 'features': '可以在客户端和服务器之间传输文本、图像、音频、视频等多种格式的数据。'}",
+            "time": "Tue Jun 20 11:45:28 2023"
+          },
+          {
+            "title": "万维网的文档",
+            "topics": [
+              {
+                "title": "超文本标记语言 HTML",
+                "reply": "{'node_type': 'Concept', 'name': '超文本标记语言 HTML', 'enName': 'Hypertext Markup Language HTML', 'definition': '一种用于创建网页的标记语言', 'features': '使用标记标签来定义文档的结构和内容'}",
+                "time": "Tue Jun 20 11:45:47 2023"
+              },
+              {
+                "title": "动态万维网文档",
+                "topics": [
+                  {
+                    "title": "静态文档",
+                    "reply": "{'node_type': 'Concept', 'name': '静态文档', 'enName': 'Static Document', 'definition': '不需要任何服务器端处理，可以直接从客户端浏览器中访问的文档。', 'features': '文件内容不会改变，可以被缓存，加载速度快。'}",
+                    "time": "Tue Jun 20 11:46:08 2023"
+                  },
+                  {
+                    "title": "动态文档",
+                    "reply": "{'node_type': 'Concept', 'name': '动态文档', 'enName': 'Dynamic Document', 'definition': '一种可以根据用户输入或其他条件动态更新内容的文档', 'features': '可以根据用户输入或其他条件动态更新内容，可以实现交互式文档。'}",
+                    "time": "Tue Jun 20 11:46:15 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '动态万维网文档', 'enName': 'Dynamic Web Document', 'definition': '一种能够根据用户的输入而自动改变内容的网页文档。', 'features': '可以根据用户的输入实时生成新的内容，不需要重新加载整个网页。'}",
+                "time": "Tue Jun 20 11:45:58 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '万维网的文档', 'enName': 'Web Documents', 'definition': '由网络服务器传输到客户端的文本文件，用于显示网页内容。', 'features': '可以使用HTML、XML等标记语言编写，可以包含文本、图像、视频等多媒体内容。'}",
+            "time": "Tue Jun 20 11:45:40 2023"
+          },
+          {
+            "title": "万维网的信息检索系统",
+            "topics": [
+              {
+                "title": "全文检索搜索",
+                "reply": "{'node_type': 'Concept', 'name': '全文检索搜索', 'enName': 'Full-Text Retrieval Search', 'definition': '一种搜索技术，可以从文本中检索出特定的信息。', 'features': '可以搜索文本中的关键词，并返回相关的结果。'}",
+                "time": "Tue Jun 20 11:46:35 2023"
+              },
+              {
+                "title": "分类目录搜索",
+                "reply": "{'node_type': 'Concept', 'name': '分类目录搜索', 'enName': 'Classified Directory Search', 'definition': '一种搜索方式，用户可以通过按照分类目录的结构来搜索信息。', 'features': '可以按照分类目录的结构来搜索信息，搜索结果更加准确。'}",
+                "time": "Tue Jun 20 11:46:49 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '万维网的信息检索系统', 'enName': 'World Wide Web Information Retrieval System', 'definition': '用于从万维网上检索信息的系统', 'features': '可以根据关键词检索，支持多种检索方式，支持多种文件格式'}",
+            "time": "Tue Jun 20 11:46:27 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '万维网', 'enName': 'WWW', 'definition': '一种基于超文本传输协议的全球性的分布式信息系统。', 'features': '可以通过超文本链接访问全球范围内的信息资源。'}",
+        "time": "Tue Jun 20 11:43:13 2023"
+      },
+      {
+        "title": "电子邮件",
+        "topics": [
+          {
+            "title": "电子邮件(e-mail)概念",
+            "reply": "{'node_type': 'Concept', 'name': '电子邮件', 'enName': 'E-mail', 'definition': '电子邮件是一种用于在互联网上发送和接收文本、图片、音频、视频等信息的通信方式。', 'features': '可以发送和接收文件，可以进行群发，可以设置自动回复。'}",
+            "time": "Tue Jun 20 11:47:14 2023"
+          },
+          {
+            "title": "电子邮件系统组成",
+            "topics": [
+              {
+                "title": "用户代理",
+                "reply": "{'node_type': 'Concept', 'name': '用户代理', 'enName': 'User Agent', 'definition': '用户代理是一种软件，用于收集、发送和接收HTTP请求，以及处理响应。', 'features': '可以根据HTTP请求头中的信息来识别用户代理的类型，以便服务器能够提供正确的响应。'}",
+                "time": "Tue Jun 20 11:47:47 2023"
+              },
+              {
+                "title": "邮件服务器",
+                "reply": "{'node_type': 'Concept', 'name': '邮件服务器', 'enName': 'Mail Server', 'definition': '用于接收、发送和存储电子邮件的计算机系统。', 'features': '可以支持多种协议，如POP3、SMTP等。'}",
+                "time": "Tue Jun 20 11:47:55 2023"
+              },
+              {
+                "title": "邮件协议",
+                "reply": "{'node_type': 'Concept', 'name': '邮件协议', 'enName': 'Email Protocol', 'definition': '用于在计算机网络中传输电子邮件的协议', 'features': '支持邮件的发送、接收、转发、存储等功能'}",
+                "time": "Tue Jun 20 11:48:03 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '电子邮件系统组成', 'enName': 'Email System Components', 'definition': '电子邮件系统由用户客户端、邮件服务器、邮件传输代理和邮件网关组成。', 'features': '用户客户端用于发送和接收邮件，邮件服务器用于存储邮件，邮件传输代理用于传输邮件，邮件网关用于连接不同的邮件系统。'}",
+            "time": "Tue Jun 20 11:47:35 2023"
+          },
+          {
+            "title": "简单邮件传送协议 SMTP",
+            "reply": "{'node_type': 'Concept', 'name': '简单邮件传送协议', 'enName': 'SMTP', 'definition': '一种用于在互联网上发送电子邮件的协议。', 'features': '可以在不同的计算机网络之间传输邮件，支持邮件的发送和接收。'}",
+            "time": "Tue Jun 20 11:48:11 2023"
+          },
+          {
+            "title": "电子邮件的信息格式",
+            "reply": "{'node_type': 'Concept', 'name': '电子邮件的信息格式', 'enName': 'Email Message Format', 'definition': '电子邮件信息格式是一种用于传输电子邮件的标准格式。', 'features': '电子邮件信息格式由头部和正文组成，头部包含发件人、收件人、主题等信息，正文可以是文本、图片、音频、视频等。'}",
+            "time": "Tue Jun 20 11:48:22 2023"
+          },
+          {
+            "title": "邮件读取协议 ",
+            "topics": [
+              {
+                "title": "POP3",
+                "reply": "{'node_type': 'Concept', 'name': 'POP3', 'enName': 'Post Office Protocol 3', 'definition': '一种用于从远程服务器检索电子邮件的协议。', 'features': '支持邮件的下载，但不支持邮件的发送。'}",
+                "time": "Tue Jun 20 11:48:39 2023"
+              },
+              {
+                "title": "IMAP",
+                "reply": "{'node_type': 'Concept', 'name': 'IMAP', 'enName': 'Internet Message Access Protocol', 'definition': '一种用于从服务器上获取电子邮件的协议。', 'features': '可以让用户在不同设备上访问同一邮箱，并且可以保持邮件的同步。'}",
+                "time": "Tue Jun 20 11:48:49 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '邮件读取协议', 'enName': 'Mail Retrieval Protocol', 'definition': '用于从邮件服务器上获取邮件的协议', 'features': '支持多种协议，如POP3，IMAP等'}",
+            "time": "Tue Jun 20 11:48:30 2023"
+          },
+          {
+            "title": "基于万维网的电子邮件 ",
+            "reply": "{'node_type': 'Concept', 'name': '基于万维网的电子邮件', 'enName': 'Web-based Email', 'definition': '基于万维网的电子邮件是一种使用网络发送和接收电子邮件的服务。', 'features': '可以在任何设备上访问，提供安全性和可靠性。'}",
+            "time": "Tue Jun 20 11:49:01 2023"
+          },
+          {
+            "title": "通用因特网邮件扩充 MIME",
+            "reply": "{'node_type': 'Concept', 'name': '通用因特网邮件扩充 MIME', 'enName': 'Multipurpose Internet Mail Extensions (MIME)', 'definition': '一种用于在电子邮件中传输非文本文件的标准。', 'features': '支持多种文件格式，可以在邮件中传输图片、音频、视频等文件。'}",
+            "time": "Tue Jun 20 11:49:12 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '电子邮件', 'enName': 'Email', 'definition': '电子邮件是一种用于在互联网上发送和接收文本、图像、音频和视频等信息的通信工具。', 'features': '可以发送大量信息，可以实现远程沟通。'}",
+        "time": "Tue Jun 20 11:47:00 2023"
+      },
+      {
+        "title": "动态主机配置协议 DHCP ",
+        "topics": [
+          {
+            "title": "DHCP (Dynamic Host Configuration Protocol) 概念",
+            "reply": "{'node_type': 'Concept', 'name': 'DHCP (动态主机配置协议)', 'enName': 'Dynamic Host Configuration Protocol', 'definition': '一种网络协议，用于在网络中自动分配IP地址给主机。', 'features': '可以自动分配IP地址，可以释放不再使用的IP地址，可以更新主机的IP地址。'}",
+            "time": "Tue Jun 20 11:49:38 2023"
+          },
+          {
+            "title": "DHCP 配置的内容",
+            "reply": "{'node_type': 'Concept', 'name': 'DHCP 配置的内容', 'enName': 'DHCP Configuration', 'definition': 'DHCP 配置是一种网络协议，用于自动分配 IP 地址给网络设备，以及其他网络配置信息。', 'features': 'DHCP 配置可以自动分配 IP 地址，减少管理员的工作量。'}",
+            "time": "Tue Jun 20 11:49:48 2023"
+          },
+          {
+            "title": "DHCP 工作过程",
+            "reply": "{'node_type': 'Concept', 'name': 'DHCP 工作过程', 'enName': 'DHCP Working Process', 'definition': '动态主机配置协议（DHCP）是一种网络协议，用于在IP网络中自动分配IP地址给客户端，以及其他相关的网络配置信息。', 'features': 'DHCP工作过程分为四个步骤：DHCP请求、DHCP提供、DHCP确认和DHCP续约。'}",
+            "time": "Tue Jun 20 11:49:58 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '动态主机配置协议', 'enName': 'Dynamic Host Configuration Protocol', 'definition': '一种网络协议，用于在IP网络中自动分配IP地址给主机', 'features': '可以自动分配IP地址，可以释放IP地址，可以更新IP地址，可以提供其他网络配置信息'}",
+        "time": "Tue Jun 20 11:49:26 2023"
+      },
+      {
+        "title": "简单网络管理协议 SNMP",
+        "topics": [
+          {
+            "title": "网络管理的基本概念",
+            "reply": "{'node_type': 'Concept', 'name': '网络管理的基本概念', 'enName': 'Basic Concepts of Network Management', 'definition': '网络管理是指组织和管理网络资源，以满足网络的可靠性、安全性和可用性的要求。', 'features': '网络管理包括网络设备的管理、网络安全管理、网络性能管理和网络服务管理等。'}",
+            "time": "Tue Jun 20 11:50:24 2023"
+          },
+          {
+            "title": "SNMP 的网络管理组成 ",
+            "topics": [
+              {
+                "title": "SNMP 本身",
+                "reply": "{'node_type': 'Concept', 'name': 'SNMP本身', 'enName': 'SNMP Itself', 'definition': '简单网络管理协议，用于在网络中管理网络设备', 'features': '分布式管理，可以实现远程管理，可以收集网络设备的性能数据'}",
+                "time": "Tue Jun 20 11:50:43 2023"
+              },
+              {
+                "title": "管理信息结构 SMI (Structure of Management Information)",
+                "topics": [
+                  {
+                    "title": "SMI 的功能",
+                    "reply": "{'node_type': 'Concept', 'name': 'SMI的功能', 'enName': 'SMI Function', 'definition': 'SMI是一种用于在主机和外设之间传输控制信息的接口，它可以实现设备的自动化管理和控制。', 'features': 'SMI支持多种操作，包括设备状态检测、设备配置、设备控制和设备管理。'}",
+                    "time": "Tue Jun 20 11:51:16 2023"
+                  },
+                  {
+                    "title": "SMI 定义",
+                    "reply": "{'node_type': 'Concept', 'name': 'SMI 定义', 'enName': 'SMI Definition', 'definition': '一种用于描述系统硬件结构的标准语言，它可以描述系统的硬件结构，以及硬件之间的通信方式。', 'features': '可以描述系统的硬件结构，以及硬件之间的通信方式。'}",
+                    "time": "Tue Jun 20 11:51:24 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '管理信息结构 SMI', 'enName': 'Structure of Management Information', 'definition': '一种用于管理网络设备的标准，它定义了网络设备的管理信息结构，以及如何访问和操作这些信息。', 'features': '支持网络设备的远程管理，提供了一种统一的管理框架。'}",
+                "time": "Tue Jun 20 11:51:00 2023"
+              },
+              {
+                "title": "管理信息库 MIB(Management Information Base)。",
+                "reply": "{'node_type': 'Concept', 'name': '管理信息库', 'enName': 'MIB(Management Information Base)', 'definition': '用于存储网络管理信息的数据库', 'features': '用于存储网络设备的状态和性能信息，以及网络管理者可以查看和控制的网络参数。'}",
+                "time": "Tue Jun 20 11:51:36 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': 'SNMP的网络管理组成', 'enName': 'SNMP Network Management Components', 'definition': 'SNMP网络管理组成是一种用于监控和管理网络设备的协议。', 'features': '包括SNMP代理、管理信息库、管理信息基础架构、管理协议和管理客户端。'}",
+            "time": "Tue Jun 20 11:50:34 2023"
+          },
+          {
+            "title": "SNMP的操作基本的管理功能",
+            "topics": [
+              {
+                "title": "“读”操作",
+                "reply": "{'node_type': 'Concept', 'name': '读操作', 'enName': 'Read Operation', 'definition': '从存储器中读取数据的操作。', 'features': '读操作可以从存储器中读取数据，但不能修改数据。'}",
+                "time": "Tue Jun 20 11:51:55 2023"
+              },
+              {
+                "title": "  “写”操作",
+                "reply": "{'node_type': 'Concept', 'name': '写操作', 'enName': 'Write Operation', 'definition': '将数据写入存储器的操作。', 'features': '写操作可以改变存储器中的数据，而读操作只能读取数据。'}",
+                "time": "Tue Jun 20 11:52:02 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': 'SNMP的操作基本的管理功能', 'enName': 'SNMP Operation Basic Management Function', 'definition': 'SNMP操作的基本管理功能，包括获取、设置、操作和通知等。', 'features': '可以实现远程管理，可以支持多种网络协议，可以支持多种网络设备。'}",
+            "time": "Tue Jun 20 11:51:47 2023"
+          },
+          {
+            "title": "SNMP 的报文格式 ",
+            "reply": "{'node_type': 'Concept', 'name': 'SNMP 的报文格式', 'enName': 'SNMP Message Format', 'definition': 'SNMP 报文格式是一种网络管理协议，用于在网络节点之间传输管理信息。', 'features': '使用 ASN.1 编码，支持多种类型的报文，包括 Get、Set、Response、Trap 等。'}",
+            "time": "Tue Jun 20 11:52:14 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '简单网络管理协议 SNMP', 'enName': 'Simple Network Management Protocol', 'definition': '一种用于管理网络设备的协议，可以收集和传输网络状态信息。', 'features': '可以收集和传输网络状态信息，可以实现远程管理和监控网络设备。'}",
+        "time": "Tue Jun 20 11:50:10 2023"
+      },
+      {
+        "title": "应用进程跨越网络的通信",
+        "topics": [
+          {
+            "title": "系统调用",
+            "reply": "{'node_type': 'Concept', 'name': '系统调用', 'enName': 'System Call', 'definition': '操作系统提供的用于程序与操作系统进行交互的接口。', 'features': '可以让程序访问操作系统的内核功能，实现更多的功能。'}",
+            "time": "Tue Jun 20 11:52:44 2023"
+          },
+          {
+            "title": "应用编程接口",
+            "reply": "{'node_type': 'Concept', 'name': '应用编程接口', 'enName': 'Application Programming Interface', 'definition': '一组定义了应用程序如何与操作系统、库或其他服务进行交互的接口。', 'features': '提供了一种简单的方式来访问操作系统的功能，从而使应用程序可以更容易地访问和使用操作系统的功能。'}",
+            "time": "Tue Jun 20 11:53:01 2023"
+          },
+          {
+            "title": "几种常用的系统调用",
+            "reply": "{'node_type': 'Concept', 'name': '几种常用的系统调用', 'enName': 'Common System Calls', 'definition': '操作系统提供的接口，用于实现程序与操作系统之间的交互。', 'features': '提供了程序与操作系统之间的接口，可以实现文件管理、进程管理、内存管理等功能。'}",
+            "time": "Tue Jun 20 11:53:12 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '应用进程跨越网络的通信', 'enName': 'Network Communication Across Application Processes', 'definition': '指不同应用进程之间通过网络进行通信的过程。', 'features': '可以实现多台计算机之间的数据交换，从而实现跨网络的应用进程通信。'}",
+        "time": "Tue Jun 20 11:52:32 2023"
+      }
+    ],
+    "reply": "{'node_type': 'Concept', 'name': '应用层', 'enName': 'Application Layer', 'definition': '应用层是OSI参考模型中的最高层，它提供了与用户交互的接口，以及与其他网络应用程序进行通信的协议。', 'features': '提供了与用户交互的接口，以及与其他网络应用程序进行通信的协议。'}",
+    "time": "Tue Jun 20 11:39:16 2023"
+  },
+  {
+    "title": "网络层",
+    "topics": [
+      {
+        "title": "网络层提供的两种服务",
+        "topics": [
+          {
+            "title": "虚电路服务",
+            "reply": "{'node_type': 'Concept', 'name': '虚电路服务', 'enName': 'Virtual Circuit Service', 'definition': '一种网络服务，它提供了一条固定的、可靠的、可以预先分配的通信路径，可以在网络中传输数据。', 'features': '可以提供实时传输，可以保证传输的可靠性和安全性。'}",
+            "time": "Tue Jun 20 11:53:47 2023"
+          },
+          {
+            "title": "数据报服务",
+            "reply": "{'node_type': 'Concept', 'name': '数据报服务', 'enName': 'Datagram Service', 'definition': '一种网络服务，它提供不可靠的、无连接的、不可靠的数据传输服务。', 'features': '每个数据报都是独立的，不能保证报文的顺序和完整性。'}",
+            "time": "Tue Jun 20 11:53:58 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '网络层提供的两种服务', 'enName': 'Network Layer Services', 'definition': '网络层提供的两种服务是报文传输服务和路由选择服务。', 'features': '报文传输服务提供报文的传输，路由选择服务提供路由选择。'}",
+        "time": "Tue Jun 20 11:53:34 2023"
+      },
+      {
+        "title": "网际协议 IP",
+        "topics": [
+          {
+            "title": " IP 协议配套使用的协议：",
+            "topics": [
+              {
+                "title": "地址解析协议 ARP (Address Resolution Protocol)",
+                "reply": "{'node_type': 'Concept', 'name': '地址解析协议', 'enName': 'Address Resolution Protocol (ARP)', 'definition': '用于在网络中将IP地址转换为物理地址的协议。', 'features': 'ARP协议可以在网络中解析IP地址，以便确定主机的物理地址。'}",
+                "time": "Tue Jun 20 11:54:29 2023"
+              },
+              {
+                "title": "逆地址解析协议 RARP   (Reverse Address Resolution Protocol)",
+                "reply": "{'node_type': 'Concept', 'name': '逆地址解析协议', 'enName': 'RARP', 'definition': '一种用于将物理地址映射到IP地址的协议', 'features': '可以在没有配置IP地址的情况下获取IP地址。'}",
+                "time": "Tue Jun 20 11:54:40 2023"
+              },
+              {
+                "title": "网际控制报文协议 ICMP   (Internet Control Message Protocol)",
+                "reply": "{'node_type': 'Concept', 'name': '网际控制报文协议', 'enName': 'ICMP', 'definition': 'IP协议的一种，用于在IP网络中传输控制报文，实现网络管理和诊断功能。', 'features': '可以用来报告错误，查询网络状态，控制网络流量等。'}",
+                "time": "Tue Jun 20 11:54:54 2023"
+              },
+              {
+                "title": "网际组管理协议 IGMP   (Internet Group Management Protocol)",
+                "reply": "{'node_type': 'Concept', 'name': '网际组管理协议', 'enName': 'IGMP', 'definition': '一种用于管理多播组的协议，它允许主机加入和退出多播组。', 'features': '可以让主机动态地加入和退出多播组，以及报告组成员的变化。'}",
+                "time": "Tue Jun 20 11:55:05 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': 'IP协议配套使用的协议', 'enName': 'Protocols Used with IP Protocol', 'definition': 'IP协议配套使用的协议是指与IP协议一起使用的其他协议，如TCP、UDP、ICMP等。', 'features': 'IP协议配套使用的协议提供了不同的传输服务，如可靠性、流量控制等。'}",
+            "time": "Tue Jun 20 11:54:20 2023"
+          },
+          {
+            "title": "中间设备",
+            "topics": [
+              {
+                "title": "转发器(repeater)",
+                "reply": "{'node_type': 'Concept', 'name': '转发器', 'enName': 'Repeater', 'definition': '用于接收和重新发射信号的网络设备', 'features': '可以延长网络的传输距离，但不能改变信号的内容。'}",
+                "time": "Tue Jun 20 11:55:24 2023"
+              },
+              {
+                "title": "网桥或桥接器(bridge)",
+                "reply": "{'node_type': 'Concept', 'name': '网桥或桥接器', 'enName': 'Bridge', 'definition': '用于连接两个不同网络的网络设备，它可以根据数据帧的特征来决定是否将数据帧转发到另一个网络。', 'features': '可以实现网络的分割，提高网络的性能。'}",
+                "time": "Tue Jun 20 11:55:34 2023"
+              },
+              {
+                "title": "路由器(router)",
+                "reply": "{'node_type': 'Concept', 'name': '路由器', 'enName': 'Router', 'definition': '一种网络设备，用于在网络中传输数据包，并将其转发到正确的位置。', 'features': '可以根据IP地址和端口号转发数据包，支持多种网络协议，可以实现网络路由和网络隔离。'}",
+                "time": "Tue Jun 20 11:55:50 2023"
+              },
+              {
+                "title": "桥路器(brouter)",
+                "reply": "{'node_type': 'Concept', 'name': '桥路器', 'enName': 'Brouter', 'definition': '一种网络设备，可以将数据包从一个网络转发到另一个网络。', 'features': '可以支持多种网络协议，可以将数据包从一个网络转发到另一个网络。'}",
+                "time": "Tue Jun 20 11:56:01 2023"
+              },
+              {
+                "title": "网关(gateway)  ",
+                "reply": "{'node_type': 'Concept', 'name': '网关', 'enName': 'Gateway', 'definition': '网关是一种网络设备，它可以将不同网络之间的数据进行转换，以实现不同网络之间的通信。', 'features': '可以实现不同网络之间的数据转换和通信。'}",
+                "time": "Tue Jun 20 11:56:15 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '中间设备', 'enName': 'Intermediate Device', 'definition': '用于连接网络中两个或多个节点的设备，它能够接收、转发和过滤数据包。', 'features': '可以提供网络安全、性能优化和网络管理功能。'}",
+            "time": "Tue Jun 20 11:55:15 2023"
+          },
+          {
+            "title": " IP 数据报的格式",
+            "topics": [
+              {
+                "title": "版本",
+                "topics": [
+                  {
+                    "title": "IPv4",
+                    "reply": "{'node_type': 'Concept', 'name': 'IPv4', 'enName': 'Internet Protocol Version 4', 'definition': 'IPv4是一种网络协议，用于在计算机网络中传输数据包。', 'features': '使用32位地址，支持4.3亿个网络地址。'}",
+                    "time": "Tue Jun 20 11:56:51 2023"
+                  },
+                  {
+                    "title": "IPv6",
+                    "reply": "{'node_type': 'Concept', 'name': 'IPv6', 'enName': 'Internet Protocol Version 6', 'definition': 'IPv6是一种新的互联网协议，它支持更大的地址空间，更高的安全性和更高的数据传输速率。', 'features': '支持128位地址，比IPv4的32位地址更大；支持更高的安全性，支持IPsec；支持更高的数据传输速率。'}",
+                    "time": "Tue Jun 20 11:57:06 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '版本', 'enName': 'Version', 'definition': '指软件发布的不同时期的不同状态，用于描述软件的发展历史。', 'features': '版本号可以用来区分不同版本，版本号的格式一般为主版本号.次版本号.修订号。'}",
+                "time": "Tue Jun 20 11:56:41 2023"
+              },
+              {
+                "title": "首部长度",
+                "reply": "{'node_type': 'Concept', 'name': '首部长度', 'enName': 'Header Length', 'definition': '指示IP数据报中首部的长度的字段。', 'features': '以4字节为单位，最小值为5，最大值为15。'}",
+                "time": "Tue Jun 20 11:57:14 2023"
+              },
+              {
+                "title": "区分服务",
+                "reply": "{'node_type': 'Concept', 'name': '区分服务', 'enName': 'Differentiated Service', 'definition': '一种网络服务模型，根据不同的数据流的特征，为不同的数据流提供不同的服务质量。', 'features': '可以提供不同的服务等级，满足不同的业务需求。'}",
+                "time": "Tue Jun 20 11:57:25 2023"
+              },
+              {
+                "title": "总长度",
+                "reply": "{'node_type': 'Concept', 'name': '总长度', 'enName': 'Total Length', 'definition': '指线性表中所有元素的个数之和。', 'features': '可以用来衡量线性表的大小。'}",
+                "time": "Tue Jun 20 11:57:34 2023"
+              },
+              {
+                "title": "生存时间 ：TTL",
+                "reply": "{'node_type': 'Concept', 'name': '生存时间', 'enName': 'TTL', 'definition': '指定数据在网络中存活的时间，超过该时间数据将被丢弃。', 'features': '可以限制数据在网络中的传播范围，减少网络中的垃圾数据。'}",
+                "time": "Tue Jun 20 11:57:51 2023"
+              },
+              {
+                "title": "协议",
+                "reply": "{'node_type': 'Concept', 'name': '协议', 'enName': 'Protocol', 'definition': '一组规则，用于定义两个或多个实体之间的通信行为。', 'features': '定义了双方如何交换信息，以及如何处理错误。'}",
+                "time": "Tue Jun 20 11:58:02 2023"
+              },
+              {
+                "title": "首部检验和",
+                "reply": "{'node_type': 'Concept', 'name': '首部检验和', 'enName': 'Header Checksum', 'definition': '一种用于检测数据帧中首部信息是否被破坏的技术。', 'features': '根据首部信息计算出一个值，并将其与数据帧中的检验和比较，以确定数据帧是否被破坏。'}",
+                "time": "Tue Jun 20 11:58:13 2023"
+              },
+              {
+                "title": "标识",
+                "reply": "{'node_type': 'Concept', 'name': '标识', 'enName': 'Identifier', 'definition': '用于唯一标识一个实体的字符串。', 'features': '由字母、数字和下划线组成，不能以数字开头。'}",
+                "time": "Tue Jun 20 11:58:19 2023"
+              },
+              {
+                "title": "片偏移",
+                "reply": "{'node_type': 'Concept', 'name': '片偏移', 'enName': 'Skew', 'definition': '指在线性表中，元素之间的相对位置发生变化的现象。', 'features': '片偏移可以使线性表中的元素按照某种特定的顺序排列。'}",
+                "time": "Tue Jun 20 11:58:31 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': 'IP 数据报的格式', 'enName': 'Format of IP Datagram', 'definition': 'IP 数据报是由 IP 首部和数据部分组成的，它是 IP 协议的基本单位。', 'features': 'IP 数据报的首部包括源 IP 地址、目的 IP 地址、TTL 字段等，数据部分可以包含任意类型的上层协议数据。'}",
+            "time": "Tue Jun 20 11:56:30 2023"
+          },
+          {
+            "title": "分类的 IP 地址\t",
+            "topics": [
+              {
+                "title": "分类",
+                "reply": "{'node_type': 'Concept', 'name': '分类', 'enName': 'Classification', 'definition': '将对象分为不同类别的过程。', 'features': '根据对象的特征和属性进行分类。'}",
+                "time": "Tue Jun 20 11:58:55 2023"
+              },
+              {
+                "title": "子网划分",
+                "reply": "{'node_type': 'Concept', 'name': '子网划分', 'enName': 'Subnetting', 'definition': '将一个网络分割成若干个子网的过程', 'features': '可以提高网络的性能，提高网络的安全性，并有助于网络管理。'}",
+                "time": "Tue Jun 20 11:59:02 2023"
+              },
+              {
+                "title": "无分类",
+                "reply": "{'node_type': 'Concept', 'name': '无分类', 'enName': 'Unclassified', 'definition': '没有明确归类的概念。', 'features': ''}",
+                "time": "Tue Jun 20 11:59:05 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '分类的 IP 地址', 'enName': 'Classified IP Address', 'definition': 'IP 地址分为 A、B、C、D 和 E 类，每类地址的网络位和主机位的位数不同。', 'features': 'A 类地址的网络位有 8 位，主机位有 24 位；B 类地址的网络位有 16 位，主机位有 16 位；C 类地址的网络位有 24 位，主机位有 8 位；D 类地址用于多播；E 类地址保留。'}",
+            "time": "Tue Jun 20 11:58:49 2023"
+          },
+          {
+            "title": "IP 地址与硬件地址",
+            "reply": "{'node_type': 'Concept', 'name': 'IP地址与硬件地址', 'enName': 'IP Address and Hardware Address', 'definition': 'IP地址是网络中的逻辑地址，而硬件地址是网络中的物理地址。', 'features': 'IP地址由软件分配，而硬件地址由硬件分配。'}",
+            "time": "Tue Jun 20 11:59:18 2023"
+          },
+          {
+            "title": "地址解析协议 ARP",
+            "reply": "{'node_type': 'Concept', 'name': '地址解析协议', 'enName': 'ARP', 'definition': '用于在网络中将IP地址映射到物理地址的协议', 'features': '可以在不同的网络层之间进行通信，可以查询和更新网络中的IP地址和物理地址的映射关系'}",
+            "time": "Tue Jun 20 11:59:31 2023"
+          },
+          {
+            "title": "逆地址解析协议 RARP",
+            "reply": "{'node_type': 'Concept', 'name': '逆地址解析协议', 'enName': 'RARP', 'definition': '一种用于将物理地址转换为IP地址的协议。', 'features': '可以将物理地址转换为IP地址，从而实现网络设备的自动配置。'}",
+            "time": "Tue Jun 20 11:59:40 2023"
+          },
+          {
+            "title": "  IP 层转发分组的流程",
+            "topics": [
+              {
+                "title": "分组转发算法 ",
+                "reply": "{'node_type': 'Concept', 'name': '分组转发算法', 'enName': 'Group Forwarding Algorithm', 'definition': '一种用于网络路由选择的算法，根据网络拓扑结构和路由表，将数据包转发到目的地。', 'features': '可以根据网络拓扑结构和路由表，更有效地将数据包转发到目的地。'}",
+                "time": "Tue Jun 20 12:00:01 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': 'IP层转发分组的流程', 'enName': 'IP Layer Packet Forwarding Process', 'definition': 'IP层转发分组的流程是指在IP层收到分组后，根据目的IP地址和路由表，将分组转发到下一跳的过程。', 'features': '需要根据目的IP地址和路由表，将分组转发到下一跳。'}",
+            "time": "Tue Jun 20 11:59:51 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '网际协议 IP', 'enName': 'Internet Protocol', 'definition': '一种用于在计算机网络中传输数据的协议，它定义了在网络中传输数据的格式和方式。', 'features': '分层结构，支持不同类型的网络，支持路由。'}",
+        "time": "Tue Jun 20 11:54:08 2023"
+      },
+      {
+        "title": "划分子网和构造超网",
+        "topics": [
+          {
+            "title": " 划分子网",
+            "reply": "{'node_type': 'Concept', 'name': '划分子网', 'enName': 'Subnetting', 'definition': '将一个网络分割成多个子网，以提高网络的性能和安全性。', 'features': '可以提高网络的性能和安全性，可以更有效地利用IP地址。'}",
+            "time": "Tue Jun 20 12:00:22 2023"
+          },
+          {
+            "title": "  使用子网时分组转发",
+            "reply": "{'node_type': 'Concept', 'name': '使用子网时分组转发', 'enName': 'Packet Forwarding in Subnet', 'definition': '将数据报从一个子网转发到另一个子网的过程。', 'features': '使用子网掩码来确定数据报是否需要转发，并使用路由表来确定转发的目的地。'}",
+            "time": "Tue Jun 20 12:00:35 2023"
+          },
+          {
+            "title": "  无分类编址 CIDR（构造超网）",
+            "reply": "{'node_type': 'Concept', 'name': '无分类编址CIDR（构造超网）', 'enName': 'Classless Inter-Domain Routing (Constructing Supernet)', 'definition': '一种IP地址分配方式，用于把多个网络地址合并成一个超网地址，以减少路由表的大小。', 'features': '可以把多个网络地址合并成一个超网地址，减少路由表的大小，提高网络的效率。'}",
+            "time": "Tue Jun 20 12:00:56 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '划分子网和构造超网', 'enName': 'Subnetting and Supernetting', 'definition': '将一个网络分割成若干子网，或将若干子网合并成一个超网的技术。', 'features': '子网划分可以提高网络的性能，超网可以减少网络的路由表大小。'}",
+        "time": "Tue Jun 20 12:00:12 2023"
+      },
+      {
+        "title": "网际控制报文协议 ICMP",
+        "topics": [
+          {
+            "title": " ICMP简介",
+            "reply": "{'node_type': 'Concept', 'name': 'ICMP简介', 'enName': 'Introduction to ICMP', 'definition': 'Internet Control Message Protocol（ICMP）是一种网络层协议，用于在IP网络中传递控制消息和错误报告。', 'features': 'ICMP报文可以报告网络中的问题，如路由器的负载，网络拥塞，网络设备的故障等。'}",
+            "time": "Tue Jun 20 12:01:25 2023"
+          },
+          {
+            "title": "     ICMP 报文的种类",
+            "topics": [
+              {
+                "title": "ICMP 差错报告报文",
+                "topics": [
+                  {
+                    "title": "终点不可达 ",
+                    "reply": "{'node_type': 'Concept', 'name': '终点不可达', 'enName': 'Dead End', 'definition': '指在图论中，某一顶点没有出边的情况。', 'features': '无法从该顶点出发继续搜索。'}",
+                    "time": "Tue Jun 20 12:02:00 2023"
+                  },
+                  {
+                    "title": "源点抑制(Source quench)  ",
+                    "reply": "{'node_type': 'Concept', 'name': '源点抑制', 'enName': 'Source Quench', 'definition': '源点抑制是一种网络拥塞控制机制，它允许网络节点在收到过多的数据包时向发送端发出抑制信号，以减少发送端发送的数据包数量。', 'features': '源点抑制是一种网络拥塞控制机制，它可以有效地减少网络拥塞，提高网络性能。'}",
+                    "time": "Tue Jun 20 12:02:15 2023"
+                  },
+                  {
+                    "title": "时间超过 ",
+                    "reply": "{'node_type': 'Concept', 'name': '时间超过', 'enName': 'Time Over', 'definition': '指计算机程序运行时间超过预期的现象。', 'features': '时间超过可能会导致程序运行出错，或者程序无法正常结束。'}",
+                    "time": "Tue Jun 20 12:02:25 2023"
+                  },
+                  {
+                    "title": "参数问题 ",
+                    "reply": "{'node_type': 'Concept', 'name': '参数问题', 'enName': 'Parameter Problem', 'definition': '一种计算机科学中的问题，涉及在给定输入和输出之间查找最优参数的过程。', 'features': '需要考虑多种可能的参数组合，以找到最佳参数组合。'}",
+                    "time": "Tue Jun 20 12:02:37 2023"
+                  },
+                  {
+                    "title": "改变路由（重定向）(Redirect)  ",
+                    "reply": "{'node_type': 'Concept', 'name': '改变路由（重定向）', 'enName': 'Redirect', 'definition': '改变网络流量的路径，使其从原始位置重新导向到新的位置。', 'features': '可以重定向到不同的网址，可以重定向到不同的端口，可以重定向到不同的协议。'}",
+                    "time": "Tue Jun 20 12:02:49 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': 'ICMP 差错报告报文', 'enName': 'ICMP Error Report Message', 'definition': 'Internet控制报文协议（ICMP）中的一种报文，用于报告IP数据报中发生的差错。', 'features': '可以报告网络中发生的差错，以及源主机和目的主机之间的路径问题。'}",
+                "time": "Tue Jun 20 12:01:51 2023"
+              },
+              {
+                "title": " ICMP 询问报文",
+                "topics": [
+                  {
+                    "title": "回送请求和回答报文",
+                    "reply": "{'node_type': 'Concept', 'name': '回送请求和回答报文', 'enName': 'Echo Request and Reply Packets', 'definition': '用于确认网络连接的数据包，发送者发送回送请求报文，接收者收到后会回复回答报文。', 'features': '发送者可以通过收到回答报文来确认网络连接是否正常。'}",
+                    "time": "Tue Jun 20 12:03:12 2023"
+                  },
+                  {
+                    "title": "时间戳请求和回答报文",
+                    "reply": "{'node_type': 'Concept', 'name': '时间戳请求和回答报文', 'enName': 'Timestamp Request and Response Messages', 'definition': '一种网络协议，用于向服务器请求时间戳，以便客户端可以校准自己的时钟。', 'features': '可以用于校准客户端时钟，确保客户端和服务器之间的时间同步。'}",
+                    "time": "Tue Jun 20 12:03:23 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': 'ICMP 询问报文', 'enName': 'ICMP Query Message', 'definition': 'Internet控制报文协议（ICMP）的一种报文，用于询问网络中的节点是否可达。', 'features': '可以检测网络中的节点是否可达，可以检测网络中的延迟和丢包率。'}",
+                "time": "Tue Jun 20 12:03:00 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': 'ICMP 报文的种类', 'enName': 'Types of ICMP Messages', 'definition': 'Internet Control Message Protocol（ICMP）报文是Internet协议族中的一种，用于在IP主机、路由器之间传递控制消息。', 'features': 'ICMP报文分为四类：查询报文、错误报文、控制报文和通知报文。'}",
+            "time": "Tue Jun 20 12:01:34 2023"
+          },
+          {
+            "title": "  ICMP 的应用举例",
+            "topics": [
+              {
+                "title": "Ping",
+                "reply": "{'node_type': 'Concept', 'name': 'Ping', 'enName': 'Ping', 'definition': '一种网络测试工具，用于检测两台计算机之间的网络连接是否正常', 'features': '可以测试网络的延迟和丢包率'}",
+                "time": "Tue Jun 20 12:03:45 2023"
+              },
+              {
+                "title": " Traceroute",
+                "reply": "{'node_type': 'Concept', 'name': '路由跟踪', 'enName': 'Traceroute', 'definition': '一种网络诊断工具，用于检测数据包从源主机到目标主机的路由路径。', 'features': '可以检测网络中的每一跳路由器，以及每一跳路由器之间的延迟时间。'}",
+                "time": "Tue Jun 20 12:03:58 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': 'ICMP的应用举例', 'enName': 'Examples of ICMP Applications', 'definition': 'Internet Control Message Protocol（ICMP）是一种网络层协议，用于在IP协议网络中传输控制消息。', 'features': 'ICMP可用于网络诊断，如Ping和Traceroute，以及网络错误报告。'}",
+            "time": "Tue Jun 20 12:03:36 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '网际控制报文协议', 'enName': 'ICMP', 'definition': '网际控制报文协议是一种用于在IP网络中传输控制消息的协议。', 'features': '可以用来报告错误、测量网络延迟和拥塞等。'}",
+        "time": "Tue Jun 20 12:01:12 2023"
+      },
+      {
+        "title": "因特网的路由选择协议",
+        "topics": [
+          {
+            "title": "路由选择策略",
+            "topics": [
+              {
+                "title": "静态路由选择策略",
+                "reply": "{'node_type': 'Concept', 'name': '静态路由选择策略', 'enName': 'Static Routing Selection Strategy', 'definition': '一种路由选择策略，它使用预先配置的路由表来确定数据包的路由。', 'features': '不需要路由器之间的通信，可以提供更高的安全性和可靠性。'}",
+                "time": "Tue Jun 20 12:04:28 2023"
+              },
+              {
+                "title": "动态路由选择策略",
+                "reply": "{'node_type': 'Concept', 'name': '动态路由选择策略', 'enName': 'Dynamic Routing Selection Strategy', 'definition': '动态路由选择策略是一种根据网络状态变化而自动更新路由表的策略。', 'features': '根据网络状态变化自动更新路由表，可以有效提高网络传输效率。'}",
+                "time": "Tue Jun 20 12:04:40 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '路由选择策略', 'enName': 'Routing Selection Strategy', 'definition': '用于确定路由表中的路由项的算法，以决定数据包的最佳路径。', 'features': '根据路由表中的路由项，以及路由器的状态信息，选择最佳路由。'}",
+            "time": "Tue Jun 20 12:04:16 2023"
+          },
+          {
+            "title": "自治系统 AS(Autonomous System) ",
+            "reply": "{'node_type': 'Concept', 'name': '自治系统', 'enName': 'Autonomous System', 'definition': '一个由一个或多个连接的网络组成的系统，可以独立地管理自己的路由策略。', 'features': '可以自主管理路由策略，可以更好地控制网络流量。'}",
+            "time": "Tue Jun 20 12:04:48 2023"
+          },
+          {
+            "title": "内部网关协议 IGP (Interior Gateway Protocol) ",
+            "topics": [
+              {
+                "title": "内部网关协议 RIP",
+                "reply": "{'node_type': 'Concept', 'name': '内部网关协议 RIP', 'enName': 'Routing Information Protocol', 'definition': '一种路由协议，用于在网络中传播路由信息，以便路由器可以确定最佳路径。', 'features': '使用距离向量算法，支持最多15个跳，支持自动更新和自动发现。'}",
+                "time": "Tue Jun 20 12:05:18 2023"
+              },
+              {
+                "title": "内部网关协议 OSPF",
+                "reply": "{'node_type': 'Concept', 'name': '内部网关协议 OSPF', 'enName': 'OSPF', 'definition': '一种路由协议，用于计算最优路径，以便在网络中传输数据包。', 'features': '支持多种路由算法，可以根据网络状况自动调整路由。'}",
+                "time": "Tue Jun 20 12:05:34 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '内部网关协议 IGP', 'enName': 'Interior Gateway Protocol', 'definition': '用于在路由器之间传输路由信息的协议', 'features': '用于在路由器之间传输路由信息，可以支持多种路由协议，如OSPF、RIP等'}",
+            "time": "Tue Jun 20 12:04:58 2023"
+          },
+          {
+            "title": "外部网关协议 BGP (External Gateway Protocol)",
+            "reply": "{'node_type': 'Concept', 'name': '外部网关协议BGP', 'enName': 'External Gateway Protocol', 'definition': '一种路由协议，用于在不同网络之间传输数据包。', 'features': '可以跨越多个网络，支持路由更新，可以提供可靠的连接。'}",
+            "time": "Tue Jun 20 12:05:43 2023"
+          },
+          {
+            "title": "路由器的构成",
+            "topics": [
+              {
+                "title": "路由器的功能划分",
+                "topics": [
+                  {
+                    "title": "路由选择",
+                    "reply": "{'node_type': 'Concept', 'name': '路由选择', 'enName': 'Routing Selection', 'definition': '从多条可用路径中选择最优路径的过程。', 'features': '根据路径的可靠性、带宽、延迟等指标选择最优路径。'}",
+                    "time": "Tue Jun 20 12:06:21 2023"
+                  },
+                  {
+                    "title": "分组转发",
+                    "reply": "{'node_type': 'Concept', 'name': '分组转发', 'enName': 'Group Forwarding', 'definition': '将数据包按照某种规则发送到指定的网络中的过程。', 'features': '可以根据源地址、目的地址、端口号等信息进行分组转发。'}",
+                    "time": "Tue Jun 20 12:06:35 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '路由器的功能划分', 'enName': 'Router Function Division', 'definition': '将路由器的功能划分为数据链路层功能、网络层功能、传输层功能和应用层功能。', 'features': '路由器可以实现不同层次的功能，从而更好地控制网络流量。'}",
+                "time": "Tue Jun 20 12:06:08 2023"
+              },
+              {
+                "title": "路由器的分组转发结构",
+                "topics": [
+                  {
+                    "title": "交换结构",
+                    "reply": "{'node_type': 'Concept', 'name': '交换结构', 'enName': 'Swap Structure', 'definition': '一种将两个变量的值进行交换的结构。', 'features': '使用临时变量或者加减法进行交换。'}",
+                    "time": "Tue Jun 20 12:06:57 2023"
+                  },
+                  {
+                    "title": "输入端口",
+                    "reply": "{'node_type': 'Concept', 'name': '输入端口', 'enName': 'Input Port', 'definition': '计算机系统中用于接收外部输入信息的接口', 'features': '可以接收外部设备的输入信息，如键盘、鼠标等'}",
+                    "time": "Tue Jun 20 12:07:05 2023"
+                  },
+                  {
+                    "title": "输出端口",
+                    "reply": "{'node_type': 'Concept', 'name': '输出端口', 'enName': 'Output Port', 'definition': '用于将数据从计算机输出到外部设备的接口', 'features': '可以连接外部设备，如显示器、打印机、键盘等'}",
+                    "time": "Tue Jun 20 12:07:14 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '路由器的分组转发结构', 'enName': 'Router Group Forwarding Structure', 'definition': '路由器通过分组转发结构来实现数据包的转发，它将数据包的转发过程分为三个步骤：接收、查找和转发。', 'features': '分组转发结构可以有效地提高路由器的转发效率。'}",
+                "time": "Tue Jun 20 12:06:52 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '路由器的构成', 'enName': 'Router Composition', 'definition': '路由器是一种网络设备，用于连接网络，并将数据包从一个网络转发到另一个网络。', 'features': '由处理器、内存、存储器、接口卡、软件等组成。'}",
+            "time": "Tue Jun 20 12:05:54 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '因特网的路由选择协议', 'enName': 'Internet Routing Protocol', 'definition': '用于在因特网上传输数据的路由选择协议', 'features': '可以根据网络状况自动选择最优路径'}",
+        "time": "Tue Jun 20 12:04:07 2023"
+      },
+      {
+        "title": "IP 多播",
+        "topics": [
+          {
+            "title": "IP多播的基本概念",
+            "reply": "{'node_type': 'Concept', 'name': 'IP多播的基本概念', 'enName': 'IP Multicast Basics', 'definition': 'IP多播是一种网络技术，它允许一台主机发送一个消息到多个主机，而不需要发送多个消息。', 'features': 'IP多播可以有效地利用网络带宽，减少网络流量，并且可以支持多种应用，如视频会议、在线游戏等。'}",
+            "time": "Tue Jun 20 12:07:52 2023"
+          },
+          {
+            "title": "           在局域网上进行硬件多播",
+            "reply": "{'node_type': 'Concept', 'name': '在局域网上进行硬件多播', 'enName': 'Hardware Multicasting on Local Area Network', 'definition': '将一个数据包发送给多个接收端的技术', 'features': '可以有效地减少网络流量，提高网络性能。'}",
+            "time": "Tue Jun 20 12:08:08 2023"
+          },
+          {
+            "title": "  因特网组管理协议 IGMP ",
+            "reply": "{'node_type': 'Concept', 'name': '因特网组管理协议', 'enName': 'IGMP', 'definition': '一种用于管理组播网络的协议，它允许主机加入和退出组播组。', 'features': '可以支持多种组播类型，支持多播路由和多播转发。'}",
+            "time": "Tue Jun 20 12:08:22 2023"
+          },
+          {
+            "title": "多播路由选择协议",
+            "reply": "{'node_type': 'Concept', 'name': '多播路由选择协议', 'enName': 'Multicast Routing Protocol', 'definition': '一种用于确定多播数据包在网络中的传输路径的协议', 'features': '可以支持多播组的动态发现，并且可以支持多播树的构建和维护'}",
+            "time": "Tue Jun 20 12:08:36 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': 'IP多播', 'enName': 'IP Multicast', 'definition': 'IP多播是一种网络技术，允许一台计算机向多台计算机发送数据，而不需要将数据发送到每一台计算机。', 'features': '可以有效地利用网络资源，减少网络流量，提高网络传输效率。'}",
+        "time": "Tue Jun 20 12:07:27 2023"
+      },
+      {
+        "title": "           虚拟专用网 VPN",
+        "topics": [
+          {
+            "title": "VPN专用地址",
+            "topics": [
+              {
+                "title": "10.0.0.0 ~ 10.255.255.255",
+                "reply": "{'node_type': 'Concept', 'name': '10.0.0.0 ~ 10.255.255.255', 'enName': 'Class A IP Address', 'definition': 'A range of IP addresses from 10.0.0.0 to 10.255.255.255, used for large networks.', 'features': 'The first octet of the IP address is between 1 and 126, and the first bit is 0.'}",
+                "time": "Tue Jun 20 12:08:54 2023"
+              },
+              {
+                "title": "172.16.0.0 ~ 172.31.255.255",
+                "reply": "{'node_type': 'Concept', 'name': '172.16.0.0 ~ 172.31.255.255', 'enName': 'Class B Private IP Address', 'definition': 'IP地址段，用于私有网络，由172.16.0.0至172.31.255.255组成', 'features': '可以被用于私有网络，不能被用于公共网络'}",
+                "time": "Tue Jun 20 12:09:02 2023"
+              },
+              {
+                "title": "192.168.0.0 ~ 192.168.255.255",
+                "reply": "{'node_type': 'Concept', 'name': '192.168.0.0 ~ 192.168.255.255', 'enName': 'Class C IP Address Range', 'definition': 'IP地址范围，由三个8位二进制数组成，可容纳2^24个地址。', 'features': '第一个8位数为192，第二个8位数为168，第三个8位数范围为0~255。'}",
+                "time": "Tue Jun 20 12:09:17 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': 'VPN专用地址', 'enName': 'Private IP Address', 'definition': '一种用于VPN网络的私有IP地址，不能在Internet上使用。', 'features': '不可路由，只能在VPN网络内使用。'}",
+            "time": "Tue Jun 20 12:08:49 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '虚拟专用网', 'enName': 'VPN', 'definition': '一种可以在公共网络上模拟出私有网络的技术', 'features': '提供安全的连接，可以让用户在公共网络上安全地访问私有网络'}",
+        "time": "Tue Jun 20 12:08:44 2023"
+      },
+      {
+        "title": "          网络地址转换 NAT",
+        "reply": "{'node_type': 'Concept', 'name': '网络地址转换', 'enName': 'NAT', 'definition': '网络地址转换是一种网络技术，用于在私有IP地址和公共IP地址之间进行转换。', 'features': '可以将内部网络的私有IP地址转换为公共IP地址，从而保护内部网络的安全性。'}",
+        "time": "Tue Jun 20 12:09:32 2023"
+      }
+    ],
+    "reply": "{'node_type': 'Concept', 'name': '网络层', 'enName': 'Network Layer', 'definition': '网络层是计算机网络中的一个逻辑分层，负责处理网络中的数据传输和路由选择。', 'features': '负责网络数据的封装、路由选择和网络拓扑结构的维护。'}",
+    "time": "Tue Jun 20 11:53:20 2023"
+  },
+  {
+    "title": "物理层",
+    "topics": [
+      {
+        "title": "物理层的功能",
+        "reply": "{'node_type': 'Concept', 'name': '物理层的功能', 'enName': 'Physical Layer Function', 'definition': '物理层负责把比特流转换为实际的物理信号，以及把物理信号转换为比特流。', 'features': '物理层负责传输媒介的选择、信号的编码、接口的定义和物理连接的建立等。'}",
+        "time": "Tue Jun 20 12:09:58 2023"
+      },
+      {
+        "title": "数据通信",
+        "topics": [
+          {
+            "title": "物理层信道",
+            "topics": [
+              {
+                "title": "信道调制方法",
+                "topics": [
+                  {
+                    "title": "调幅(AM) ",
+                    "reply": "{'node_type': 'Concept', 'name': '调幅', 'enName': 'Amplitude Modulation', 'definition': '一种将信号的振幅调制到载波上的技术。', 'features': '可以传输多种信号，如声音、数据和图像。'},",
+                    "time": "Tue Jun 20 12:10:36 2023"
+                  },
+                  {
+                    "title": "调频(FM)",
+                    "reply": "{'node_type': 'Concept', 'name': '调频(FM)', 'enName': 'Frequency Modulation (FM)', 'definition': '调频是一种用来传输信号的技术，它将信号的频率变化作为信息的载体。', 'features': '调频技术比调幅技术更加稳定，具有更高的信噪比和抗干扰能力。'}",
+                    "time": "Tue Jun 20 12:10:54 2023"
+                  },
+                  {
+                    "title": "调相(PM) ",
+                    "reply": "{'node_type': 'Concept', 'name': '调相(PM)', 'enName': 'Phase Modulation', 'definition': '一种信号调制方式，它改变载波的相位而不改变载波的频率。', 'features': '相位变化可以用来传输信息，而不会影响载波的频率。'}",
+                    "time": "Tue Jun 20 12:11:08 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '信道调制方法', 'enName': 'Channel Modulation Methods', 'definition': '信道调制方法是指将信号转换为某种特定的形式，以便在信道中传输的过程。', 'features': '信道调制方法可以分为时域调制和频域调制两类。'}",
+                "time": "Tue Jun 20 12:10:28 2023"
+              },
+              {
+                "title": "信道分类",
+                "topics": [
+                  {
+                    "title": "双向同时通信（全双工通信）",
+                    "reply": "{'node_type': 'Concept', 'name': '双向同时通信（全双工通信）', 'enName': 'Full-Duplex Communication', 'definition': '双向同时通信是指双方可以同时发送和接收数据的通信方式。', 'features': '双方可以同时发送和接收数据，不会出现发送和接收的冲突。'}",
+                    "time": "Tue Jun 20 12:11:29 2023"
+                  },
+                  {
+                    "title": "双向交替通信（半双工通信）",
+                    "reply": "{'node_type': 'Concept', 'name': '双向交替通信（半双工通信）', 'enName': 'Half-duplex Communication', 'definition': '一种双向通信，但只能在两端同时发送或接收信息的一种通信方式。', 'features': '只能在两端同时发送或接收信息，不能同时发送和接收。'}",
+                    "time": "Tue Jun 20 12:11:45 2023"
+                  },
+                  {
+                    "title": "单向通信（单工通信）",
+                    "reply": "{'node_type': 'Concept', 'name': '单向通信（单工通信）', 'enName': 'One-way Communication (Simplex Communication)', 'definition': '仅在一个方向上传输信息的通信方式', 'features': '只能在一个方向上传输信息，不能双向传输'}",
+                    "time": "Tue Jun 20 12:11:52 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '信道分类', 'enName': 'Channel Classification', 'definition': '根据信道特性将信道分类的过程。', 'features': '分为单工信道、半双工信道和全双工信道。'}",
+                "time": "Tue Jun 20 12:11:17 2023"
+              },
+              {
+                "title": "极限容量",
+                "topics": [
+                  {
+                    "title": "信道能够通过的频率范围",
+                    "reply": "{'node_type': 'Concept', 'name': '信道能够通过的频率范围', 'enName': 'Channel Frequency Range', 'definition': '信道能够传输的频率范围，即信道的带宽。', 'features': '带宽越大，信道能够传输的信息量越大。'}",
+                    "time": "Tue Jun 20 12:12:13 2023"
+                  },
+                  {
+                    "title": "信噪比",
+                    "reply": "{'node_type': 'Concept', 'name': '信噪比', 'enName': 'Signal-to-Noise Ratio', 'definition': '衡量信号与噪声之间的比率。', 'features': '可以用来衡量信号的质量和可靠性。'}",
+                    "time": "Tue Jun 20 12:12:20 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '极限容量', 'enName': 'Capacity Limit', 'definition': '指系统的最大处理能力，即系统能够处理的最大数量或量级。', 'features': '极限容量是一个确定的数值，它可以用来衡量系统的最大处理能力。'}",
+                "time": "Tue Jun 20 12:12:06 2023"
+              },
+              {
+                "title": "信道的极限信息传输速率",
+                "reply": "{'node_type': 'Concept', 'name': '信道的极限信息传输速率', 'enName': 'Channel Capacity', 'definition': '信道的最大信息传输速率，它是信道的理论上的极限值。', 'features': '受信道的物理特性和信号处理技术的限制，实际传输速率不可能达到极限信息传输速率。'}",
+                "time": "Tue Jun 20 12:12:36 2023"
+              },
+              {
+                "title": "信道复用技术",
+                "topics": [
+                  {
+                    "title": "频分复用 FDM(Frequency Division Multiplexing) ",
+                    "reply": "{'node_type': 'Concept', 'name': '频分复用', 'enName': 'Frequency Division Multiplexing', 'definition': '将信号的频率分割成多个子信号，以实现多路信号的同时传输的技术。', 'features': '将频率范围分割成多个子频段，每个子频段传输一路信号，实现多路信号的同时传输。'}",
+                    "time": "Tue Jun 20 12:12:56 2023"
+                  },
+                  {
+                    "title": "时分复用TDM(Time Division Multiplexing) ",
+                    "reply": "{'node_type': 'Concept', 'name': '时分复用TDM', 'enName': 'Time Division Multiplexing', 'definition': '一种通信技术，通过将一个信道分割成多个独立的时间段，从而实现多路复用。', 'features': '每个时间段只能传输一个信息，传输速率固定，不受信息长度的影响。'}",
+                    "time": "Tue Jun 20 12:13:07 2023"
+                  },
+                  {
+                    "title": "统计时分复用 STDM\u000b(Statistic TDM)  ",
+                    "reply": "{'node_type': 'Concept', 'name': '统计时分复用', 'enName': 'STDM', 'definition': '一种时分复用技术，用于提高时分复用系统的效率。', 'features': '采用统计方法来分配时隙，以提高时分复用系统的效率。'}",
+                    "time": "Tue Jun 20 12:13:25 2023"
+                  },
+                  {
+                    "title": "波分复用 WDM(Wavelength Division Multiplexing)  ",
+                    "reply": "{'node_type': 'Concept', 'name': '波分复用', 'enName': 'Wavelength Division Multiplexing', 'definition': '波分复用是一种将多个信号在同一光纤上传输的技术，它通过将多个信号分配不同的波长来实现复用。', 'features': '波分复用可以有效地提高光纤的传输容量，并且可以支持多种信号的传输。'},",
+                    "time": "Tue Jun 20 12:13:38 2023"
+                  },
+                  {
+                    "title": "码分复用 CDM(Code Division Multiplexing)  ",
+                    "reply": "{'node_type': 'Concept', 'name': '码分复用 CDM(Code Division Multiplexing)', 'enName': 'Code Division Multiplexing', 'definition': '一种信号复用技术，通过分配独特的码来将多个信号混合在一起，以提高信道的利用率。', 'features': '使用独特的码来将多个信号混合在一起，以提高信道的利用率，并且不会受到其他信号的干扰。'},",
+                    "time": "Tue Jun 20 12:13:57 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '信道复用技术', 'enName': 'Channel Multiplexing', 'definition': '将多个信号混合在一起，通过单个信道传输的技术。', 'features': '可以有效利用信道资源，提高信道的利用率。'}",
+                "time": "Tue Jun 20 12:12:44 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '物理层信道', 'enName': 'Physical Layer Channel', 'definition': '物理层信道是指在物理层上传输数据的媒介，它可以是电缆、线圈、空气或者光纤等。', 'features': '物理层信道可以提供物理连接，它可以提供信号传输的媒介，并且可以提供信号的传输特性。'}",
+            "time": "Tue Jun 20 12:10:18 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '数据通信', 'enName': 'Data Communication', 'definition': '数据通信是指两个或多个计算机之间通过网络传输数据的过程。', 'features': '可以实现远程传输，可以传输大量的数据，可以实现多种形式的数据传输。'}",
+        "time": "Tue Jun 20 12:10:09 2023"
+      },
+      {
+        "title": "物理层下面的传输媒体",
+        "topics": [
+          {
+            "title": "导向传输媒体",
+            "topics": [
+              {
+                "title": "双绞线",
+                "topics": [
+                  {
+                    "title": "屏蔽双绞线 STP (Shielded Twisted Pair)",
+                    "reply": "{'node_type': 'Concept', 'name': '屏蔽双绞线 STP', 'enName': 'Shielded Twisted Pair', 'definition': '由多根绞合的铜线组成，外部包裹一层屏蔽层的电缆。', 'features': '具有较强的抗干扰能力，可以有效地抑制外部电磁干扰。'}",
+                    "time": "Tue Jun 20 12:14:47 2023"
+                  },
+                  {
+                    "title": "无屏蔽双绞线 UTP (Unshielded Twisted Pair) ",
+                    "reply": "{'node_type': 'Concept', 'name': '无屏蔽双绞线 UTP', 'enName': 'Unshielded Twisted Pair', 'definition': '由多股绞合的普通电缆，不带屏蔽层，用于数据传输。', 'features': '低成本，易于安装，但受外界干扰较大。'}",
+                    "time": "Tue Jun 20 12:14:56 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '双绞线', 'enName': 'Twisted Pair', 'definition': '由两根绞合的导线组成的电缆，用于数据传输。', 'features': '具有良好的电磁屏蔽性能，可以有效抑制外界的干扰。'}",
+                "time": "Tue Jun 20 12:14:37 2023"
+              },
+              {
+                "title": "同轴电缆",
+                "topics": [
+                  {
+                    "title": "50 Ω同轴电缆",
+                    "reply": "{'node_type': 'Concept', 'name': '50Ω同轴电缆', 'enName': '50 Ohm Coaxial Cable', 'definition': '一种由中心导体和外层绝缘体组成的电缆，其中中心导体和外层绝缘体之间的阻抗为50Ω。', 'features': '具有良好的电磁屏蔽性能，可以有效地阻止外界的电磁干扰。'}",
+                    "time": "Tue Jun 20 12:15:21 2023"
+                  },
+                  {
+                    "title": "75 Ω 同轴电缆",
+                    "reply": "{'node_type': 'Concept', 'name': '75Ω同轴电缆', 'enName': '75 Ohm Coaxial Cable', 'definition': '由一根中心导体和一层绝缘体组成的电缆，其中中心导体和绝缘体之间由一层屏蔽层隔开。', 'features': '具有良好的电磁屏蔽性能，可以有效地阻止外界的干扰。'}",
+                    "time": "Tue Jun 20 12:15:32 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '同轴电缆', 'enName': 'Coaxial Cable', 'definition': '由一根中心导体和一个外绝缘层组成的电缆。', 'features': '具有良好的电磁屏蔽性能，可以有效阻止外部电磁干扰。'}",
+                "time": "Tue Jun 20 12:15:06 2023"
+              },
+              {
+                "title": "光缆 ",
+                "topics": [
+                  {
+                    "title": "光缆工作原理",
+                    "reply": "{'node_type': 'Concept', 'name': '光缆工作原理', 'enName': 'Optical Cable Working Principle', 'definition': '光缆是一种以光纤为载体，以各种绝缘材料为外壳，用以传输信号的电缆。', 'features': '光缆内部的光纤可以将电信号转换为光信号，并在光缆内传输，从而实现信号的传输。'}",
+                    "time": "Tue Jun 20 12:15:55 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '光缆', 'enName': 'Optical Cable', 'definition': '由多根光纤组成的电缆，用于传输光信号。', 'features': '可以传输大量的信息，传输距离更远，传输速度更快。'},",
+                "time": "Tue Jun 20 12:15:41 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '导向传输媒体', 'enName': 'Guided Transmission Media', 'definition': '以线缆或光纤作为传输介质的传输媒体，其信号受到线缆或光纤的导向性影响。', 'features': '信号受到线缆或光纤的导向性影响，可以传输大量的数据，传输距离远，传输速率高，安全性高。'}",
+            "time": "Tue Jun 20 12:14:23 2023"
+          },
+          {
+            "title": "非导向传输媒体",
+            "topics": [
+              {
+                "title": "卫星通信  ",
+                "reply": "{'node_type': 'Concept', 'name': '卫星通信', 'enName': 'Satellite Communication', 'definition': '利用卫星作为中继器，将信号发射到太空，再由卫星转发到地面接收站的通信技术。', 'features': '可以覆盖大范围，但是传输延迟较大。'}",
+                "time": "Tue Jun 20 12:16:18 2023"
+              },
+              {
+                "title": "地面微波接力通信",
+                "reply": "{'node_type': 'Concept', 'name': '地面微波接力通信', 'enName': 'Ground Microwave Relay Communication', 'definition': '地面微波接力通信是一种利用微波技术，在地面建立一系列微波接力站，实现远距离通信的技术。', 'features': '可以实现高速、高效的远距离通信，并且可以抵抗一定程度的干扰。'}",
+                "time": "Tue Jun 20 12:16:33 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '非导向传输媒体', 'enName': 'Non-Guided Transmission Media', 'definition': '不需要任何导引设备的传输媒体，可以自由传播信号。', 'features': '无需发射机或接收机，可以自由传播信号。'}",
+            "time": "Tue Jun 20 12:16:07 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '物理层下面的传输媒体', 'enName': 'Transmission Media', 'definition': '用于传输数据的物理介质，包括有线和无线。', 'features': '有线传输媒体包括电缆、光纤等；无线传输媒体包括空气、水等。'}",
+        "time": "Tue Jun 20 12:14:12 2023"
+      },
+      {
+        "title": "数字传输系统",
+        "topics": [
+          {
+            "title": "脉码调制 PCM 体制",
+            "reply": "{'node_type': 'Concept', 'name': '脉码调制PCM体制', 'enName': 'Pulse Code Modulation System', 'definition': '一种将模拟信号转换为数字信号的技术，通过采样、量化和编码来实现。', 'features': '采样率、量化位数和编码方式是决定PCM体制质量的关键因素。'}",
+            "time": "Tue Jun 20 12:16:59 2023"
+          },
+          {
+            "title": "同步光纤网 SONET",
+            "reply": "{'node_type': 'Concept', 'name': '同步光纤网 SONET', 'enName': 'Synchronous Optical Network (SONET)', 'definition': '一种用于传输数据的标准，它使用光纤网络来传输数据，并且可以支持多种协议。', 'features': '支持高速传输，可以支持多种协议，可以提供高可靠性和可靠性。'}",
+            "time": "Tue Jun 20 12:17:22 2023"
+          },
+          {
+             "title": "同步数字系列 SDH",
+             "reply": "{'node_type': 'Concept', 'name': '同步数字系列 SDH', 'enName': 'Synchronous Digital Hierarchy (SDH)', 'definition': '一种用于传输数据的标准，它使用数字信号来传输数据，并且可以支持多种协议。', 'features': '支持高速传输，可以支持多种协议，可以提供高可靠性和可靠性。'}",
+             "time": "Tue Jun 20 12:17:22 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '数字传输系统', 'enName': 'Digital Transmission System', 'definition': '一种将数字信号以某种形式传输的系统', 'features': '可以实现高效的数据传输，并且可以提供高质量的传输服务。'}",
+        "time": "Tue Jun 20 12:16:41 2023"
+      },
+      {
+        "title": "宽带接入技术",
+        "topics": [
+          {
+            "title": "xDSL技术",
+            "reply": "{'node_type': 'Concept', 'name': 'xDSL技术', 'enName': 'xDSL Technology', 'definition': 'xDSL技术是一种数字电话线上的高速数据传输技术，可以提供高速的宽带数据服务。', 'features': '可以提供高速的宽带数据服务，支持多种数据传输协议，可以提供高质量的服务。'}",
+            "time": "Tue Jun 20 12:17:47 2023"
+          },
+          {
+            "title": "光纤同轴混合网（HFC 网）",
+            "reply": "{'node_type': 'Concept', 'name': '光纤同轴混合网（HFC 网）', 'enName': 'Hybrid Fiber Coaxial Network (HFC)', 'definition': '一种由光纤和同轴电缆组成的网络，用于传输数据、语音和视频信号。', 'features': '可以提供高带宽，可以支持多种服务，如数据、语音和视频服务。'},",
+            "time": "Tue Jun 20 12:17:59 2023"
+          },
+          {
+            "title": "FTTx 技术",
+            "reply": "{'node_type': 'Concept', 'name': 'FTTx 技术', 'enName': 'FTTx Technology', 'definition': '光纤到户技术，是指将光纤直接连接到用户家庭，提供高速宽带服务的技术。', 'features': '可以提供更高的传输速率，更低的延迟，更高的稳定性，更好的信号质量。'}",
+            "time": "Tue Jun 20 12:18:14 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '宽带接入技术', 'enName': 'Broadband Access Technology', 'definition': '宽带接入技术是指使用宽带技术，如ADSL、FTTH、FTTB等，将用户连接到互联网的技术。', 'features': '支持高带宽，可以提供高速的数据传输服务。'}",
+        "time": "Tue Jun 20 12:17:33 2023"
+      }
+    ],
+    "reply": "{'node_type': 'Concept', 'name': '物理层', 'enName': 'Physical Layer', 'definition': '物理层是计算机网络中最底层的一层，负责定义网络设备之间的物理连接方式，以及传输媒介的选择。', 'features': '负责网络设备之间的物理连接，以及传输媒介的选择。'}",
+    "time": "Tue Jun 20 12:09:44 2023"
+  }
+]
+}

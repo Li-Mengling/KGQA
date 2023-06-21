@@ -1,0 +1,617 @@
+{"title": "并发、并行与分布式",
+"reply": "{'node_type': 'Topic', 'name': '并发、并行与分布式', 'enName': 'Concurrency, parallelism, and distribution', 'definition': 'None', 'features': 'None'}",
+"topics": 
+[
+  {
+    "title": "并发",
+    "topics": [
+      {
+        "title": "高并发",
+        "reply": "{'node_type': 'Concept', 'name': '高并发', 'enName': 'High Concurrency', 'definition': '指系统能够同时处理大量并发请求的能力', 'features': '需要考虑系统的性能、可用性、可扩展性等因素'}",
+        "time": "Wed Jun  7 10:25:25 2023"
+      }
+    ],
+    "reply": "{'node_type': 'Concept', 'name': '并发', 'enName': 'Concurrency', 'definition': '同时处理多个任务的能力', 'features': '可以提高系统的效率和吞吐量'}",
+    "time": "Wed Jun  7 10:25:14 2023"
+  },
+  {
+    "title": "并行",
+    "reply": "{'node_type': 'Concept', 'name': '并行', 'enName': 'Parallel', 'definition': '同时进行多个任务的处理方式。', 'features': '可以提高处理效率，减少处理时间。'}",
+    "time": "Wed Jun  7 10:25:31 2023"
+  },
+  {
+    "title": "分布式系统",
+    "topics": [
+      {
+        "title": "分片",
+        "reply": "{'node_type': 'Concept', 'name': '分片', 'enName': 'Sharding', 'definition': '将数据库中的数据按照某种规则分割成多个部分，每个部分存储在不同的服务器上，以提高数据库的性能和可用性。', 'features': '可以提高数据库的性能和可用性，可以支持大规模数据的存储和处理。'}",
+        "time": "Wed Jun  7 10:26:12 2023"
+      },
+      {
+        "title": "分布式",
+        "reply": "{'node_type': 'Concept', 'name': '分布式', 'enName': 'Distributed', 'definition': '分布式系统是一种将计算任务分布到多台计算机上进行处理的系统。', 'features': '分布式系统可以提高系统的可用性、可靠性和可扩展性。'}",
+        "time": "Wed Jun  7 10:26:25 2023"
+      },
+      {
+        "title": "集群",
+        "reply": "{'node_type': 'Concept', 'name': '集群', 'enName': 'Cluster', 'definition': '由多台计算机组成的网络系统，它们共享资源，共同完成任务，以提高系统的可靠性和可扩展性。', 'features': '可以实现负载均衡，提高系统的可用性和性能。'}",
+        "time": "Wed Jun  7 10:26:45 2023"
+      },
+      {
+        "title": "分布式计算",
+        "topics": [
+          {
+            "title": "离线计算",
+            "topics": [
+              {
+                "title": "MapReduce",
+                "reply": "{'node_type': 'Concept', 'name': 'MapReduce', 'enName': 'MapReduce', 'definition': '分布式计算框架，用于处理大规模数据集的编程模型。', 'features': '由Map和Reduce两个阶段组成，Map阶段将输入数据集分割成若干个子集，Reduce阶段将子集的计算结果进行合并。'}",
+                "time": "Wed Jun  7 10:27:40 2023"
+              },
+              {
+                "title": "离线计算框架",
+                "topics": [
+                  {
+                    "title": "Hadoop",
+                    "reply": "{'node_type': 'Concept', 'name': 'Hadoop', 'enName': 'Hadoop', 'definition': '一个开源的分布式计算框架，用于大规模数据处理和分析。', 'features': '支持大规模数据的分布式存储和处理，支持容错机制，支持自动故障恢复。'}",
+                    "time": "Wed Jun  7 10:28:08 2023"
+                  },
+                  {
+                    "title": "Spark",
+                    "reply": "{'node_type': 'Concept', 'name': 'Spark', 'enName': 'Spark', 'definition': '一种快速、可扩展的大数据处理引擎，可以用于处理海量数据集。', 'features': '支持多种数据源，提供多种编程模型，支持实时处理和机器学习等功能。'}",
+                    "time": "Wed Jun  7 10:28:23 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '离线计算框架', 'enName': 'Offline Computing Framework', 'definition': '一种用于离线计算的框架，可以在不连接到网络的情况下运行。', 'features': '可以在离线状态下运行，可以提供更高的安全性和可靠性。'}",
+                "time": "Wed Jun  7 10:27:52 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '离线计算', 'enName': 'Offline Computing', 'definition': '不需要实时连接到网络的计算技术。', 'features': '可以在离线状态下进行计算，不受网络状态的影响。'}",
+            "time": "Wed Jun  7 10:27:21 2023"
+          },
+          {
+            "title": "实时计算",
+            "topics": [
+              {
+                "title": "流式计算",
+                "reply": "{'node_type': 'Concept', 'name': '流式计算', 'enName': 'Stream Computing', 'definition': '一种实时处理大量数据的计算模型，其中数据以流的形式进入计算系统，并以流的形式输出结果。', 'features': '可以实时处理大量数据，支持实时分析和计算。'}",
+                "time": "Wed Jun  7 10:29:01 2023"
+              },
+              {
+                "title": "Storm",
+                "reply": "{'node_type': 'Concept', 'name': '暴风', 'enName': 'Storm', 'definition': '一种分布式实时计算系统，用于处理大量数据流。', 'features': '可以处理实时和批处理数据，支持多种语言，提供高可用性和容错性。'}",
+                "time": "Wed Jun  7 10:29:18 2023"
+              },
+              {
+                "title": "akka",
+                "reply": "{'node_type': 'Concept', 'name': 'Akka', 'enName': 'Akka', 'definition': 'Akka是一个用于构建高性能、可伸缩、可靠的分布式应用程序的框架。', 'features': '支持多种编程语言，提供弹性分布式系统，支持容错和自动恢复。'}",
+                "time": "Wed Jun  7 10:29:32 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '实时计算', 'enName': 'Real-Time Computing', 'definition': '实时计算是一种计算技术，它可以在规定的时间内完成计算任务，并且能够满足实时应用的要求。', 'features': '实时计算可以提供实时反应，并且可以处理大量的数据。'}",
+            "time": "Wed Jun  7 10:28:42 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '分布式计算', 'enName': 'Distributed Computing', 'definition': '将一个大任务分解成若干个小任务，分别由多台计算机处理，最后将处理结果进行合并的计算方式。', 'features': '可以提高计算效率，提高系统的可靠性和可扩展性。'}",
+        "time": "Wed Jun  7 10:27:05 2023"
+      },
+      {
+        "title": "分布式存储",
+        "topics": [
+          {
+            "title": "分布式存储软件",
+            "topics": [
+              {
+                "title": "分布式存储文件系统",
+                "topics": [
+                  {
+                    "title": "HDFS",
+                    "reply": "{'node_type': 'Concept', 'name': 'HDFS', 'enName': 'Hadoop Distributed File System', 'definition': '分布式文件系统，用于存储大量数据，支持高容错性和可扩展性。', 'features': '支持大文件的存储，支持数据的容错性，支持数据的可扩展性。'}",
+                    "time": "Wed Jun  7 10:30:50 2023"
+                  },
+                  {
+                    "title": "GFS",
+                    "reply": "{'node_type': 'Concept', 'name': 'GFS', 'enName': 'Google File System', 'definition': '分布式文件系统，由Google开发，用于存储和管理大量数据。', 'features': '支持高吞吐量，可靠性高，可以处理大量的并发读写请求。'}",
+                    "time": "Wed Jun  7 10:31:05 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '分布式存储文件系统', 'enName': 'Distributed Storage File System', 'definition': '分布式存储文件系统是一种将文件存储在多台计算机上的文件系统。', 'features': '可以提供高可用性、可扩展性和容错性，可以支持大规模数据的存储和访问。'}",
+                "time": "Wed Jun  7 10:30:31 2023"
+              },
+              {
+                "title": "分布式存储键值系统",
+                "topics": [
+                  {
+                    "title": "Amazon Dynamo",
+                    "reply": "{'node_type': 'Concept', 'name': '亚马逊Dynamo', 'enName': 'Amazon Dynamo', 'definition': '一种分布式键值存储系统，用于提供可靠的、可扩展的和高可用的服务。', 'features': '支持多种数据类型，提供高可用性，支持灾难恢复，支持自动数据复制和分布式计算。'}",
+                    "time": "Wed Jun  7 10:31:40 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '分布式存储键值系统', 'enName': 'Distributed Storage Key-Value System', 'definition': '一种分布式存储系统，通过键值对的方式存储数据，可以实现高可用性和高性能。', 'features': '可以实现分布式存储，可以支持高可用性和高性能。'}",
+                "time": "Wed Jun  7 10:31:23 2023"
+              },
+              {
+                "title": "分布式存储表格",
+                "topics": [
+                  {
+                    "title": "Hbase存储表格",
+                    "reply": "{'node_type': 'Concept', 'name': 'Hbase存储表格', 'enName': 'Hbase', 'definition': '分布式面向列的非关系型数据库，支持高可用性和可伸缩性。', 'features': '支持海量数据的存储和实时访问，支持多种数据结构，支持多种查询方式。'}",
+                    "time": "Wed Jun  7 10:32:11 2023"
+                  },
+                  {
+                    "title": "bigTable",
+                    "reply": "{'node_type': 'Concept', 'name': '大表', 'enName': 'Big Table', 'definition': '一种可以存储大量数据的数据结构，具有高效的查询和更新性能。', 'features': '可以支持大量数据的存储，支持高效的查询和更新操作。'}",
+                    "time": "Wed Jun  7 10:32:27 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '分布式存储表格', 'enName': 'Distributed Storage Table', 'definition': '分布式存储表格是一种将数据分布式存储在多台服务器上的数据存储结构。', 'features': '可以实现高可用性和高可扩展性，支持大规模数据的存储和访问。'}",
+                "time": "Wed Jun  7 10:31:59 2023"
+              },
+              {
+                "title": "分布式存储数据库",
+                "reply": "{'node_type': 'Concept', 'name': '分布式存储数据库', 'enName': 'Distributed Storage Database', 'definition': '分布式存储数据库是一种将数据分布到多个节点上的数据库，可以提供更高的可用性和可扩展性。', 'features': '支持多种数据模型，可以提供更高的可用性和可扩展性，可以支持大规模的数据处理。'}",
+                "time": "Wed Jun  7 10:32:51 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '分布式存储软件', 'enName': 'Distributed Storage Software', 'definition': '分布式存储软件是一种可以将数据分散存储在不同节点上的软件。', 'features': '可以实现数据的容错性，可以提高存储空间的利用率，可以提高数据的可用性。'}",
+            "time": "Wed Jun  7 10:30:15 2023"
+          },
+          {
+            "title": "分布式存储的特性",
+            "topics": [
+              {
+                "title": "分布",
+                "reply": "{'node_type': 'Concept', 'name': '分布', 'enName': 'Distribution', 'definition': '指的是数据在不同取值上的分布情况，是数据描述的一种方式。', 'features': '可以用直方图、折线图、饼状图等图形来表示数据的分布情况。'}",
+                "time": "Wed Jun  7 10:33:52 2023"
+              },
+              {
+                "title": "冗余",
+                "reply": "{'node_type': 'Concept', 'name': '冗余', 'enName': 'Redundancy', 'definition': '重复存储或传输信息的一种技术，以提高可靠性和容错性。', 'features': '可以检测和纠正错误，提高系统的可靠性。'}",
+                "time": "Wed Jun  7 10:34:07 2023"
+              },
+              {
+                "title": "分布一致性",
+                "reply": "{'node_type': 'Concept', 'name': '分布一致性', 'enName': 'Consistency', 'definition': '指系统中数据的一致性，即数据在多个节点上的一致性。', 'features': '在分布式系统中，一致性是指系统中多个节点上的数据保持一致，即使在多个节点上进行了更新操作，也能保证数据的一致性。'}",
+                "time": "Wed Jun  7 10:34:28 2023"
+              },
+              {
+                "title": "容错",
+                "reply": "{'node_type': 'Concept', 'name': '容错', 'enName': 'Fault Tolerance', 'definition': '容错是指系统在出现故障时，能够继续正常运行的能力。', 'features': '可以检测和恢复系统中的故障，以保证系统的可靠性。'}",
+                "time": "Wed Jun  7 10:34:49 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '分布式存储的特性', 'enName': 'Distributed Storage Characteristics', 'definition': '分布式存储是指将数据分布在多个节点上的存储技术，具有高可用性、可扩展性、容错性等特性。', 'features': '高可用性：分布式存储系统可以提供高可用性，即使某个节点出现故障，也不会影响整个系统的正常运行。可扩展性：分布式存储系统可以根据需要动态扩展存储容量。容错性：分布式存储系统可以提供容错性，即使某个节点出现故障，也不会影响整个系统的正常运行。'}",
+            "time": "Wed Jun  7 10:33:41 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '分布式存储', 'enName': 'Distributed Storage', 'definition': '将数据分散存储在不同的节点上，以提高可用性和可靠性的存储方式。', 'features': '可以提供更高的可用性和可靠性，可以支持大规模的数据存储。'}",
+        "time": "Wed Jun  7 10:29:49 2023"
+      },
+      {
+        "title": "分布式系统理论",
+        "topics": [
+          {
+            "title": "中心化",
+            "reply": "{'node_type': 'Concept', 'name': '中心化', 'enName': 'Centralization', 'definition': '将数据和控制权集中在一个位置的过程。', 'features': '可以提高系统的效率和可靠性，但也会带来安全风险。'}",
+            "time": "Wed Jun  7 10:35:22 2023"
+          },
+          {
+            "title": "去中心化",
+            "reply": "{'node_type': 'Concept', 'name': '去中心化', 'enName': 'Decentralization', 'definition': '去中心化是指把一个系统中的控制权和决策权从一个中心转移到多个节点，从而使系统更加分散、可靠和安全。', 'features': '去中心化的系统更加安全，因为没有单一的点可以被攻击，也更加可靠，因为系统中的每个节点都可以提供服务。'}",
+            "time": "Wed Jun  7 10:35:49 2023"
+          },
+          {
+            "title": "CAP理论",
+            "topics": [
+              {
+                "title": "CAP理论的组成",
+                "topics": [
+                  {
+                    "title": "一致性",
+                    "reply": "{'node_type': 'Concept', 'name': '一致性', 'enName': 'Consistency', 'definition': '指系统中的数据在某一时刻的一致性。', 'features': '系统中的数据在某一时刻必须处于一致状态，以保证系统的正确性。'}",
+                    "time": "Wed Jun  7 10:36:56 2023"
+                  },
+                  {
+                    "title": "可用性",
+                    "reply": "{'node_type': 'Concept', 'name': '可用性', 'enName': 'Usability', 'definition': '可用性是指软件或系统的易用性，即用户能够轻松、有效地使用该软件或系统。', 'features': '可用性考虑了用户的使用习惯、需求和技能，以及软件或系统的功能、界面和性能。'}",
+                    "time": "Wed Jun  7 10:37:15 2023"
+                  },
+                  {
+                    "title": "分区容错性",
+                    "reply": "{'node_type': 'Concept', 'name': '分区容错性', 'enName': 'Partition Tolerance', 'definition': '指系统能够在网络分区出现时，仍然能够继续正常运行的能力。', 'features': '可以在网络分区出现时，仍然能够继续正常运行，但是可能会出现数据不一致的情况。'}",
+                    "time": "Wed Jun  7 10:37:35 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': 'CAP理论的组成', 'enName': 'Components of CAP Theory', 'definition': 'CAP理论是一种分布式系统的理论，它由三个要素组成：可用性、分区容错性和一致性。', 'features': '可用性：系统中的所有请求都能够得到响应；分区容错性：系统中的部分节点可以失效，但系统仍然可以正常工作；一致性：系统中的数据在所有节点上保持一致。'}",
+                "time": "Wed Jun  7 10:36:42 2023"
+              },
+              {
+                "title": "CAP选择策略",
+                "topics": [
+                  {
+                    "title": "CA",
+                    "topics": [
+                      {
+                        "title": "CA典型系统",
+                        "topics": [
+                          {
+                            "title": "Mysql",
+                            "reply": "{'node_type': 'Concept', 'name': 'MySQL', 'enName': 'MySQL', 'definition': '关系型数据库管理系统，用于存储和管理数据', 'features': '支持多种数据类型，支持多种数据库查询语言，支持多种安全控制机制'}",
+                            "time": "Wed Jun  7 10:38:51 2023"
+                          },
+                          {
+                            "title": "oracle",
+                            "reply": "{'node_type': 'Concept', 'name': 'Oracle', 'enName': 'Oracle', 'definition': '一种关系型数据库管理系统，可以处理大量的数据，并且提供高可用性和安全性。', 'features': '支持多种数据库技术，提供可靠的数据保护和安全性。'}",
+                            "time": "Wed Jun  7 10:39:12 2023"
+                          }
+                        ],
+                        "reply": "{'node_type': 'Concept', 'name': 'CA典型系统', 'enName': 'Cellular Automata Typical System', 'definition': '一种由简单的规则控制的复杂系统，其中每个细胞都有一定的状态，并且可以根据周围细胞的状态改变自身状态。', 'features': '每个细胞都有自己的状态，并且可以根据周围细胞的状态改变自身状态，从而形成复杂的系统。'}",
+                        "time": "Wed Jun  7 10:38:35 2023"
+                      }
+                    ],
+                    "reply": "{'node_type': 'Concept', 'name': 'CA', 'enName': 'Cellular Automata', 'definition': '一种模拟现实世界的计算机模型，由一系列的简单规则控制着网格中的状态变化。', 'features': '每个网格的状态只受其相邻网格的状态影响，可以实现复杂的行为。'}",
+                    "time": "Wed Jun  7 10:38:09 2023"
+                  },
+                  {
+                    "title": "CP",
+                    "topics": [
+                      {
+                        "title": "CP典型系统",
+                        "topics": [
+                          {
+                            "title": "Zookeeper系统",
+                            "reply": "{'node_type': 'Concept', 'name': 'Zookeeper系统', 'enName': 'Zookeeper', 'definition': '分布式协调服务，用于管理分布式系统中的配置共享和服务发现', 'features': '提供分布式锁、选举和共享配置等功能'}",
+                            "time": "Wed Jun  7 10:40:09 2023"
+                          },
+                          {
+                            "title": "redis",
+                            "reply": "{'node_type': 'Concept', 'name': 'Redis', 'enName': 'Redis', 'definition': 'Redis是一个开源的、支持多种数据结构的内存数据库。', 'features': '支持数据持久化，支持主从复制，支持事务处理，支持数据压缩，支持多种数据结构。'}",
+                            "time": "Wed Jun  7 10:40:21 2023"
+                          },
+                          {
+                            "title": "Hbase",
+                            "reply": "{'node_type': 'Concept', 'name': 'Hbase', 'enName': 'HBase', 'definition': '分布式非关系型数据库，支持高可用性和可伸缩性。', 'features': '支持高并发读写，支持海量数据的存储和处理，支持实时查询。'}",
+                            "time": "Wed Jun  7 10:40:33 2023"
+                          }
+                        ],
+                        "reply": "{'node_type': 'Concept', 'name': 'CP典型系统', 'enName': 'CP Typical System', 'definition': '一种操作系统，它提供了一种统一的接口，可以让用户访问和控制多个计算机系统。', 'features': '可以实现资源共享，提高计算机系统的可靠性和可用性。'}",
+                        "time": "Wed Jun  7 10:39:54 2023"
+                      }
+                    ],
+                    "reply": "{'node_type': 'Concept', 'name': 'CP', 'enName': 'Critical Path', 'definition': '一种用于计算项目总时间的管理方法，它把项目中的活动排列成一个有向无环图，并找出最长的路径，即关键路径。', 'features': '关键路径上的活动时间不能延迟，否则会影响整个项目的完成时间。'}",
+                    "time": "Wed Jun  7 10:39:33 2023"
+                  },
+                  {
+                    "title": "AP",
+                    "topics": [
+                      {
+                        "title": "AP典型系统",
+                        "topics": [
+                          {
+                            "title": "Eureka",
+                            "reply": "{'node_type': 'Concept', 'name': '欧瑞卡', 'enName': 'Eureka', 'definition': '一种分布式服务发现框架，用于帮助服务提供者发现和注册服务，以及帮助服务消费者发现服务。', 'features': '支持多种注册中心，支持负载均衡，支持多种客户端，支持多种服务调用方式。'}",
+                            "time": "Wed Jun  7 10:41:32 2023"
+                          }
+                        ],
+                        "reply": "{'node_type': 'Concept', 'name': 'AP典型系统', 'enName': 'Cellular Automata Typical System', 'definition': '一种由一组有限的规则控制的简单计算机系统，它可以模拟复杂的行为。', 'features': '每个细胞都是一个状态机，它们可以根据周围细胞的状态和一组规则来更新自身的状态。'}",
+                        "time": "Wed Jun  7 10:41:14 2023"
+                      }
+                    ],
+                    "reply": "{'node_type': 'Concept', 'name': 'AP', 'enName': 'Access Point', 'definition': '无线网络接入点，用于连接无线网络设备和有线网络设备。', 'features': '可以支持多种无线网络协议，支持多种安全加密方式，可以支持多种无线网络技术。'}",
+                    "time": "Wed Jun  7 10:40:54 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': 'CAP选择策略', 'enName': 'CAP Selection Strategy', 'definition': 'CAP理论是一种分布式系统中的一致性模型，它提出了一种在可用性和一致性之间进行权衡的策略。', 'features': '可以在可用性和一致性之间进行权衡，以满足不同的业务需求。'}",
+                "time": "Wed Jun  7 10:37:52 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': 'CAP理论', 'enName': 'CAP Theory', 'definition': 'CAP理论指出，在分布式系统中，最多只能同时满足一致性、可用性和分区容错性三者之中的两项。', 'features': '提出了一致性、可用性和分区容错性三者之间的矛盾，指出在分布式系统中，最多只能同时满足两项。'}",
+            "time": "Wed Jun  7 10:36:09 2023"
+          },
+          {
+            "title": "Base理论",
+            "topics": [
+              {
+                "title": "基本可用",
+                "reply": "{'node_type': 'Concept', 'name': '基本可用', 'enName': 'Basic Availability', 'definition': '指系统在指定的时间段内，可以提供服务的能力。', 'features': '提供可靠的服务，保证系统的可用性。'}",
+                "time": "Wed Jun  7 10:42:26 2023"
+              },
+              {
+                "title": "软状态",
+                "reply": "{'node_type': 'Concept', 'name': '软状态', 'enName': 'Soft State', 'definition': '指系统中的状态可以随时间变化的状态。', 'features': '可以自动恢复，不需要人为干预。'}",
+                "time": "Wed Jun  7 10:42:51 2023"
+              },
+              {
+                "title": "最终一致性",
+                "topics": [
+                  {
+                    "title": "强一致性",
+                    "reply": "{'node_type': 'Concept', 'name': '强一致性', 'enName': 'Strong Consistency', 'definition': '一种数据一致性模型，要求所有节点在同一时刻看到相同的数据副本。', 'features': '所有节点在同一时刻看到相同的数据副本，每次读操作都会返回最新的数据。'}",
+                    "time": "Wed Jun  7 10:43:39 2023"
+                  },
+                  {
+                    "title": "弱一致性",
+                    "reply": "{'node_type': 'Concept', 'name': '弱一致性', 'enName': 'Weak Consistency', 'definition': '一种数据一致性模型，允许在分布式系统中的多个副本之间存在一定的数据不一致性。', 'features': '比强一致性更快，但可能会出现数据不一致的情况。'}",
+                    "time": "Wed Jun  7 10:43:52 2023"
+                  },
+                  {
+                    "title": "因果一致性",
+                    "reply": "{'node_type': 'Concept', 'name': '因果一致性', 'enName': 'Causal Consistency', 'definition': '一种数据一致性模型，它保证在分布式系统中，如果一个操作的结果可见，那么它之前的所有操作也必须可见。', 'features': '可以保证操作的原子性，并且可以保证操作的有序性。'}",
+                    "time": "Wed Jun  7 10:44:16 2023"
+                  },
+                  {
+                    "title": "会话一致性",
+                    "reply": "{'node_type': 'Concept', 'name': '会话一致性', 'enName': 'Session Consistency', 'definition': '保证用户在一次会话中访问的数据是一致的。', 'features': '保证用户在一次会话中访问的数据不会受到其他用户的影响。'}",
+                    "time": "Wed Jun  7 10:44:29 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '最终一致性', 'enName': 'Eventual Consistency', 'definition': '一种数据一致性模型，它保证在一定时间内，所有节点的数据最终会达到一致的状态。', 'features': '弱一致性，可以支持高可用性，但是可能会出现数据不一致的情况。'}",
+                "time": "Wed Jun  7 10:43:24 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '基数理论', 'enName': 'Base Theory', 'definition': '基数理论是一种数学理论，用于描述和分析数字系统中的数字表示和计算过程。', 'features': '基数理论提供了一种统一的框架，用于描述和分析数字系统中的数字表示和计算过程。'}",
+            "time": "Wed Jun  7 10:42:10 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '分布式系统理论', 'enName': 'Distributed System Theory', 'definition': '分布式系统理论是一种研究网络中多台计算机之间的协作工作的理论。', 'features': '分布式系统理论涉及到多台计算机之间的通信、同步、容错等问题。'}",
+        "time": "Wed Jun  7 10:35:07 2023"
+      },
+      {
+        "title": "分布式通信",
+        "topics": [
+          {
+            "title": "RPC",
+            "reply": "{'node_type': 'Concept', 'name': '远程过程调用', 'enName': 'RPC', 'definition': '一种通过网络从远程计算机程序上请求服务的通信机制。', 'features': '可以让远程服务器上的函数像本地函数一样调用。'}",
+            "time": "Wed Jun  7 10:45:01 2023"
+          },
+          {
+            "title": "WebService",
+            "reply": "{'node_type': 'Concept', 'name': 'WebService', 'enName': 'Web Service', 'definition': '一种软件系统，用于支持可以在网络上交换信息的计算机应用程序之间的通信。', 'features': '支持跨平台，可以支持多种编程语言，可以支持多种网络协议。'}",
+            "time": "Wed Jun  7 10:45:30 2023"
+          },
+          {
+            "title": "RMI",
+            "reply": "{'node_type': 'Concept', 'name': 'RMI', 'enName': 'Remote Method Invocation', 'definition': '远程方法调用，是一种通过网络从远程计算机程序上请求服务的机制。', 'features': '支持跨越多种不同操作系统的网络编程，可以实现跨网络的对象访问和调用。'}",
+            "time": "Wed Jun  7 10:46:03 2023"
+          },
+          {
+            "title": "JMS",
+            "topics": [
+              {
+                "title": "消息队列",
+                "reply": "{'node_type': 'Concept', 'name': '消息队列', 'enName': 'Message Queue', 'definition': '一种用于在不同应用程序之间传递消息的技术。', 'features': '可以实现消息的异步传输，支持消息的缓存和持久化。'}",
+                "time": "Wed Jun  7 10:46:42 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': 'JMS', 'enName': 'Java Message Service', 'definition': 'Java消息服务是一种用于应用程序之间进行异步通信的API。', 'features': '支持发布/订阅模式，支持消息持久性，支持消息传递的事务性。'}",
+            "time": "Wed Jun  7 10:46:21 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '分布式通信', 'enName': 'Distributed Communication', 'definition': '分布式通信是指在分布式系统中，多个节点之间通过网络进行通信的过程。', 'features': '通信可以是同步或异步，可以是点对点或广播。'}",
+        "time": "Wed Jun  7 10:44:47 2023"
+      },
+      {
+        "title": "分布式算法",
+        "topics": [
+          {
+            "title": "复制",
+            "topics": [
+              {
+                "title": "状态机复制",
+                "reply": "{'node_type': 'Concept', 'name': '状态机复制', 'enName': 'State Machine Replication', 'definition': '一种分布式系统中的复制策略，用于确保多个副本之间的一致性。', 'features': '每个副本都有自己的状态，并且可以接收和处理消息，以确保多个副本之间的一致性。'}",
+                "time": "Wed Jun  7 10:47:37 2023"
+              },
+              {
+                "title": "复制状态机",
+                "reply": "{'node_type': 'Concept', 'name': '复制状态机', 'enName': 'Replication State Machine', 'definition': '一种用于管理复制状态的抽象机制，可以检测和解决复制中的冲突。', 'features': '可以检测和解决复制中的冲突，保证复制的一致性。'}",
+                "time": "Wed Jun  7 10:47:49 2023"
+              },
+              {
+                "title": "主备复制",
+                "reply": "{'node_type': 'Concept', 'name': '主备复制', 'enName': 'Master-Slave Replication', 'definition': '一种数据库复制技术，用于将主数据库中的数据复制到备份数据库中，以确保数据的安全性和可用性。', 'features': '主备复制可以提高数据库的可用性，并且可以实现数据的实时备份。'}",
+                "time": "Wed Jun  7 10:48:08 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '复制', 'enName': 'Copy', 'definition': '将数据从一个位置复制到另一个位置的操作。', 'features': '可以复制文件、文件夹、文本等。'}",
+            "time": "Wed Jun  7 10:47:16 2023"
+          },
+          {
+            "title": "Paxos",
+            "topics": [
+              {
+                "title": "提案节点",
+                "reply": "{'node_type': 'Concept', 'name': '提案节点', 'enName': 'Proposal Node', 'definition': '提案节点是一种用于提出改变系统状态的投票机制。', 'features': '提案节点可以收集社区成员的意见，以便更好地决定系统状态的改变。'}",
+                "time": "Wed Jun  7 10:48:36 2023"
+              },
+              {
+                "title": "决策节点",
+                "reply": "{'node_type': 'Concept', 'name': '决策节点', 'enName': 'Decision Node', 'definition': '决策节点是一种控制流程的节点，它根据某种条件决定流程的下一步操作。', 'features': '可以根据条件分支，控制流程的走向。'}",
+                "time": "Wed Jun  7 10:48:50 2023"
+              },
+              {
+                "title": "记录节点",
+                "reply": "{'node_type': 'Concept', 'name': '记录节点', 'enName': 'Record Node', 'definition': '一种数据结构，由一个或多个字段组成，每个字段可以存储不同类型的数据。', 'features': '可以存储不同类型的数据，可以按照字段进行排序。'}",
+                "time": "Wed Jun  7 10:49:06 2023"
+              },
+              {
+                "title": "Paxos准备阶段",
+                "reply": "{'node_type': 'Concept', 'name': 'Paxos准备阶段', 'enName': 'Paxos Prepare Phase', 'definition': 'Paxos算法中的一个阶段，用于确定哪些提案可以被接受。', 'features': '在这个阶段，提案者发送一个“准备”消息，其他参与者可以接受或拒绝这个提案。'}",
+                "time": "Wed Jun  7 10:49:22 2023"
+              },
+              {
+                "title": "Paxos批准阶段",
+                "reply": "{'node_type': 'Concept', 'name': 'Paxos批准阶段', 'enName': 'Paxos Approval Phase', 'definition': 'Paxos算法中的一个阶段，用于确定一个值的最终接受者。', 'features': '采用多数派原则，确保接受者拥有最终接受的值。'}",
+                "time": "Wed Jun  7 10:49:36 2023"
+              },
+              {
+                "title": "Multi Paxos",
+                "reply": "{'node_type': 'Concept', 'name': '多Paxos', 'enName': 'Multi Paxos', 'definition': '一种分布式系统的一致性算法，用于在多个复制服务器之间达成一致。', 'features': '使用多个阶段提议，以确保一致性，并允许多个服务器之间的并发操作。'}",
+                "time": "Wed Jun  7 10:49:50 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': 'Paxos', 'enName': 'Paxos', 'definition': '一种分布式一致性算法，用于在分布式系统中达成一致的共识。', 'features': '可以处理失败的节点，可以保证一致性。'}",
+            "time": "Wed Jun  7 10:48:22 2023"
+          },
+          {
+            "title": "分布式选举算法",
+            "topics": [
+              {
+                "title": "Bully",
+                "reply": "{'node_type': 'Concept', 'name': 'Bully', 'enName': 'Bully Algorithm', 'definition': '一种分布式算法，用于在网络中选择一个最高等级的进程作为网络的协调者。', 'features': '采用投票机制，以确定最高等级的进程。'}",
+                "time": "Wed Jun  7 10:50:26 2023"
+              },
+              {
+                "title": "Raft",
+                "reply": "{'node_type': 'Concept', 'name': 'Raft', 'enName': 'Raft', 'definition': 'Raft是一种分布式一致性算法，用于管理分布式系统中的多个服务器之间的状态同步。', 'features': 'Raft提供了一种简单的方法来管理多个服务器之间的状态同步，并且可以恢复系统在故障情况下的状态。'}",
+                "time": "Wed Jun  7 10:50:50 2023"
+              },
+              {
+                "title": "ZAB",
+                "reply": "{'node_type': 'Concept', 'name': 'ZAB', 'enName': 'Zigzag Array Binary Tree', 'definition': '一种二叉树，其中每个结点都有一个值和两个指向子结点的指针，其中一个指针指向左子结点，另一个指针指向右子结点，并且每个结点的值都是唯一的。', 'features': '每个结点的值都是唯一的，并且每个结点只有两个子结点，一个指向左子结点，一个指向右子结点。'}",
+                "time": "Wed Jun  7 10:51:15 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '分布式选举算法', 'enName': 'Distributed Election Algorithm', 'definition': '一种用于在分布式系统中选择一个节点作为领导者的算法。', 'features': '可以在网络中的多个节点之间进行选举，并且可以处理网络分区和节点故障的情况。'}",
+            "time": "Wed Jun  7 10:50:08 2023"
+          },
+          {
+            "title": "Gosslp协议",
+            "reply": "{'node_type': 'Concept', 'name': 'Gossip协议', 'enName': 'Gossip Protocol', 'definition': '一种分布式协议，用于在分布式系统中传播信息。', 'features': '使用节点之间的双向通信，以及随机选择节点的方式来传播信息。'}",
+            "time": "Wed Jun  7 10:51:27 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '分布式算法', 'enName': 'Distributed Algorithms', 'definition': '分布式算法是指在分布式系统中执行的算法，它们可以解决分布式系统中的问题。', 'features': '分布式算法可以利用分布式系统中的多个节点来同时执行任务，从而提高系统的效率。'}",
+        "time": "Wed Jun  7 10:47:06 2023"
+      },
+      {
+        "title": "分布式调用",
+        "topics": [
+          {
+            "title": "服务发现",
+            "topics": [
+              {
+                "title": "服务发现-注册",
+                "reply": "{'node_type': 'Concept', 'name': '服务发现-注册', 'enName': 'Service Discovery-Registration', 'definition': '一种分布式服务，用于跟踪和管理网络中的服务，以便客户端可以发现和使用它们。', 'features': '提供服务发现和注册功能，使客户端可以发现和使用服务。'}",
+                "time": "Wed Jun  7 10:52:17 2023"
+              },
+              {
+                "title": "服务发现-维护",
+                "reply": "{'node_type': 'Concept', 'name': '服务发现-维护', 'enName': 'Service Discovery and Maintenance', 'definition': '服务发现-维护是一种分布式系统中的一种技术，用于管理和维护系统中的服务实例。', 'features': '可以实时发现服务实例的变化，并能够自动更新服务实例的状态。'}",
+                "time": "Wed Jun  7 10:52:41 2023"
+              },
+              {
+                "title": "服务发现-发现",
+                "reply": "{'node_type': 'Concept', 'name': '服务发现-发现', 'enName': 'Service Discovery-Discovery', 'definition': '服务发现是一种技术，它可以帮助计算机系统自动发现网络中的服务，从而实现自动化管理和部署。', 'features': '可以自动发现网络中的服务，实现自动化管理和部署。'}",
+                "time": "Wed Jun  7 10:52:55 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '服务发现', 'enName': 'Service Discovery', 'definition': '一种分布式架构中的技术，用于自动发现网络中的服务，并将服务与其它服务或客户端进行连接。', 'features': '可以自动发现网络中的服务，并将服务与其它服务或客户端进行连接，提高系统的可用性和可靠性。'}",
+            "time": "Wed Jun  7 10:51:59 2023"
+          },
+          {
+            "title": "分布式网关",
+            "reply": "{'node_type': 'Concept', 'name': '分布式网关', 'enName': 'Distributed Gateway', 'definition': '一种分布式系统，能够支持多个网络节点之间的通信。', 'features': '可以提供路由、安全、管理等功能，可以支持多种协议，可以支持多种网络设备。'}",
+            "time": "Wed Jun  7 10:53:15 2023"
+          },
+          {
+            "title": "负载均衡",
+            "reply": "{'node_type': 'Concept', 'name': '负载均衡', 'enName': 'Load Balancing', 'definition': '将网络流量分摊到多台服务器上，以提高系统的可用性和性能的技术。', 'features': '可以提高系统的可用性和性能，减少单台服务器的负载，提高系统的稳定性。'}",
+            "time": "Wed Jun  7 10:53:34 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '分布式调用', 'enName': 'Distributed Call', 'definition': '分布式调用是指在分布式系统中，多个节点之间通过网络进行远程调用的过程。', 'features': '可以实现跨网络的远程调用，可以提高系统的可用性和可扩展性。'}",
+        "time": "Wed Jun  7 10:51:41 2023"
+      },
+      {
+        "title": "分布式事务",
+        "topics": [
+          {
+            "title": "基于XA的二阶段提交",
+            "reply": "{'node_type': 'Concept', 'name': '基于XA的二阶段提交', 'enName': 'Two-Phase Commit Based on XA', 'definition': '一种分布式事务处理机制，它能够保证多个分布式系统中的事务在一起提交或回滚。', 'features': '使用XA接口，支持多种数据库和消息中间件，可以实现跨越多个系统的事务处理。'}",
+            "time": "Wed Jun  7 10:54:08 2023"
+          },
+          {
+            "title": "三阶段提交",
+            "reply": "{'node_type': 'Concept', 'name': '三阶段提交', 'enName': 'Three-Phase Commit', 'definition': '一种分布式事务处理算法，用于确保在多个参与者之间的事务完成或失败。', 'features': '提供了一致性和可靠性，确保事务的原子性，提供了恢复机制。'}",
+            "time": "Wed Jun  7 10:54:27 2023"
+          },
+          {
+            "title": "分布式消息的最终一致性",
+            "reply": "{'node_type': 'Concept', 'name': '分布式消息的最终一致性', 'enName': 'Distributed Message Final Consistency', 'definition': '分布式消息最终一致性是指在分布式系统中，所有节点最终都能够达到一致的状态。', 'features': '在分布式系统中，消息的最终一致性可以保证所有节点最终能够达到一致的状态，从而避免出现不一致的情况。'}",
+            "time": "Wed Jun  7 10:54:48 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '分布式事务', 'enName': 'Distributed Transactions', 'definition': '在多个数据库系统中执行的事务，它们可以跨越多个本地事务，以确保数据的一致性。', 'features': '支持事务的原子性、一致性、隔离性和持久性。'}",
+        "time": "Wed Jun  7 10:53:50 2023"
+      },
+      {
+        "title": "分布式锁",
+        "topics": [
+          {
+            "title": "分布式锁实现方式",
+            "topics": [
+              {
+                "title": "Redis缓存",
+                "reply": "{'node_type': 'Concept', 'name': 'Redis缓存', 'enName': 'Redis Cache', 'definition': 'Redis是一种开源的内存数据库，用于存储键值对，可以用于缓存数据。', 'features': '支持多种数据类型，支持持久化，支持分布式部署。'}",
+                "time": "Wed Jun  7 10:55:39 2023"
+              },
+              {
+                "title": "Zookeeper",
+                "reply": "{'node_type': 'Concept', 'name': 'Zookeeper', 'enName': 'Zookeeper', 'definition': '分布式协调服务，用于管理分布式应用程序的配置和状态信息。', 'features': '提供一致性服务，可以实现锁定，通知和命名服务。'}",
+                "time": "Wed Jun  7 10:55:51 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '分布式锁实现方式', 'enName': 'Distributed Lock Implementation', 'definition': '分布式锁是一种用于解决分布式系统中的共享资源竞争问题的技术，它通过在多个节点上控制访问权限来实现对共享资源的互斥访问。', 'features': '分布式锁实现方式包括基于数据库的实现、基于Redis的实现、基于Zookeeper的实现等。'}",
+            "time": "Wed Jun  7 10:55:25 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '分布式锁', 'enName': 'Distributed Lock', 'definition': '分布式锁是一种用于解决分布式系统中的资源竞争问题的锁定机制。', 'features': '分布式锁可以跨越多个服务器，以保证资源的安全性和一致性。'}",
+        "time": "Wed Jun  7 10:55:03 2023"
+      },
+      {
+        "title": "分布式缓存",
+        "topics": [
+          {
+            "title": "持久化",
+            "topics": [
+              {
+                "title": "RDB",
+                "reply": "{'node_type': 'Concept', 'name': '关系数据库', 'enName': 'Relational Database', 'definition': '由表、行和列组成的数据库，表之间可以建立关系。', 'features': '支持SQL查询，可以实现数据的结构化存储和管理。'}",
+                "time": "Wed Jun  7 10:56:58 2023"
+              },
+              {
+                "title": "AOF",
+                "reply": "{'node_type': 'Concept', 'name': 'AOF', 'enName': 'Abstract Object File', 'definition': 'AOF是一种用于存储抽象数据类型的文件格式', 'features': 'AOF可以存储复杂的数据结构，并且可以被多种语言读取和写入'}",
+                "time": "Wed Jun  7 10:57:08 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '持久化', 'enName': 'Persistence', 'definition': '将数据从内存中永久保存到外部存储设备的过程。', 'features': '持久化可以使数据在程序关闭后仍然存在，可以在程序重新启动时使用。'}",
+            "time": "Wed Jun  7 10:56:44 2023"
+          },
+          {
+            "title": "主备同步",
+            "topics": [
+              {
+                "title": "完整量同步",
+                "reply": "{'node_type': 'Concept', 'name': '完整量同步', 'enName': 'Full-quantity Synchronization', 'definition': '指在计算机网络中，两端节点之间的数据同步，使得两端的数据完全一致。', 'features': '完整量同步可以保证两端节点的数据完全一致，但会消耗更多的网络带宽。'}",
+                "time": "Wed Jun  7 10:57:39 2023"
+              },
+              {
+                "title": "部份量同步",
+                "reply": "{'node_type': 'Concept', 'name': '部份量同步', 'enName': 'Partial Quantity Synchronization', 'definition': '一种分布式系统中的数据同步技术，可以实现部分数据的同步，以提高系统的效率。', 'features': '可以实现部分数据的同步，比全量同步更加高效。'}",
+                "time": "Wed Jun  7 10:57:51 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '主备同步', 'enName': 'Master-Slave Synchronization', 'definition': '一种数据同步技术，用于将主服务器上的数据同步到备份服务器上。', 'features': '可以实现实时同步，保证数据的一致性。'}",
+            "time": "Wed Jun  7 10:57:22 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '分布式缓存', 'enName': 'Distributed Cache', 'definition': '分布式缓存是一种分布式存储系统，用于在多台计算机之间共享数据，以提高系统的性能和可用性。', 'features': '可以提供高可用性和可伸缩性，可以支持多种数据类型，并且可以支持多种缓存策略。'}",
+        "time": "Wed Jun  7 10:56:32 2023"
+      }
+    ],
+    "reply": "{'node_type': 'Concept', 'name': '分布式系统', 'enName': 'Distributed System', 'definition': '由多台计算机组成的系统，它们之间通过网络进行通信和协作。', 'features': '每台计算机可以独立运行，但是可以协同完成更复杂的任务。'}",
+    "time": "Wed Jun  7 10:25:49 2023"
+  }
+]
+}

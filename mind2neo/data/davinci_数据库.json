@@ -1,0 +1,1154 @@
+{
+  "title": "数据库",
+  "reply": "{'node_type': 'Concept', 'name': '数据库', 'enName': 'database', 'definition': 'None', 'features': 'None'}",
+"topics":[
+  {
+    "title": "数据库系统（DBS）",
+    "topics": [
+      {
+        "title": "模式",
+        "reply": "{'node_type': 'Concept', 'name': '模式', 'enName': 'Pattern', 'definition': '一种抽象的、可重复使用的解决方案，用于解决特定的设计问题。', 'features': '可以被用于设计模式、编程模式、架构模式等。'}",
+        "time": "Tue Jun 13 10:20:58 2023"
+      },
+      {
+        "title": "内模式",
+        "reply": "{'node_type': 'Concept', 'name': '内模式', 'enName': 'Internal Mode', 'definition': '内模式是指计算机系统在处理指令时，指令和数据都存储在内存中的一种模式。', 'features': '内模式比外模式更快，但是需要更多的内存空间。'}",
+        "time": "Tue Jun 13 10:21:07 2023"
+      },
+      {
+        "title": "外模式",
+        "reply": "{'node_type': 'Concept', 'name': '外模式', 'enName': 'External Sorting', 'definition': '外模式是一种排序算法，它将大型文件分割成较小的部分，然后对每个部分进行排序，最后将排序后的部分合并成一个有序的文件。', 'features': '外模式可以处理大量数据，但是排序速度较慢，因为它需要多次读写文件。'}",
+        "time": "Tue Jun 13 10:21:20 2023"
+      },
+      {
+        "title": "外模式/模式映像",
+        "reply": "{'node_type': 'Concept', 'name': '外模式/模式映像', 'enName': 'External Mode/Mode Image', 'definition': '一种把模式描述的图形按照一定的规则编码成一组数字，以便存储和传输的方法。', 'features': '可以将模式描述的图形以数字的形式存储和传输，比较容易处理。'}",
+        "time": "Tue Jun 13 10:21:33 2023"
+      },
+      {
+        "title": "模式/内模式映像",
+        "reply": "{'node_type': 'Concept', 'name': '模式/内模式映像', 'enName': 'Pattern/Intra-Pattern Image', 'definition': '一种数据结构，用于表示一组相关的数据，并且可以检测和识别特定的模式。', 'features': '可以检测和识别特定的模式，并且可以用于模式识别和机器学习。'}",
+        "time": "Tue Jun 13 10:21:46 2023"
+      },
+      {
+        "title": "数据库系统特点",
+        "topics": [
+          {
+            "title": "数据结构化",
+            "reply": "{'node_type': 'Concept', 'name': '数据结构化', 'enName': 'Data Structuring', 'definition': '将数据组织成有意义的结构，以便于更好地操作和管理数据的过程。', 'features': '将数据按照特定的方式组织，以便更好地操作和管理数据。'}",
+            "time": "Tue Jun 13 10:22:10 2023"
+          },
+          {
+            "title": "独立性高",
+            "reply": "{'node_type': 'Concept', 'name': '独立性高', 'enName': 'High Independence', 'definition': '指软件系统中的各个模块之间的耦合度较低，可以独立开发、维护和替换的特性。', 'features': '模块之间可以独立开发，更容易维护和替换。'}",
+            "time": "Tue Jun 13 10:22:20 2023"
+          },
+          {
+            "title": "易扩展",
+            "reply": "{'node_type': 'Concept', 'name': '易扩展', 'enName': 'Scalability', 'definition': '指软件系统能够根据需要增加资源以满足增加的工作负荷的能力。', 'features': '可以按需增加资源，以满足不断增加的工作负荷。'}",
+            "time": "Tue Jun 13 10:22:29 2023"
+          },
+          {
+            "title": "由DBMS统一管理",
+            "reply": "{'node_type': 'Concept', 'name': '由DBMS统一管理', 'enName': 'DBMS Management', 'definition': '由数据库管理系统统一管理数据库的操作。', 'features': '可以有效地管理数据库，提高数据库的安全性和可靠性。'}",
+            "time": "Tue Jun 13 10:22:38 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '数据库系统特点', 'enName': 'Database System Characteristics', 'definition': '数据库系统是一种支持数据共享、安全性和数据独立性的系统。', 'features': '支持数据共享、安全性和数据独立性，支持多用户访问，支持数据恢复和完整性检查。'}",
+        "time": "Tue Jun 13 10:21:59 2023"
+      },
+      {
+        "title": "数据库系统构成",
+        "topics": [
+          {
+            "title": "数据库",
+            "reply": "{'node_type': 'Topic', 'name': '数据库', 'enName': 'Database', 'definition': '用于存储和管理数据的系统', 'features': '支持数据的安全存储、检索和更新。'}",
+            "time": "Tue Jun 13 10:23:02 2023"
+          },
+          {
+            "title": "数据库管理系统",
+            "reply": "{'node_type': 'Concept', 'name': '数据库管理系统', 'enName': 'Database Management System', 'definition': '用于管理数据库的软件系统，它提供了一组用于存储、检索和管理数据的功能。', 'features': '支持数据安全、数据一致性、数据独立性和数据共享。'}",
+            "time": "Tue Jun 13 10:23:14 2023"
+          },
+          {
+            "title": "应用程序",
+            "reply": "{'node_type': 'Concept', 'name': '应用程序', 'enName': 'Application', 'definition': '计算机程序，用于完成特定任务的软件。', 'features': '可以安装在计算机上，用于完成特定任务。'}",
+            "time": "Tue Jun 13 10:23:22 2023"
+          },
+          {
+            "title": "管理员",
+            "reply": "{'node_type': 'Concept', 'name': '管理员', 'enName': 'Administrator', 'definition': '负责系统管理的用户，具有最高权限，可以对系统进行配置和管理。', 'features': '拥有最高权限，可以对系统进行配置和管理。'}",
+            "time": "Tue Jun 13 10:23:29 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '数据库系统构成', 'enName': 'Database System Structure', 'definition': '由数据库管理系统、数据库应用程序和数据库数据组成的系统', 'features': '数据库管理系统负责数据库的管理，数据库应用程序负责数据库的操作，数据库数据负责存储数据。'}",
+        "time": "Tue Jun 13 10:22:52 2023"
+      }
+    ],
+    "reply": "{'node_type': 'Concept', 'name': '数据库系统（DBS）', 'enName': 'Database System', 'definition': '一种用于存储和管理数据的软件系统', 'features': '提供了数据的安全性、可靠性和一致性，以及数据的独立性和共享性。'}",
+    "time": "Tue Jun 13 10:20:46 2023"
+  },
+  {
+    "title": "数据库管理系统（DBMS）",
+    "topics": [
+      {
+        "title": "DBMS用途",
+        "topics": [
+          {
+            "title": "数据存储管理",
+            "reply": "{'node_type': 'Concept', 'name': '数据存储管理', 'enName': 'Data Storage Management', 'definition': '管理数据存储的过程，包括存储空间的分配、数据的组织和检索等。', 'features': '可以有效地管理数据，提高数据存储的效率。'}",
+            "time": "Tue Jun 13 10:24:05 2023"
+          },
+          {
+            "title": "数据操作",
+            "reply": "{'node_type': 'Concept', 'name': '数据操作', 'enName': 'Data Operation', 'definition': '指对数据进行检索、更新、删除等操作的过程。', 'features': '可以对数据进行查询、更新、删除等操作。'}",
+            "time": "Tue Jun 13 10:24:15 2023"
+          },
+          {
+            "title": "数据维护",
+            "reply": "{'node_type': 'Concept', 'name': '数据维护', 'enName': 'Data Maintenance', 'definition': '指数据库系统中对数据的维护，包括数据的添加、删除、修改和查询等操作。', 'features': '数据维护是数据库系统中的基本操作，它可以保证数据的准确性和完整性。'}",
+            "time": "Tue Jun 13 10:24:29 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': 'DBMS用途', 'enName': 'DBMS Usage', 'definition': '数据库管理系统的用途，是一种用于存储和管理数据的软件系统。', 'features': '可以提供安全性、可靠性和可扩展性，以及支持多用户访问和数据共享。'}",
+        "time": "Tue Jun 13 10:23:55 2023"
+      },
+      {
+        "title": "DBMS功能",
+        "topics": [
+          {
+            "title": "数据库管理",
+            "reply": "{'node_type': 'Concept', 'name': '数据库管理', 'enName': 'Database Management', 'definition': '管理数据库的系统，用于存储、组织、检索和更新数据。', 'features': '提供数据安全性、数据一致性和数据独立性。'}",
+            "time": "Tue Jun 13 10:24:47 2023"
+          },
+          {
+            "title": "数据库维护",
+            "reply": "{'node_type': 'Concept', 'name': '数据库维护', 'enName': 'Database Maintenance', 'definition': '维护数据库的过程，包括检查数据库的完整性、更新数据库的结构、清理无用的数据等。', 'features': '数据库维护可以保证数据库的正确性和可用性，并且可以提高数据库的性能。'}",
+            "time": "Tue Jun 13 10:24:58 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': 'DBMS功能', 'enName': 'DBMS Functionality', 'definition': '数据库管理系统（DBMS）提供的功能，用于管理数据库中的数据。', 'features': '支持数据安全性、数据一致性、数据独立性、数据共享和数据恢复。'}",
+        "time": "Tue Jun 13 10:24:40 2023"
+      }
+    ],
+    "reply": "{'node_type': 'Concept', 'name': '数据库管理系统（DBMS）', 'enName': 'Database Management System (DBMS)', 'definition': '一种用于管理数据库的软件系统', 'features': '可以提供数据安全性，数据一致性，数据独立性，数据共享性等功能'}",
+    "time": "Tue Jun 13 10:23:40 2023"
+  },
+  {
+    "title": "数据库（DB）",
+    "topics": [
+      {
+        "title": "数据库特点",
+        "topics": [
+          {
+            "title": "易扩展",
+            "reply": "{'node_type': 'Concept', 'name': '易扩展', 'enName': 'Scalability', 'definition': '指系统能够根据需要增加资源以满足增长的需求。', 'features': '可以横向扩展，即增加节点，也可以纵向扩展，即增加节点的资源。'}",
+            "time": "Tue Jun 13 10:25:31 2023"
+          },
+          {
+            "title": "独立性高",
+            "reply": "{'node_type': 'Concept', 'name': '独立性高', 'enName': 'High Independence', 'definition': '指程序的模块之间相互独立，不会因为其他模块的变化而发生变化。', 'features': '可以更容易地进行模块的重用和维护。'}",
+            "time": "Tue Jun 13 10:25:39 2023"
+          },
+          {
+            "title": "可共享",
+            "reply": "{'node_type': 'Concept', 'name': '可共享', 'enName': 'Sharing', 'definition': '指计算机系统中的资源可以被多个用户同时使用。', 'features': '可以实现资源的有效利用，提高系统的性能。'}",
+            "time": "Tue Jun 13 10:25:47 2023"
+          },
+          {
+            "title": "低冗余",
+            "reply": "{'node_type': 'Concept', 'name': '低冗余', 'enName': 'Low Redundancy', 'definition': '指在存储或传输数据时，尽可能减少冗余信息，以达到节省空间和时间的目的。', 'features': '减少数据的存储空间和传输时间，提高数据的传输效率。'}",
+            "time": "Tue Jun 13 10:25:57 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '数据库特点', 'enName': 'Database Characteristics', 'definition': '数据库特点是指数据库系统的一些特性，包括安全性、可靠性、可维护性、可扩展性等。', 'features': '安全性、可靠性、可维护性、可扩展性等。'}",
+        "time": "Tue Jun 13 10:25:21 2023"
+      }
+    ],
+    "reply": "{'node_type': 'Concept', 'name': '数据库', 'enName': 'Database', 'definition': '一组按照某种结构组织的数据的集合，用于存储、管理和检索数据。', 'features': '可以提供安全性、可靠性和数据独立性。'}",
+    "time": "Tue Jun 13 10:25:09 2023"
+  },
+  {
+    "title": "数据模型",
+    "topics": [
+      {
+        "title": "数据模型组成",
+        "topics": [
+          {
+            "title": "数据结构",
+            "reply": "{'node_type': 'Concept', 'name': '数据结构', 'enName': 'Data Structure', 'definition': '数据结构是指将数据元素组织成一定的逻辑结构，以便进行有效的存取和管理的过程。', 'features': '数据结构可以分为线性结构和非线性结构，其中线性结构包括栈、队列、数组等，非线性结构包括树、图等。'}",
+            "time": "Tue Jun 13 10:26:31 2023"
+          },
+          {
+            "title": "数据操作",
+            "reply": "{'node_type': 'Concept', 'name': '数据操作', 'enName': 'Data Operation', 'definition': '对数据进行检索、更新、插入和删除等操作的过程。', 'features': '可以操作数据库中的数据，实现数据的增删改查。'}",
+            "time": "Tue Jun 13 10:26:39 2023"
+          },
+          {
+            "title": "完整性约束",
+            "reply": "{'node_type': 'Concept', 'name': '完整性约束', 'enName': 'Integrity Constraints', 'definition': '数据库中数据的完整性要求，用来确保数据的正确性和一致性。', 'features': '可以分为实体完整性、参照完整性和用户定义完整性。'}",
+            "time": "Tue Jun 13 10:26:49 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '数据模型组成', 'enName': 'Data Model Components', 'definition': '数据模型由实体、属性、关系和约束组成。', 'features': '实体描述事物，属性描述实体的特征，关系描述实体之间的联系，约束描述数据的规则。'}",
+        "time": "Tue Jun 13 10:26:15 2023"
+      },
+      {
+        "title": "概念模型",
+        "topics": [
+          {
+            "title": "E-R模型",
+            "reply": "{'node_type': 'Concept', 'name': 'E-R模型', 'enName': 'Entity-Relationship Model', 'definition': '用于描述数据库结构的概念模型，它由实体、实体属性和实体间的关系构成。', 'features': '实体间的关系可以是一对一、一对多或多对多的关系。'}",
+            "time": "Tue Jun 13 10:27:06 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '概念模型', 'enName': 'Conceptual Model', 'definition': '一种抽象的、用于表示实体和实体之间关系的数据模型', 'features': '通过抽象和简化的方式表示实体和实体之间的关系，以及实体的属性'}",
+        "time": "Tue Jun 13 10:26:58 2023"
+      },
+      {
+        "title": "逻辑模型",
+        "topics": [
+          {
+            "title": "层次模型",
+            "reply": "{'node_type': 'Concept', 'name': '层次模型', 'enName': 'Hierarchical Model', 'definition': '一种数据库模型，以树状结构表示数据，其中每个节点都有一个父节点和零个或多个子节点。', 'features': '支持多种查询操作，如路径查询和子树查询。'}",
+            "time": "Tue Jun 13 10:27:30 2023"
+          },
+          {
+            "title": "网状模型",
+            "reply": "{'node_type': 'Concept', 'name': '网状模型', 'enName': 'Mesh Model', 'definition': '一种拓扑结构，每个节点都与其他节点直接相连。', 'features': '每个节点都有多条路径可以到达其他节点，每条路径都是独立的。'}",
+            "time": "Tue Jun 13 10:27:41 2023"
+          },
+          {
+            "title": "关系模型",
+            "topics": [
+              {
+                "title": "关系演算",
+                "reply": "{'node_type': 'Concept', 'name': '关系演算', 'enName': 'Relational Algebra', 'definition': '一种用于描述关系数据库操作的数学演算', 'features': '使用简单的符号和表达式来描述数据库操作，可以用于查询和更新数据库。'}",
+                "time": "Tue Jun 13 10:28:04 2023"
+              },
+              {
+                "title": "关系代数",
+                "reply": "{'node_type': 'Concept', 'name': '关系代数', 'enName': 'Relational Algebra', 'definition': '一种用于操作关系数据的数学语言', 'features': '可以用来描述和操作关系数据库中的数据'}",
+                "time": "Tue Jun 13 10:28:11 2023"
+              },
+              {
+                "title": "关系操作",
+                "topics": [
+                  {
+                    "title": "查询",
+                    "reply": "{'node_type': 'Concept', 'name': '查询', 'enName': 'Query', 'definition': '从数据库中检索特定信息的过程。', 'features': '可以使用SQL语句进行查询，可以查询数据库中的特定信息。'}",
+                    "time": "Tue Jun 13 10:28:27 2023"
+                  },
+                  {
+                    "title": "插入",
+                    "reply": "{'node_type': 'Concept', 'name': '插入', 'enName': 'Insertion', 'definition': '将新元素插入到已有元素的线性表中的操作。', 'features': '可以在任何位置插入元素，但是插入操作的时间复杂度较高。'},",
+                    "time": "Tue Jun 13 10:28:34 2023"
+                  },
+                  {
+                    "title": "删除",
+                    "reply": "{'node_type': 'Concept', 'name': '删除', 'enName': 'Deletion', 'definition': '从数据结构中移除某个元素的操作。', 'features': '可以从数组、链表、树等数据结构中删除元素。'}",
+                    "time": "Tue Jun 13 10:28:42 2023"
+                  },
+                  {
+                    "title": "修改",
+                    "reply": "{'node_type': 'Concept', 'name': '修改', 'enName': 'Modification', 'definition': '改变程序或数据的过程。', 'features': '可以改变程序的功能，也可以改变数据的内容。'}",
+                    "time": "Tue Jun 13 10:28:49 2023"
+                  }
+                ],
+                "reply": "{'node_type': 'Concept', 'name': '关系操作', 'enName': 'Relational Operations', 'definition': '关系操作是一种数据库操作，用于查询、更新和管理关系数据库中的数据。', 'features': '可以使用关系操作来查询、更新、删除和插入数据库中的数据，以及创建和管理数据库表。'}",
+                "time": "Tue Jun 13 10:28:19 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '关系模型', 'enName': 'Relational Model', 'definition': '一种数据库模型，它将数据存储在表中，表中的每一行代表一个实体，每一列代表一个属性。', 'features': '使用关系模型可以实现数据的完整性和一致性，支持灵活的查询。'}",
+            "time": "Tue Jun 13 10:27:52 2023"
+          },
+          {
+            "title": "面向对象数据模型",
+            "reply": "{'node_type': 'Concept', 'name': '面向对象数据模型', 'enName': 'Object-Oriented Data Model', 'definition': '一种基于对象的数据模型，它将数据和操作封装在一起，以更好地表示和处理复杂的数据结构。', 'features': '将数据和操作封装在一起，支持继承，支持多态性，支持动态绑定。'}",
+            "time": "Tue Jun 13 10:29:03 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '逻辑模型', 'enName': 'Logic Model', 'definition': '一种用于表示和描述系统的抽象模型，它把系统的构成元素和它们之间的关系表示出来。', 'features': '可以用来描述系统的结构、行为和功能，以及它们之间的关系。'}",
+        "time": "Tue Jun 13 10:27:17 2023"
+      },
+      {
+        "title": "物理模型",
+        "reply": "{'node_type': 'Concept', 'name': '物理模型', 'enName': 'Physical Model', 'definition': '用来模拟物理系统的数学模型。', 'features': '可以用来模拟物理系统的行为，并预测系统的变化。'}",
+        "time": "Tue Jun 13 10:29:10 2023"
+      }
+    ],
+    "reply": "{'node_type': 'Concept', 'name': '数据模型', 'enName': 'Data Model', 'definition': '用于描述数据结构和数据之间的关系的抽象概念。', 'features': '提供了一种抽象的方式来描述数据，可以用来描述实体、属性和关系。'}",
+    "time": "Tue Jun 13 10:26:07 2023"
+  },
+  {
+    "title": "关系数据库标准语言SQL",
+    "topics": [
+      {
+        "title": "SQL功能",
+        "topics": [
+          {
+            "title": "数据库创建",
+            "reply": "{'node_type': 'Concept', 'name': '数据库创建', 'enName': 'Database Creation', 'definition': '利用数据库管理系统（DBMS）创建数据库的过程。', 'features': '包括定义数据库结构、创建数据库文件、创建数据库表、定义表结构等。'}",
+            "time": "Tue Jun 13 10:29:45 2023"
+          },
+          {
+            "title": "数据库模式创建",
+            "reply": "{'node_type': 'Concept', 'name': '数据库模式创建', 'enName': 'Database Schema Creation', 'definition': '利用数据定义语言创建数据库模式，以实现数据库的结构化管理。', 'features': '可以定义数据库中的表、字段、索引、视图等。'}",
+            "time": "Tue Jun 13 10:29:57 2023"
+          },
+          {
+            "title": "数据库插入修改",
+            "reply": "{'node_type': 'Concept', 'name': '数据库插入修改', 'enName': 'Database Insertion and Modification', 'definition': '添加或修改数据库中的数据的过程', 'features': '可以添加新的记录或修改现有记录，以更新数据库中的信息'}",
+            "time": "Tue Jun 13 10:30:08 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': 'SQL功能', 'enName': 'SQL Functionality', 'definition': 'SQL是一种用于存储、检索、更新和管理数据的标准语言。', 'features': '可以使用SQL语句来操纵数据库中的数据，如查询、更新、插入和删除。'}",
+        "time": "Tue Jun 13 10:29:32 2023"
+      },
+      {
+        "title": "SQL特点",
+        "topics": [
+          {
+            "title": "综合统一",
+            "reply": "{'node_type': 'Concept', 'name': '综合统一', 'enName': 'Integration and Unification', 'definition': '将多个系统结构、技术和软件组件结合在一起，以满足特定的业务需求。', 'features': '可以提高系统的可靠性和可维护性，提高系统的整体性能。'}",
+            "time": "Tue Jun 13 10:30:35 2023"
+          },
+          {
+            "title": "高度非过程化",
+            "reply": "{'node_type': 'Concept', 'name': '高度非过程化', 'enName': 'Highly Non-Procedural', 'definition': '一种程序设计方法，其中程序员只需提供描述任务的概念，而不需要提供实现任务的步骤。', 'features': '更加简洁，易于维护，可以更快地完成任务。'}",
+            "time": "Tue Jun 13 10:30:46 2023"
+          },
+          {
+            "title": "面向集合操作",
+            "reply": "{'node_type': 'Concept', 'name': '面向集合操作', 'enName': 'Set-oriented Operation', 'definition': '指以集合为对象，以集合中的元素为基本操作单位的操作方法。', 'features': '操作的对象是集合，操作的单位是集合中的元素。'}",
+            "time": "Tue Jun 13 10:30:56 2023"
+          },
+          {
+            "title": "语言简明",
+            "reply": "{'node_type': 'Concept', 'name': '语言简明', 'enName': 'Concise Language', 'definition': '一种清晰、简洁的表达方式，使用最少的词汇来表达最多的意思。', 'features': '简洁明了，没有多余的冗余信息。'}",
+            "time": "Tue Jun 13 10:31:04 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': 'SQL特点', 'enName': 'SQL Characteristics', 'definition': 'SQL是一种关系型数据库管理系统，它提供了一种统一的语言来定义、操作和控制数据库。', 'features': '支持数据定义语言，数据操纵语言，数据控制语言，支持事务处理，支持数据库视图，支持存储过程和触发器。'}",
+        "time": "Tue Jun 13 10:30:26 2023"
+      },
+      {
+        "title": "数据库操纵语言（DML）",
+        "topics": [
+          {
+            "title": "单表查询",
+            "topics": [
+              {
+                "title": "聚焦函数",
+                "reply": "{'node_type': 'Concept', 'name': '聚焦函数', 'enName': 'Focus Function', 'definition': '一种用于描述系统输出和输入之间关系的函数。', 'features': '可以用来描述系统的稳定性，可以用来描述系统的响应特性。'}",
+                "time": "Tue Jun 13 10:31:36 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '单表查询', 'enName': 'Single Table Query', 'definition': '仅使用一张表中的数据进行查询的操作', 'features': '可以使用简单的SQL语句进行查询，可以查询出表中的某一列或者某几列的数据'}",
+            "time": "Tue Jun 13 10:31:25 2023"
+          },
+          {
+            "title": "连接查询",
+            "topics": [
+              {
+                "title": "等值连接",
+                "reply": "{'node_type': 'Concept', 'name': '等值连接', 'enName': 'Equijoin', 'definition': '将两个表中具有相同值的列连接起来的操作。', 'features': '只能连接两个表，连接的列必须具有相同的值。'}",
+                "time": "Tue Jun 13 10:31:52 2023"
+              },
+              {
+                "title": "自然连接",
+                "reply": "{'node_type': 'Concept', 'name': '自然连接', 'enName': 'Natural Join', 'definition': '一种用于连接两个关系的操作，它将两个关系中具有相同属性名称的属性连接起来。', 'features': '只能连接两个关系，不能连接多个关系，只能连接具有相同属性名称的属性。'}",
+                "time": "Tue Jun 13 10:32:04 2023"
+              },
+              {
+                "title": "自身连接",
+                "reply": "{'node_type': 'Concept', 'name': '自身连接', 'enName': 'Self-Connecting', 'definition': '指一个节点指向自身的连接', 'features': '可以用来表示一个节点的状态，如果节点有自身连接，则表示为“已访问”状态。'}",
+                "time": "Tue Jun 13 10:32:14 2023"
+              },
+              {
+                "title": "外连接",
+                "reply": "{'node_type': 'Concept', 'name': '外连接', 'enName': 'Outer Join', 'definition': '用于连接两个表的SQL语句，可以查询出两个表中没有匹配的记录。', 'features': '可以查询出两个表中没有匹配的记录，可以查询出两个表中有关联的记录。'}",
+                "time": "Tue Jun 13 10:32:26 2023"
+              },
+              {
+                "title": "多表连接",
+                "reply": "{'node_type': 'Concept', 'name': '多表连接', 'enName': 'Multi-table Join', 'definition': '从多个表中检索数据的技术', 'features': '可以实现多表之间的关联，提高查询效率。'}",
+                "time": "Tue Jun 13 10:32:32 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '连接查询', 'enName': 'Join Query', 'definition': '从两个或多个表中查询数据的操作', 'features': '可以根据表之间的关系，查询出更复杂的数据结果'}",
+            "time": "Tue Jun 13 10:31:45 2023"
+          },
+          {
+            "title": "嵌套查询",
+            "reply": "{'node_type': 'Concept', 'name': '嵌套查询', 'enName': 'Nested Query', 'definition': '一种复杂的查询，可以将多个查询结果组合在一起，以获得更多的信息。', 'features': '可以使用多个子查询，并将结果组合在一起，以获得更多的信息。'}",
+            "time": "Tue Jun 13 10:32:46 2023"
+          },
+          {
+            "title": "集合查询",
+            "reply": "{'node_type': 'Concept', 'name': '集合查询', 'enName': 'Set Query', 'definition': '从一组数据中查找满足特定条件的数据的过程。', 'features': '可以使用逻辑运算符，如AND、OR和NOT，来组合多个查询条件。'}",
+            "time": "Tue Jun 13 10:32:54 2023"
+          },
+          {
+            "title": "数据更新",
+            "reply": "{'node_type': 'Concept', 'name': '数据更新', 'enName': 'Data Update', 'definition': '指在数据库中更新数据的操作', 'features': '可以更新数据库中已有的数据，也可以添加新的数据。'}",
+            "time": "Tue Jun 13 10:33:00 2023"
+          },
+          {
+            "title": "空值处理",
+            "reply": "{'node_type': 'Concept', 'name': '空值处理', 'enName': 'Null Value Handling', 'definition': '处理空值的一种技术，用于检测和替换空值。', 'features': '可以通过替换空值或添加默认值来处理空值。'}",
+            "time": "Tue Jun 13 10:33:11 2023"
+          },
+          {
+            "title": "派生表查询",
+            "reply": "{'node_type': 'Concept', 'name': '派生表查询', 'enName': 'Derived Table Query', 'definition': '从一个或多个表中派生出一个新表，用于查询的一种技术。', 'features': '可以把多个表中的数据组合在一起，查询结果更加准确。'}",
+            "time": "Tue Jun 13 10:33:18 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '数据库操纵语言（DML）', 'enName': 'Database Manipulation Language (DML)', 'definition': '用于查询、更新、插入和删除数据库中的数据的语言。', 'features': '可以操纵数据库中的数据，但不能操纵数据库结构。'}",
+        "time": "Tue Jun 13 10:31:13 2023"
+      },
+      {
+        "title": "数据库定义语言（DDL）",
+        "reply": "{'node_type': 'Concept', 'name': '数据库定义语言（DDL）', 'enName': 'Database Definition Language (DDL)', 'definition': '用于定义数据库结构的语言。', 'features': '可以用来创建、修改和删除数据库对象，如表、视图、索引等。'}",
+        "time": "Tue Jun 13 10:33:28 2023"
+      },
+      {
+        "title": "数据库控制语言（DCL）",
+        "reply": "{'node_type': 'Concept', 'name': '数据库控制语言（DCL）', 'enName': 'Database Control Language (DCL)', 'definition': '用于控制数据库的语言，可以用来授予和撤销用户的访问权限。', 'features': '可以控制用户的访问权限，可以控制用户的事务操作。'}",
+        "time": "Tue Jun 13 10:33:38 2023"
+      },
+      {
+        "title": "视图",
+        "reply": "{'node_type': 'Concept', 'name': '视图', 'enName': 'View', 'definition': '视图是从数据库表中抽取出来的一张虚拟表，它不是一张物理表，而是一种虚拟的表，它的数据是动态检索出来的。', 'features': '可以把多个表中的数据汇总到一起，可以把复杂的查询语句简化，可以把数据库中的数据进行加工处理，可以把数据库中的数据进行安全性控制。'}",
+        "time": "Tue Jun 13 10:33:55 2023"
+      },
+      {
+        "title": "索引",
+        "topics": [
+          {
+            "title": "聚集索引",
+            "reply": "{'node_type': 'Concept', 'name': '聚集索引', 'enName': 'Clustered Index', 'definition': '把数据表中的数据按照某种顺序排列的索引。', 'features': '按照某种顺序排列数据，可以提高查询效率。'}",
+            "time": "Tue Jun 13 10:34:17 2023"
+          },
+          {
+            "title": "非聚集索引",
+            "reply": "{'node_type': 'Concept', 'name': '非聚集索引', 'enName': 'Non-clustered Index', 'definition': '一种索引，它将数据表中的行存储在不同的位置，而索引本身存储在另一个位置。', 'features': '可以提高查询性能，但会增加更新操作的时间。'}",
+            "time": "Tue Jun 13 10:34:31 2023"
+          },
+          {
+            "title": "唯一索引",
+            "reply": "{'node_type': 'Concept', 'name': '唯一索引', 'enName': 'Unique Index', 'definition': '一种数据库索引，它确保在表中每一行都有一个唯一的值。', 'features': '可以用来防止重复数据的出现。'}",
+            "time": "Tue Jun 13 10:34:39 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '索引', 'enName': 'Index', 'definition': '一种技术，用于快速查找数据库中的特定信息。', 'features': '可以提高查询效率，减少查询时间。'}",
+        "time": "Tue Jun 13 10:34:03 2023"
+      }
+    ],
+    "reply": "{'node_type': 'Concept', 'name': '关系数据库标准语言SQL', 'enName': 'Structured Query Language', 'definition': '用于操作关系数据库的标准语言，可以用来定义、操作和控制数据库。', 'features': '可以用来定义、操作和控制数据库，支持数据库的安全性和完整性。'}",
+    "time": "Tue Jun 13 10:29:25 2023"
+  },
+  {
+    "title": "数据库安全",
+    "topics": [
+      {
+        "title": "审计",
+        "reply": "{'node_type': 'Concept', 'name': '审计', 'enName': 'Auditing', 'definition': '审计是一种独立的、系统的、客观的评价活动，旨在检查和评估组织的内部控制系统，以确保其有效地实现其目标。', 'features': '审计可以检查组织的内部控制系统，以确保其有效地实现其目标。'}",
+        "time": "Tue Jun 13 10:35:03 2023"
+      },
+      {
+        "title": "多层存取控制",
+        "topics": [
+          {
+            "title": "强制存取控制",
+            "reply": "{'node_type': 'Concept', 'name': '强制存取控制', 'enName': 'Mandatory Access Control', 'definition': '一种基于角色的安全模型，用于控制对系统资源的访问权限。', 'features': '基于角色，控制访问权限，可以控制对系统资源的访问。'}",
+            "time": "Tue Jun 13 10:35:23 2023"
+          },
+          {
+            "title": "自主存取控制",
+            "topics": [
+              {
+                "title": "数据库角色",
+                "reply": "{'node_type': 'Concept', 'name': '数据库角色', 'enName': 'Database Role', 'definition': '数据库角色是一组权限的集合，用于控制用户对数据库对象的访问权限。', 'features': '可以根据不同的角色分配不同的权限，以控制用户对数据库对象的访问权限。'}",
+                "time": "Tue Jun 13 10:35:47 2023"
+              },
+              {
+                "title": "授权",
+                "reply": "{'node_type': 'Concept', 'name': '授权', 'enName': 'Authorization', 'definition': '授权是指授予某个实体特定的权限，以便其可以访问某些资源或执行某些操作。', 'features': '授权可以是显式的，也可以是隐式的，可以是临时的，也可以是永久的。'}",
+                "time": "Tue Jun 13 10:35:58 2023"
+              },
+              {
+                "title": "回收",
+                "reply": "{'node_type': 'Concept', 'name': '回收', 'enName': 'Recycling', 'definition': '将已使用的物品进行收集、清理、分类、加工等处理，再利用或转化为新的产品的过程。', 'features': '可以减少对自然资源的消耗，减少废弃物对环境的污染。'}",
+                "time": "Tue Jun 13 10:36:12 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '自主存取控制', 'enName': 'Autonomous Access Control', 'definition': '一种基于角色的存取控制方法，允许用户根据其角色自主地访问系统资源。', 'features': '可以根据用户的角色和资源的特性来实现更灵活的存取控制。'}",
+            "time": "Tue Jun 13 10:35:38 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '多层存取控制', 'enName': 'Multi-level Access Control', 'definition': '一种控制访问权限的安全机制，根据用户的身份和角色，对资源进行不同程度的访问控制。', 'features': '根据用户身份和角色，提供多种访问级别，控制访问权限。'}",
+        "time": "Tue Jun 13 10:35:13 2023"
+      },
+      {
+        "title": "视图机制",
+        "reply": "{'node_type': 'Concept', 'name': '视图机制', 'enName': 'View Mechanism', 'definition': '一种数据库管理系统中的技术，用于从数据库中提取特定的信息，以便用户可以查看和操作这些信息。', 'features': '可以提供用户只能查看和操作特定信息的安全性，以及可以更新数据库中的信息，而不会影响整个数据库。'}",
+        "time": "Tue Jun 13 10:36:27 2023"
+      },
+      {
+        "title": "数据加密",
+        "topics": [
+          {
+            "title": "存储加密",
+            "reply": "{'node_type': 'Concept', 'name': '存储加密', 'enName': 'Storage Encryption', 'definition': '将数据加密以防止未经授权的访问', 'features': '使用密钥和加密算法将数据加密，以防止未经授权的访问。'}",
+            "time": "Tue Jun 13 10:36:46 2023"
+          },
+          {
+            "title": "传输加密",
+            "reply": "{'node_type': 'Concept', 'name': '传输加密', 'enName': 'Transmission Encryption', 'definition': '将数据在传输过程中进行加密的技术', 'features': '可以保证数据传输的安全性和机密性'}",
+            "time": "Tue Jun 13 10:36:54 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '数据加密', 'enName': 'Data Encryption', 'definition': '将数据转换成不可读的形式，以防止未经授权的访问。', 'features': '使用密钥加密和解密数据，以确保数据的安全性。'}",
+        "time": "Tue Jun 13 10:36:37 2023"
+      },
+      {
+        "title": "安全保护",
+        "topics": [
+          {
+            "title": "推理控制",
+            "reply": "{'node_type': 'Concept', 'name': '推理控制', 'enName': 'Inference Control', 'definition': '一种计算机程序，用于控制程序的推理过程，以确定程序的行为。', 'features': '可以控制程序的推理过程，以确定程序的行为。'}",
+            "time": "Tue Jun 13 10:37:14 2023"
+          },
+          {
+            "title": "隐蔽信道",
+            "reply": "{'node_type': 'Concept', 'name': '隐蔽信道', 'enName': 'Steganography', 'definition': '隐蔽信道是一种将信息隐藏在其他信息中的技术。', 'features': '可以在不显示信息的情况下传输信息。'}",
+            "time": "Tue Jun 13 10:37:19 2023"
+          },
+          {
+            "title": "数据隐私保护",
+            "reply": "{'node_type': 'Concept', 'name': '数据隐私保护', 'enName': 'Data Privacy Protection', 'definition': '保护个人数据不被未经授权的第三方访问和使用的技术和策略。', 'features': '使用加密技术、数据分类和数据控制等技术来保护数据。'}",
+            "time": "Tue Jun 13 10:37:29 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '安全保护', 'enName': 'Security Protection', 'definition': '安全保护是指采取技术和管理措施，保护信息系统免受未经授权的访问、使用、披露、损坏或毁坏的活动。', 'features': '安全保护包括访问控制、数据完整性、数据保密性、安全审计等。'}",
+        "time": "Tue Jun 13 10:37:06 2023"
+      }
+    ],
+    "reply": "{'node_type': 'Concept', 'name': '数据库安全', 'enName': 'Database Security', 'definition': '数据库安全是指保护数据库系统免受未经授权的访问、破坏或滥用的技术。', 'features': '数据库安全涉及到数据库系统的安全策略、安全管理、安全控制和安全审计等。'}",
+    "time": "Tue Jun 13 10:34:49 2023"
+  },
+  {
+    "title": "关系数据",
+    "topics": [
+      {
+        "title": "1NF",
+        "reply": "{'node_type': 'Concept', 'name': '1NF', 'enName': 'First Normal Form', 'definition': '一种数据库设计范式，要求每个表中的每一列都必须有唯一的值，不能有重复的值。', 'features': '每一行必须有唯一的标识符，每一列都必须有唯一的名称。'}",
+        "time": "Tue Jun 13 10:37:47 2023"
+      },
+      {
+        "title": "2NF",
+        "reply": "{'node_type': 'Concept', 'name': '2NF', 'enName': 'Second Normal Form', 'definition': '一种关系数据库范式，要求满足1NF，并且每个非主属性都完全依赖于主属性。', 'features': '每个非主属性都完全依赖于主属性，不能有部分依赖。'}",
+        "time": "Tue Jun 13 10:37:56 2023"
+      },
+      {
+        "title": "3NF",
+        "reply": "{'node_type': 'Concept', 'name': '三级范式', 'enName': 'Third Normal Form', 'definition': '一种数据库设计范式，要求表中的每一列都必须与主键直接相关，而不能存在传递依赖。', 'features': '消除冗余数据，提高查询效率。'}",
+        "time": "Tue Jun 13 10:38:09 2023"
+      },
+      {
+        "title": "BCNF",
+        "reply": "{'node_type': 'Concept', 'name': 'BCNF', 'enName': 'Boyce-Codd Normal Form', 'definition': '一种关系数据库范式，它要求每个实例的属性值只能由它的主属性值确定，而不能由其他属性值确定。', 'features': '每个实例的属性值只能由它的主属性值确定，而不能由其他属性值确定，从而避免出现更新异常。'}",
+        "time": "Tue Jun 13 10:38:24 2023"
+      },
+      {
+        "title": "数据依赖",
+        "topics": [
+          {
+            "title": "函数依赖",
+            "topics": [
+              {
+                "title": "平凡依赖",
+                "reply": "{'node_type': 'Concept', 'name': '平凡依赖', 'enName': 'Trivial Dependency', 'definition': '指在数据库中，一个属性完全依赖于另一个属性，但不改变关系的函数依赖。', 'features': '无法改变关系，只能改变属性。'}",
+                "time": "Tue Jun 13 10:38:52 2023"
+              },
+              {
+                "title": "非平凡依赖",
+                "reply": "{'node_type': 'Concept', 'name': '非平凡依赖', 'enName': 'Non-trivial Dependency', 'definition': '指数据库中的某个属性值只能由另外一个属性值推导出来，而不能直接从关系模式中确定的依赖关系。', 'features': '不能由关系模式中确定，需要通过推导才能确定。'}",
+                "time": "Tue Jun 13 10:39:02 2023"
+              },
+              {
+                "title": "决定因素",
+                "reply": "{'node_type': 'Concept', 'name': '决定因素', 'enName': 'Determining Factors', 'definition': '影响结果的因素', 'features': '可以是内部因素，也可以是外部因素，可以是环境因素，也可以是人为因素。'}",
+                "time": "Tue Jun 13 10:39:11 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '函数依赖', 'enName': 'Functional Dependency', 'definition': '一组属性的集合A确定另一组属性的集合B，则称B是A的函数依赖', 'features': '函数依赖是关系模式中的一种重要概念，它描述了属性之间的关系。'}",
+            "time": "Tue Jun 13 10:38:45 2023"
+          },
+          {
+            "title": "多汁依赖",
+            "reply": "{'node_type': 'Concept', 'name': '多汁依赖', 'enName': 'Data Dependency', 'definition': '指程序中某个操作的执行结果受到其他操作的结果影响的现象。', 'features': '多汁依赖是一种控制流依赖，它表示某个操作的执行依赖于其他操作的结果。'}",
+            "time": "Tue Jun 13 10:39:26 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '数据依赖', 'enName': 'Data Dependency', 'definition': '指数据库中一个实体的属性值受其他实体属性值的影响。', 'features': '数据依赖可以分为函数依赖和多值依赖。'}",
+        "time": "Tue Jun 13 10:38:34 2023"
+      },
+      {
+        "title": "E-R图",
+        "topics": [
+          {
+            "title": "属性冲突",
+            "reply": "{'node_type': 'Concept', 'name': '属性冲突', 'enName': 'Attribute Conflict', 'definition': '当两个或多个实体具有相同的属性时，就会发生属性冲突。', 'features': '可以通过设置属性的优先级来解决属性冲突。'}",
+            "time": "Tue Jun 13 10:39:42 2023"
+          },
+          {
+            "title": "命民冲突",
+            "reply": "{'node_type': 'Concept', 'name': '命民冲突', 'enName': 'Moral Conflict', 'definition': '指当两种或多种道德观念相互矛盾时，人们在道德上面临的困境。', 'features': '通常会导致人们在道德上的纠结和内心的矛盾。'}",
+            "time": "Tue Jun 13 10:39:52 2023"
+          },
+          {
+            "title": "结构冲突",
+            "reply": "{'node_type': 'Concept', 'name': '结构冲突', 'enName': 'Structural Conflict', 'definition': '指在结构上存在的不同的要求，这些要求可能会导致系统的冲突。', 'features': '结构冲突可能会影响系统的性能，并且可能会导致系统的不稳定性。'}",
+            "time": "Tue Jun 13 10:40:06 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': 'E-R图', 'enName': 'Entity-Relationship Diagram', 'definition': '用来描述数据库中实体和实体之间的关系的图形模型。', 'features': '用实体、属性和关系来描述数据库结构。'}",
+        "time": "Tue Jun 13 10:39:35 2023"
+      },
+      {
+        "title": "规范化",
+        "reply": "{'node_type': 'Concept', 'name': '规范化', 'enName': 'Normalization', 'definition': '将数据库表中的数据结构转换为更加简洁、更加符合逻辑的形式的过程。', 'features': '将数据库表中的冗余数据减少，提高数据的一致性和完整性。'}",
+        "time": "Tue Jun 13 10:40:16 2023"
+      },
+      {
+        "title": "设计步骤",
+        "topics": [
+          {
+            "title": "需求分析",
+            "reply": "{'node_type': 'Concept', 'name': '需求分析', 'enName': 'Requirements Analysis', 'definition': '系统分析的第一步，是确定系统的功能和性能要求的过程。', 'features': '需求分析是系统分析的基础，是系统设计的前提。'}",
+            "time": "Tue Jun 13 10:40:33 2023"
+          },
+          {
+            "title": "概念结构设计",
+            "reply": "{'node_type': 'Concept', 'name': '概念结构设计', 'enName': 'Conceptual Structure Design', 'definition': '利用抽象数据类型和关系来描述实际问题的方法。', 'features': '抽象数据类型可以把复杂的实际问题抽象成更容易理解的概念，关系可以描述概念之间的联系。'}",
+            "time": "Tue Jun 13 10:40:46 2023"
+          },
+          {
+            "title": "逻辑结构设计",
+            "reply": "{'node_type': 'Concept', 'name': '逻辑结构设计', 'enName': 'Logical Structure Design', 'definition': '使用逻辑关系来描述数据结构的设计方法', 'features': '可以将复杂的数据结构简化为简单的逻辑关系，从而更容易理解和实现。'}",
+            "time": "Tue Jun 13 10:41:02 2023"
+          },
+          {
+            "title": "物理结构设计",
+            "reply": "{'node_type': 'Concept', 'name': '物理结构设计', 'enName': 'Physical Structure Design', 'definition': '利用硬件和软件组件来构建计算机系统的过程。', 'features': '需要考虑硬件组件的性能、可靠性和可扩展性，以及软件组件的可维护性和可重用性。'},",
+            "time": "Tue Jun 13 10:41:17 2023"
+          },
+          {
+            "title": "数据库实施",
+            "reply": "{'node_type': 'Concept', 'name': '数据库实施', 'enName': 'Database Implementation', 'definition': '数据库实施是指将数据库设计转换为可以使用的数据库的过程。', 'features': '包括数据字典的创建，数据库结构的建立，数据库管理系统的安装，数据库的维护和管理等。'}",
+            "time": "Tue Jun 13 10:41:30 2023"
+          },
+          {
+            "title": "运营与维护",
+            "reply": "{'node_type': 'Concept', 'name': '运营与维护', 'enName': 'Operation and Maintenance', 'definition': '指系统在运行过程中的管理、维护、升级和维护的过程。', 'features': '需要定期检查系统，以确保系统的正常运行，并及时发现和解决问题。'}",
+            "time": "Tue Jun 13 10:41:41 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '设计步骤', 'enName': 'Design Steps', 'definition': '一系列组织和指导设计过程的步骤。', 'features': '每个步骤都有明确的目标，并且是有序的。'}",
+        "time": "Tue Jun 13 10:40:22 2023"
+      },
+      {
+        "title": "实体关系模型转化",
+        "topics": [
+          {
+            "title": "1:1",
+            "reply": "{'node_type': 'Concept', 'name': '一对一', 'enName': 'One-to-One', 'definition': '一对一关系是指两个实体之间的关系，每个实体只能与另一个实体关联一次。', 'features': '一对一关系可以用来表示一个实体只能与另一个实体有一次关联，而不能有多次关联。'}",
+            "time": "Tue Jun 13 10:42:09 2023"
+          },
+          {
+            "title": "1:N",
+            "reply": "{'node_type': 'Concept', 'name': '一对多', 'enName': 'One-to-Many', 'definition': '一个实体关联到多个实体的关系', 'features': '一个实体可以有多个关联实体，但一个关联实体只能有一个实体关联。'}",
+            "time": "Tue Jun 13 10:42:22 2023"
+          },
+          {
+            "title": "N:M",
+            "reply": "{'node_type': 'Concept', 'name': 'N:M', 'enName': 'Many-to-Many', 'definition': '一种数据库关系，表示两个表之间可以有多对多的关系。', 'features': '需要使用第三张表来存储关系，以实现多对多的关系。'}",
+            "time": "Tue Jun 13 10:42:34 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '实体关系模型转化', 'enName': 'Entity-Relationship Model Transformation', 'definition': '将实体关系模型转换为其他数据库模型的过程', 'features': '可以将实体关系模型转换为关系模型、网状模型、层次模型等其他数据库模型'}",
+        "time": "Tue Jun 13 10:41:57 2023"
+      },
+      {
+        "title": "查询处理",
+        "topics": [
+          {
+            "title": "分析",
+            "reply": "{'node_type': 'Concept', 'name': '分析', 'enName': 'Analysis', 'definition': '从数据中提取有用信息的过程', 'features': '分析可以帮助更好地理解数据，并从中提取有用的信息。'}",
+            "time": "Tue Jun 13 10:42:49 2023"
+          },
+          {
+            "title": "检查",
+            "reply": "{'node_type': 'Concept', 'name': '检查', 'enName': 'Check', 'definition': '检查是一种检验活动，用于确认某项工作是否按照要求完成。', 'features': '检查是一种非常重要的活动，它可以帮助确保工作质量，并及时发现和改正错误。'}",
+            "time": "Tue Jun 13 10:43:02 2023"
+          },
+          {
+            "title": "优化",
+            "reply": "{'node_type': 'Concept', 'name': '优化', 'enName': 'Optimization', 'definition': '改善系统性能的过程，通过改变系统结构、参数和算法来达到最优化的目的。', 'features': '可以通过改变系统结构、参数和算法来达到最优化的目的。'}",
+            "time": "Tue Jun 13 10:43:13 2023"
+          },
+          {
+            "title": "执行",
+            "reply": "{'node_type': 'Concept', 'name': '执行', 'enName': 'Execution', 'definition': '执行是指按照程序的指令顺序执行程序的过程。', 'features': '执行过程中，程序指令按照顺序一条一条地执行，直到程序结束。'}",
+            "time": "Tue Jun 13 10:43:22 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '查询处理', 'enName': 'Query Processing', 'definition': '查询处理是指从数据库中检索数据的过程。', 'features': '可以通过SQL语句从数据库中检索数据，并进行复杂的数据处理。'}",
+        "time": "Tue Jun 13 10:42:42 2023"
+      },
+      {
+        "title": "优化规则",
+        "topics": [
+          {
+            "title": "选择运算",
+            "reply": "{'node_type': 'Concept', 'name': '选择运算', 'enName': 'Selection Operation', 'definition': '从一组数据中选择满足某种条件的数据的运算。', 'features': '可以通过比较运算符来实现。'}",
+            "time": "Tue Jun 13 10:43:40 2023"
+          },
+          {
+            "title": "投影操作",
+            "reply": "{'node_type': 'Concept', 'name': '投影操作', 'enName': 'Projection Operation', 'definition': '从关系中抽取某些属性，形成新的关系的操作。', 'features': '可以抽取一个或多个属性，也可以抽取所有属性。'}",
+            "time": "Tue Jun 13 10:43:47 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '优化规则', 'enName': 'Optimization Rules', 'definition': '优化规则是一种用于改善程序性能的技术。', 'features': '可以改善程序的执行效率，减少程序的内存使用量，提高程序的可维护性等。'}",
+        "time": "Tue Jun 13 10:43:33 2023"
+      }
+    ],
+    "reply": "{'node_type': 'Concept', 'name': '关系数据', 'enName': 'Relational Data', 'definition': '由表格形式的数据组成的数据库，表之间存在关系，可以通过关系操作实现数据的查询和更新。', 'features': '表之间可以通过关系操作实现数据的查询和更新；表中的数据可以通过主键和外键进行关联。'}",
+    "time": "Tue Jun 13 10:37:40 2023"
+  },
+  {
+    "title": "数据库编程",
+    "topics": [
+      {
+        "title": "过程化SQL",
+        "topics": [
+          {
+            "title": "存储过程",
+            "topics": [
+              {
+                "title": "用户接口",
+                "reply": "{'node_type': 'Concept', 'name': '用户接口', 'enName': 'User Interface', 'definition': '用户接口是一种使用者和计算机系统之间的交互方式，它可以使用者更容易地操作计算机系统。', 'features': '可以是图形化的，也可以是文本化的，提供更加友好的交互方式。'}",
+                "time": "Tue Jun 13 10:44:27 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '存储过程', 'enName': 'Stored Procedure', 'definition': '由一组SQL语句组成的可重复执行的程序模块', 'features': '可以接受参数，返回结果集，可以被其他程序调用'}",
+            "time": "Tue Jun 13 10:44:12 2023"
+          },
+          {
+            "title": "函数",
+            "reply": "{'node_type': 'Concept', 'name': '函数', 'enName': 'Function', 'definition': '一种特殊的关系，它把一个或多个输入值映射到一个输出值。', 'features': '每个输入值都有一个唯一的输出值。'}",
+            "time": "Tue Jun 13 10:44:33 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '过程化SQL', 'enName': 'Procedural SQL', 'definition': '一种用于描述数据库操作的程序语言，可以控制数据库操作的流程。', 'features': '可以实现复杂的数据库操作，支持循环、条件判断等操作。'}",
+        "time": "Tue Jun 13 10:44:04 2023"
+      },
+      {
+        "title": "ODBC",
+        "topics": [
+          {
+            "title": "环境配置",
+            "reply": "{'node_type': 'Concept', 'name': '环境配置', 'enName': 'Environment Configuration', 'definition': '指定操作系统或应用程序所需的软件和硬件设置的过程。', 'features': '可以通过环境配置来改变系统的行为，以满足用户的需求。'}",
+            "time": "Tue Jun 13 10:44:51 2023"
+          },
+          {
+            "title": "初始化环境",
+            "reply": "{'node_type': 'Concept', 'name': '初始化环境', 'enName': 'Initialization Environment', 'definition': '指在程序运行前，对程序运行环境进行初始化的过程。', 'features': '初始化环境可以确保程序运行的稳定性和可靠性。'}",
+            "time": "Tue Jun 13 10:45:00 2023"
+          },
+          {
+            "title": "建立连接",
+            "reply": "{'node_type': 'Concept', 'name': '建立连接', 'enName': 'Establishing Connections', 'definition': '建立连接是指在计算机网络中，两台计算机之间建立起通信的过程。', 'features': '建立连接可以使两台计算机之间的数据传输更加高效。'}",
+            "time": "Tue Jun 13 10:45:12 2023"
+          },
+          {
+            "title": "分析语句",
+            "reply": "{'node_type': 'Concept', 'name': '分析语句', 'enName': 'Analysis Statement', 'definition': '一种用于描述系统行为的语句，它可以描述系统的输入、输出、状态变化和系统的行为。', 'features': '可以用来描述系统的行为，并且可以描述系统的输入、输出、状态变化。'}",
+            "time": "Tue Jun 13 10:45:23 2023"
+          },
+          {
+            "title": "执行SQL",
+            "reply": "{'node_type': 'Concept', 'name': '执行SQL', 'enName': 'Executing SQL', 'definition': '使用SQL语句从数据库中检索、更新或删除数据的过程', 'features': '可以使用SQL语句从数据库中检索、更新或删除数据，以及创建和修改表结构。'}",
+            "time": "Tue Jun 13 10:45:33 2023"
+          },
+          {
+            "title": "结果集处理",
+            "reply": "{'node_type': 'Concept', 'name': '结果集处理', 'enName': 'Result Set Processing', 'definition': '指从数据库中检索出的数据集的处理过程。', 'features': '可以对检索出的数据集进行排序、筛选、聚合等操作。'}",
+            "time": "Tue Jun 13 10:45:42 2023"
+          },
+          {
+            "title": "中止处理",
+            "reply": "{'node_type': 'Concept', 'name': '中止处理', 'enName': 'Termination Processing', 'definition': '程序执行完毕后的处理过程', 'features': '清理程序运行时占用的资源，释放程序占用的内存空间'}",
+            "time": "Tue Jun 13 10:45:48 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': 'ODBC', 'enName': 'Open Database Connectivity', 'definition': '一种用于访问不同数据库管理系统的标准接口。', 'features': '可以跨平台，支持多种数据库系统，提供统一的接口。'}",
+        "time": "Tue Jun 13 10:44:42 2023"
+      },
+      {
+        "title": "JDBC",
+        "topics": [
+          {
+            "title": "加载驱动",
+            "reply": "{'node_type': 'Concept', 'name': '加载驱动', 'enName': 'Driver Loading', 'definition': '将设备驱动程序加载到操作系统内存中的过程', 'features': '操作系统可以识别设备并使用设备驱动程序控制设备'}",
+            "time": "Tue Jun 13 10:46:05 2023"
+          },
+          {
+            "title": "获取连接",
+            "reply": "{'node_type': 'Concept', 'name': '获取连接', 'enName': 'Connection Acquisition', 'definition': '从连接池中获取一个可用的连接对象', 'features': '可以指定获取特定的连接对象，也可以从连接池中获取一个可用的连接对象'}",
+            "time": "Tue Jun 13 10:46:16 2023"
+          },
+          {
+            "title": "获取statement",
+            "reply": "{'node_type': 'Concept', 'name': '获取statement', 'enName': 'Fetch Statement', 'definition': '用于从数据库中获取数据的SQL语句', 'features': '可以指定查询条件，排序方式，查询字段等。'}",
+            "time": "Tue Jun 13 10:46:22 2023"
+          },
+          {
+            "title": "执行SQL",
+            "reply": "{'node_type': 'Concept', 'name': '执行SQL', 'enName': 'Executing SQL', 'definition': '使用SQL语句从数据库中检索数据的过程', 'features': '可以使用SQL语句从数据库中检索、更新、删除数据'}",
+            "time": "Tue Jun 13 10:46:31 2023"
+          },
+          {
+            "title": "关闭连接释放资源",
+            "reply": "{'node_type': 'Concept', 'name': '关闭连接释放资源', 'enName': 'Close Connection and Release Resources', 'definition': '关闭连接并释放资源是指在使用完网络资源后，关闭连接并释放资源，以节省系统资源。', 'features': '关闭连接释放资源可以有效地节省系统资源，提高系统性能。'}",
+            "time": "Tue Jun 13 10:46:43 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': 'JDBC', 'enName': 'Java Database Connectivity', 'definition': 'Java技术的一种API，用于访问和处理数据库。', 'features': '可以让Java程序访问多种不同的数据库，并且可以使用多种不同的数据库管理系统。'}",
+        "time": "Tue Jun 13 10:45:57 2023"
+      },
+      {
+        "title": "OLEDB",
+        "topics": [
+          {
+            "title": "消费者",
+            "reply": "{'node_type': 'Concept', 'name': '消费者', 'enName': 'Consumer', 'definition': '消费者是指购买商品或服务的个人或组织。', 'features': '消费者可以是个人或组织，他们的行为可以影响市场价格。'}",
+            "time": "Tue Jun 13 10:47:07 2023"
+          },
+          {
+            "title": "提供者",
+            "topics": [
+              {
+                "title": "服务提供者",
+                "reply": "{'node_type': 'Concept', 'name': '服务提供者', 'enName': 'Service Provider', 'definition': '提供服务的组织或个人', 'features': '可以是组织或个人，提供服务的类型可以是软件、硬件或其他服务。'}",
+                "time": "Tue Jun 13 10:47:26 2023"
+              },
+              {
+                "title": "数据提供者",
+                "reply": "{'node_type': 'Concept', 'name': '数据提供者', 'enName': 'Data Provider', 'definition': '提供数据的实体，可以是一个人、一个组织或一个系统。', 'features': '可以是主动提供数据，也可以是被动提供数据。'}",
+                "time": "Tue Jun 13 10:47:37 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '提供者', 'enName': 'Provider', 'definition': '提供服务的实体，可以是个人或组织。', 'features': '提供者可以是个人或组织，提供的服务可以是物质或非物质的。'}",
+            "time": "Tue Jun 13 10:47:18 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': 'OLEDB', 'enName': 'Object Linking and Embedding Database', 'definition': '一种用于访问不同数据源的技术，可以将不同类型的数据源连接到一起，并允许用户从中检索数据。', 'features': '可以访问多种数据源，支持多种数据库类型，提供强大的数据访问功能。'}",
+        "time": "Tue Jun 13 10:46:57 2023"
+      },
+      {
+        "title": "查询处理",
+        "reply": "{'node_type': 'Concept', 'name': '查询处理', 'enName': 'Query Processing', 'definition': '查询处理是指从数据库中检索数据的过程。', 'features': '可以根据用户的需求，提供高效的查询结果。'}",
+        "time": "Tue Jun 13 10:47:45 2023"
+      },
+      {
+        "title": "查询优化",
+        "topics": [
+          {
+            "title": "代数优化",
+            "reply": "{'node_type': 'Concept', 'name': '代数优化', 'enName': 'Algebraic Optimization', 'definition': '一种数学方法，用于求解有约束的最优化问题，通过构建代数模型来求解。', 'features': '可以求解复杂的最优化问题，并且可以得到最优解。'}",
+            "time": "Tue Jun 13 10:48:06 2023"
+          },
+          {
+            "title": "启发式优化",
+            "reply": "{'node_type': 'Concept', 'name': '启发式优化', 'enName': 'Heuristic Optimization', 'definition': '一种搜索算法，它使用启发式规则来尝试解决问题，而不是精确的解决方案。', 'features': '可以在有限的时间内找到最优解，但不能保证找到最优解。'}",
+            "time": "Tue Jun 13 10:48:19 2023"
+          },
+          {
+            "title": "物理优化",
+            "reply": "{'node_type': 'Concept', 'name': '物理优化', 'enName': 'Physical Optimization', 'definition': '通过改变程序的物理结构来提高程序性能的方法。', 'features': '可以减少程序的存储空间，提高程序的执行效率。'}",
+            "time": "Tue Jun 13 10:48:28 2023"
+          },
+          {
+            "title": "查询计划执行优化",
+            "reply": "{'node_type': 'Concept', 'name': '查询计划执行优化', 'enName': 'Query Plan Execution Optimization', 'definition': '查询计划执行优化是指在执行查询时，通过改变查询计划的执行方式来提高查询性能的过程。', 'features': '通过改变查询计划的执行方式，可以提高查询性能，减少查询时间。'}",
+            "time": "Tue Jun 13 10:48:39 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '查询优化', 'enName': 'Query Optimization', 'definition': '查询优化是指在查询执行过程中，对查询语句进行分析、优化，以提高查询效率的过程。', 'features': '查询优化可以提高查询效率，减少查询时间，提升系统性能。'}",
+        "time": "Tue Jun 13 10:47:59 2023"
+      }
+    ],
+    "reply": "{'node_type': 'Concept', 'name': '数据库编程', 'enName': 'Database Programming', 'definition': '使用编程语言操纵数据库的过程', 'features': '可以使用SQL语言或者其他编程语言来实现'}",
+    "time": "Tue Jun 13 10:43:53 2023"
+  },
+  {
+    "title": "数据库恢复",
+    "topics": [
+      {
+        "title": "事务",
+        "topics": [
+          {
+            "title": "原子性",
+            "reply": "{'node_type': 'Concept', 'name': '原子性', 'enName': 'Atomicity', 'definition': '操作要么全部完成，要么全部不完成的特性。', 'features': '操作不可被中断，保证操作的完整性。'}",
+            "time": "Tue Jun 13 10:49:05 2023"
+          },
+          {
+            "title": "一致性",
+            "reply": "{'node_type': 'Concept', 'name': '一致性', 'enName': 'Consistency', 'definition': '指系统中各个部分之间的数据保持一致性，即在系统中的任何时刻，数据都是一致的。', 'features': '一致性是系统的基本要求，它是系统可靠性的基础。'}",
+            "time": "Tue Jun 13 10:49:17 2023"
+          },
+          {
+            "title": "隔离性",
+            "reply": "{'node_type': 'Concept', 'name': '隔离性', 'enName': 'Isolation', 'definition': '指系统中多个并发事务之间的相互独立性。', 'features': '保证事务之间的数据不会受到其他事务的影响，从而保证事务的原子性和一致性。'}",
+            "time": "Tue Jun 13 10:49:24 2023"
+          },
+          {
+            "title": "持久性",
+            "reply": "{'node_type': 'Concept', 'name': '持久性', 'enName': 'Persistence', 'definition': '持久性是指数据在程序执行期间的持久性，即数据在程序结束后仍然存在。', 'features': '持久性可以使数据在程序结束后仍然存在，从而可以在下次程序执行时被重新使用。'}",
+            "time": "Tue Jun 13 10:49:38 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '事务', 'enName': 'Transaction', 'definition': '一组操作，要么全部执行，要么全部不执行，以确保数据库的完整性。', 'features': '事务的四个特性：原子性、一致性、隔离性和持久性。'},",
+        "time": "Tue Jun 13 10:48:56 2023"
+      },
+      {
+        "title": "基本技术",
+        "topics": [
+          {
+            "title": "数据转储",
+            "topics": [
+              {
+                "title": "静态转储",
+                "reply": "{'node_type': 'Concept', 'name': '静态转储', 'enName': 'Static Dump', 'definition': '一种软件调试技术，用于在程序运行时获取程序的内存状态，以便进行分析和调试。', 'features': '可以捕获程序的内存状态，以便进行分析和调试。'}",
+                "time": "Tue Jun 13 10:50:06 2023"
+              },
+              {
+                "title": "动态转储",
+                "reply": "{'node_type': 'Concept', 'name': '动态转储', 'enName': 'Dynamic Dumping', 'definition': '一种计算机程序调试技术，用于收集和分析程序在运行时的状态。', 'features': '可以收集程序的内存状态，检查变量的值，查看程序的执行流程，以及检查程序的调用堆栈。'}",
+                "time": "Tue Jun 13 10:50:18 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '数据转储', 'enName': 'Data Dump', 'definition': '将数据从一个存储介质转移到另一个存储介质的过程', 'features': '可以将数据从一个存储介质转移到另一个存储介质，以便进行备份或迁移。'}",
+            "time": "Tue Jun 13 10:49:56 2023"
+          },
+          {
+            "title": "登录日志",
+            "reply": "{'node_type': 'Concept', 'name': '登录日志', 'enName': 'Login Log', 'definition': '记录用户登录系统的时间、IP地址等信息的日志文件。', 'features': '可以用来追踪用户登录系统的行为，以及发现可疑的登录行为。'}",
+            "time": "Tue Jun 13 10:50:29 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '基本技术', 'enName': 'Basic Techniques', 'definition': '指计算机科学中的基本概念、原理和方法。', 'features': '基本技术是计算机科学的基础，是计算机科学的基本理论和基本技能。'}",
+        "time": "Tue Jun 13 10:49:48 2023"
+      },
+      {
+        "title": "文件恢复",
+        "topics": [
+          {
+            "title": "日志文件",
+            "reply": "{'node_type': 'Concept', 'name': '日志文件', 'enName': 'Log File', 'definition': '记录系统运行状态的文件，用于追踪和分析系统行为。', 'features': '可以记录系统的错误、警告和其他信息，以便更好地管理系统。'}",
+            "time": "Tue Jun 13 10:50:51 2023"
+          },
+          {
+            "title": "后背副本",
+            "reply": "{'node_type': 'Concept', 'name': '后背副本', 'enName': 'Backup Copy', 'definition': '一种存储技术，用于备份数据，以防止意外丢失或损坏。', 'features': '可以定期备份，以便在发生故障时可以恢复数据。'}",
+            "time": "Tue Jun 13 10:50:59 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '文件恢复', 'enName': 'File Recovery', 'definition': '从存储介质中恢复已删除或损坏的文件的过程。', 'features': '可以恢复文件的原始内容，也可以恢复文件的部分内容。'},",
+        "time": "Tue Jun 13 10:50:42 2023"
+      },
+      {
+        "title": "数据库镜像",
+        "reply": "{'node_type': 'Concept', 'name': '数据库镜像', 'enName': 'Database Mirroring', 'definition': '数据库镜像是一种数据库复制技术，它可以将一个数据库的内容复制到另一个数据库，以实现高可用性和容错性。', 'features': '可以实现数据库的实时复制，可以提供高可用性和容错性。'}",
+        "time": "Tue Jun 13 10:51:11 2023"
+      },
+      {
+        "title": "故障种类",
+        "topics": [
+          {
+            "title": "事务内部故障",
+            "reply": "{'node_type': 'Concept', 'name': '事务内部故障', 'enName': 'Transaction Internal Fault', 'definition': '在事务执行过程中，由于系统资源不足或者程序错误等原因导致的故障。', 'features': '事务内部故障会导致事务无法正常完成，需要重新执行。'}",
+            "time": "Tue Jun 13 10:51:27 2023"
+          },
+          {
+            "title": "系统故障",
+            "reply": "{'node_type': 'Concept', 'name': '系统故障', 'enName': 'System Failure', 'definition': '系统由于某种原因而无法正常运行的状态。', 'features': '可能由于软件或硬件原因导致，可能会影响系统的性能和可用性。'}",
+            "time": "Tue Jun 13 10:51:36 2023"
+          },
+          {
+            "title": "介质故障",
+            "reply": "{'node_type': 'Concept', 'name': '介质故障', 'enName': 'Media Fault', 'definition': '介质故障是指存储介质上的物理损坏，导致数据无法正常读取或写入。', 'features': '介质故障会导致数据丢失或损坏，并且无法恢复。'}",
+            "time": "Tue Jun 13 10:51:47 2023"
+          },
+          {
+            "title": "计算机病毒",
+            "reply": "{'node_type': 'Concept', 'name': '计算机病毒', 'enName': 'Computer Virus', 'definition': '计算机病毒是一种能够自我复制的恶意软件，它会损害计算机系统的正常运行。', 'features': '能够自我复制，会损害计算机系统的正常运行。'}",
+            "time": "Tue Jun 13 10:51:58 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '故障种类', 'enName': 'Fault Types', 'definition': '指计算机系统中可能出现的故障类型', 'features': '分为软件故障和硬件故障两种'}",
+        "time": "Tue Jun 13 10:51:19 2023"
+      }
+    ],
+    "reply": "{'node_type': 'Concept', 'name': '数据库恢复', 'enName': 'Database Recovery', 'definition': '恢复数据库系统以恢复其正常运行的过程', 'features': '可以使用备份恢复数据库，也可以使用日志恢复数据库'}",
+    "time": "Tue Jun 13 10:48:49 2023"
+  },
+  {
+    "title": "并发控制与锁",
+    "topics": [
+      {
+        "title": "并发控制",
+        "topics": [
+          {
+            "title": "丢书修改",
+            "reply": "{'node_type': 'Concept', 'name': '丢书修改', 'enName': 'Lost Book Modification', 'definition': '一种数据结构，用于解决在一个有序数组中插入和删除元素的问题，它可以在O(1)时间内完成插入和删除操作。', 'features': '使用两个指针，一个指向数组的头部，一个指向数组的尾部，以实现快速插入和删除。'}",
+            "time": "Tue Jun 13 10:52:33 2023"
+          },
+          {
+            "title": "不可重复读",
+            "reply": "{'node_type': 'Concept', 'name': '不可重复读', 'enName': 'Non-Repeatable Read', 'definition': '一种事务隔离级别，允许事务读取数据，但不允许其他事务在该事务未提交之前修改该数据。', 'features': '不允许其他事务在未提交之前修改读取的数据。'}",
+            "time": "Tue Jun 13 10:52:44 2023"
+          },
+          {
+            "title": "脏读",
+            "reply": "{'node_type': 'Concept', 'name': '脏读', 'enName': 'Dirty Read', 'definition': '在事务处理过程中，一个事务读取另一个事务尚未提交的数据，这种读取称为脏读。', 'features': '脏读可能导致数据不一致，因此需要避免发生。'}",
+            "time": "Tue Jun 13 10:52:54 2023"
+          },
+          {
+            "title": "多事务执行",
+            "topics": [
+              {
+                "title": "事务穿行执行",
+                "reply": "{'node_type': 'Concept', 'name': '事务穿行执行', 'enName': 'Transaction Cascading Execution', 'definition': '事务穿行执行是一种数据库技术，用于确保多个事务的原子性，一致性和隔离性。', 'features': '事务穿行执行可以确保多个事务的原子性，一致性和隔离性，从而保证数据库的完整性。'}",
+                "time": "Tue Jun 13 10:53:13 2023"
+              },
+              {
+                "title": "交叉并发执行",
+                "reply": "{'node_type': 'Concept', 'name': '交叉并发执行', 'enName': 'Cross Concurrency Execution', 'definition': '同时执行多个任务的技术。', 'features': '可以提高系统的效率，提高任务的处理速度。'}",
+                "time": "Tue Jun 13 10:53:22 2023"
+              },
+              {
+                "title": "同时并发执行",
+                "reply": "{'node_type': 'Concept', 'name': '同时并发执行', 'enName': 'Concurrent Execution', 'definition': '同时执行多个任务的能力', 'features': '可以提高系统的效率和吞吐量'}",
+                "time": "Tue Jun 13 10:53:30 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '多事务执行', 'enName': 'Multi-Transaction Execution', 'definition': '同时执行多个事务的过程', 'features': '可以提高系统的效率，减少等待时间，提高并发性能。'}",
+            "time": "Tue Jun 13 10:53:01 2023"
+          },
+          {
+            "title": "可串行性",
+            "reply": "{'node_type': 'Concept', 'name': '可串行性', 'enName': 'Serializability', 'definition': '可串行性是指多个事务的执行结果与串行执行的结果相同。', 'features': '可串行性可以保证多个事务的并发执行不会出现数据不一致的情况。'}",
+            "time": "Tue Jun 13 10:53:41 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '并发控制', 'enName': 'Concurrency Control', 'definition': '控制多个用户同时访问数据库系统的技术。', 'features': '使用事务技术，实现数据库的完整性、一致性和隔离性。'}",
+        "time": "Tue Jun 13 10:52:21 2023"
+      },
+      {
+        "title": "锁",
+        "topics": [
+          {
+            "title": "封锁协议",
+            "topics": [
+              {
+                "title": "一级封锁协议",
+                "reply": "{'node_type': 'Concept', 'name': '一级封锁协议', 'enName': 'First Level Lock Protocol', 'definition': '一种用于管理多个用户对共享资源的访问的协议。', 'features': '可以防止两个用户同时访问同一资源，以避免冲突。'}",
+                "time": "Tue Jun 13 10:54:04 2023"
+              },
+              {
+                "title": "二级封锁协议",
+                "reply": "{'node_type': 'Concept', 'name': '二级封锁协议', 'enName': 'Two-phase Locking Protocol', 'definition': '一种数据库事务处理的并发控制策略，它要求事务在完成之前，必须先对所有需要访问的数据项加锁，然后再释放锁。', 'features': '保证了事务的原子性和一致性，避免了脏读和不可重复读。'}",
+                "time": "Tue Jun 13 10:54:17 2023"
+              },
+              {
+                "title": "三级封锁协议",
+                "reply": "{'node_type': 'Concept', 'name': '三级封锁协议', 'enName': 'Three-Level Lock Protocol', 'definition': '一种用于解决多个进程之间的资源竞争问题的协议，允许进程在不发生死锁的情况下访问共享资源。', 'features': '每个进程可以同时获得多个资源，但必须按照特定的顺序获得和释放资源。'}",
+                "time": "Tue Jun 13 10:54:34 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '封锁协议', 'enName': 'Lock Protocol', 'definition': '一种用于管理资源访问的协议，可以防止多个程序同时访问同一资源，从而避免冲突。', 'features': '可以控制多个程序对同一资源的访问，保证资源的完整性。'}",
+            "time": "Tue Jun 13 10:53:58 2023"
+          },
+          {
+            "title": "排他锁",
+            "reply": "{'node_type': 'Concept', 'name': '排他锁', 'enName': 'Exclusive Lock', 'definition': '一种锁定机制，只允许一个线程访问某个资源，其他线程只能等待。', 'features': '排他锁可以保证同一时间只有一个线程可以访问某个资源，从而保证数据的完整性。'}",
+            "time": "Tue Jun 13 10:54:44 2023"
+          },
+          {
+            "title": "共享锁",
+            "reply": "{'node_type': 'Concept', 'name': '共享锁', 'enName': 'Shared Lock', 'definition': '允许多个用户同时访问资源，但不允许任何一个用户独占资源的锁。', 'features': '可以同时被多个用户持有，但不允许任何一个用户独占资源。'}",
+            "time": "Tue Jun 13 10:54:59 2023"
+          },
+          {
+            "title": "相容矩阵",
+            "reply": "{'node_type': 'Concept', 'name': '相容矩阵', 'enName': 'Compatibility Matrix', 'definition': '用于表示系统中不同组件之间的兼容性的矩阵。', 'features': '用于表示系统中不同组件之间的兼容性，可以帮助系统设计者更好地组织系统结构。'}",
+            "time": "Tue Jun 13 10:55:09 2023"
+          },
+          {
+            "title": "多粒度封锁",
+            "reply": "{'node_type': 'Concept', 'name': '多粒度封锁', 'enName': 'Multi-Granularity Locking', 'definition': '一种用于控制多个用户对数据库对象的并发访问的技术。', 'features': '可以控制对象的不同粒度，从而提高并发访问的效率。'}",
+            "time": "Tue Jun 13 10:55:19 2023"
+          },
+          {
+            "title": "意向锁",
+            "reply": "{'node_type': 'Concept', 'name': '意向锁', 'enName': 'Intention Lock', 'definition': '一种用于控制访问资源的锁，它可以检测并阻止不同事务之间的冲突。', 'features': '可以检测并阻止不同事务之间的冲突，可以提高系统的并发性能。'}",
+            "time": "Tue Jun 13 10:55:30 2023"
+          },
+          {
+            "title": "活锁",
+            "reply": "{'node_type': 'Concept', 'name': '活锁', 'enName': 'Deadlock', 'definition': '指两个或多个进程在执行过程中，因争夺资源而造成的一种互相等待的现象。', 'features': '当发生活锁时，系统处于一种停滞的状态，无法继续运行下去。'}",
+            "time": "Tue Jun 13 10:55:41 2023"
+          },
+          {
+            "title": "死锁",
+            "topics": [
+              {
+                "title": "一次封锁法",
+                "reply": "{'node_type': 'Concept', 'name': '一次封锁法', 'enName': 'Single Blocking Method', 'definition': '一种用于解决死锁问题的算法，它要求每次只允许一个进程进入临界区，以避免死锁的发生。', 'features': '只允许一个进程进入临界区，以避免死锁的发生。'}",
+                "time": "Tue Jun 13 10:56:06 2023"
+              },
+              {
+                "title": "顺序封锁法",
+                "reply": "{'node_type': 'Concept', 'name': '顺序封锁法', 'enName': 'Sequential Locking', 'definition': '一种数据库事务处理技术，用于确保事务的原子性和一致性，以及防止死锁。', 'features': '每个事务都必须按照一定的顺序获得锁，以确保每个事务都能够安全地完成。'}",
+                "time": "Tue Jun 13 10:56:18 2023"
+              },
+              {
+                "title": "超时法",
+                "reply": "{'node_type': 'Concept', 'name': '超时法', 'enName': 'Timeout Method', 'definition': '一种用于检测程序运行是否超时的方法，它通过设置一个时间限制，如果程序在规定时间内没有完成，则被认为超时。', 'features': '可以检测程序是否超时，但不能检测程序是否正确。'}",
+                "time": "Tue Jun 13 10:56:30 2023"
+              },
+              {
+                "title": "等待图法",
+                "reply": "{'node_type': 'Concept', 'name': '等待图法', 'enName': 'Waiting Graph Method', 'definition': '一种用于模拟系统中进程之间的交互和同步的图形技术。', 'features': '可以用来模拟多个进程之间的交互，以及进程之间的同步。'}",
+                "time": "Tue Jun 13 10:56:43 2023"
+              }
+            ],
+            "reply": "{'node_type': 'Concept', 'name': '死锁', 'enName': 'Deadlock', 'definition': '指两个或多个进程因互相请求对方占有的资源而相互等待的现象。', 'features': '进程之间存在着资源竞争，当多个进程同时请求资源，而资源数量不足以满足所有进程的需求时，就会发生死锁。'}",
+            "time": "Tue Jun 13 10:55:53 2023"
+          }
+        ],
+        "reply": "{'node_type': 'Concept', 'name': '锁', 'enName': 'Lock', 'definition': '一种用于控制访问共享资源的机制，它可以确保同一时间只有一个线程访问该资源。', 'features': '可以实现排他性访问，保证共享资源的安全性。'}",
+        "time": "Tue Jun 13 10:53:50 2023"
+      }
+    ],
+    "reply": "{'node_type': 'Concept', 'name': '并发控制与锁', 'enName': 'Concurrency Control and Locking', 'definition': '用于控制多个线程或进程之间的访问共享资源的机制。', 'features': '使用锁机制来保证多个线程或进程之间的互斥访问，以及确保操作的原子性。'}",
+    "time": "Tue Jun 13 10:52:10 2023"
+  }
+]
+}
